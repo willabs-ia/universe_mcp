@@ -10,10 +10,13 @@
   },
   "release_date": "Aug 20, 2025",
   "url": "https://www.pulsemcp.com/servers/visa-acceptance",
-  "source_url": null,
+  "source_url": "https://github.com/visaacceptance",
   "categories": [],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:59.078762",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 9,
+    "complete_enriched_at": "2025-11-17T13:07:05.049431"
+  }
 }

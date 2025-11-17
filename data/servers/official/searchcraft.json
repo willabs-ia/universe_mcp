@@ -7,10 +7,13 @@
   "weekly_metric": null,
   "release_date": "Jun 6, 2025",
   "url": "https://www.pulsemcp.com/servers/searchcraft",
-  "source_url": null,
+  "source_url": "https://github.com/searchcraft-inc",
   "categories": [],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:45.473609",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 6,
+    "complete_enriched_at": "2025-11-17T13:07:08.050955"
+  }
 }

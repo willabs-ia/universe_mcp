@@ -7,10 +7,50 @@
   "weekly_metric": null,
   "release_date": "Apr 1, 2025",
   "url": "https://www.pulsemcp.com/servers/mindsdb",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/mindsdb/mindsdb",
+  "categories": [
+    "documentation",
+    "git",
+    "testing",
+    "api",
+    "cloud",
+    "messaging",
+    "ai",
+    "data",
+    "search",
+    "development",
+    "database"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:20.727079",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 37330,
+    "readme_excerpt": "\n\n<a name=\"readme-top\"></a>\n\n<div align=\"center\">\n\t<a href=\"https://pypi.org/project/MindsDB/\" target=\"_blank\"><img src=\"https://badge.fury.io/py/MindsDB.svg\" alt=\"MindsDB Release\"></a>\n\t<a href=\"https://www.python.org/downloads/\" target=\"_blank\"><img src=\"https://img.shields.io/badge/python-3.10.x%7C%203.11.x%7C%203.12.x%7C%203.13.x-brightgreen.svg\" alt=\"Python supported\"></a>\n\t<a href=\"https://hub.docker.com/u/mindsdb\" target=\"_blank\"><img src=\"https://img.shields.io/docker/pulls/mindsdb/mindsdb\" alt=\"Docker pulls\"></a>\n\n  <br />\n  <br />\n\n  <a href=\"https://trendshift.io/repositories/3068\" target=\"_blank\"><img src=\"https://trendshift.io/api/badge/repositories/3068\" alt=\"mindsdb%2Fmindsdb | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/></a>\n\n  <a href=\"https://github.com/mindsdb/mindsdb\">\n    <img src=\"/docs/assets/mindsdb_logo.png\" alt=\"MindsDB\" width=\"300\">\n  </a>\n\n  <p align=\"center\">\n    <br />\n    <a href=\"https://www.mindsdb.com?utm_medium=community&utm_source=github&utm_campaign=mindsdb%20repo\">Website</a>\n    ·\n    <a href=\"https://docs.mindsdb.com?utm_medium=community&utm_source=github&utm_campaign=mindsdb%20repo\">Docs</a>\n    ·\n    <a href=\"https://mindsdb.com/contact\">Contact us for a Demo</a>\n    ·\n    <a href=\"https://mindsdb.com/joincommunity?utm_medium=community&utm_source=github&utm_campaign=mindsdb%20repo\">Community Slack</a>\n  </p>\n</div>\n\n----------------------------------------\n\n\nMindsDB enables humans, AI, agents, and applicat",
+    "language": "Python",
+    "license": "Other",
+    "forks": 5991,
+    "open_issues": 143,
+    "watchers": 37330,
+    "last_pushed": "2025-11-17T03:08:49Z",
+    "created_at": "2018-08-02T17:56:45Z",
+    "topics": [
+      "agents",
+      "agi",
+      "ai",
+      "analytics",
+      "artificial-inteligence",
+      "business-intelligence",
+      "databases",
+      "hacktoberfest",
+      "llms",
+      "mcp",
+      "rag"
+    ],
+    "complete_enriched_at": "2025-11-17T13:10:16.098275"
+  },
+  "runtime": "Python .",
+  "package_manager": "pip",
+  "language": "Python",
+  "quality_score": 77
 }

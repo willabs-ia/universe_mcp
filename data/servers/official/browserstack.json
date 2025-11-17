@@ -10,10 +10,34 @@
   },
   "release_date": "May 3, 2025",
   "url": "https://www.pulsemcp.com/servers/browserstack",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/browserstack/mcp-server",
+  "categories": [
+    "browser",
+    "documentation",
+    "security",
+    "git",
+    "testing",
+    "api",
+    "filesystem",
+    "cloud",
+    "ai",
+    "data",
+    "monitoring",
+    "search",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:27.150905",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 109,
+    "installation_commands": [
+      "npx -y @smithery/cli install @browserstack/mcp-server --client claude"
+    ],
+    "readme_excerpt": "# BrowserStack MCP Server\n\n<div align=\"center\">\n<img src=\"assets/browserstack-logo.png\" alt=\"BrowserStack Logo\" height=\"100\"> <img src=\"assets/mcp-logo.png\" alt=\"MCP Server Logo\" width=\"100\">\n</div>\n\n\n<div align=\"center\">\n<a href=\"https://www.npmjs.com/package/@browserstack/mcp-server\">\n<img alt=\"NPM Version\" src=\"https://img.shields.io/npm/v/%40browserstack%2Fmcp-server\">\n</a>\n\n</div>\n\n<p align=\"center\">Comprehensive Test Platform</p>\n\n<div align=\"center\">\n<a href=\"https://glama.ai/mcp/servers/@browserstack/mcp-server\">\n  <img width=\"380\" height=\"200\" src=\"https://glama.ai/mcp/servers/@browserstack/mcp-server/badge\" alt=\"BrowserStack server MCP server\" />\n</a>\n</div>\n\n<div>\n    <a href=\"https://www.youtube.com/watch?v=sLA7K9v7qZc&list=PL1vH6dHT3H7oy8w9CY6L_nxGxCc89VXMX&index=5\">\n      <img src=\"assets/thumbnail.webp\">\n    </a>\n  </div>\n\n  \nManage test cases, execute manual or automated tests, debug issues, and even fix code—directly within tools like Cursor, Claude, or any MCP-enabled client, using plain English.\n#### Test from anywhere:\nEasily connect the BrowserStack Test Platform to your favourite AI tools, such as IDEs, LLMs, or agentic workflows.\n#### Test with natural language:\nManage, execute, debug tests, and even fix code using plain English prompts.\n#### Reduced context switching:\nStay in flow—keep all project context in one place and trigger actions directly from your IDE or LLM.\n\n## ⚡️ One Click MCP Setup  \n\nClick on the buttons below to install MCP in your respe",
+    "complete_enriched_at": "2025-11-17T13:10:44.545210"
+  },
+  "runtime": "Node.js",
+  "package_manager": "npm",
+  "quality_score": 40
 }

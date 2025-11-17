@@ -10,10 +10,37 @@
   },
   "release_date": "Mar 28, 2025",
   "url": "https://www.pulsemcp.com/servers/laurievoss-llamaindex-documentation",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/run-llama/llamacloud-mcp",
+  "categories": [
+    "documentation",
+    "git",
+    "testing",
+    "api",
+    "filesystem",
+    "cloud",
+    "ai",
+    "data",
+    "search",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:53.171095",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 218,
+    "readme_excerpt": "# LlamaIndex MCP demos\r\n\r\n`llamacloud-mcp` is a tool that allows you to use LlamaCloud as an MCP server. It can be used to query LlamaCloud indexes and extract data from files.\r\n\r\nIt allows for:\r\n- specifying one or more indexes to use for context retrieval.\r\n- specifying one or more extract agents to use for data extraction\r\n- configuring project and organization ids\r\n- configuring the transport to use for the MCP server (stdio, sse, streamable-http)\r\n\r\n## Getting Started\r\n\r\n1. Install [uv](https://docs.astral.sh/uv/getting-started/installation/)\r\n2. Run `uvx llamacloud-mcp@latest --help` to see the available options.\r\n3. Configure your MCP client to use the `llamacloud-mcp` server. You can either launch the server directly with `uvx llamacloud-mcp@latest` or use a `claude_desktop_config.json` file to connect with claude desktop.\r\n\r\n### Usage\r\n\r\n```bash\r\n% uvx llamacloud-mcp@latest --help\r\nUsage: llamacloud-mcp [OPTIONS]\r\n\r\nOptions:\r\n  --index TEXT                    Index definition in the format\r\n                                  name:description. Can be used multiple\r\n                                  times.\r\n  --extract-agent TEXT            Extract agent definition in the format\r\n                                  name:description. Can be used multiple\r\n                                  times.\r\n  --project-id TEXT               Project ID for LlamaCloud\r\n  --org-id TEXT                   Organization ID for LlamaCloud\r\n  --transport [stdio|sse|streamable-http]\r\n         ",
+    "language": "Python",
+    "license": "MIT License",
+    "forks": 38,
+    "open_issues": 2,
+    "watchers": 218,
+    "last_pushed": "2025-07-07T15:53:50Z",
+    "created_at": "2025-03-27T18:47:36Z",
+    "topics": [],
+    "complete_enriched_at": "2025-11-17T13:09:38.833326"
+  },
+  "runtime": "Node.js",
+  "package_manager": "npm",
+  "language": "Python",
+  "quality_score": 70
 }

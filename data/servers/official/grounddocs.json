@@ -10,10 +10,13 @@
   },
   "release_date": "May 12, 2025",
   "url": "https://www.pulsemcp.com/servers/grounddocs",
-  "source_url": null,
+  "source_url": "https://github.com/GroundDocs",
   "categories": [],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:56.901450",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 4,
+    "complete_enriched_at": "2025-11-17T13:10:18.990137"
+  }
 }

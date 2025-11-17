@@ -7,10 +7,13 @@
   "weekly_metric": null,
   "release_date": "Oct 13, 2024",
   "url": "https://www.pulsemcp.com/servers/d4vinci-scrapling",
-  "source_url": null,
+  "source_url": "https://github.com/D4Vinci",
   "categories": [],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:27.168300",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 8200,
+    "complete_enriched_at": "2025-11-17T13:07:31.134584"
+  }
 }

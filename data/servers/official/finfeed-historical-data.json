@@ -12,5 +12,8 @@
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:29.299669",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 99,
+    "complete_enriched_at": "2025-11-17T13:12:58.900165"
+  }
 }

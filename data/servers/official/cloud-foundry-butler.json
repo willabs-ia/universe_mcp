@@ -7,10 +7,44 @@
   "weekly_metric": null,
   "release_date": "Feb 12, 2025",
   "url": "https://www.pulsemcp.com/servers/cloud-foundry-butler",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/cf-toolsuite/cf-kaizen",
+  "categories": [
+    "browser",
+    "documentation",
+    "git",
+    "testing",
+    "filesystem",
+    "cloud",
+    "messaging",
+    "ai",
+    "data",
+    "api",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:59.321522",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 3,
+    "readme_excerpt": "# cf-kaizen\n\n[![GA](https://img.shields.io/badge/Release-Alpha-darkred)](https://img.shields.io/badge/Release-Alpha-darkred) ![Github Action CI Workflow Status](https://github.com/cf-toolsuite/cf-kaizen/actions/workflows/ci.yml/badge.svg) [![Known Vulnerabilities](https://snyk.io/test/github/cf-toolsuite/cf-kaizen/badge.svg?style=plastic)](https://snyk.io/test/github/cf-toolsuite/cf-kaizen) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)\n\n## Introduction\n\ncf-kaizen is a multi-module Spring Boot project that leverages Spring AI to provide a natural language interface for interacting with Cloud Foundry foundations. The project hosts clients generated from OpenAPI derivatives of [cf-butler](https://github.com/cf-toolsuite/cf-butler) and [cf-hoover](https://github.com/cf-toolsuite/cf-hoover) APIs, combined with Spring AI implementation to enable conversational interaction with Cloud Foundry resources.\n\nThe primary use case is to allow users to interact with one or more Cloud Foundry foundations using natural language without explicitly having to be aware of the Cloud Foundry APIs.\n\n* [Architecture](#architecture)\n* [Tech stack](#tec)\n* How to\n    * [Build](#how-to-build)\n    * [Run](#how-to-run)\n    * Integrate w/ cf-butler and cf-hoover hosted on\n      * [Cloud Foundry](docs/CF.md)\n      * [Korifi](docs/KORIFI.md) (under development)\n    * Run with\n      * [Claude Desktop](docs/CLAUDE.md)\n      * [LibreChat](do",
+    "language": "JavaScript",
+    "license": "Apache License 2.0",
+    "forks": 2,
+    "open_issues": 8,
+    "watchers": 3,
+    "last_pushed": "2025-11-13T13:15:14Z",
+    "created_at": "2025-02-09T19:19:13Z",
+    "topics": [
+      "cloud-foundry",
+      "java",
+      "mcp",
+      "spring-ai",
+      "spring-boot"
+    ],
+    "complete_enriched_at": "2025-11-17T13:06:41.987976"
+  },
+  "runtime": "Node.js",
+  "package_manager": "npm",
+  "language": "JavaScript",
+  "quality_score": 65
 }

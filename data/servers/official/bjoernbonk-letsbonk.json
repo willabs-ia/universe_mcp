@@ -10,10 +10,40 @@
   },
   "release_date": "Apr 29, 2025",
   "url": "https://www.pulsemcp.com/servers/bjoernbonk-letsbonk",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/bjoernbonk/letsbonk_mcp_server",
+  "categories": [
+    "browser",
+    "documentation",
+    "git",
+    "testing",
+    "filesystem",
+    "ai",
+    "data",
+    "api",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:42.273140",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 16,
+    "readme_excerpt": "# bonk-mcp MCP server\n\nThe bonk-mcp server implements Solana blockchain functionality for the LetsBonk launchpad.\n\n\n## Features\n- Token launching: launch any token on letsbonk.fun\n- Token trading: buy/sell any token on letsbonk.fun\n\n## Configuration\n\nThe bonk-mcp server can be configured in Claude Desktop by adding it to the MCP servers configuration. You'll need to provide:\n- Path to the bonk-mcp directory\n- Environment variables:\n  - `KEYPAIR`: Your Solana keypair\n  - `RPC_URL`: Solana RPC endpoint (e.g., https://api.mainnet-beta.solana.com)\n\n## Quickstart\n\n### Install\n\n#### Claude Desktop\n\nOn MacOS: `~/Library/Application\\ Support/Claude/claude_desktop_config.json`\nOn Windows: `%APPDATA%/Claude/claude_desktop_config.json`\n\n<details>\n  <summary>Development/Unpublished Servers Configuration</summary>\n  \n  ```json\n  \"mcpServers\": {\n    \"bonk-mcp\": {\n      \"command\": \"uv\",\n      \"args\": [\n        \"--directory\",\n        \"<PATH_TO_BONK_MCP_DIRECTORY>/bonk-mcp\",\n        \"run\",\n        \"bonk-mcp\"\n      ],\n      \"env\": {\n        \"KEYPAIR\": \"<YOUR_SOLANA_KEYPAIR>\",\n        \"RPC_URL\": \"https://api.mainnet-beta.solana.com\"\n      }\n    }\n  }\n  ```\n</details>\n\n<details>\n  <summary>Published Servers Configuration</summary>\n  \n  ```json\n  \"mcpServers\": {\n    \"bonk-mcp\": {\n      \"command\": \"uvx\",\n      \"args\": [\n        \"bonk-mcp\"\n      ],\n      \"env\": {\n        \"KEYPAIR\": \"<YOUR_SOLANA_KEYPAIR>\",\n        \"RPC_URL\": \"https://api.mainnet-beta.solana.com\"\n      }\n    }\n  }\n  ```\n</details>\n\n",
+    "language": "Python",
+    "license": null,
+    "forks": 9,
+    "open_issues": 2,
+    "watchers": 16,
+    "last_pushed": "2025-04-29T03:37:14Z",
+    "created_at": "2025-04-29T03:17:42Z",
+    "topics": [],
+    "complete_enriched_at": "2025-11-17T13:05:48.360119"
+  },
+  "capabilities": [
+    "Token launching: launch any token on letsbonk.fun",
+    "Token trading: buy/sell any token on letsbonk.fun"
+  ],
+  "runtime": "Node.js",
+  "package_manager": "npm",
+  "language": "Python",
+  "quality_score": 53
 }

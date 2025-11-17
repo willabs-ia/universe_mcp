@@ -7,10 +7,23 @@
   "weekly_metric": null,
   "release_date": "Apr 15, 2025",
   "url": "https://www.pulsemcp.com/servers/tldv",
-  "source_url": null,
+  "source_url": "https://github.com/tldv-public/tldv-mcp-server",
   "categories": [],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:19.278665",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 7,
+    "language": "TypeScript",
+    "license": null,
+    "forks": 6,
+    "open_issues": 3,
+    "watchers": 7,
+    "last_pushed": "2025-04-15T15:11:10Z",
+    "created_at": "2025-04-15T15:10:19Z",
+    "topics": [],
+    "complete_enriched_at": "2025-11-17T13:08:55.595396"
+  },
+  "language": "TypeScript",
+  "quality_score": 34
 }

@@ -10,10 +10,35 @@
   },
   "release_date": "May 1, 2025",
   "url": "https://www.pulsemcp.com/servers/yepcode-secure-execution",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/yepcode/mcp-server-js",
+  "categories": [
+    "browser",
+    "documentation",
+    "security",
+    "git",
+    "testing",
+    "filesystem",
+    "cloud",
+    "ai",
+    "data",
+    "api",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:39.303333",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 39,
+    "readme_excerpt": "![YepCode MCP Server Preview](https://yepcode.io/images/cover/yepcode-ultimate-dev-tool-ai-solutions.png)\n\n<div align=\"center\">\n\n[![NPM version](https://img.shields.io/npm/v/@yepcode/mcp-server.svg)](https://npmjs.org/package/@yepcode/mcp-server)\n[![NPM Downloads](https://img.shields.io/npm/dm/@yepcode/mcp-server)](https://www.npmjs.com/package/@yepcode/mcp-server)\n[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/yepcode/mcp-server-js/ci.yml)](https://github.com/yepcode/mcp-server-js/actions)\n\n[![Trust Score](https://archestra.ai/mcp-catalog/api/badge/quality/yepcode/mcp-server-js)](https://archestra.ai/mcp-catalog/yepcode__mcp-server-js)\n[![smithery badge](https://smithery.ai/badge/@yepcode/mcp-server)](https://smithery.ai/server/@yepcode/mcp-server)\n\n</div>\n\n## What is YepCode MCP Server?\n\nAn MCP ([Model Context Protocol](https://modelcontextprotocol.io/introduction)) server that enables AI platforms to interact with [YepCode](https://yepcode.io/l/LQUKe)'s infrastructure. Run LLM generated scripts and turn your YepCode processes into powerful tools that AI assistants can use directly.\n\n### Why YepCode MCP Server?\n\n- **Seamless AI Integration**: Convert YepCode processes into AI-ready tools with zero configuration\n- **Real-time Process Control**: Enable direct interaction between AI systems and your workflows\n- **Enterprise-Grade Security**: Execute code in YepCode's isolated, production-ready environments\n- **Universal Compatibility**: Integr",
+    "complete_enriched_at": "2025-11-17T13:10:36.195768"
+  },
+  "capabilities": [
+    "mcp-server\": {",
+    "c2E....RD>\"",
+    "If your MCP Client supports authentication headers, you can use the HTTP server URL that includes the API Token. Use a configuration similar to the following:",
+    "c2E....RD/sse\""
+  ],
+  "runtime": "Node.js",
+  "package_manager": "npm",
+  "quality_score": 38
 }

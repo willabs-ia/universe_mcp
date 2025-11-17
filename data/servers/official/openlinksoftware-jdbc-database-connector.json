@@ -7,10 +7,54 @@
   "weekly_metric": null,
   "release_date": "Apr 15, 2025",
   "url": "https://www.pulsemcp.com/servers/openlinksoftware-jdbc-database-connector",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/openlinksoftware/mcp-jdbc-server",
+  "categories": [
+    "documentation",
+    "git",
+    "testing",
+    "api",
+    "filesystem",
+    "ai",
+    "data",
+    "search",
+    "development",
+    "database"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:28.002386",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 8,
+    "installation_commands": [
+      "git clone https://github.com/OpenLinkSoftware/mcp-jdbc-server.git",
+      "cd mcp-jdbc-server"
+    ],
+    "readme_excerpt": "---\n# OpenLink MCP Server for JDBC\n\nA lightweight Java-based MCP (Model Context Protocol) server for JDBC built with **Quakrus**. \nThis server is compatible with Virtuoso DBMS and any other DBMS backend that has a JDBC driver.\n\n![mcp-client-and-servers|648x499](https://www.openlinksw.com/data/gifs/mcp-client-and-servers-opal-tools-with-jdbc.gif)\n\n---\n\n## Features\n\n- **Get Schemas**: Fetch and list all schema names from the connected database.\n- **Get Tables**: Retrieve table information for specific schemas or all schemas.\n- **Describe Table**: Generate a detailed description of table structures, including:\n  - Column names and data types\n  - Nullable attributes\n  - Primary and foreign keys\n- **Search Tables**: Filter and retrieve tables based on name substrings.\n- **Execute Stored Procedures**: _A Virtuoso-specific feature!_ Execute stored procedures and retrieve results.\n- **Execute Queries**:\n  - JSONL result format: Optimized for structured responses.\n  - Markdown table format: Ideal for reporting and visualization.\n\n---\n\n## Prerequisites\n\nMCP server requires Java 21 or above.\n\n---\n\n## Installation\n\nClone this repository:\n```bash\ngit clone https://github.com/OpenLinkSoftware/mcp-jdbc-server.git  \ncd mcp-jdbc-server\n```\n\n## Environment Variables \n\nUpdate your `.env` by overriding these defaults to match your preferences:\n```\njdbc.url=jdbc:virtuoso://localhost:1111\njdbc.user=dba\njdbc.password=dba\njdbc.api_key=xxx\n```\n\n---\n\n## Configuration\n\nFor **Claude Desktop** users usin",
+    "language": "Java",
+    "license": "MIT License",
+    "forks": 7,
+    "open_issues": 1,
+    "watchers": 8,
+    "last_pushed": "2025-07-22T21:23:32Z",
+    "created_at": "2025-04-14T14:18:37Z",
+    "topics": [],
+    "complete_enriched_at": "2025-11-17T13:08:09.958767"
+  },
+  "capabilities": [
+    "**Get Tables**: Retrieve table information for specific schemas or all schemas.",
+    "**Execute Queries**:",
+    "JSONL result format: Optimized for structured responses.",
+    "Nullable attributes",
+    "**Search Tables**: Filter and retrieve tables based on name substrings.",
+    "**Get Schemas**: Fetch and list all schema names from the connected database.",
+    "**Execute Stored Procedures**: _A Virtuoso-specific feature!_ Execute stored procedures and retrieve results.",
+    "**Describe Table**: Generate a detailed description of table structures, including:",
+    "Column names and data types",
+    "Markdown table format: Ideal for reporting and visualization.",
+    "Primary and foreign keys"
+  ],
+  "runtime": "Node.js",
+  "package_manager": "npm",
+  "language": "Java",
+  "quality_score": 64
 }

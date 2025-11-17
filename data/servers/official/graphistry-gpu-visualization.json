@@ -7,10 +7,36 @@
   "weekly_metric": null,
   "release_date": "May 3, 2025",
   "url": "https://www.pulsemcp.com/servers/graphistry-gpu-visualization",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/graphistry/graphistry-mcp",
+  "categories": [
+    "security",
+    "testing",
+    "git",
+    "api",
+    "ai",
+    "data",
+    "monitoring",
+    "search",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:32.224582",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 10,
+    "readme_excerpt": "# Graphistry MCP Integration\n\nGPU-accelerated graph visualization and analytics for Large Language Models using Graphistry and MCP.\n\n## Overview\n\nThis project integrates Graphistry's powerful GPU-accelerated graph visualization platform with the Model Control Protocol (MCP), enabling advanced graph analytics capabilities for AI assistants and LLMs. It allows LLMs to visualize and analyze complex network data through a standardized, LLM-friendly interface.\n\n**Key features:**\n- GPU-accelerated graph visualization via Graphistry\n- Advanced pattern discovery and relationship analysis\n- Network analytics (community detection, centrality, path finding, anomaly detection)\n- Support for various data formats (Pandas, NetworkX, edge lists)\n- LLM-friendly API: single `graph_data` dict for graph tools\n\n## 🚨 Important: Graphistry Registration Required\n\n**This MCP server requires a free Graphistry account to use visualization features.**\n\n1. Sign up for a free account at [hub.graphistry.com](https://hub.graphistry.com)\n2. Set your credentials as environment variables or in a `.env` file before starting the server:\n   ```bash\n   export GRAPHISTRY_USERNAME=your_username\n   export GRAPHISTRY_PASSWORD=your_password\n   # or create a .env file with:\n   # GRAPHISTRY_USERNAME=your_username\n   # GRAPHISTRY_PASSWORD=your_password\n   ```\n   See `.env.example` for a template.\n\n## MCP Configuration (.mcp.json)\n\nTo use this project with Cursor or other MCP-compatible tools, you need a `.mcp.json` file i",
+    "language": "Python",
+    "license": "MIT License",
+    "forks": 4,
+    "open_issues": 1,
+    "watchers": 10,
+    "last_pushed": "2025-10-09T18:24:50Z",
+    "created_at": "2025-05-07T01:30:52Z",
+    "topics": [],
+    "complete_enriched_at": "2025-11-17T13:07:58.474147"
+  },
+  "runtime": "Node.js",
+  "package_manager": "npm",
+  "language": "Python",
+  "quality_score": 64
 }

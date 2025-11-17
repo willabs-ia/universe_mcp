@@ -7,10 +7,49 @@
   "weekly_metric": null,
   "release_date": "Jul 31, 2025",
   "url": "https://www.pulsemcp.com/servers/cdata-jira-service-management",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/cdatasoftware/jira-service-management-mcp-server-by-cdata",
+  "categories": [
+    "browser",
+    "security",
+    "git",
+    "testing",
+    "api",
+    "filesystem",
+    "cloud",
+    "messaging",
+    "ai",
+    "data",
+    "monitoring",
+    "search",
+    "development",
+    "database"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:05.093736",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 1,
+    "installation_commands": [
+      "git clone https://github.com/cdatasoftware/jira-service-management-mcp-server-by-cdata.git",
+      "cd jira-service-management-mcp-server-by-cdata",
+      "mvn clean install"
+    ],
+    "readme_excerpt": "# jira-service-management-mcp-server-by-cdata\nCData's Model Context Protocol (MCP) Server for Jira Service Management\n\n:heavy_exclamation_mark: This project builds a local, read-only MCP server. For fully remote MCP access, check out the first managed MCP platform: [CData Connect AI](https://www.cdata.com/ai/). For locally hosted, full read, write, update, delete, and action capabilities and a simplified setup, check out our [CData MCP Server for Jira Service Management](https://www.cdata.com/drivers/jiraservicedesk/download/mcp/).\n## Purpose\nWe created this read-only MCP Server to allow LLMs (like Claude Desktop) to query live data Jira Service Management supported by the [CData JDBC Driver for Jira Service Management](https://www.cdata.com/drivers/jiraservicedesk/jdbc/).\n\nCData JDBC Driver connects to Jira Service Management by exposing them as relational SQL models.\n\nThis server wraps that driver and makes Jira Service Management data available through a simple MCP interface, so LLMs can retrieve live information by asking natural language questions — no SQL required.\n\n## Setup Guide\n1. Clone the repository:\n      ```bash\n      git clone https://github.com/cdatasoftware/jira-service-management-mcp-server-by-cdata.git\n      cd jira-service-management-mcp-server-by-cdata\n      ```\n2. Build the server:\n      ```bash\n      mvn clean install\n      ``` \n      This creates the JAR file: CDataMCP-jar-with-dependencies.jar\n2. Download and install the CData JDBC Driver for {source}:",
+    "language": "Java",
+    "license": "MIT License",
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 1,
+    "last_pushed": "2025-10-18T19:17:28Z",
+    "created_at": "2025-06-23T19:37:35Z",
+    "topics": [],
+    "complete_enriched_at": "2025-11-17T13:05:52.637616"
+  },
+  "capabilities": [
+    "`{servername}_run_query` - Execute a SQL SELECT query"
+  ],
+  "runtime": "Python",
+  "package_manager": "pip",
+  "language": "Java",
+  "quality_score": 74
 }

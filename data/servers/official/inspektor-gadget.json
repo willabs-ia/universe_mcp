@@ -7,10 +7,33 @@
   "weekly_metric": null,
   "release_date": "Aug 6, 2025",
   "url": "https://www.pulsemcp.com/servers/inspektor-gadget",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/inspektor-gadget/ig-mcp-server",
+  "categories": [
+    "documentation",
+    "security",
+    "git",
+    "testing",
+    "filesystem",
+    "messaging",
+    "ai",
+    "data",
+    "monitoring",
+    "api",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:09.314174",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 16,
+    "readme_excerpt": "[![GitHub Release](https://img.shields.io/github/v/release/inspektor-gadget/ig-mcp-server)](https://github.com/inspektor-gadget/ig-mcp-server/releases)\n[![License](https://img.shields.io/github/license/inspektor-gadget/ig-mcp-server)](LICENSE)\n[![Slack](https://img.shields.io/badge/slack-%23inspektor--gadget-brightgreen)](https://kubernetes.slack.com/channels/inspektor-gadget)\n[![Go Report Card](https://goreportcard.com/badge/github.com/inspektor-gadget/ig-mcp-server)](https://goreportcard.com/report/github.com/inspektor-gadget/ig-mcp-server)\n[![Examples](https://img.shields.io/badge/examples-view-orange)](examples/README.md)\n[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/inspektor-gadget/ig-mcp-server)\n\n# Inspektor Gadget MCP Server\n\nAI-powered debugging and inspection for Kubernetes clusters using Inspektor Gadget.\n\nhttps://github.com/user-attachments/assets/86367982-c0aa-455c-ac9e-ca43348899df\n\n## Features\n\n- AI-powered interface for Kubernetes troubleshooting and monitoring\n- One-click Inspektor Gadget deployment and removal\n- Intelligent output summarization and analysis\n- Automatic gadget discovery from Artifact Hub\n\n## Quick Start\n\n1. Ensure you have Docker and a valid `kubeconfig` file\n2. Configure the MCP server in VS Code (see [INSTALL.md](INSTALL.md))\n3. Start using AI commands in VS Code Copilot Chat\n4. Try: \"Show me DNS traffic\" or \"Deploy Inspektor Gadget\"\n5. Head to [examples](examples/README.md) for detailed examples.\n\n## Installation\n\n",
+    "complete_enriched_at": "2025-11-17T13:13:18.981323"
+  },
+  "capabilities": [
+    "Intelligent output summarization and analysis",
+    "AI-powered interface for Kubernetes troubleshooting and monitoring",
+    "One-click Inspektor Gadget deployment and removal",
+    "Automatic gadget discovery from Artifact Hub"
+  ],
+  "quality_score": 38
 }

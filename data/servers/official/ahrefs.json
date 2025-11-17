@@ -10,10 +10,38 @@
   },
   "release_date": "Jul 8, 2025",
   "url": "https://www.pulsemcp.com/servers/ahrefs",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/ahrefs/ahrefs-mcp-server",
+  "categories": [
+    "documentation",
+    "security",
+    "git",
+    "testing",
+    "api",
+    "filesystem",
+    "ai",
+    "data",
+    "monitoring",
+    "search",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:15.882238",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 76,
+    "readme_excerpt": "> [!NOTE]\n> This repository is for the **local Ahrefs MCP server** which works with API v3 keys only. It **DOES NOT** work with MCP keys. We've also released a **remote Ahrefs MCP server**, which doesn't require local setup and works directly in popular AI tools.  \n>  \n> Learn more here: [Remote MCP server documentation](https://docs.ahrefs.com/docs/mcp/reference/introduction)\n\n# Ahrefs MCP\nA Model Context Protocol server to connect Claude desktop and other compatible AI assistants to Ahrefs.\n\n## Installation\n`npm` commands need to be executed in a terminal:\n- macOS: open the Terminal from your Applications folder\n- Windows: press Windows + R, type `cmd`, and press Enter\n### Install Node.js and npm\n1. Download Node.js from [nodejs.org](https://nodejs.org/en/download/)\n2. Follow the installation instructions for your operating system\n3. Verify installation by running:\n```sh\nnpm -v\n```\n4. A version number will be printed if installation was successful\n\n#### Windows Users\n- When installing Node.js, use the official installer and make sure the folder is added to PATH when selecting installation options.\n\n### Install Ahrefs MCP Server\n```sh\nnpm install --prefix=~/.global-node-modules @ahrefs/mcp -g\n```\n### Upgrading versions\nIf you've installed our MCP server before, and just want to upgrade, run this command:\n```sh\nnpm install --prefix=~/.global-node-modules @ahrefs/mcp@latest -g\n```\n\n## Configuration\nYou can now add the Ahrefs MCP to your favourite AI assistant app by adding the",
+    "language": "TypeScript",
+    "license": null,
+    "forks": 16,
+    "open_issues": 5,
+    "watchers": 76,
+    "last_pushed": "2025-09-24T06:49:02Z",
+    "created_at": "2025-04-25T00:24:51Z",
+    "topics": [],
+    "complete_enriched_at": "2025-11-17T13:10:00.232575"
+  },
+  "runtime": "Node.js",
+  "package_manager": "npm",
+  "language": "TypeScript",
+  "quality_score": 54
 }

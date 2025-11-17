@@ -10,10 +10,50 @@
   },
   "release_date": "Jul 7, 2025",
   "url": "https://www.pulsemcp.com/servers/tomtom",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/tomtom-international/tomtom-mcp",
+  "categories": [
+    "documentation",
+    "security",
+    "git",
+    "testing",
+    "api",
+    "filesystem",
+    "ai",
+    "data",
+    "search",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:38.063253",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 34,
+    "installation_commands": [
+      "npm install @tomtom-org/tomtom-mcp@latest",
+      "npx @tomtom-org/tomtom-mcp@latest"
+    ],
+    "readme_excerpt": "# TomTom MCP Server\n\n[![NPM Version](https://img.shields.io/npm/v/@tomtom-org/tomtom-mcp.svg)](https://www.npmjs.com/package/@tomtom-org/tomtom-mcp)\n[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)\n\nThe **TomTom MCP Server** simplifies geospatial development by providing seamless access to TomTom’s location services, including search, routing, traffic and static maps data. It enables easy integration of precise and accurate geolocation data into AI workflows and development environments.\n\n## Demo\n\n![TomTom MCP Demo](./images/claude_demo.gif)\n\n## Table of Contents\n\n- [Demo](#demo)\n- [Security Notice](#security-notice)\n- [Quick Start](#quick-start)\n  - [Prerequisites](#prerequisites)\n  - [Installation](#installation)\n  - [Configuration](#configuration)\n  - [Usage](#usage)\n- [Integration Guides](#integration-guides)\n- [Available Tools](#available-tools)\n  - [Orbis equivalents (optional backend)](#orbis-equivalents-optional-backend)\n  - [How dynamic map tool works](#how-dynamic-map-tool-works)\n- [Contributing \\& Local Development](#contributing--local-development)\n  - [Setup](#setup)\n  - [Testing](#testing)\n  - [Testing Requirements](#testing-requirements)\n  - [Project Structure](#project-structure)\n- [Troubleshooting](#troubleshooting)\n  - [Native Dependency Issues](#native-dependency-issues)\n  - [Dynamic Map Tool Issues](#dynamic-map-tool-issues)\n  - [API Key Issues](#api-key-issues)\n  - [Test Failures](#test-f",
+    "language": "TypeScript",
+    "license": "Apache License 2.0",
+    "forks": 13,
+    "open_issues": 2,
+    "watchers": 34,
+    "last_pushed": "2025-11-16T13:40:39Z",
+    "created_at": "2025-07-03T11:08:04Z",
+    "topics": [
+      "aiagent",
+      "location-services",
+      "mcp",
+      "navigation",
+      "routing",
+      "search",
+      "tomtom",
+      "traffic"
+    ],
+    "complete_enriched_at": "2025-11-17T13:07:19.484984"
+  },
+  "runtime": "Node.js",
+  "package_manager": "npm",
+  "language": "TypeScript",
+  "quality_score": 73
 }

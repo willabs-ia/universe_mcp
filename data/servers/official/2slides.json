@@ -7,10 +7,13 @@
   "weekly_metric": null,
   "release_date": "Sep 24, 2025",
   "url": "https://www.pulsemcp.com/servers/2slides",
-  "source_url": null,
+  "source_url": "https://github.com/2slides",
   "categories": [],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:31.084628",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 5,
+    "complete_enriched_at": "2025-11-17T13:08:47.045437"
+  }
 }

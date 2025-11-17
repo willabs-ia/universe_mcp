@@ -10,10 +10,51 @@
   },
   "release_date": "Mar 15, 2025",
   "url": "https://www.pulsemcp.com/servers/zoomeye",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/zoomeye-ai/mcp_zoomeye",
+  "categories": [
+    "documentation",
+    "security",
+    "git",
+    "testing",
+    "api",
+    "filesystem",
+    "cloud",
+    "messaging",
+    "ai",
+    "data",
+    "monitoring",
+    "search",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:48.798613",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 51,
+    "readme_excerpt": "# 🚀 ZoomEye MCP Server\n\nA Model Context Protocol (MCP) server that provides network asset information based on query conditions. This server allows Large Language Models (LLMs) to obtain network asset information by querying ZoomEye using dorks and other search parameters.\n\n## 🔔 Announcement\n\n🎉 We are excited to announce the official open-source release of **ZoomEye MCP Server** — a powerful Model Context Protocol (MCP) server that brings real-time cyber asset intelligence to AI assistants and development environments.\n\n🚀 Free Trial: 7-Day FREE Access to ZoomEye MCP!\nExperience ZoomEye MCP — the AI-powered cyberspace asset search engine — absolutely free for 7 days!\n\n🔍 Search global internet assets, track real-time changes, and unlock AI-driven insights — all in one place.\n\n👉 How to claim:\n\n1. Follow us on Twitter: [@zoomeye_team](https://x.com/zoomeye_team)\n2. DM us \"MCP\" and your MCP setup screenshot\n3. Get instant access to your 7-day membership\n\n🎁 Limited-time free trial — explore the power of AI asset search today!\n\n💡 Provide insightful feedback that gets officially adopted, and you'll unlock **even more rewards**!\n\n🔧 Fully compatible with leading MCP environments:\n\n- Claude Desktop\n- Cursor\n- Windsurf\n- Cline\n- Continue\n- Zed\n- Cherry Studio\n- Chatbox\n\n🔗 Explore ZoomEye MCP Server on:\n\n- GitHub: [zoomeye-ai/mcp_zoomeye](https://github.com/zoomeye-ai/mcp_zoomeye)\n- MCP.so: [mcp.so/server/mcp_zoomeye](https://mcp.so/server/mcp_zoomeye/zoomeye-ai)\n- Smithery: [smithery.ai/",
+    "language": "Python",
+    "license": null,
+    "forks": 13,
+    "open_issues": 1,
+    "watchers": 51,
+    "last_pushed": "2025-06-27T09:01:46Z",
+    "created_at": "2025-03-15T09:00:32Z",
+    "topics": [
+      "cybersecurity",
+      "osint",
+      "search-engine",
+      "zoomeye"
+    ],
+    "complete_enriched_at": "2025-11-17T13:06:08.285244"
+  },
+  "capabilities": [
+    "Comprehensive error handling and logging",
+    "Automatic retry mechanism for failed API requests",
+    "Query ZoomEye for network asset information using dorks",
+    "Caching mechanism to improve performance and reduce API calls"
+  ],
+  "runtime": "Node.js",
+  "package_manager": "npm",
+  "language": "Python",
+  "quality_score": 58
 }

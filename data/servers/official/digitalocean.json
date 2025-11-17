@@ -10,10 +10,40 @@
   },
   "release_date": "Apr 22, 2025",
   "url": "https://www.pulsemcp.com/servers/digitalocean",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/digitalocean-labs/mcp-digitalocean",
+  "categories": [
+    "documentation",
+    "security",
+    "git",
+    "testing",
+    "api",
+    "filesystem",
+    "cloud",
+    "messaging",
+    "ai",
+    "data",
+    "search",
+    "development",
+    "database"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:55.309676",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 59,
+    "readme_excerpt": "# MCP DigitalOcean Integration\n\nMCP DigitalOcean Integration is an open-source project that provides a comprehensive interface for managing DigitalOcean resources and performing actions using the [DigitalOcean API](https://docs.digitalocean.com/reference/api/). Built on top of the [godo](https://github.com/digitalocean/godo) library and the [MCP framework](https://github.com/mark3labs/mcp-go), this project exposes a wide range of tools to simplify cloud infrastructure management.\n\n> **DISCLAIMER:** \"Use of MCP technology to interact with your DigitalOcean account [can come with risks](https://www.wiz.io/blog/mcp-security-research-briefing)\"\n\n## Prerequisites\n\n- Node.js (v18 or later)\n- NPM (v8 or later)\n\nYou can find installation guides at [https://nodejs.org/en/download](https://nodejs.org/en/download)\n\n\nVerify your installation:\n```bash\nnode --version\nnpm --version\n```\n\n## Quick Test\n\nTo verify the MCP server works correctly, you can test it directly from the command line:\n```bash\nnpx @digitalocean/mcp --services apps\n```\n\n## Installation\n\n### Claude Code\n\nTo add the DigitalOcean MCP server to [Claude Code](https://www.anthropic.com/claude-code), run the following command in your terminal:\n\n```bash\nclaude mcp add digitalocean-mcp \\\n  -e DIGITALOCEAN_API_TOKEN=YOUR_DO_API_TOKEN \\\n  -- npx @digitalocean/mcp --services apps,databases\n```\n\nThis will:\n- Add the MCP server under the default (local) scope — meaning it's only available inside the current folder.\n- Register it with ",
+    "language": "Go",
+    "license": "MIT License",
+    "forks": 38,
+    "open_issues": 12,
+    "watchers": 59,
+    "last_pushed": "2025-11-16T09:18:15Z",
+    "created_at": "2025-04-21T15:20:58Z",
+    "topics": [],
+    "complete_enriched_at": "2025-11-17T13:07:54.209184"
+  },
+  "runtime": "Node.js",
+  "package_manager": "npm",
+  "language": "Go",
+  "quality_score": 69
 }

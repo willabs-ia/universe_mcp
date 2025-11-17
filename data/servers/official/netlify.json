@@ -7,10 +7,26 @@
   "weekly_metric": null,
   "release_date": "Feb 22, 2025",
   "url": "https://www.pulsemcp.com/servers/netlify",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/netlify/netlify-mcp",
+  "categories": [
+    "browser",
+    "documentation",
+    "security",
+    "git",
+    "filesystem",
+    "ai",
+    "api",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:47.691655",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 28,
+    "readme_excerpt": "# Netlify MCP Server\n\n[Netlify MCP Server](https://docs.netlify.com/welcome/build-with-ai/netlify-mcp-server/) follows the [Model Context Protocol (MCP)](https://modelcontextprotocol.org) to enable code agents to use the Netlify API and CLI—so they can create new projects, build, deploy, and manage your Netlify resources using natural language prompts.\n\n---\n\n## Overview\n\nThe Model Context Protocol is an emerging standard protocol for connecting code agents with MCP servers, allowing them to manage resources and perform tasks using natural language. The Netlify MCP Server acts as a bridge, providing API access, CLI tools, prompts, and more for your agents.\n\nYou can connect to the Netlify MCP Server using a variety of MCP clients, including:\n\n* Windsurf\n* Cursor\n* Claude\n* Copilot (VSCode)\n* Cline\n* Warp\n* LM Studio\n* [See the full list](https://modelcontextprotocol.org/clients)\n\n---\n\n## Use Cases\n\nWith Netlify MCP Server, your AI agents can:\n\n* Create, manage, and deploy Netlify projects\n* Modify access controls for enhanced project security\n* Install or uninstall Netlify extensions\n* Fetch user and team information\n* Enable and manage form submissions\n* Create and manage environment variables and secrets\n* and more...\n---\n\n## Prerequisites\n\n* **Node.js 22 or higher**\n  Check with `node --version`\n* **A Netlify account**\n* **An MCP client** (e.g., Windsurf, Cursor, Claude, Copilot)\n\n> **Tip:** Install the Netlify CLI globally for the best experience:\n> `npm install -g netlify-",
+    "complete_enriched_at": "2025-11-17T13:11:45.653547"
+  },
+  "runtime": "Node.js",
+  "package_manager": "npm",
+  "quality_score": 33
 }

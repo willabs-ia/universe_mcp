@@ -7,10 +7,26 @@
   "weekly_metric": null,
   "release_date": "Feb 5, 2025",
   "url": "https://www.pulsemcp.com/servers/tembo-cloud",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/tembo-io/mcp-server-tembo",
+  "categories": [
+    "documentation",
+    "git",
+    "cloud",
+    "ai",
+    "data",
+    "api",
+    "development",
+    "database"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:57.204669",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 7,
+    "readme_excerpt": "<h1 align=\"center\">Tembo MCP Server</h1>\n\n<p align=\"center\">An MCP server for the <a href=\"https://cloud.tembo.io\">Tembo Cloud</a> platform API</p>\n\n[![smithery badge](https://smithery.ai/badge/@tembo-io/mcp-server-tembo)](https://smithery.ai/server/@tembo-io/mcp-server-tembo)\n\n## Installation\n\n### Installing via Smithery\n\nTo install Tembo Cloud API for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@tembo-io/mcp-server-tembo):\n\n```bash\nnpx -y @smithery/cli install @tembo-io/mcp-server-tembo --client claude\n```\n\n### Locally\n\n1. Clone this repo\n\n```\ngit clone https://github.com/tembo-io/mcp-server-tembo.git\n```\n\n2. Download [Claude Desktop](https://www.anthropic.com/products/claude-3-opus-desktop)\n\n3. Load the below tembo mcp server json config into Claude Desktop (open claude desktop > click settings > developer)\n\n> [!NOTE]\n> You will need to [generate a API key for Tembo Cloud](https://tembo.io/docs/development/api)\n\n```json\n{\n\t\"mcpServers\": {\n\t\t\"mcp-server-tembo\": {\n\t\t\t\"command\": \"node\",\n\t\t\t\"env\": {\n\t\t\t\t\"TEMBO_API_KEY\": \"your_tembo_api_key\"\n\t\t\t},\n\t\t\t\"args\": [\"/absolute/path/to/cloned/repo/mcp-server-tembo/dist/index.js\"]\n\t\t}\n\t}\n}\n```\n\n### Hosted version\n\nComing soon.\n\n## Development\n\n```\npnpm run build\n```\n\n```\nnode index.js\n```\n",
+    "complete_enriched_at": "2025-11-17T13:11:34.454613"
+  },
+  "runtime": "Node.js",
+  "package_manager": "npm",
+  "quality_score": 29
 }

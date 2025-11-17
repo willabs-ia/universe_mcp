@@ -7,10 +7,35 @@
   "weekly_metric": null,
   "release_date": "Mar 18, 2025",
   "url": "https://www.pulsemcp.com/servers/pinata-ipfs",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/pinatacloud/pinata-mcp",
+  "categories": [
+    "api",
+    "filesystem",
+    "cloud",
+    "messaging",
+    "ai",
+    "data",
+    "search",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:23.625614",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 3,
+    "readme_excerpt": "# pinata-mcp\n\nA Model Context Protocol (MCP) server that provides Claude with access to Pinata. This integration allows Claude to interact with Public and Private IPFS through Pinata's API.\n\n## Setup\n\n### Prerequisites\n\n- Node.js 18+ installed\n- A Pinata account with an API key (JWT)\n\n### Installation\n\nInstallation will depend on whether you are using Claude Code or Claude Desktop\n\n**Claude Code**\n\nRun `claude mcp add` and follow the prompts with the following information:\n\n```\nServer Name: pinata\nServer Scope: Project or Global\nServer Command: npx\nCommand Arguments: pinata-mcp /path/to/allowed/directories /another/path/to/allowed/directories\nEnvironment Variables: PINATA_JWT=<YOUR_JWT>,GATEWAY_URL=example.mypinata.cloud\n```\n\n**Claude Desktop**\n\nAdd the following config to `claude_desktop_config.json`\n\n```json\n{\n  \"mcpServers\": {\n    \"pinata\": {\n      \"command\": \"npx\",\n      \"args\": [\n        \"pinata-mcp\",\n        \"/path/to/allowed/directory\"\n      ],\n      \"env\": {\n        \"PINATA_JWT\": \"<YOUR_JWT>\",\n        \"GATEWAY_URL\": \"example.mypinata.cloud\"\n      }\n    }\n  }\n}\n```\n\n## Usage\n\nTo start using the MCP start up Claude Code with the command `claude` or start Claude Desktop. Below are the available operations:\n\n### File Operations\n\n- **Upload files** to Pinata (public or private IPFS)\n- **Search files** by name, CID, or mime type\n- **Get file details** by ID\n- **Update file metadata** including name and key-values\n- **Delete files** from Pinata\n\n### Group Operations\n\n- **Lis",
+    "language": "JavaScript",
+    "license": "MIT License",
+    "forks": 3,
+    "open_issues": 3,
+    "watchers": 3,
+    "last_pushed": "2025-03-12T20:55:26Z",
+    "created_at": "2025-03-11T20:19:15Z",
+    "topics": [],
+    "complete_enriched_at": "2025-11-17T13:05:59.700604"
+  },
+  "runtime": "Node.js",
+  "package_manager": "npm",
+  "language": "JavaScript",
+  "quality_score": 54
 }

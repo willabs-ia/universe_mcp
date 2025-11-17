@@ -7,10 +7,37 @@
   "weekly_metric": null,
   "release_date": "Mar 21, 2025",
   "url": "https://www.pulsemcp.com/servers/ramp",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/ramp-public/ramp_mcp",
+  "categories": [
+    "documentation",
+    "git",
+    "testing",
+    "api",
+    "filesystem",
+    "ai",
+    "data",
+    "search",
+    "development",
+    "database"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:34.888191",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 27,
+    "readme_excerpt": "# ramp-mcp: A Ramp MCP server\n\n## Overview\n\nA Model Context Protocol server for retrieving and analyzing data or running tasks for [Ramp](https://ramp.com) using [Developer API](https://docs.ramp.com/developer-api/v1/overview/introduction). In order to get around token and input size limitations, this server implements a simple ETL pipeline + ephemeral sqlite database in memory for analysis by an LLM. All requests are made to demo by default, but can be changed by setting `RAMP_ENV=prd`. Large datasets may not be processable due to API and/or your MCP client limitations.\n\n### Tools\n\n#### Database tools\n\nTools that can be used to setup, process, query, and delete an ephemeral database in memory.\n\n1. `process_data`\n2. `execute_query`\n3. `clear_table`\n\n#### Fetch tools\n\nTools that can be used to fetch data directly\n\n1. `get_ramp_categories`\n2. `get_currencies`\n\n#### Load tools\n\nLoads data to server which the client can fetch. Based on the tools you wish to use, ensure to enable those scopes on your\nRamp client and include the scopes when starting the server as a CLI argument.\n\n| Tool                      | Scope               |\n| ------------------------- | ------------------- |\n| load_transactions         | transactions:read   |\n| load_reimbursements       | reimbursements:read |\n| load_bills                | bills:read          |\n| load_locations            | locations:read      |\n| load_departments          | departments:read    |\n| load_bank_accounts        | bank_accounts:r",
+    "language": "Python",
+    "license": "MIT License",
+    "forks": 9,
+    "open_issues": 5,
+    "watchers": 27,
+    "last_pushed": "2025-03-20T15:30:58Z",
+    "created_at": "2025-03-20T14:26:04Z",
+    "topics": [],
+    "complete_enriched_at": "2025-11-17T13:06:30.507226"
+  },
+  "runtime": "Python",
+  "package_manager": "pip",
+  "language": "Python",
+  "quality_score": 54
 }

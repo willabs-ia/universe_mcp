@@ -7,10 +7,41 @@
   "weekly_metric": null,
   "release_date": "Apr 27, 2025",
   "url": "https://www.pulsemcp.com/servers/razorpay",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/razorpay/razorpay-mcp-server",
+  "categories": [
+    "documentation",
+    "security",
+    "git",
+    "testing",
+    "filesystem",
+    "messaging",
+    "ai",
+    "data",
+    "api",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:25.907784",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 207,
+    "readme_excerpt": "# Razorpay MCP Server (Official)\n\nThe Razorpay MCP Server is a [Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction) server that provides seamless integration with Razorpay APIs, enabling advanced payment processing capabilities for developers and AI tools.\n\n## Quick Start\n\nChoose your preferred setup method:\n- **[Remote MCP Server](#remote-mcp-server-recommended)** - Hosted by Razorpay, no setup required\n- **[Local MCP Server](#local-mcp-server)** - Run on your own infrastructure\n\n## Available Tools\n\nCurrently, the Razorpay MCP Server provides the following tools:\n\n| Tool                                 | Description                                            | API | Remote Server Support |\n|:-------------------------------------|:-------------------------------------------------------|:------------------------------------|:---------------------|\n| `capture_payment`                    | Change the payment status from authorized to captured. | [Payment](https://razorpay.com/docs/api/payments/capture) | ✅ |\n| `fetch_payment`                      | Fetch payment details with ID                          | [Payment](https://razorpay.com/docs/api/payments/fetch-with-id) | ✅ |\n| `fetch_payment_card_details`         | Fetch card details used for a payment                  | [Payment](https://razorpay.com/docs/api/payments/fetch-payment-expanded-card) | ✅ |\n| `fetch_all_payments`                 | Fetch all payments with filtering and pagination       | [Paymen",
+    "language": "Go",
+    "license": "MIT License",
+    "forks": 25,
+    "open_issues": 10,
+    "watchers": 207,
+    "last_pushed": "2025-11-12T09:38:23Z",
+    "created_at": "2025-04-26T10:23:45Z",
+    "topics": [
+      "mcp",
+      "mcp-server",
+      "razorpay"
+    ],
+    "complete_enriched_at": "2025-11-17T13:07:42.712549"
+  },
+  "runtime": "Node.js",
+  "package_manager": "npm",
+  "language": "Go",
+  "quality_score": 76
 }

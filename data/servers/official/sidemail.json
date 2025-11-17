@@ -7,10 +7,41 @@
   "weekly_metric": null,
   "release_date": "Jul 25, 2025",
   "url": "https://www.pulsemcp.com/servers/sidemail",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/sidemail/sidemail-mcp-server",
+  "categories": [
+    "testing",
+    "api",
+    "messaging",
+    "ai",
+    "data",
+    "search",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:02.958482",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 1,
+    "readme_excerpt": "# Sidemail Model Context Protocol (MCP) Server\n\nSidemail MCP Server provides Model Context Protocol (MCP) integration for [Sidemail.io](https://sidemail.io/), enabling programmatic access to Sidemail's transactional email, contacts, domains, and Messenger features via MCP agent mode in VS Code and other MCP clients.\n\n## Features\n\n- Manage sending domains\n- Test sending transactional emails\n- Manage contacts and groups\n- Create, update, and delete Messenger drafts\n- Query sent emails and contacts\n\n## Prerequisites\n\n- Node.js v18 or newer\n- Sidemail API Key\n\n## Microsoft VS Code setup (assisted)\n\n1. Open the Command Palette (`Ctrl/Cmd + Shift + P`).\n2. Type **“MCP: Add Server…”** and select it.\n3. Select **\"NPM Package\"**.\n4. Enter `@sidemail/mcp` and confirm it.\n5. Confirm the installation.\n6. Enter your Sidemail API key and confirm it.\n\n## Microsoft VS Code setup (manual)\n\nAlternatively, you can install it manually by modifying the `mcp.json` configuration file.\n\n1. Open the Command Palette (`Ctrl/Cmd + Shift + P`).\n2. Type **“MCP: Open User Configuration”** and select it.\n3. Add the configuration below and save changes.\n\n```jsonc\n{\n\t\"servers\": {\n\t\t\"sidemail-mcp\": {\n\t\t\t\"type\": \"stdio\",\n\t\t\t\"command\": \"npx\",\n\t\t\t\"args\": [\"-y\", \"@sidemail/mcp\"],\n\t\t\t\"env\": {\n\t\t\t\t\"SIDEMAIL_API_KEY\": \"${input:sidemail-key}\",\n\t\t\t},\n\t\t},\n\t},\n\t\"inputs\": [\n\t\t{\n\t\t\t\"type\": \"promptString\",\n\t\t\t\"id\": \"sidemail-key\",\n\t\t\t\"description\": \"Sidemail API Key\",\n\t\t\t\"password\": true,\n\t\t},\n\t],\n}\n```\n\n## Claude Desktop ",
+    "language": "JavaScript",
+    "license": "MIT License",
+    "forks": 1,
+    "open_issues": 0,
+    "watchers": 1,
+    "last_pushed": "2025-07-25T09:47:57Z",
+    "created_at": "2025-07-22T16:03:26Z",
+    "topics": [],
+    "complete_enriched_at": "2025-11-17T13:06:57.810859"
+  },
+  "capabilities": [
+    "Manage contacts and groups",
+    "Query sent emails and contacts",
+    "Manage sending domains",
+    "Test sending transactional emails",
+    "Create, update, and delete Messenger drafts"
+  ],
+  "runtime": "Node.js",
+  "package_manager": "npm",
+  "language": "JavaScript",
+  "quality_score": 64
 }

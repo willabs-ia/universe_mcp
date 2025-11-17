@@ -7,10 +7,13 @@
   "weekly_metric": null,
   "release_date": "Oct 16, 2025",
   "url": "https://www.pulsemcp.com/servers/skald-labs-knowledge-base",
-  "source_url": null,
+  "source_url": "https://github.com/skaldlabs",
   "categories": [],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:35.340359",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 1,
+    "complete_enriched_at": "2025-11-17T13:09:27.318976"
+  }
 }

@@ -10,10 +10,29 @@
   },
   "release_date": "Jul 23, 2025",
   "url": "https://www.pulsemcp.com/servers/windsor",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/windsor-ai/windsor_mcp",
+  "categories": [
+    "documentation",
+    "security",
+    "testing",
+    "api",
+    "filesystem",
+    "messaging",
+    "ai",
+    "data",
+    "monitoring",
+    "search",
+    "development",
+    "database"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:31.421636",
-  "metadata": {}
+  "metadata": {
+    "readme_excerpt": "# Windsor MCP Server\n\nWindsor MCP (Model Context Protocol) enables your LLM to query, explore, and analyze your full-stack business data integrated into Windsor.ai with zero SQL writing or custom scripting.  \nIt connects seamlessly to 325+ platforms, giving AI-native tools such as Claude, Perplexity, Cursor, or others, real-time access to your performance marketing, sales, and customer data to help you unlock valuable insights.\n\n---\n\n## 🌟 Features\n\n### Natural language access to business data  \nWindsor MCP is a natural language interface that connects your integrated Windsor.ai datasets with the LLM platform, enabling you to better understand your data by asking questions like:\n- “What campaigns had the best ROAS last month?”\n- “Give me a breakdown of spend by channel over the past 90 days.”\n- “What campaigns are wasting our advertising budget?”\n\nAll in real-time, directly inside your LLM chat interface.\n\n### Out-of-the-box integration with 325+ sources  \nSync data from Facebook Ads, GA4, HubSpot, Salesforce, Shopify, TikTok Ads, and more via native Windsor.ai connectors.\n\n### Zero-code setup  \nWindsor MCP works via the Claude Desktop or with a lightweight dev proxy. No custom integrations required.\n\n### Open standard compatibility  \nBuilt on Anthropic’s open MCP spec, it’s compatible with Claude, Perplexity, Cursor, and more.\n\n### Real-time Analytics without SQL  \nGet instant breakdowns, summaries, and performance insights from your integrated data.\n\n---\n\n## 🎯 How It Works\n\n",
+    "complete_enriched_at": "2025-11-17T13:11:00.216342"
+  },
+  "runtime": "Node.js",
+  "package_manager": "npm",
+  "quality_score": 25
 }

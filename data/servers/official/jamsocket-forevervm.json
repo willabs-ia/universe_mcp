@@ -7,10 +7,34 @@
   "weekly_metric": null,
   "release_date": "Feb 25, 2025",
   "url": "https://www.pulsemcp.com/servers/jamsocket-forevervm",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/jamsocket/forevervm/tree/HEAD/javascript/mcp-server",
+  "categories": [
+    "testing",
+    "git",
+    "messaging",
+    "ai",
+    "data",
+    "api",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:06.396465",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 224,
+    "readme_excerpt": "[foreverVM](https://forevervm.com)\n==================================\n\n[![GitHub Repo stars](https://img.shields.io/github/stars/jamsocket/forevervm?style=social)](https://github.com/jamsocket/forevervm)\n[![Chat on Discord](https://img.shields.io/discord/939641163265232947?color=404eed&label=discord)](https://discord.gg/N5sEpsuhh9)\n\n| repo                                                | version                     |\n|-----------------------------------------------------|------------------------------|\n| [cli](https://github.com/jamsocket/forevervm) | [![npm](https://img.shields.io/npm/v/forevervm)](https://www.npmjs.com/package/forevervm) |\n| [sdk](https://github.com/jamsocket/forevervm) | [![npm](https://img.shields.io/npm/v/@forevervm/sdk)](https://www.npmjs.com/package/@forevervm/sdk) |\n\nforeverVM provides an API for running arbitrary, stateful Python code securely.\n\nThe core concepts in foreverVM are **machines** and **instructions**.\n\n**Machines** represent a stateful Python process. You interact with a machine by running **instructions**\n(Python statements and expressions) on it, and receiving the results. A machine processes one instruction\nat a time.\n\nGetting started\n---------------\n\nYou will need an API token (if you need one, reach out to [paul@jamsocket.com](mailto:paul@jamsocket.com)).\n\nThe easiest way to try out foreverVM is using the CLI. First, you will need to log in:\n\n```bash\nnpx forevervm login\n```\n\nOnce logged in, you can open a REPL interface with a new m",
+    "language": "Rust",
+    "license": "MIT License",
+    "forks": 21,
+    "open_issues": 2,
+    "watchers": 224,
+    "last_pushed": "2025-04-17T07:01:29Z",
+    "created_at": "2025-01-18T14:15:35Z",
+    "topics": [],
+    "complete_enriched_at": "2025-11-17T13:07:23.772129"
+  },
+  "runtime": "Node.js",
+  "package_manager": "npm",
+  "language": "Rust",
+  "quality_score": 65
 }

@@ -10,10 +10,39 @@
   },
   "release_date": "Mar 7, 2025",
   "url": "https://www.pulsemcp.com/servers/resend-email",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/resend/mcp-send-email",
+  "categories": [
+    "documentation",
+    "git",
+    "testing",
+    "messaging",
+    "ai",
+    "data",
+    "api",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:48.782698",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 411,
+    "installation_commands": [
+      "git clone https://github.com/resend/mcp-send-email.git",
+      "npm install",
+      "npm run build"
+    ],
+    "readme_excerpt": "# Email sending MCP 💌\n\n[![smithery badge](https://smithery.ai/badge/@resend/mcp-send-email)](https://smithery.ai/server/@resend/mcp-send-email)\n\nThis is a simple MCP server that sends emails using Resend's API. Why? Now you can let Cursor or Claude Desktop compose emails for you and send it right away without having to copy and paste the email content.\n\nAs an example, you could use this to run local scripts, chat with Claude, or process data and send the results to yourself or your team.\n\nBuilt with:\n\n- [Resend](https://resend.com/)\n- [Anthropic MCP](https://docs.anthropic.com/en/docs/agents-and-tools/mcp)\n- [Cursor](https://cursor.so/)\n\n## Features\n\n- Send plain text and HTML emails\n- Schedule emails for future delivery\n- Add CC and BCC recipients\n- Configure reply-to addresses\n- Customizable sender email (requires verification)\n- List Resend audiences\n\n## Demo\n\nhttps://github.com/user-attachments/assets/8c05cbf0-1664-4b3b-afb1-663b46af3464\n\n## Setup\n\nCurrently, you must build the project locally to use this MCP server. Then add the server in [Cursor](#cursor) or [Claude Desktop](#claude-desktop) to use it in any Cursor or Claude Desktop chat.\n\n1. Clone this project locally.\n\n```\ngit clone https://github.com/resend/mcp-send-email.git\n```\n\n2. Build the project\n\n```\nnpm install\nnpm run build\n```\n3. Setup Resend\n\nCreate a free Resend account and [Create an API Key](https://resend.com/api-keys). To send to other addresses, you'll also need to [verify your own domain](https://res",
+    "complete_enriched_at": "2025-11-17T13:10:40.338841"
+  },
+  "capabilities": [
+    "Send plain text and HTML emails",
+    "Configure reply-to addresses",
+    "Add CC and BCC recipients",
+    "List Resend audiences",
+    "Schedule emails for future delivery",
+    "Customizable sender email (requires verification)"
+  ],
+  "runtime": "Node.js",
+  "package_manager": "npm",
+  "quality_score": 45
 }

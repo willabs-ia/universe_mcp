@@ -7,10 +7,33 @@
   "weekly_metric": null,
   "release_date": "Apr 25, 2025",
   "url": "https://www.pulsemcp.com/servers/ying-dao-rpa",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/ying-dao/yingdao_mcp_server",
+  "categories": [
+    "git",
+    "api",
+    "filesystem",
+    "cloud",
+    "ai",
+    "search"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:25.884515",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 50,
+    "readme_excerpt": "<p>\n  <img src=\"src/assets/yingdao_logo.svg\" width=\"256\"/>\n</p>\n\n# 影刀RPA MCP Server\n\n\n[影刀RPA](https://www.yingdao.com):一个RPA低代码平台，一款人人可用的RPA自动化产品，能够将人从重复的劳动中解放出来。\n<br/>\n[影刀AI Power](https://www.yingdao.com/ai-power):一个AI低代码平台，能够快速创建AI智能体、AI工作流，帮助用户把AI用起来。\n\n影刀 RPA MCP Server 基于 Model Context Protocol (MCP) 实现，为影刀AI Power及其他可作为MCP Host的工具(如 Claude Desktop、Cursor 等)提供调用RPA的能力。\n\n\n同时支持SSE Server与Stdio Server两种模式。\n\n# 如何开始\n支持两种方式来运行影刀RPA\n## 本地模式\n设置环境变量\n注意：本地模式下，智能获取并运行“我获取的应用”并已经被至少执行过一次的应用\n```bash\nRPA_MODEL=local\nSHADOWBOT_PATH={your_shadowbot_path} //影刀rpa的exe路径\nUSER_FOLDER={your_user_folder}       //影刀rpa的用户文件夹路径\n```\n### 影刀RPA的exe路径\nWindows\n注意：windows下在AI Power客户端中，路径要使用双斜杠\n```bash\nD://Program Files//{安装目录}//ShadowBot.exe\n```\n\nMac\n\n```bash\n/Applications/影刀.app\n```\n\n### 影刀RPA的用户文件夹路径\n在影刀RPA的设置中，找用户文件夹选项\n<p><img src=\"src/assets/user_folder.png\" width=\"512\"/></p>\n\n\n## 开放API模式 (仅支持企业用户)\n设置环境变量\n\n```bash\nRPA_MODEL=openApi\nACCESS_KEY_ID={your_access_key_id}\nACCESS_KEY_SECRET={your_access_key_secret}\n```\n\n### 获取方式\n企业管理员登录影刀RPA控制台获取，请参考[影刀RPA帮助文档-鉴权](https://www.yingdao.com/yddoc/rpa/710499792859115520)\n\n# Stdio Server启动\n在客户端中配置\n```json\n{\n  \"mcpServers\": {\n    \"YingDao RPA MCP Server\": {\n      \"command\": \"npx\",\n      \"args\": [\"-y\", \"yingdao-mcp-server\"],\n      \"env\":{\n        \"RPA_MODEL\":\"openApi\",\n        \"ACCESS_KEY_ID\":\"{your_access_key_id}\",\n        \"ACCESS_KEY_SECRET\":\"{your_access_key_secret}\"\n      }\n    }\n  }\n}\n```\n# SSE Server配置\n\n## 构建\n\nClone the repository and build:\n\n```bash\ngi",
+    "language": "TypeScript",
+    "license": "MIT License",
+    "forks": 13,
+    "open_issues": 4,
+    "watchers": 50,
+    "last_pushed": "2025-04-28T01:39:08Z",
+    "created_at": "2025-04-25T08:06:58Z",
+    "topics": [],
+    "complete_enriched_at": "2025-11-17T13:08:35.772907"
+  },
+  "runtime": "Node.js",
+  "package_manager": "npm",
+  "language": "TypeScript",
+  "quality_score": 58
 }

@@ -10,10 +10,24 @@
   },
   "release_date": "Jun 24, 2025",
   "url": "https://www.pulsemcp.com/servers/gologin",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/gologinapp/gologin-mcp",
+  "categories": [
+    "browser",
+    "testing",
+    "filesystem",
+    "ai",
+    "api",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:39.308490",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 8,
+    "readme_excerpt": "# GoLogin MCP Server\n\nManage your GoLogin browser profiles and automation directly through AI conversations. This MCP server connects to the GoLogin API, letting you create, configure, and control browser profiles using natural language.\n\n<a href=\"https://glama.ai/mcp/servers/@gologinapp/gologin-mcp\">\n  <img width=\"380\" height=\"200\" src=\"https://glama.ai/mcp/servers/@gologinapp/gologin-mcp/badge\" alt=\"GoLogin MCP server\" />\n</a>\n\n## What You Can Do\n\nWith GoLogin MCP Server, you can:\n\n- **Manage browser profiles** - Create, update, delete, and list your browser profiles\n- **Configure proxies** - Set up and modify proxy settings for your profiles\n- **Handle fingerprints** - Customize browser fingerprints and user agents\n- **Manage folders** - Organize your profiles into folders\n- **Account information** - Check your subscription status and usage\n\n### Example Use Cases\n\n- \"Create a new browser profile with a US proxy\"\n- \"Show me all my browser profiles\"\n- \"Update the proxy settings for my profile\"\n- \"Delete old profiles I no longer need\"\n- \"Check my GoLogin account status\"\n- \"Create a folder to organize my profiles\"\n\n## Setup for MCP Clients\n\n### Claude Desktop\n\n**How to connect Gologin MCP with Claude Desktop:**\n   \n   \n\n### Step 1: Access Claude Desktop settings \nOpen your Claude Desktop application. In the top menu bar, click on 'Claude' and then select 'Settings...'.\n\n<img width=\"380\" src='https://images.gologin.com/claude-1.png' />\n\n### Step 2: Navigate to developer setting",
+    "complete_enriched_at": "2025-11-17T13:12:56.009078"
+  },
+  "runtime": "Node.js",
+  "package_manager": "npm",
+  "quality_score": 29
 }

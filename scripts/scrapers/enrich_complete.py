@@ -110,7 +110,7 @@ class CompleteEnricher:
     def extract_github_stars(self, soup: BeautifulSoup) -> Optional[int]:
         """Extract GitHub stars from PulseMCP page"""
         # Look for star count near GitHub link
-        star_elem = soup.find(text=re.compile(r'⭐|stars?', re.I))
+        star_elem = soup.find(string=re.compile(r'⭐|stars?', re.I))
         if star_elem:
             star_text = star_elem.get_text() if hasattr(star_elem, 'get_text') else str(star_elem)
             # Extract number (e.g., "72.7k" -> 72700)

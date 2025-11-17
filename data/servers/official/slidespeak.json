@@ -7,10 +7,13 @@
   "weekly_metric": null,
   "release_date": "Mar 29, 2025",
   "url": "https://www.pulsemcp.com/servers/slidespeak",
-  "source_url": null,
+  "source_url": "https://github.com/SlideSpeak",
   "categories": [],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:01.398213",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 10,
+    "complete_enriched_at": "2025-11-17T13:08:24.370995"
+  }
 }

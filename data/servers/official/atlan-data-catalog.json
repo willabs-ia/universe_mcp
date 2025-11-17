@@ -7,10 +7,42 @@
   "weekly_metric": null,
   "release_date": "Apr 3, 2025",
   "url": "https://www.pulsemcp.com/servers/atlan-data-catalog",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/atlanhq/agent-toolkit/tree/HEAD/modelcontextprotocol",
+  "categories": [
+    "documentation",
+    "git",
+    "testing",
+    "api",
+    "ai",
+    "data",
+    "search",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:23.751947",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 22,
+    "readme_excerpt": "# Atlan Agent Toolkit\n\n[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)\n[![PyPI - Version](https://img.shields.io/pypi/v/atlan-mcp-server.svg)](https://pypi.org/project/atlan-mcp-server)\n[![License](https://img.shields.io/github/license/atlanhq/agent-toolkit.svg)](https://github.com/atlanhq/agent-toolkit/blob/main/LICENSE)\n\n\nThis repository contains a collection of tools and protocols for interacting with Atlan services for AI agents. Each component is designed to provide specific functionality and can be used independently or together.\n\n## Components\n\n### Model Context Protocol (MCP)\n\nAn MCP server that enables interaction with Atlan services through tool calling. Provides tools for asset search, and retrieval using [pyatlan](https://developer.atlan.com/sdks/python/).\n\nYou can find the documentation and setup instructions for the MCP server [here](modelcontextprotocol/README.md).\n\n\n## 🔍 DeepWiki: Ask Questions About This Project\n\n[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/atlanhq/agent-toolkit)\n\n\n## Contributing\n\nSee [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute to the Atlan Agent Toolkit.\n\n\n## License\n\nThe project is licensed under the [MIT License](LICENSE). Please see the [LICENSE](LICENSE) file for details.\n",
+    "language": "Python",
+    "license": "MIT License",
+    "forks": 20,
+    "open_issues": 52,
+    "watchers": 22,
+    "last_pushed": "2025-11-17T11:30:42Z",
+    "created_at": "2025-04-03T11:23:08Z",
+    "topics": [
+      "agents",
+      "ai",
+      "atlan",
+      "catalog",
+      "llm",
+      "mcp"
+    ],
+    "complete_enriched_at": "2025-11-17T13:09:15.745132"
+  },
+  "runtime": "Python",
+  "package_manager": "pip",
+  "language": "Python",
+  "quality_score": 63
 }

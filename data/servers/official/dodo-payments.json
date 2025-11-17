@@ -7,10 +7,13 @@
   "weekly_metric": null,
   "release_date": "Apr 7, 2025",
   "url": "https://www.pulsemcp.com/servers/dodo-payments",
-  "source_url": null,
+  "source_url": "https://github.com/dodopayments",
   "categories": [],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:10.279459",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 30,
+    "complete_enriched_at": "2025-11-17T13:09:07.220381"
+  }
 }

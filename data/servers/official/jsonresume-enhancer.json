@@ -7,10 +7,42 @@
   "weekly_metric": null,
   "release_date": "Mar 5, 2025",
   "url": "https://www.pulsemcp.com/servers/jsonresume-enhancer",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/jsonresume/mcp",
+  "categories": [
+    "git",
+    "testing",
+    "api",
+    "filesystem",
+    "ai",
+    "data",
+    "search",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:10.875350",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 56,
+    "readme_excerpt": "# JSON Resume MCP Server\n\n<div align=\"center\">\n\n![JSON Resume Logo](https://jsonresume.org/img/logo.svg)\n\n[![npm version](https://img.shields.io/npm/v/@jsonresume/mcp.svg)](https://www.npmjs.com/package/@jsonresume/mcp)\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\n[![GitHub Issues](https://img.shields.io/github/issues/jsonresume/mcp.svg)](https://github.com/jsonresume/mcp/issues)\n[![smithery badge](https://smithery.ai/badge/@jsonresume/mcp)](https://smithery.ai/server/@jsonresume/mcp)\n\n**Automate your resume updates with AI by analyzing your coding projects**\n\n[Installation](#installation) • [Features](#features) • [Usage](#usage) • [Configuration](#configuration) • [Contributing](#contributing) • [Testing](#testing)\n\n</div>\n\n## What is JSON Resume MCP Server?\n\nThis is a [Model Context Protocol (MCP)](https://modelcontextprotocol.ai) server that enhances AI assistants with the ability to update your [JSON Resume](https://jsonresume.org) by analyzing your coding projects. The MCP server provides tools that allow AI assistants like those in [Windsurf](https://www.windsurf.io/) or [Cursor](https://cursor.sh/) to:\n\n1. Check if you have an existing JSON Resume\n2. Analyze your codebase to understand your technical skills and projects\n3. Enhance your resume with details about your current project\n\nWith this tool, you can simply ask your AI assistant to \"enhance my resume with my current project,\" and it will automaticall",
+    "language": "TypeScript",
+    "license": "The Unlicense",
+    "forks": 11,
+    "open_issues": 2,
+    "watchers": 56,
+    "last_pushed": "2025-05-04T04:10:50Z",
+    "created_at": "2025-03-04T14:11:41Z",
+    "topics": [],
+    "complete_enriched_at": "2025-11-17T13:06:12.843080"
+  },
+  "capabilities": [
+    "**Resume Enhancement**: Automatically analyzes your codebase and adds project details to your resume",
+    "**AI-Powered**: Uses OpenAI to generate professional descriptions of your projects and skills",
+    "**JSON Resume Ecosystem**: Compatible with the [JSON Resume registry](https://registry.jsonresume.org)",
+    "**TypeScript/Zod Validation**: Ensures your resume follows the JSON Resume standard",
+    "**GitHub Integration**: Fetches and updates your resume stored in GitHub Gists"
+  ],
+  "runtime": "Node.js",
+  "package_manager": "npm",
+  "language": "TypeScript",
+  "quality_score": 58
 }

@@ -7,10 +7,34 @@
   "weekly_metric": null,
   "release_date": "May 20, 2025",
   "url": "https://www.pulsemcp.com/servers/weavely-forms",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/weavely/mcp",
+  "categories": [
+    "security",
+    "testing",
+    "git",
+    "cloud",
+    "ai",
+    "api",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:22.819913",
-  "metadata": {}
+  "metadata": {
+    "readme_excerpt": "# Weavely MCP – Remote MCP Server for Form Generation\n\nThis project sets up a **Model Context Protocol (MCP)** server using the `@modelcontextprotocol/sdk`, hosted on **Cloudflare Workers**, to programmatically generate forms using the Weavely API.\n\n---\n\n## 🚀 Features\n\n- Deploys an **auth-less MCP server** on Cloudflare Workers  \n- Exposes a tool: `create-form` to generate forms via prompt  \n- Uses `axios` for external API calls to [weavely.ai](https://weavely.ai)  \n- Built using TypeScript and the official `@modelcontextprotocol/sdk`  \n\n---\n\n## 🛠️ Technologies Used\n\n- 🧠 MCP SDK: `@modelcontextprotocol/sdk`  \n- 🌩️ Cloudflare Workers + Wrangler  \n- 🛡 Type-safe schema validation with `zod`  \n- 🌐 HTTP requests via `axios`  \n- 🧹 Formatting & linting with `biome`  \n\n---\n\n## 📦 Installation\n\n```bash\ngit clone https://github.com/weavely/mcp.git\ncd mcp\nnpm install\n```\n\n---\n\n## 🧪 Development\n\nStart a development server locally using Wrangler:\n\n```bash\nnpm run dev\n```\n\n---\n\n## 📤 Deployment\n\nDeploy to Cloudflare Workers:\n\n```bash\nnpm run deploy\n```\n\nOr use the Cloudflare Deploy Button:\n\n[![Deploy to Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/cloudflare/ai/tree/main/demos/remote-mcp-authless)\n\n---\n\n## 📺 Demo\n\nCurious how it works? Watch a short demo here:\n\n▶️ [https://youtu.be/C1jZBrGV6jE](https://youtu.be/C1jZBrGV6jE)\n\n---\n\n## 🔧 Tool: `create-form`\n\nThis MCP agent defines one tool:\n\n- **Name:** `create-form`  \n- *",
+    "language": "TypeScript",
+    "license": null,
+    "github_stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0,
+    "last_pushed": "2025-05-19T13:14:39Z",
+    "created_at": "2025-05-19T12:48:33Z",
+    "topics": [],
+    "complete_enriched_at": "2025-11-17T13:07:15.089171"
+  },
+  "runtime": "Node.js",
+  "package_manager": "npm",
+  "language": "TypeScript",
+  "quality_score": 40
 }

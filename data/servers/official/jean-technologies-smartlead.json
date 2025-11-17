@@ -7,10 +7,38 @@
   "weekly_metric": null,
   "release_date": "Apr 17, 2025",
   "url": "https://www.pulsemcp.com/servers/jean-technologies-smartlead",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/jonathan-politzki/smartlead-mcp-server",
+  "categories": [
+    "security",
+    "messaging",
+    "ai",
+    "data",
+    "monitoring",
+    "api",
+    "development",
+    "database"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:21.351572",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 17,
+    "installation_commands": [
+      "npm install smartlead-mcp-server@1.2.1"
+    ],
+    "readme_excerpt": "[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jean-technologies-smartlead-mcp-server-local-badge.png)](https://mseep.ai/app/jean-technologies-smartlead-mcp-server-local)\n\n# Smartlead Simplified MCP Server\n\n[![smithery badge](https://smithery.ai/badge/@jean-technologies/smartlead-mcp-server-local)](https://smithery.ai/server/@jean-technologies/smartlead-mcp-server-local)\n\nThis application provides a simplified interface to the Smartlead API, allowing AI assistants and automation tools to interact with Smartlead's email marketing features. We welcome contribution from the community.\n\n**Licensing:** All features are now enabled by default with maximum permissiveness! No license key required.\n\n> **For developer details:** See [DEVELOPER_ONBOARDING.md](./DEVELOPER_ONBOARDING.md)\n\n## Quick Start\n\n### Installation\n```bash\nnpm install smartlead-mcp-server@1.2.1\n```\n\nor use directly with npx (no installation needed):\n\n\n### Installing via Smithery\n\nTo install Smartlead Campaign Management Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@jean-technologies/smartlead-mcp-server-local):\n\n```bash\nnpx -y @smithery/cli install @jean-technologies/smartlead-mcp-server-local --client claude\n```\n\n### With Claude:\n```bash\nnpx smartlead-mcp-server start\n```\n\n### With n8n:\n```bash\nnpx smartlead-mcp-server sse\n```\n\nFirst run will prompt for your Smartlead API Key. No license key is required.\n\n## Integration Examples\n\n### Claude Extension:\n```json\n{\n  \"m",
+    "language": "TypeScript",
+    "license": null,
+    "forks": 12,
+    "open_issues": 2,
+    "watchers": 17,
+    "last_pushed": "2025-07-23T21:09:02Z",
+    "created_at": "2025-04-16T18:16:37Z",
+    "topics": [],
+    "complete_enriched_at": "2025-11-17T13:08:59.917287"
+  },
+  "runtime": "Node.js",
+  "package_manager": "npm",
+  "language": "TypeScript",
+  "quality_score": 53
 }

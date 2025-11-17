@@ -7,10 +7,32 @@
   "weekly_metric": null,
   "release_date": "Apr 1, 2025",
   "url": "https://www.pulsemcp.com/servers/zyla-labs-api-hub",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/zyla-labs/mcp-server",
+  "categories": [
+    "security",
+    "git",
+    "api",
+    "ai",
+    "data",
+    "search",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:27.164745",
-  "metadata": {}
+  "metadata": {
+    "readme_excerpt": "# 🔌  Zyla API Hub MCP Server\n\nThis MCP server allows any large language model (LLM) using the [Model Context Protocol (MCP)](https://github.com/microsoft/mcp) to access **any public API** from the [Zyla API Hub](https://zylalabs.com) by providing:\n\n- ✅ HTTP method (GET, POST, PUT, DELETE, etc.)\n- ✅ Full API endpoint (URL)\n- ✅ Headers (like `Authorization`)\n- ✅ Query parameters or JSON body\n\n---\n\n## ✨ Features\n\n- 🌐 Generic API caller — supports any Zyla API Hub endpoint\n- 🔐 Secure — API keys passed via headers\n- 🚀 Dockerized — easy to deploy\n\n---\n\n## 🧪 Example Use\n\nInput to the MCP tool:\n\n```json\n{\n  \"method\": \"GET\",\n  \"url\": \"https://www.zylalabs.com/api/824/crime+data+by+zipcode+api/583/get+crime+rates+by+zip\",\n  \"headers\": {\n    \"Authorization\": \"Bearer YOUR_ZYLA_API_KEY\"\n  }\n}\n",
+    "language": "Python",
+    "license": null,
+    "github_stars": 0,
+    "forks": 1,
+    "open_issues": 0,
+    "watchers": 0,
+    "last_pushed": "2025-03-31T16:03:19Z",
+    "created_at": "2025-03-31T15:41:10Z",
+    "topics": [],
+    "complete_enriched_at": "2025-11-17T13:06:21.524845"
+  },
+  "language": "Python",
+  "quality_score": 40
 }

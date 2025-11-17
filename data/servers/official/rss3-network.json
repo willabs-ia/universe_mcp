@@ -10,10 +10,13 @@
   },
   "release_date": "Mar 18, 2025",
   "url": "https://www.pulsemcp.com/servers/rss3-network",
-  "source_url": null,
+  "source_url": "https://github.com/RSS3-Network",
   "categories": [],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:48.028084",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 3,
+    "complete_enriched_at": "2025-11-17T13:11:07.349248"
+  }
 }

@@ -10,10 +10,40 @@
   },
   "release_date": "May 15, 2025",
   "url": "https://www.pulsemcp.com/servers/victorialogs",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/victoriametrics-community/mcp-victorialogs",
+  "categories": [
+    "browser",
+    "documentation",
+    "security",
+    "git",
+    "testing",
+    "api",
+    "cloud",
+    "messaging",
+    "ai",
+    "data",
+    "monitoring",
+    "search",
+    "development",
+    "database"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:35.910231",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 31,
+    "readme_excerpt": "# VictoriaLogs MCP Server\n\n[![Latest Release](https://img.shields.io/github/v/release/VictoriaMetrics-Community/mcp-victorialogs?sort=semver&label=&filter=!*-victorialogs&logo=github&labelColor=gray&color=gray&link=https%3A%2F%2Fgithub.com%2FVictoriaMetrics-Community%2Fmcp-victorialogs%2Freleases%2Flatest)](https://github.com/VictoriaMetrics-Community/mcp-victorialogs/releases)\n[![Trust Score](https://archestra.ai/mcp-catalog/api/badge/quality/VictoriaMetrics-Community/mcp-victorialogs)](https://archestra.ai/mcp-catalog/victoriametrics-community__mcp-victorialogs)\n[![smithery badge](https://smithery.ai/badge/@VictoriaMetrics-Community/mcp-victorialogs)](https://smithery.ai/server/@VictoriaMetrics-Community/mcp-victorialogs)\n![License](https://img.shields.io/github/license/VictoriaMetrics-Community/mcp-victorialogs?labelColor=green&label=&link=https%3A%2F%2Fgithub.com%2FVictoriaMetrics-Community%2Fmcp-victorialogs%2Fblob%2Fmain%2FLICENSE)\n![Slack](https://img.shields.io/badge/Join-4A154B?logo=slack&link=https%3A%2F%2Fslack.victoriametrics.com)\n![X](https://img.shields.io/twitter/follow/VictoriaMetrics?style=flat&label=Follow&color=black&logo=x&labelColor=black&link=https%3A%2F%2Fx.com%2FVictoriaMetrics)\n![Reddit](https://img.shields.io/reddit/subreddit-subscribers/VictoriaMetrics?style=flat&label=Join&labelColor=red&logoColor=white&logo=reddit&link=https%3A%2F%2Fwww.reddit.com%2Fr%2FVictoriaMetrics)\n\nThe implementation of [Model Context Protocol (MCP)](https://modelcontextprot",
+    "complete_enriched_at": "2025-11-17T13:10:48.744577"
+  },
+  "capabilities": [
+    "only APIs of VictoriaLogs, i.e. all functions available in [Web UI](https://docs.victoriametrics.com/victorialogs/querying/#web-ui):",
+    "Query statistics for the logs as metrics",
+    "Showing parameters of your VictoriaLogs instance",
+    "Listing available streams, fields, field values",
+    "to-date documentation and is able to search it without online access.",
+    "Querying logs and exploring logs data"
+  ],
+  "runtime": "Node.js",
+  "package_manager": "npm",
+  "quality_score": 38
 }

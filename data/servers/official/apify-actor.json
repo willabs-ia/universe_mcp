@@ -10,10 +10,48 @@
   },
   "release_date": "Jan 3, 2025",
   "url": "https://www.pulsemcp.com/servers/apify-actor",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/apify/apify-mcp-server",
+  "categories": [
+    "browser",
+    "documentation",
+    "security",
+    "git",
+    "testing",
+    "api",
+    "filesystem",
+    "cloud",
+    "messaging",
+    "ai",
+    "data",
+    "search",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:13.800336",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 565,
+    "readme_excerpt": "<h1 align=\"center\">\n    <a href=\"https://mcp.apify.com\">\n        <picture>\n            <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/apify/apify-mcp-server/refs/heads/master/docs/apify_mcp_server_dark_background.png\">\n            <img alt=\"Apify MCP Server\" src=\"https://raw.githubusercontent.com/apify/apify-mcp-server/refs/heads/master/docs/apify_mcp_server_white_background.png\" width=\"500\">\n        </picture>\n    </a>\n    <br>\n    <small><a href=\"https://mcp.apify.com\">mcp.apify.com</a></small>\n</h1>\n\n<p align=center>\n    <a href=\"https://www.npmjs.com/package/@apify/actors-mcp-server\" rel=\"nofollow\"><img src=\"https://img.shields.io/npm/v/@apify/actors-mcp-server.svg\" alt=\"NPM latest version\" data-canonical-src=\"https://img.shields.io/npm/v/@apify/actors-mcp-server.svg\" style=\"max-width: 100%;\"></a>\n    <a href=\"https://www.npmjs.com/package/@apify/actors-mcp-server\" rel=\"nofollow\"><img src=\"https://img.shields.io/npm/dm/@apify/actors-mcp-server.svg\" alt=\"Downloads\" data-canonical-src=\"https://img.shields.io/npm/dm/@apify/actors-mcp-server.svg\" style=\"max-width: 100%;\"></a>\n    <a href=\"https://github.com/apify/actors-mcp-server/actions/workflows/check.yaml\"><img src=\"https://github.com/apify/actors-mcp-server/actions/workflows/check.yaml/badge.svg?branch=master\" alt=\"Build Status\" style=\"max-width: 100%;\"></a>\n    <a href=\"https://apify.com/apify/actors-mcp-server\"><img src=\"https://apify.com/actor-badge?actor=apify/actors-mcp-server",
+    "complete_enriched_at": "2025-11-17T13:11:59.777584"
+  },
+  "capabilities": [
+    "no default tools will be included.",
+    "without any discovery or generic calling tools, the server can be configured as follows:",
+    "line flags. For example, to load the same tools as in the hosted server configuration, use:",
+    "web-browser",
+    "mcp-server --tools actors,docs,apify/rag-web-browser",
+    "*Configuring the hosted server:**",
+    "*Configuring the CLI:**",
+    "actor`) as a tool. No other tools will be available.",
+    "`apify/rag-web-browser`",
+    "*⚠️ Important recommendation**",
+    "*Easy configuration:**",
+    "*For production use and stable interfaces, always explicitly specify the `tools` parameter** to ensure your configuration remains consistent across updates.",
+    "*The default tools configuration may change in future versions.** When no `tools` parameter is specified, the server currently loads default tools, but this behavior is subject to change.",
+    "mcp-server --tools apify/my-actor",
+    "either categories or specific tools directly, and Apify Actors. For example, `tools=storage,runs` loads two categories; `tools=add-actor` loads just one tool."
+  ],
+  "runtime": "Node.js",
+  "package_manager": "npm",
+  "quality_score": 45
 }

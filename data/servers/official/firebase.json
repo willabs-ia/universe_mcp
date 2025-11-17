@@ -7,10 +7,40 @@
   "weekly_metric": null,
   "release_date": "Dec 23, 2013",
   "url": "https://www.pulsemcp.com/servers/firebase",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/firebase/firebase-tools",
+  "categories": [
+    "browser",
+    "documentation",
+    "security",
+    "git",
+    "testing",
+    "api",
+    "filesystem",
+    "cloud",
+    "ai",
+    "data",
+    "search",
+    "development",
+    "database"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:29.252876",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 4270,
+    "readme_excerpt": "# Firebase CLI and MCP Server [![Actions Status][gh-actions-badge]][gh-actions] [![Node Version][node-badge]][npm] [![NPM version][npm-badge]][npm] [![Install MCP Server](https://cursor.com/deeplink/mcp-install-dark.svg)](https://cursor.com/en/install-mcp?name=firebase&config=eyJjb21tYW5kIjoibnB4IiwiYXJncyI6WyIteSIsImZpcmViYXNlLXRvb2xzIiwibWNwIiwiLS1kaXIiLCIuIl19)\n\nThe Firebase Command Line Interface (CLI) Tools can be used to test, manage, and deploy your Firebase project from the command line. This repository is also the home of the official Firebase MCP Server. For more information, please see the [Firebase MCP Server documentation](./src/mcp).\n\n- Deploy code and assets to your Firebase projects\n- Run a local web server for your Firebase Hosting site\n- Interact with data in your Firebase database\n- Import/Export users into/from Firebase Auth\n\nTo get started with the Firebase CLI, read the full list of commands below or check out the [documentation](https://firebase.google.com/docs/cli).\n\n## Installation\n\n### Node Package\n\nYou can install the Firebase CLI using npm (the Node Package Manager). Note that you will need to install\n[Node.js](http://nodejs.org/) and [npm](https://npmjs.org/). Installing Node.js should install npm as well.\n\nTo download and install the Firebase CLI run the following command:\n\n```bash\nnpm install -g firebase-tools\n```\n\nThis will provide you with the globally accessible `firebase` command.\n\n### Standalone Binary\n\nThe standalone binary distribution of",
+    "language": "TypeScript",
+    "license": "MIT License",
+    "forks": 1095,
+    "open_issues": 798,
+    "watchers": 4270,
+    "last_pushed": "2025-11-16T21:46:13Z",
+    "created_at": "2013-12-23T18:53:04Z",
+    "topics": [],
+    "complete_enriched_at": "2025-11-17T13:07:35.622747"
+  },
+  "runtime": "Node.js",
+  "package_manager": "npm",
+  "language": "TypeScript",
+  "quality_score": 77
 }

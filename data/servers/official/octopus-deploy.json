@@ -10,10 +10,63 @@
   },
   "release_date": "Sep 24, 2025",
   "url": "https://www.pulsemcp.com/servers/octopus-deploy",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/octopusdeploy/mcp-server",
+  "categories": [
+    "documentation",
+    "security",
+    "git",
+    "testing",
+    "api",
+    "cloud",
+    "messaging",
+    "ai",
+    "data",
+    "monitoring",
+    "search",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:33.580453",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 90,
+    "installation_commands": [
+      "docker run -i --rm -e OCTOPUS_API_KEY=your-key -e OCTOPUS_SERVER_URL=https://your-octopus.com octopusdeploy/mcp-server",
+      "docker run -i --rm octopusdeploy/mcp-server --server-url https://your-octopus.com --api-key YOUR_API_KEY"
+    ],
+    "readme_excerpt": "<picture>\n  <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/octopusdeploy/mcp-server/blob/main/images/OctopusDeploy_Logo_DarkMode.png?raw=true\">\n  <source media=\"(prefers-color-scheme: light)\" srcset=\"https://github.com/octopusdeploy/mcp-server/blob/main/images/OctopusDeploy_Logo_LightMode.png?raw=true\">\n  <img alt=\"Octopus Deploy Logo\" src=\"https://github.com/octopusdeploy/mcp-server/blob/main/images/OctopusDeploy_Logo_LightMode.png?raw=true\" />\n</picture>\n\n# Octopus Deploy Official MCP Server\n\n[Octopus](https://octopus.com) makes it easy to deliver software to Kubernetes, multi-cloud, on-prem infrastructure, and anywhere else. Automate the release, deployment, and operations of your software and AI workloads with a tool that can handle CD at scale in ways no other tool can.\n\n[Model Context Protocol](https://modelcontextprotocol.io/) (MCP) allows the AI assistants you use in your day to day work, like Claude Code, or ChatGPT, to connect to the systems and services you own in a standardized fashion, allowing them to pull information from those systems and services to answer questions and perform tasks.\n\nThe Octopus MCP Server provides your AI assistant with powerful tools that allow it to inspect, query, and diagnose problems within your Octopus instance, transforming it into your ultimate DevOps wingmate. For a list of supported use-cases and sample prompts, see our [documentation](https://octopus.com/docs/octopus-ai/mcp/use-cases).\n\nThis project is c",
+    "language": "TypeScript",
+    "license": "Mozilla Public License 2.0",
+    "forks": 5,
+    "open_issues": 4,
+    "watchers": 90,
+    "last_pushed": "2025-11-16T14:40:55Z",
+    "created_at": "2025-09-08T04:15:17Z",
+    "topics": [
+      "devops",
+      "mcp",
+      "mcp-server"
+    ],
+    "complete_enriched_at": "2025-11-17T13:10:27.609512"
+  },
+  "capabilities": [
+    "**certificates** - Certificate operations",
+    "**projects** - Project operations",
+    "**kubernetes** - Kubernetes operations",
+    "**machines** - Deployment target operations",
+    "-toolsets` parameter to enable specific groups of tools:",
+    "y @octopusdeploy/mcp-server",
+    "**core** - Basic operations (always enabled)",
+    "y @octopusdeploy/mcp-server --toolsets projects,deployments",
+    "**tenants** - Multi-tenancy operations",
+    "y @octopusdeploy/mcp-server --toolsets all",
+    "**accounts** - Account operations",
+    "**releases** - Release management",
+    "**tasks** - Task operations",
+    "**deployments** - Deployment operations"
+  ],
+  "runtime": "Node.js",
+  "package_manager": "npm",
+  "language": "TypeScript",
+  "quality_score": 73
 }

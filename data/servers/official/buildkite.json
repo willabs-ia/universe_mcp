@@ -7,10 +7,38 @@
   "weekly_metric": null,
   "release_date": "Apr 9, 2025",
   "url": "https://www.pulsemcp.com/servers/buildkite",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/buildkite/buildkite-mcp-server",
+  "categories": [
+    "documentation",
+    "security",
+    "testing",
+    "filesystem",
+    "ai",
+    "data",
+    "api",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:39.033900",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 40,
+    "readme_excerpt": "# buildkite-mcp-server\n\n[![Build status](https://badge.buildkite.com/79fefd75bc7f1898fb35249f7ebd8541a99beef6776e7da1b4.svg?branch=main)](https://buildkite.com/buildkite/buildkite-mcp-server)\n\n> **[Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction) server exposing Buildkite data (pipelines, builds, jobs, tests) to AI tooling and editors.**\n\nFull documentation is available at [buildkite.com/docs/apis/mcp-server](https://buildkite.com/docs/apis/mcp-server).\n\n---\n\n## Library Usage\n\nThe exported Go API of this module should be considered unstable, and subject to breaking changes as we evolve this project.\n\n---\n\n## Security\n\nTo ensure the MCP server is run in a secure environment, we recommend running it in a container.\n\nThis image is built from [cgr.dev/chainguard/static](https://images.chainguard.dev/directory/image/static/versions) and runs as an unprivileged user.\n\n---\n\n## Contributing\n\nDevelopment guidelines are in [`DEVELOPMENT.md`](DEVELOPMENT.md).\n\n---\n\n## License\n\nMIT © Buildkite\n\nSPDX-License-Identifier: MIT\n",
+    "language": "Go",
+    "license": "MIT License",
+    "forks": 21,
+    "open_issues": 9,
+    "watchers": 40,
+    "last_pushed": "2025-11-12T04:32:39Z",
+    "created_at": "2025-04-08T21:28:47Z",
+    "topics": [
+      "buildkite",
+      "mcp-server"
+    ],
+    "complete_enriched_at": "2025-11-17T13:07:28.189410"
+  },
+  "runtime": "Python",
+  "package_manager": "pip",
+  "language": "Go",
+  "quality_score": 69
 }

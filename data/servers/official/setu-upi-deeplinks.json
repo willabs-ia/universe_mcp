@@ -7,10 +7,29 @@
   "weekly_metric": null,
   "release_date": "Jan 23, 2025",
   "url": "https://www.pulsemcp.com/servers/setu-upi-deeplinks",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/setuhq/setu-mcps/tree/HEAD/upi-deeplinks",
+  "categories": [
+    "documentation",
+    "git",
+    "testing",
+    "filesystem",
+    "ai",
+    "api",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:01.239949",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 2,
+    "installation_commands": [
+      "pip install setu_mcp_kyc",
+      "pip install setu_mcp_upi_deeplinks"
+    ],
+    "readme_excerpt": "# Setu MCPs\n\nCollection of Model Context Protocol (MCP) servers for Setu's APIs, enabling Claude/ other LLMs to interact with various Setu services.\n\n## Available MCP Servers\n\n### KYC Verification\n[`setu_mcp_kyc`](kyc/) - Provides verification tools for PAN, GST, and name matching using Setu's Digital Gateway APIs.\n- PAN card verification\n- GST registration verification\n- Name matching with similarity scores\n\n### UPI Deeplinks\n[`setu_mcp_upi_deeplinks`](upi-deeplinks/) - Manages UPI payment links using Setu's payment infrastructure.\n- Generate UPI payment links\n- Check payment status\n- Handle refunds\n- Mock payments (sandbox mode)\n\n## Installation\n\nEach MCP server can be installed individually via pip:\n\n```bash\n# For KYC verification\npip install setu_mcp_kyc\n\n# For UPI Deeplinks\npip install setu_mcp_upi_deeplinks\n```\n\n## Usage\n\n1. Install the desired MCP server\n2. Configure environment variables as specified in each server's README\n3. Add the server configuration to Claude Desktop's config file\n4. Start using the tools through Claude\n\nFor detailed setup and usage instructions, refer to each server's individual README:\n- [KYC Server Documentation](kyc/README.md)\n- [UPI Deeplinks Server Documentation](upi-deeplinks/README.md)\n\n## Development\n\nEach MCP server is maintained in its own directory with independent versioning and configuration. See the individual README files for development setup and contribution guidelines.\n\n## License\n\nMIT License - see individual server directori",
+    "complete_enriched_at": "2025-11-17T13:12:16.663538"
+  },
+  "runtime": "Python",
+  "package_manager": "pip",
+  "quality_score": 29
 }
