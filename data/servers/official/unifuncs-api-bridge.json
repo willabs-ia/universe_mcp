@@ -10,10 +10,30 @@
   },
   "release_date": "Apr 3, 2025",
   "url": "https://www.pulsemcp.com/servers/unifuncs-api-bridge",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/unifuncs/ufn-mcp-server",
+  "categories": [
+    "development",
+    "api",
+    "search"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:41.437707",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 4,
+    "readme_excerpt": "# UniFuncs MCP Server\n\nMCP Server for the UniFuncs API\n\n## Setup\n\n### API Key\n\nGet a UniFuncs API Key:\nhttps://unifuncs.com/account\n\n### NPX\n\n```json\n{\n    \"mcpServers\": {\n        \"unifuncs\": {\n            \"command\": \"npx\",\n            \"args\": [\n                \"-y\",\n                \"@unifuncs/ufn-mcp-server\"\n            ],\n            \"env\": {\n                \"UNIFUNCS_API_KEY\": \"sk-**********\"\n            }\n        }\n    }\n}\n```\n",
+    "language": "JavaScript",
+    "license": null,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 4,
+    "last_pushed": "2025-04-15T01:41:43Z",
+    "created_at": "2025-04-03T10:06:05Z",
+    "topics": [],
+    "complete_enriched_at": "2025-11-17T13:01:01.787409"
+  },
+  "runtime": "Node.js",
+  "package_manager": "npm",
+  "language": "JavaScript",
+  "quality_score": 44
 }

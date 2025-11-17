@@ -10,10 +10,51 @@
   },
   "release_date": "Jan 8, 2025",
   "url": "https://www.pulsemcp.com/servers/motherduck-duckdb",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/motherduckdb/mcp-server-motherduck",
+  "categories": [
+    "data",
+    "monitoring",
+    "development",
+    "ai",
+    "cloud",
+    "search",
+    "database",
+    "git",
+    "documentation",
+    "filesystem",
+    "testing",
+    "api",
+    "security"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:18.057062",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 364,
+    "readme_excerpt": "# MotherDuck's DuckDB MCP Server\n\nAn MCP server implementation that interacts with DuckDB and MotherDuck databases, providing SQL analytics capabilities to AI Assistants and IDEs.\n\n[<img src=\"https://cursor.com/deeplink/mcp-install-dark.svg\" alt=\"Install in Cursor\">](https://cursor.com/en/install-mcp?name=DuckDB&config=eyJjb21tYW5kIjoidXZ4IG1jcC1zZXJ2ZXItbW90aGVyZHVjayAtLWRiLXBhdGggOm1lbW9yeToiLCJlbnYiOnsibW90aGVyZHVja190b2tlbiI6IiJ9fQ%3D%3D)\n\n## Resources\n- [Close the Loop: Faster Data Pipelines with MCP, DuckDB & AI (Blogpost)](https://motherduck.com/blog/faster-data-pipelines-with-mcp-duckdb-ai/)\n- [Faster Data Pipelines development with MCP and DuckDB (YouTube)](https://www.youtube.com/watch?v=yG1mv8ZRxcU)\n\n## Features\n\n- **Hybrid execution**: query data from local DuckDB or/and cloud-based MotherDuck databases\n- **Cloud storage integration**: access data stored in Amazon S3 or other cloud storage thanks to MotherDuck's integrations\n- **Data sharing**: create and share databases\n- **SQL analytics**: use DuckDB's SQL dialect to query any size of data directly from your AI Assistant or IDE\n- **Serverless architecture**: run analytics without needing to configure instances or clusters\n\n## Components\n\n### Prompts\n\nThe server provides one prompt:\n\n- `duckdb-motherduck-initial-prompt`: A prompt to initialize a connection to DuckDB or MotherDuck and start working with it\n\n### Tools\n\nThe server offers one tool:\n\n- `query`: Execute a SQL query on the DuckDB or MotherDuck database\n",
+    "language": "Python",
+    "license": "MIT License",
+    "forks": 54,
+    "open_issues": 10,
+    "watchers": 364,
+    "last_pushed": "2025-11-11T03:00:40Z",
+    "created_at": "2024-12-12T23:37:11Z",
+    "topics": [
+      "ai",
+      "duckdb",
+      "motherduck"
+    ],
+    "complete_enriched_at": "2025-11-17T13:00:57.463454"
+  },
+  "capabilities": [
+    "**Serverless architecture**: run analytics without needing to configure instances or clusters",
+    "**Cloud storage integration**: access data stored in Amazon S3 or other cloud storage thanks to MotherDuck's integrations",
+    "**Data sharing**: create and share databases",
+    "**Hybrid execution**: query data from local DuckDB or/and cloud-based MotherDuck databases",
+    "**SQL analytics**: use DuckDB's SQL dialect to query any size of data directly from your AI Assistant or IDE"
+  ],
+  "runtime": "Node.js",
+  "package_manager": "npm",
+  "language": "Python",
+  "quality_score": 81
 }

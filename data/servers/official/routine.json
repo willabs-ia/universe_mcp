@@ -7,10 +7,30 @@
   "weekly_metric": null,
   "release_date": "Apr 2, 2025",
   "url": "https://www.pulsemcp.com/servers/routine",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/routineco/mcp-server",
+  "categories": [
+    "development",
+    "ai",
+    "api"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:17.816246",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 4,
+    "readme_excerpt": "# Routine Model Context Protocol (MCP) Server\n\nThis is the Routine [Model Context Protocol (MCP)](https://modelcontextprotocol.io) server.\n\n## Usage\n\n1. Run the [Routine](https://routine.co/download) application for the MCP server to work.\n2. Run this MCP server with `npx routine-mcp-server` or configure it in your favorite MCP client.\n\n### Claude Desktop\n\nFor Claude Desktop, refer to https://modelcontextprotocol.io/quickstart/user\n\nIn particular, your file `claude_desktop_config.json` should look something like that:\n\n```json\n{\n  \"mcpServers\": {\n    \"routine\": {\n      \"command\": \"npx\",\n      \"args\": [\"routine-mcp-server\"]\n    }\n  }\n}\n```\n\n## Development\n\n```bash\n# Install dependencies\nyarn\n\n# Build the project\nyarn build\n```\n\nThen install the MCP server:\n\n- Command: full path to `node` executable\n- Arguments: full path to `./dist/index.js`\n\n### Claude Desktop\n\nFor Claude Desktop, refer to https://modelcontextprotocol.io/quickstart/user\n\nIn particular, your file `claude_desktop_config.json` should look something like that:\n\n```json\n{\n  \"mcpServers\": {\n    \"routine\": {\n      \"command\": \"/absolute/path/to/bin/node\",\n      \"args\": [\"/absolute/path/to/mcp-server/dist/index.js\"]\n    }\n  }\n}\n```\n\n### Running the MCP Server (development)\n\n```bash\n# Start the server\nyarn start\n```\n\nThe server communicates via stdin/stdout, following the MCP protocol. You can interact with it by sending JSON requests to its stdin and reading responses from stdout.\n",
+    "language": "TypeScript",
+    "license": null,
+    "forks": 4,
+    "open_issues": 2,
+    "watchers": 4,
+    "last_pushed": "2025-06-16T12:18:34Z",
+    "created_at": "2025-04-01T13:51:27Z",
+    "topics": [],
+    "complete_enriched_at": "2025-11-17T13:01:06.019875"
+  },
+  "runtime": "Node.js",
+  "package_manager": "npm",
+  "language": "TypeScript",
+  "quality_score": 49
 }
