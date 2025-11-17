@@ -1,0 +1,19 @@
+{
+  "id": "scalekit",
+  "name": "Scalekit",
+  "provider": "Scalekit Inc",
+  "description": "Provides tools for managing Scalekit environments, organizations, users, connections, and workspace operations. Built...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 638
+  },
+  "release_date": "Aug 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/scalekit",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:33.560223",
+  "metadata": {}
+}

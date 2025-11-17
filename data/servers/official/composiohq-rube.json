@@ -1,0 +1,19 @@
+{
+  "id": "composiohq-rube",
+  "name": "Rube",
+  "provider": "Composio",
+  "description": "Connect and perform actions on 500+ apps like Gmail, Slack, Github and more.",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1200
+  },
+  "release_date": "Aug 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/composiohq-rube",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:24.943150",
+  "metadata": {}
+}

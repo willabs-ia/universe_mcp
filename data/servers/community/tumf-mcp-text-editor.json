@@ -1,0 +1,19 @@
+{
+  "id": "tumf-mcp-text-editor",
+  "name": "Text Editor",
+  "provider": "tumf",
+  "description": "Perform efficient line-oriented operations on text files.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 767
+  },
+  "release_date": "Dec 11, 2024",
+  "url": "https://www.pulsemcp.com/servers/tumf-mcp-text-editor",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:27.146732",
+  "metadata": {}
+}

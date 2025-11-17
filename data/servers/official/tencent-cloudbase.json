@@ -1,0 +1,19 @@
+{
+  "id": "tencent-cloudbase",
+  "name": "Tencent CloudBase",
+  "provider": "Tencent CloudBase",
+  "description": "Enables AI systems to deploy, monitor, and manage full-stack applications on Tencent CloudBase through tools for...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 743
+  },
+  "release_date": "May 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/tencent-cloudbase",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:27.149508",
+  "metadata": {}
+}

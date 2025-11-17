@@ -1,0 +1,19 @@
+{
+  "id": "asana",
+  "name": "Asana",
+  "provider": "Asana",
+  "description": "Bridge to the Asana project management system.",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 3000
+  },
+  "release_date": "May 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/asana",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:18.091426",
+  "metadata": {}
+}

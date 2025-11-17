@@ -1,0 +1,19 @@
+{
+  "id": "pv-bhat-vibe-check",
+  "name": "Vibe Check",
+  "provider": "PV Bhat",
+  "description": "The definitive Vibe Coder's sanity check MCP server: Upgrade your agent with self-aware oversight.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1500
+  },
+  "release_date": "Mar 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/pv-bhat-vibe-check",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:22.704501",
+  "metadata": {}
+}

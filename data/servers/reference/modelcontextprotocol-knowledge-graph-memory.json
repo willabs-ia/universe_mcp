@@ -1,0 +1,19 @@
+{
+  "id": "modelcontextprotocol-knowledge-graph-memory",
+  "name": "Knowledge Graph Memory",
+  "provider": "Anthropic",
+  "description": "Build and query persistent semantic networks for data management.",
+  "classification": "reference",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 14800
+  },
+  "release_date": "Nov 19, 2024",
+  "url": "https://www.pulsemcp.com/servers/modelcontextprotocol-knowledge-graph-memory",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:13.810056",
+  "metadata": {}
+}

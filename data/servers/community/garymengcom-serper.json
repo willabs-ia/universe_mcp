@@ -1,0 +1,19 @@
+{
+  "id": "garymengcom-serper",
+  "name": "Serper (Google Search)",
+  "provider": "Gary Meng",
+  "description": "Enables AI to perform Google searches via the Serper API with support for location, language, and time period filters.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 996
+  },
+  "release_date": "Apr 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/garymengcom-serper",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:24.972475",
+  "metadata": {}
+}

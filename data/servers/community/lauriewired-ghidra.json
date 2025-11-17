@@ -1,0 +1,19 @@
+{
+  "id": "lauriewired-ghidra",
+  "name": "Ghidra",
+  "provider": "Laurie Wired",
+  "description": "Decompile and analyze binaries in Ghidra.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 10000
+  },
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/lauriewired-ghidra",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:15.907347",
+  "metadata": {}
+}

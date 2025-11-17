@@ -1,0 +1,19 @@
+{
+  "id": "boikot",
+  "name": "Company Ethics Information (Boikot)",
+  "provider": "Boikot",
+  "description": "Learn about the ethical and unethical actions of major companies.",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 638
+  },
+  "release_date": "Aug 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/boikot",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:33.542325",
+  "metadata": {}
+}

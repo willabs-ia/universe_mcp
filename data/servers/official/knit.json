@@ -1,0 +1,19 @@
+{
+  "id": "knit",
+  "name": "Knit",
+  "provider": "Knit",
+  "description": "Knit's cloud-hosted server bridges AI models with 10,000+ business application tools through a simple 4-step setup...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 8400
+  },
+  "release_date": "May 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/knit",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:15.915742",
+  "metadata": {}
+}

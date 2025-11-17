@@ -1,0 +1,19 @@
+{
+  "id": "apify-actor",
+  "name": "Apify Actor",
+  "provider": "Apify",
+  "description": "Use 4,000+ pre-built cloud tools, known as Actors, to extract data from websites, e-commerce, social media, search...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 17600
+  },
+  "release_date": "Jan 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/apify-actor",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:13.800336",
+  "metadata": {}
+}

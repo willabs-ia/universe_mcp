@@ -1,0 +1,19 @@
+{
+  "id": "surendranb-google-analytics",
+  "name": "Google Analytics 4",
+  "provider": "Surendran B",
+  "description": "Integrates with Google Analytics 4 to retrieve metrics, dimensions, and customized reports with flexible date ranges...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 610
+  },
+  "release_date": "May 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/surendranb-google-analytics",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:33.579059",
+  "metadata": {}
+}

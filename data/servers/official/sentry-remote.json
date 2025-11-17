@@ -1,0 +1,19 @@
+{
+  "id": "sentry-remote",
+  "name": "Sentry",
+  "provider": "Sentry",
+  "description": "Retrieve error and performance data from Sentry.",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 1500
+  },
+  "release_date": "Mar 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/sentry-remote",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:22.711737",
+  "metadata": {}
+}

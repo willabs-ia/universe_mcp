@@ -1,0 +1,19 @@
+{
+  "id": "doobidoo-memory-service",
+  "name": "Memory Service",
+  "provider": "doobidoo",
+  "description": "Integrates with ChromaDB using sentence transformers for efficient text embedding, enabling semantic search and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1900
+  },
+  "release_date": "Dec 26, 2024",
+  "url": "https://www.pulsemcp.com/servers/doobidoo-memory-service",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:20.283479",
+  "metadata": {}
+}

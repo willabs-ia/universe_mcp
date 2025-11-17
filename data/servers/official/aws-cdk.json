@@ -1,0 +1,19 @@
+{
+  "id": "aws-cdk",
+  "name": "AWS Cloud Development Kit",
+  "provider": "AWS",
+  "description": "Integration for AWS Cloud Development Kit (CDK) best practices, infrastructure as code patterns, and security...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 34200
+  },
+  "release_date": "Apr 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/aws-cdk",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:13.781543",
+  "metadata": {}
+}

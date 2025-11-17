@@ -1,0 +1,19 @@
+{
+  "id": "ai-zerolab-email",
+  "name": "Email Server",
+  "provider": "AI ZeroLab",
+  "description": "Integrates with email providers to enable sending and receiving emails, automating workflows and managing...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 711
+  },
+  "release_date": "Feb 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/ai-zerolab-email",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:29.292240",
+  "metadata": {}
+}

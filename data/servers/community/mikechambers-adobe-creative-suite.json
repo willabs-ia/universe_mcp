@@ -1,0 +1,19 @@
+{
+  "id": "mikechambers-adobe-creative-suite",
+  "name": "Adobe Creative Suite",
+  "provider": "Mike Chambers",
+  "description": "Bridges Adobe Creative Suite applications including Photoshop, Premiere Pro, and InDesign through WebSocket...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 691
+  },
+  "release_date": "Jun 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/mikechambers-adobe-creative-suite",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:31.369757",
+  "metadata": {}
+}

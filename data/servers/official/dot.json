@@ -1,0 +1,19 @@
+{
+  "id": "dot",
+  "name": "Dot",
+  "provider": "Dot",
+  "description": "Get insights and visualizations from data in your databases, data warehouses or semantic layers.",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 3000
+  },
+  "release_date": "Aug 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/dot",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:20.248263",
+  "metadata": {}
+}

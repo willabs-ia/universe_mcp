@@ -1,0 +1,19 @@
+{
+  "id": "dmontgomery40-faxbot",
+  "name": "Faxbot",
+  "provider": "DMontgomery40",
+  "description": "Provides T.38 fax transmission capabilities through cloud (Phaxio) and on-premises (Asterisk SIP) backends, enabling...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 638
+  },
+  "release_date": "Sep 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/dmontgomery40-faxbot",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:33.569812",
+  "metadata": {}
+}

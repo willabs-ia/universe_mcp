@@ -1,0 +1,19 @@
+{
+  "id": "kennethreitz-applemusic",
+  "name": "Apple Music",
+  "provider": "Kenneth Reitz",
+  "description": "Integrates with Apple Music on macOS using Python and AppleScript to enable music playback control, library...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 791
+  },
+  "release_date": "Feb 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/kennethreitz-applemusic",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:27.144072",
+  "metadata": {}
+}

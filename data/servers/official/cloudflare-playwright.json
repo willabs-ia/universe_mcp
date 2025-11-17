@@ -1,0 +1,19 @@
+{
+  "id": "cloudflare-playwright",
+  "name": "Cloudflare Browser Rendering (Playwright)",
+  "provider": "Cloudflare",
+  "description": "Enables browser automation through structured accessibility snapshots for web navigation, form-filling, element...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 19200
+  },
+  "release_date": "Apr 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/cloudflare-playwright",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:13.797784",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kiwi-flights",
+  "name": "Kiwi Flight Search",
+  "provider": "Kiwi.com",
+  "description": "Search and book flights via Kiwi.com",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 638
+  },
+  "release_date": "Aug 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/kiwi-flights",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:33.540949",
+  "metadata": {}
+}

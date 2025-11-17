@@ -1,0 +1,19 @@
+{
+  "id": "smart-tree",
+  "name": "Smart Tree",
+  "provider": "8b.IS",
+  "description": "Rust-based directory visualization and analysis tool that provides quantum compression, semantic analysis, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 830
+  },
+  "release_date": "Aug 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/smart-tree",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:27.138956",
+  "metadata": {}
+}

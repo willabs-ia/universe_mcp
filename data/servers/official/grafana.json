@@ -1,0 +1,19 @@
+{
+  "id": "grafana",
+  "name": "Grafana",
+  "provider": "Grafana Labs",
+  "description": "Integrates with Grafana to enable searching dashboards, fetching datasource information, querying Prometheus metrics,...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 14900
+  },
+  "release_date": "Mar 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/grafana",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:13.808840",
+  "metadata": {}
+}

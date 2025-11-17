@@ -1,0 +1,19 @@
+{
+  "id": "scriptedalchemy-devtools-debugger",
+  "name": "DevTools Debugger",
+  "provider": "ScriptedAlchemy",
+  "description": "Provides full Chrome DevTools Protocol debugging capabilities for Node.js applications with breakpoint management,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 3000
+  },
+  "release_date": "Sep 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/scriptedalchemy-devtools-debugger",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:20.250339",
+  "metadata": {}
+}

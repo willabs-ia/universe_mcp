@@ -1,0 +1,19 @@
+{
+  "id": "genai-toolbox",
+  "name": "Toolbox for Databases",
+  "provider": "Google",
+  "description": "Provides a secure, configurable interface for executing pre-defined queries against multiple database systems...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 21100
+  },
+  "release_date": "Apr 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/genai-toolbox",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:13.791114",
+  "metadata": {}
+}

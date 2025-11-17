@@ -1,0 +1,19 @@
+{
+  "id": "apple-developer-documentation",
+  "name": "Apple Developer Documentation",
+  "provider": "MightyDillah",
+  "description": "Provides seamless access to Apple Developer Documentation with smart search capabilities and wildcard pattern support...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1900
+  },
+  "release_date": "Jun 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/apple-developer-documentation",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:20.290053",
+  "metadata": {}
+}

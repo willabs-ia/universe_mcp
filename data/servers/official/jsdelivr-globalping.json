@@ -1,0 +1,19 @@
+{
+  "id": "jsdelivr-globalping",
+  "name": "Globalping",
+  "provider": "jsDelivr",
+  "description": "Provides global network diagnostics through Cloudflare Workers, enabling engineers to run tests like ping,...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 738
+  },
+  "release_date": "May 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/jsdelivr-globalping",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:29.267298",
+  "metadata": {}
+}

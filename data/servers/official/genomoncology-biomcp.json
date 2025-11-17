@@ -1,0 +1,19 @@
+{
+  "id": "genomoncology-biomcp",
+  "name": "BioMCP (Biomedical Database Integration)",
+  "provider": "GenomOncology",
+  "description": "Integrates with biomedical databases including ClinicalTrials.gov, PubMed, and MyVariant.info to provide structured...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 2000
+  },
+  "release_date": "Apr 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/genomoncology-biomcp",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:20.282055",
+  "metadata": {}
+}

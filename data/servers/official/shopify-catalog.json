@@ -1,0 +1,19 @@
+{
+  "id": "shopify-catalog",
+  "name": "Shopify Catalog",
+  "provider": "Shopify",
+  "description": "Integrates with Shopify's merchant ecosystem to enable native shopping experiences through product search, cart...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 638
+  },
+  "release_date": "Aug 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/shopify-catalog",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:33.538303",
+  "metadata": {}
+}

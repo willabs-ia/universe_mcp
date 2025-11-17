@@ -1,0 +1,19 @@
+{
+  "id": "readingdancer-swagger",
+  "name": "Swagger API",
+  "provider": "Chris Houston",
+  "description": "Integrates with Swagger API specifications to download, cache, and extract endpoints, HTTP methods, models, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 968
+  },
+  "release_date": "Mar 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/readingdancer-swagger",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:24.979176",
+  "metadata": {}
+}

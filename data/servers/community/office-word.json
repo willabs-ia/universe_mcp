@@ -1,0 +1,19 @@
+{
+  "id": "office-word",
+  "name": "Office Word",
+  "provider": "gongrzhe",
+  "description": "Provides a bridge to Microsoft Word for creating and modifying documents with features like text formatting, table...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 12900
+  },
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/office-word",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:15.886285",
+  "metadata": {}
+}

@@ -14,20 +14,20 @@
       "description": "Server name"
     },
     "provider": {
-      "type": "string",
+      "type": ["string", "null"],
       "description": "Organization or provider name"
     },
     "description": {
-      "type": "string",
+      "type": ["string", "null"],
       "description": "Brief description of the server"
     },
     "classification": {
-      "type": "string",
-      "enum": ["official", "reference", "community"],
+      "type": ["string", "null"],
+      "enum": ["official", "reference", "community", null],
       "description": "Server classification"
     },
     "weekly_metric": {
-      "type": "object",
+      "type": ["object", "null"],
       "properties": {
         "type": {
           "type": "string",
@@ -39,9 +39,8 @@
       }
     },
     "release_date": {
-      "type": "string",
-      "format": "date",
-      "description": "Release date (YYYY-MM-DD)"
+      "type": ["string", "null"],
+      "description": "Release date"
     },
     "url": {
       "type": "string",
@@ -49,7 +48,7 @@
       "description": "PulseMCP server page URL"
     },
     "source_url": {
-      "type": "string",
+      "type": ["string", "null"],
       "format": "uri",
       "description": "Source repository URL (GitHub, etc)"
     },
@@ -68,7 +67,7 @@
       "description": "Server tags"
     },
     "last_updated": {
-      "type": "string",
+      "type": ["string", "null"],
       "format": "date-time",
       "description": "Last update timestamp from PulseMCP"
     },

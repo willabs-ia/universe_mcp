@@ -1,0 +1,19 @@
+{
+  "id": "modelcontextprotocol-gitlab",
+  "name": "GitLab",
+  "provider": "Anthropic",
+  "description": "Control repositories, merge requests, and issues via GitLab API.",
+  "classification": "reference",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 917
+  },
+  "release_date": "Nov 19, 2024",
+  "url": "https://www.pulsemcp.com/servers/modelcontextprotocol-gitlab",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:27.070099",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rails-explorer",
+  "name": "Rails Explorer",
+  "provider": "Mario Alberto Chávez Cárdenas",
+  "description": "Enables AI models to explore and understand Rails projects by providing tools for file browsing, route inspection,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 2200
+  },
+  "release_date": "Mar 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/rails-explorer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:20.275261",
+  "metadata": {}
+}

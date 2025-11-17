@@ -1,0 +1,19 @@
+{
+  "id": "posthog",
+  "name": "PostHog",
+  "provider": "PostHog",
+  "description": "Integrates with PostHog to enable querying analytics, errors, running SQL insights, and managing feature flags...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 1500
+  },
+  "release_date": "Mar 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/posthog",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:22.709367",
+  "metadata": {}
+}

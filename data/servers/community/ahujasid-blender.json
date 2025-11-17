@@ -1,0 +1,19 @@
+{
+  "id": "ahujasid-blender",
+  "name": "Blender",
+  "provider": "Siddharth Ahuja",
+  "description": "Enables natural language control of Blender for 3D scene creation, manipulation, and rendering without requiring...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 174000
+  },
+  "release_date": "Mar 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/ahujasid-blender",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:13.773132",
+  "metadata": {}
+}

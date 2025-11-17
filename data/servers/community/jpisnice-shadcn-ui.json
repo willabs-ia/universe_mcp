@@ -1,0 +1,19 @@
+{
+  "id": "jpisnice-shadcn-ui",
+  "name": "shadcn/ui",
+  "provider": "Janardhan Pollle",
+  "description": "Provides direct access to shadcn/ui v4 components, blocks, and demos through GitHub API integration with automatic...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1100
+  },
+  "release_date": "Jul 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/jpisnice-shadcn-ui",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:24.966218",
+  "metadata": {}
+}

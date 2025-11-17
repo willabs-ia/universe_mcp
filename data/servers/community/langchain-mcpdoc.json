@@ -1,0 +1,19 @@
+{
+  "id": "langchain-mcpdoc",
+  "name": "LLMS.txt Documentation",
+  "provider": "LangChain",
+  "description": "Provides AI systems with access to documentation from llms.txt files by fetching and parsing content from specified...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1500
+  },
+  "release_date": "Mar 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/langchain-mcpdoc",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:22.733293",
+  "metadata": {}
+}

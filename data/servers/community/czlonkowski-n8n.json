@@ -1,0 +1,19 @@
+{
+  "id": "czlonkowski-n8n",
+  "name": "n8n",
+  "provider": "Romuald Czlonkowski",
+  "description": "Integrates with n8n workflow automation platform to provide conversational access to 525+ nodes including AI-capable...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 12400
+  },
+  "release_date": "Jun 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/czlonkowski-n8n",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:15.890222",
+  "metadata": {}
+}

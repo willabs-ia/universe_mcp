@@ -1,0 +1,19 @@
+{
+  "id": "cloudflare-auditlogs",
+  "name": "Cloudflare Audit Logs",
+  "provider": "Cloudflare",
+  "description": "Audit logs summarize the history of changes made within your Cloudflare account. Audit logs include account level...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 738
+  },
+  "release_date": "May 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/cloudflare-auditlogs",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:29.256555",
+  "metadata": {}
+}

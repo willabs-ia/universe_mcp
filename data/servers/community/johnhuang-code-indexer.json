@@ -1,0 +1,19 @@
+{
+  "id": "johnhuang-code-indexer",
+  "name": "Code Indexer",
+  "provider": "John Huang",
+  "description": "Indexes and analyzes code repositories to enable file navigation, pattern searching, and complexity assessment across...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 3300
+  },
+  "release_date": "Mar 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/johnhuang-code-indexer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:18.081429",
+  "metadata": {}
+}

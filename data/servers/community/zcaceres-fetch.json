@@ -1,0 +1,19 @@
+{
+  "id": "zcaceres-fetch",
+  "name": "Fetch",
+  "provider": "Zach Caceres",
+  "description": "Fetches and transforms web content into various formats.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 553
+  },
+  "release_date": "Dec 19, 2024",
+  "url": "https://www.pulsemcp.com/servers/zcaceres-fetch",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:33.590206",
+  "metadata": {}
+}

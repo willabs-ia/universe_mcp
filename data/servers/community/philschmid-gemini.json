@@ -1,0 +1,19 @@
+{
+  "id": "philschmid-gemini",
+  "name": "Gemini",
+  "provider": "Philipp Schmid",
+  "description": "Integrates with Google's Gemini API to provide intelligent web search with synthesized results and citations, plus...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 638
+  },
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/philschmid-gemini",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:33.564259",
+  "metadata": {}
+}

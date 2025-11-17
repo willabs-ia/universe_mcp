@@ -1,0 +1,19 @@
+{
+  "id": "congress",
+  "name": "Congress.gov",
+  "provider": "Physinomos, Inc.",
+  "description": "Integrates with the Congress.gov API to provide access to US legislative data including bills, voting records, member...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 5400
+  },
+  "release_date": "Jun 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/congress",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:18.049069",
+  "metadata": {}
+}

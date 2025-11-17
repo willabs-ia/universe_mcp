@@ -1,0 +1,19 @@
+{
+  "id": "bitte-protocol",
+  "name": "Bitte AI",
+  "provider": "Bitte Protocol",
+  "description": "Connects AI assistants to the Bitte AI ecosystem, enabling discovery and execution of specialized agents and tools...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 738
+  },
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/bitte-protocol",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:29.251395",
+  "metadata": {}
+}

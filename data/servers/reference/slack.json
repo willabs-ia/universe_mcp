@@ -1,0 +1,19 @@
+{
+  "id": "slack",
+  "name": "Slack",
+  "provider": "Anthropic",
+  "description": "Send messages, manage channels, and access workspace history.",
+  "classification": "reference",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 13200
+  },
+  "release_date": "Nov 19, 2024",
+  "url": "https://www.pulsemcp.com/servers/slack",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:13.817444",
+  "metadata": {}
+}

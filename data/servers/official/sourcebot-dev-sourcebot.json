@@ -1,0 +1,19 @@
+{
+  "id": "sourcebot-dev-sourcebot",
+  "name": "Sourcebot",
+  "provider": "Taqla Inc.",
+  "description": "Enables code search across multiple repository hosts including GitHub, GitLab, Gitea, Gerrit, and Bitbucket with...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 602
+  },
+  "release_date": "May 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/sourcebot-dev-sourcebot",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:33.584186",
+  "metadata": {}
+}

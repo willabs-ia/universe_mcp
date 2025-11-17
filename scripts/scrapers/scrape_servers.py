@@ -89,7 +89,7 @@ class ServerScraper:
                 return None
 
     def extract_server_data(self, card) -> Optional[Dict]:
-        """Extract data from a server card element"""
+        """Extract data from a server card element using CSS selectors"""
         try:
             # Get the link and slug
             href = card.get('href', '')
@@ -99,78 +99,67 @@ class ServerScraper:
             server_id = href.split('/servers/')[-1]
             url = urljoin(BASE_URL, href)
 
-            # Extract name (h3 tag)
-            name_elem = card.find('h3')
+            # Extract name (h3 tag with specific classes)
+            name_elem = card.find('h3', class_=lambda x: x and 'text-20' in x)
+            if not name_elem:
+                name_elem = card.find('h3')
             name = name_elem.get_text(strip=True) if name_elem else "Unknown"
 
-            # Extract all text content
-            text_content = card.get_text('\n', strip=True)
-            lines = [line.strip() for line in text_content.split('\n') if line.strip()]
+            # Extract provider (p tag with text-14 text-gray-500)
+            provider_elem = card.find('p', class_=lambda x: x and 'text-gray-500' in x)
+            provider = provider_elem.get_text(strip=True) if provider_elem else None
 
-            # Try to parse provider (usually second line after name)
-            provider = None
-            if len(lines) > 1:
-                # Provider is usually the line after the name
-                for i, line in enumerate(lines):
-                    if name in line and i + 1 < len(lines):
-                        potential_provider = lines[i + 1]
-                        # Avoid classification badges and metrics
-                        if not any(keyword in potential_provider.lower() for keyword in ['official', 'reference', 'community', 'est ', 'downloads', 'visitors']):
-                            provider = potential_provider
-                            break
+            # Extract description (p tag with text-15 text-pulse-black leading-relaxed)
+            desc_elem = card.find('p', class_=lambda x: x and 'text-15' in x and 'leading-relaxed' in x)
+            description = desc_elem.get_text(strip=True) if desc_elem else None
 
-            # Extract description (longest text that's not name/provider/metrics)
-            description = None
-            for line in lines:
-                if (len(line) > 30 and
-                    line != name and
-                    line != provider and
-                    'est ' not in line.lower() and
-                    not re.match(r'^\d{4}', line)):  # not a date
-                    description = line
-                    break
-
-            # Extract classification
+            # Extract classification - look for "Classification" label
             classification = None
-            for line in lines:
-                line_lower = line.lower()
-                if 'official' in line_lower:
-                    classification = 'official'
-                    break
-                elif 'reference' in line_lower:
-                    classification = 'reference'
-                    break
-                elif 'community' in line_lower:
-                    classification = 'community'
-                    break
+            classification_divs = card.find_all('div')
+            for div in classification_divs:
+                label = div.find('p', class_=lambda x: x and 'text-12' in x and 'uppercase' in x)
+                if label and 'classification' in label.get_text().lower():
+                    value_p = div.find('p', class_=lambda x: x and 'text-14' in x and 'capitalize' in x)
+                    if value_p:
+                        classification = value_p.get_text(strip=True).lower()
+                        break
 
-            # Extract metrics
+            # Extract weekly metric - look for "Est Downloads" or "Est Visitors" label
             weekly_metric = None
-            for line in lines:
-                if 'est downloads' in line.lower():
-                    match = re.search(r'([\d,]+)\s*est downloads', line, re.IGNORECASE)
-                    if match:
-                        weekly_metric = {
-                            'type': 'downloads',
-                            'value': int(match.group(1).replace(',', ''))
-                        }
-                    break
-                elif 'est visitors' in line.lower():
-                    match = re.search(r'([\d,]+)\s*est visitors', line, re.IGNORECASE)
-                    if match:
-                        weekly_metric = {
-                            'type': 'visitors',
-                            'value': int(match.group(1).replace(',', ''))
-                        }
-                    break
+            for div in classification_divs:
+                label = div.find('p', class_=lambda x: x and 'text-12' in x and 'uppercase' in x)
+                if label:
+                    label_text = label.get_text().lower()
+                    if 'est downloads' in label_text or 'est visitors' in label_text:
+                        value_p = div.find('p', class_=lambda x: x and 'text-14' in x)
+                        if value_p:
+                            value_text = value_p.get_text(strip=True)
+                            # Parse number (e.g., "439k", "1.2m", "123")
+                            match = re.search(r'([\d.]+)([km]?)', value_text.lower())
+                            if match:
+                                number = float(match.group(1))
+                                multiplier = match.group(2)
+                                if multiplier == 'k':
+                                    number *= 1000
+                                elif multiplier == 'm':
+                                    number *= 1000000
 
-            # Extract release date
+                                weekly_metric = {
+                                    'type': 'downloads' if 'downloads' in label_text else 'visitors',
+                                    'value': int(number)
+                                }
+                        break
+
+            # Extract release date - look for "Release Date" label
             release_date = None
-            for line in lines:
-                # Look for date pattern YYYY-MM-DD or "Month DD, YYYY"
-                date_match = re.search(r'\b(\d{4})-(\d{2})-(\d{2})\b', line)
-                if date_match:
-                    release_date = date_match.group(0)
+            for div in classification_divs:
+                label = div.find('p', class_=lambda x: x and 'text-12' in x and 'uppercase' in x)
+                if label and 'release date' in label.get_text().lower():
+                    value_p = div.find('p', class_=lambda x: x and 'text-14' in x)
+                    if value_p:
+                        date_text = value_p.get_text(strip=True)
+                        # Try to parse date formats like "Mar 22, 2025" or "2025-03-22"
+                        release_date = date_text
                     break
 
             # Build server object
@@ -195,6 +184,8 @@ class ServerScraper:
 
         except Exception as e:
             print(f"  ❌ Error parsing server card: {e}")
+            import traceback
+            traceback.print_exc()
             return None
 
     def save_server(self, server_data: Dict):

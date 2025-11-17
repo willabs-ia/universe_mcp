@@ -1,0 +1,19 @@
+{
+  "id": "wonderwhy-er-claude-computer-commander",
+  "name": "CLI (Desktop Commander)",
+  "provider": "Eduard Ruzga",
+  "description": "Integrates terminal and filesystem capabilities for executing system commands, managing processes, and performing...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 6500
+  },
+  "release_date": "Jan 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/wonderwhy-er-claude-computer-commander",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:18.040503",
+  "metadata": {}
+}

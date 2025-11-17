@@ -1,0 +1,19 @@
+{
+  "id": "wesbos-currency-conversion",
+  "name": "Currency Conversion",
+  "provider": "Wes Bos",
+  "description": "Provides real-time currency conversion capabilities by fetching current exchange rates from currency APIs, enabling...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 1500
+  },
+  "release_date": "Jun 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/wesbos-currency-conversion",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:22.720360",
+  "metadata": {}
+}

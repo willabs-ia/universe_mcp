@@ -1,0 +1,19 @@
+{
+  "id": "mercadolibre-documentation",
+  "name": "Mercado Libre",
+  "provider": "Mercado Libre",
+  "description": "Integrates with Mercado Libre's API documentation to provide real-time search and retrieval of technical...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 6100
+  },
+  "release_date": "Jul 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/mercadolibre-documentation",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:18.045485",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "motherduck-duckdb",
+  "name": "MotherDuck & DuckDB",
+  "provider": "MotherDuck",
+  "description": "Integrates MotherDuck and local DuckDB databases for flexible querying and analysis of structured data in...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 4400
+  },
+  "release_date": "Jan 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/motherduck-duckdb",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:18.057062",
+  "metadata": {}
+}

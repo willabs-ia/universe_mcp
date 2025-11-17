@@ -1,0 +1,19 @@
+{
+  "id": "fctolabs-flight-search",
+  "name": "Flight Search",
+  "provider": "FCTOLabs",
+  "description": "Integrates with multiple flight data APIs to provide real-time flight search, price discovery across flexible date...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 638
+  },
+  "release_date": "Sep 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/fctolabs-flight-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:33.561618",
+  "metadata": {}
+}

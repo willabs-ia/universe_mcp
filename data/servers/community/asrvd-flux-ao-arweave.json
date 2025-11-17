@@ -1,0 +1,19 @@
+{
+  "id": "asrvd-flux-ao-arweave",
+  "name": "Flux (AO & Arweave)",
+  "provider": "Ashirvad Bhushan",
+  "description": "Integrates with Arweave and AO ecosystems to enable developers to run, create, and test AO code and blueprints using...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 638
+  },
+  "release_date": "May 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/asrvd-flux-ao-arweave",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:31.392517",
+  "metadata": {}
+}

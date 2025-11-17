@@ -1,0 +1,19 @@
+{
+  "id": "trynia",
+  "name": "Nia",
+  "provider": "Nia",
+  "description": "Provides additional context to coding agents by indexing extra documentation and codebases that coding agents can't.",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 4900
+  },
+  "release_date": "Jul 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/trynia",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:18.051281",
+  "metadata": {}
+}

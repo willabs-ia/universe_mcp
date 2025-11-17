@@ -1,0 +1,19 @@
+{
+  "id": "mailerlite",
+  "name": "MailerLite",
+  "provider": "MailerLite",
+  "description": "Turn AI tools into your email marketing assistant.",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 1500
+  },
+  "release_date": "Sep 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/mailerlite",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:22.732124",
+  "metadata": {}
+}

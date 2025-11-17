@@ -1,0 +1,19 @@
+{
+  "id": "crystaldba-postgres",
+  "name": "PostgreSQL",
+  "provider": "Crystal DBA",
+  "description": "Helps you and your AI agents throughout the entire development process—from writing SQL to tuning performance safely.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 3500
+  },
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/crystaldba-postgres",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:18.076040",
+  "metadata": {}
+}

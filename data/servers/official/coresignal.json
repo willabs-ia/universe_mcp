@@ -1,0 +1,19 @@
+{
+  "id": "coresignal",
+  "name": "Coresignal",
+  "provider": "Coresignal",
+  "description": "Access comprehensive B2B data on companies, employees, and job postings for your LLMs and AI workflows.",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 738
+  },
+  "release_date": "May 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/coresignal",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:29.268948",
+  "metadata": {}
+}

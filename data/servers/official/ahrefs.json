@@ -1,0 +1,19 @@
+{
+  "id": "ahrefs",
+  "name": "Ahrefs",
+  "provider": "Ahrefs",
+  "description": "Integrates with Ahrefs' SEO and marketing APIs to provide rank tracking, keyword research, batch analysis, search...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 13000
+  },
+  "release_date": "Jul 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/ahrefs",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:15.882238",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "flux159-mcp-server-kubernetes",
+  "name": "Kubernetes Manager",
+  "provider": "Flux159",
+  "description": "Manage Kubernetes cluster resources and deployments.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1200
+  },
+  "release_date": "Dec 8, 2024",
+  "url": "https://www.pulsemcp.com/servers/flux159-mcp-server-kubernetes",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:24.936287",
+  "metadata": {}
+}

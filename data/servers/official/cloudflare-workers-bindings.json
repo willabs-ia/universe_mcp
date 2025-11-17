@@ -1,0 +1,19 @@
+{
+  "id": "cloudflare-workers-bindings",
+  "name": "Cloudflare Workers (via Bindings)",
+  "provider": "Cloudflare",
+  "description": "Integrates tools for managing resources in the Cloudflare Workers Platform.",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 2200
+  },
+  "release_date": "May 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/cloudflare-workers-bindings",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:20.264833",
+  "metadata": {}
+}

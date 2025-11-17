@@ -1,0 +1,19 @@
+{
+  "id": "otto-google-ads",
+  "name": "Google Ads",
+  "provider": "Otto",
+  "description": "Launch and manage Google Ads straight from your AI client (e.g., Claude) with a hosted, remote MCP server - No Google...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 638
+  },
+  "release_date": "Aug 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/otto-google-ads",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:33.539620",
+  "metadata": {}
+}

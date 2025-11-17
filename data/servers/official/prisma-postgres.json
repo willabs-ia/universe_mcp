@@ -1,0 +1,19 @@
+{
+  "id": "prisma-postgres",
+  "name": "Prisma Postgres",
+  "provider": "Prisma",
+  "description": "Integrates with Prisma Postgres databases for schema migrations, database creation, backup management, connection...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 26800
+  },
+  "release_date": "Jun 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/prisma-postgres",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:13.785137",
+  "metadata": {}
+}

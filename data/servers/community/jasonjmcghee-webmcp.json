@@ -1,0 +1,19 @@
+{
+  "id": "jasonjmcghee-webmcp",
+  "name": "WebMCP",
+  "provider": "Jason McGhee",
+  "description": "Turn any website into an MCP server with customizable tools.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 738
+  },
+  "release_date": "Mar 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/jasonjmcghee-webmcp",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:29.249811",
+  "metadata": {}
+}

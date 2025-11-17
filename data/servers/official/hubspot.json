@@ -1,0 +1,19 @@
+{
+  "id": "hubspot",
+  "name": "HubSpot",
+  "provider": "HubSpot",
+  "description": "Integrates with HubSpot CRM to enable secure access to contact information, company records, deal data, and task...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 753
+  },
+  "release_date": "Mar 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/hubspot",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:27.148146",
+  "metadata": {}
+}

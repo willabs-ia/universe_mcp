@@ -1,0 +1,19 @@
+{
+  "id": "guanxinyuan-neo4j",
+  "name": "Neo4j",
+  "provider": "Guanxinyuan",
+  "description": "Provides natural language interfaces to Neo4j graph databases for executing Cypher queries, storing knowledge graph...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 7600
+  },
+  "release_date": "Mar 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/guanxinyuan-neo4j",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:15.925865",
+  "metadata": {}
+}

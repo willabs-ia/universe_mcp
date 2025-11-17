@@ -1,0 +1,19 @@
+{
+  "id": "centralmind-database-gateway",
+  "name": "Centralmind (Database Gateway)",
+  "provider": "CentralMind",
+  "description": "Database integration with security and compliance. Supports: PostgreSQL, MySQL, ClickHouse, Snowflake, MSSQL,...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 691
+  },
+  "release_date": "Mar 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/centralmind-database-gateway",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:29.304162",
+  "metadata": {}
+}

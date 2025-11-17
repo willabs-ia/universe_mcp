@@ -1,0 +1,19 @@
+{
+  "id": "gumlet",
+  "name": "Gumlet",
+  "provider": "Gumlet",
+  "description": "Integrates with Gumlet's video and image processing APIs to enable video asset management, live streaming, DRM...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 638
+  },
+  "release_date": "Jul 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/gumlet",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:31.410434",
+  "metadata": {}
+}

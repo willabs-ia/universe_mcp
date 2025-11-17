@@ -1,0 +1,19 @@
+{
+  "id": "upstash-context7",
+  "name": "Context7 (Documentation Database)",
+  "provider": "Upstash",
+  "description": "Connects to Context7.com's documentation database to provide up-to-date library and framework documentation with...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 254000
+  },
+  "release_date": "Apr 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/upstash-context7",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:13.769489",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "blazickjp-arxiv-mcp-server",
+  "name": "ArXiv",
+  "provider": "John Blazick",
+  "description": "Search and analyze academic papers from the arXiv repository.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 10900
+  },
+  "release_date": "Nov 29, 2024",
+  "url": "https://www.pulsemcp.com/servers/blazickjp-arxiv-mcp-server",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:15.901347",
+  "metadata": {}
+}

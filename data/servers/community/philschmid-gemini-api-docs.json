@@ -1,0 +1,19 @@
+{
+  "id": "philschmid-gemini-api-docs",
+  "name": "Gemini API Docs",
+  "provider": "Philipp Schmid",
+  "description": "Automatically scrapes and indexes Google Gemini API documentation from ai.google.dev into a local SQLite database...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1500
+  },
+  "release_date": "Oct 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/philschmid-gemini-api-docs",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:22.708252",
+  "metadata": {}
+}

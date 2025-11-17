@@ -1,0 +1,19 @@
+{
+  "id": "a-bonus-google-docs",
+  "name": "Google Docs",
+  "provider": "a-bonus",
+  "description": "Provides a bridge between Google Docs and AI tools for reading document content, appending text, and applying...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1400
+  },
+  "release_date": "Apr 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/a-bonus-google-docs",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:22.744732",
+  "metadata": {}
+}

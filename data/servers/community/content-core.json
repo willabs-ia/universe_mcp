@@ -1,0 +1,19 @@
+{
+  "id": "content-core",
+  "name": "Content Core",
+  "provider": "Luis Novo",
+  "description": "Extracts content from diverse media sources including URLs, documents, videos, audio files, and images using...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1700
+  },
+  "release_date": "Jul 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/content-core",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:20.302418",
+  "metadata": {}
+}

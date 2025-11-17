@@ -1,0 +1,19 @@
+{
+  "id": "nspady-google-calendar",
+  "name": "Google Calendar",
+  "provider": "Nicholas Spady",
+  "description": "Integrates with Google Calendar to enable natural language querying, event creation, and calendar management using...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1900
+  },
+  "release_date": "Jan 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/nspady-google-calendar",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:20.284752",
+  "metadata": {}
+}

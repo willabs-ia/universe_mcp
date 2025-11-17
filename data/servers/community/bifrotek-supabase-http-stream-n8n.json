@@ -1,0 +1,19 @@
+{
+  "id": "bifrotek-supabase-http-stream-n8n",
+  "name": "Supabase",
+  "provider": "BIFROTEK",
+  "description": "Integrates with Supabase platform for complete database operations, edge function deployment, project management, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 638
+  },
+  "release_date": "Jul 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/bifrotek-supabase-http-stream-n8n",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:31.413097",
+  "metadata": {}
+}

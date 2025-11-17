@@ -1,0 +1,19 @@
+{
+  "id": "hub-tools",
+  "name": "Hub Tools",
+  "provider": "MCP Hub Team",
+  "description": "Provides HTTP-based access to the MCP Hub database for discovering and searching Model Context Protocol...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 638
+  },
+  "release_date": "May 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/hub-tools",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:31.406562",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "gh05tcrew-metasploit-framework",
+  "name": "Metasploit Framework",
+  "provider": "GH05TCREW",
+  "description": "Provides a secure interface to Metasploit Framework's penetration testing capabilities, enabling exploit execution,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 2100
+  },
+  "release_date": "Apr 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/gh05tcrew-metasploit-framework",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:20.277988",
+  "metadata": {}
+}

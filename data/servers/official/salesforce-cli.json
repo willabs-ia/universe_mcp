@@ -1,0 +1,19 @@
+{
+  "id": "salesforce-cli",
+  "name": "Salesforce CLI",
+  "provider": "Salesforce",
+  "description": "Integrates with Salesforce development tools to provide org management, metadata deployment, SOQL queries, code...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 12200
+  },
+  "release_date": "Sep 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/salesforce-cli",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:15.895528",
+  "metadata": {}
+}

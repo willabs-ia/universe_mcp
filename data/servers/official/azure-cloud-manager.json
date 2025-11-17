@@ -1,0 +1,19 @@
+{
+  "id": "azure-cloud-manager",
+  "name": "Azure Cloud Manager",
+  "provider": "Microsoft",
+  "description": "Enables AI to manage Azure cloud resources through a .NET-based command-line interface, providing operations for...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 691
+  },
+  "release_date": "Dec 27, 2024",
+  "url": "https://www.pulsemcp.com/servers/azure-cloud-manager",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:29.306937",
+  "metadata": {}
+}

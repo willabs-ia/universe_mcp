@@ -1,0 +1,19 @@
+{
+  "id": "tevonsb-homeassistant-mcp",
+  "name": "Home Assistant",
+  "provider": "tevonsb",
+  "description": "Connect to the Home Assistant platform, enabling smart home control.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1200
+  },
+  "release_date": "Dec 12, 2024",
+  "url": "https://www.pulsemcp.com/servers/tevonsb-homeassistant-mcp",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:24.937575",
+  "metadata": {}
+}

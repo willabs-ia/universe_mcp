@@ -1,0 +1,19 @@
+{
+  "id": "versuscontrol-aws-infrastructure-agent",
+  "name": "AI Infrastructure Agent (AWS)",
+  "provider": "VersusControl",
+  "description": "Provides autonomous AWS infrastructure management through natural language processing, combining real-time resource...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 691
+  },
+  "release_date": "Aug 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/versuscontrol-aws-infrastructure-agent",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:31.375833",
+  "metadata": {}
+}

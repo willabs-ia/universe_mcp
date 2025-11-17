@@ -1,0 +1,19 @@
+{
+  "id": "nictuku-meta-ads",
+  "name": "Meta Ads API",
+  "provider": "Yves Junqueira",
+  "description": "Provides a bridge to Facebook's Marketing API for analyzing ad campaigns, reviewing creatives, and monitoring metrics...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1000
+  },
+  "release_date": "Apr 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/nictuku-meta-ads",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:24.971086",
+  "metadata": {}
+}

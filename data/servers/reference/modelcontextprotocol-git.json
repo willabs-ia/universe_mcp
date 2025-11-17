@@ -1,0 +1,19 @@
+{
+  "id": "modelcontextprotocol-git",
+  "name": "Git",
+  "provider": "Anthropic",
+  "description": "Interact with local Git repositories for version control tasks.",
+  "classification": "reference",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 15600
+  },
+  "release_date": "Nov 19, 2024",
+  "url": "https://www.pulsemcp.com/servers/modelcontextprotocol-git",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:13.804969",
+  "metadata": {}
+}

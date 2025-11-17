@@ -1,0 +1,19 @@
+{
+  "id": "dbt-labs-dbt",
+  "name": "dbt",
+  "provider": "dbt Labs",
+  "description": "Provides a bridge between dbt (data build tool) resources and natural language interfaces, enabling execution of CLI...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 29900
+  },
+  "release_date": "Apr 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/dbt-labs-dbt",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:13.782711",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "nickclyde-duckduckgo-search",
+  "name": "DuckDuckGo Search",
+  "provider": "Nick Clyde",
+  "description": "Integrates with DuckDuckGo to provide web search capabilities, content fetching, and parsing, with results formatted...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 13200
+  },
+  "release_date": "Feb 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/nickclyde-duckduckgo-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:13.816230",
+  "metadata": {}
+}

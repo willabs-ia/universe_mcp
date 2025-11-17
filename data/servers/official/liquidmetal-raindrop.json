@@ -1,0 +1,19 @@
+{
+  "id": "liquidmetal-raindrop",
+  "name": "Raindrop",
+  "provider": "Liquid Metal AI",
+  "description": "Transforms Claude Code into a complete infrastructure development platform by providing structured workflows for...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 638
+  },
+  "release_date": "Jul 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/liquidmetal-raindrop",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:31.422998",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "figma-flutter",
+  "name": "Figma to Flutter",
+  "provider": "mhmzdev",
+  "description": "Converts Figma designs into Flutter widget code by extracting design elements, analyzing component structures, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1400
+  },
+  "release_date": "Aug 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/figma-flutter",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:22.745989",
+  "metadata": {}
+}

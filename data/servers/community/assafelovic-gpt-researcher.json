@@ -1,0 +1,19 @@
+{
+  "id": "assafelovic-gpt-researcher",
+  "name": "GPT Researcher",
+  "provider": "Assaf Elovic",
+  "description": "Enables real-time web research, information gathering, and report generation with tools for conducting deep research,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 968
+  },
+  "release_date": "Mar 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/assafelovic-gpt-researcher",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:24.984623",
+  "metadata": {}
+}
