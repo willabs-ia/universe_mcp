@@ -10,10 +10,13 @@
   },
   "release_date": "Apr 28, 2025",
   "url": "https://www.pulsemcp.com/servers/dbt-labs-dbt",
-  "source_url": null,
+  "source_url": "https://github.com/dbt-labs/dbt-mcp",
   "categories": [],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:13.782711",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 423
+  },
+  "enriched_at": "2025-11-17T11:34:05.672722"
 }

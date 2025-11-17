@@ -7,10 +7,13 @@
   "weekly_metric": null,
   "release_date": "Apr 2, 2025",
   "url": "https://www.pulsemcp.com/servers/routine",
-  "source_url": null,
+  "source_url": "https://github.com/routineco/mcp-server",
   "categories": [],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:17.816246",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 4
+  },
+  "enriched_at": "2025-11-17T11:33:58.136610"
 }
