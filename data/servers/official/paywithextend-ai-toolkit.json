@@ -7,10 +7,26 @@
   "weekly_metric": null,
   "release_date": "May 15, 2025",
   "url": "https://www.pulsemcp.com/servers/paywithextend-ai-toolkit",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/paywithextend/extend-ai-toolkit",
+  "categories": [
+    "workflow",
+    "git",
+    "development",
+    "api",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:22.818065",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 16,
+    "capabilities": [
+      "**Comprehensive Tool Set**: Supports all of Extend's major API functionalities, spanning our Credit Card, Virtual Card, Transaction & Expense Management endpoints",
+      "**Multiple AI Framework Support**: Works with Anthropic Model Context Protocol, OpenAI Agents, LangChain LangGraph & ReAct, and CrewAI frameworks"
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "# Extend AI Toolkit \n\n## Overview\n\nThe [Extend](https://www.paywithextend.com) AI Toolkit provides a python based implementation of tools to integrate with Extend APIs for multiple AI frameworks including Anthropic's [Model Context Protocol (MCP)](https://modelcontextprotocol.com/), [OpenAI](https://github.com/openai/openai-agents-python), [LangChain](https://github.com/langchain-ai/langchain), and [CrewAI](https://github.com/joaomdmoura/crewAI). It enables users to delegate certain actions in the spend management flow to AI agents or MCP-compatible clients like Claude desktop.\n\nThese tools are designed for existing Extend users with API keys. If you are not signed up with Extend and would like to learn more about our modern, easy-to-use virtual card and spend management platform for small- and medium-sized businesses, you can check us out at [paywithextend.com](https://www.paywithextend.com/).\n\n## Features\n\n- **Multiple AI Framework Support**: Works with Anthropic Model Context Protocol, OpenAI Agents, LangChain LangGraph & ReAct, and CrewAI frameworks \n- **Comprehensive Tool Set**: Supports all of Extend's major API functionalities, spanning our Credit Card, Virtual Card, Transaction & Expense Management endpoints\n\n## Installation\n\nYou don't need this source code unless you want to modify the package. If you just\nwant to use the package run:\n\n```sh\npip install extend_ai_toolkit\n```\n\n### Requirements\n\n- **Python**: Version 3.10 or higher\n- **Extend API Key**: Sign up at [pay",
+    "quality_score": 60
+  },
+  "enriched_at": "2025-11-17T18:39:46.129230"
 }

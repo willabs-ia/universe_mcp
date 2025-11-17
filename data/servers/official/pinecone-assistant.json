@@ -10,10 +10,26 @@
   },
   "release_date": "Apr 22, 2025",
   "url": "https://www.pulsemcp.com/servers/pinecone-assistant",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/pinecone-io/assistant-mcp",
+  "categories": [
+    "testing",
+    "api",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:35.890562",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 39,
+    "capabilities": [
+      "Supports multiple results retrieval with a configurable number of results",
+      "Retrieves information from Pinecone Assistant"
+    ],
+    "runtime": "Rust",
+    "readme_excerpt": "# Pinecone Assistant MCP Server\n\nAn MCP server implementation for retrieving information from Pinecone Assistant.\n\n## Features\n\n- Retrieves information from Pinecone Assistant\n- Supports multiple results retrieval with a configurable number of results\n\n## Prerequisites\n\n- Docker installed on your system\n- Pinecone API key - obtain from the [Pinecone Console](https://app.pinecone.io)\n- Pinecone Assistant API host - after creating an Assistant (e.g. in Pinecone Console), you can find the host in the Assistant details page\n\n## Building with Docker\n\nTo build the Docker image:\n\n```sh\ndocker build -t pinecone/assistant-mcp .\n```\n\n## Running with Docker\n\nRun the server with your Pinecone API key:\n\n```sh\ndocker run -i --rm \\\n  -e PINECONE_API_KEY=<YOUR_PINECONE_API_KEY_HERE> \\\n  -e PINECONE_ASSISTANT_HOST=<YOUR_PINECONE_ASSISTANT_HOST_HERE> \\\n  pinecone/assistant-mcp\n```\n\n### Environment Variables\n\n- `PINECONE_API_KEY` (required): Your Pinecone API key\n- `PINECONE_ASSISTANT_HOST` (optional): Pinecone Assistant API host (default: https://prod-1-data.ke.pinecone.io)\n- `LOG_LEVEL` (optional): Logging level (default: info)\n\n## Usage with Claude Desktop\n\nAdd this to your `claude_desktop_config.json`:\n\n```json\n{\n  \"mcpServers\": {\n    \"pinecone-assistant\": {\n      \"command\": \"docker\",\n      \"args\": [\n        \"run\", \n        \"-i\", \n        \"--rm\", \n        \"-e\", \n        \"PINECONE_API_KEY\", \n        \"-e\", \n        \"PINECONE_ASSISTANT_HOST\", \n        \"pinecone/assistant-mcp\"\n      ],\n      \"e",
+    "quality_score": 60
+  },
+  "enriched_at": "2025-11-17T18:40:10.898485"
 }

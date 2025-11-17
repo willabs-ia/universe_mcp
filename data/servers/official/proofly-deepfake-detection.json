@@ -10,10 +10,22 @@
   },
   "release_date": "May 9, 2025",
   "url": "https://www.pulsemcp.com/servers/proofly-deepfake-detection",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/prooflie/mcp",
+  "categories": [
+    "testing",
+    "security",
+    "api",
+    "ai",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:41.475636",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 1,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Proofly MCP Integration\n\nInstall and just write 'proofly it' `URL to content` or analyze it `URL to content` for deepfake face swap analysis.\n\n1.  **For clients that connect to MCP servers using a URL (e.g., Cursor, Cascade/Windsurf)**\n\nAdd one of the following configurations to your MCP client (e.g., in `mcp_config.json`):\n\n**A. Streaming (SSE - Recommended where supported):**\n\n```json\n{\n  \"proofly\": {\n    \"serverUrl\": \"https://mcp.proofly.ai/sse\",\n    \"supportedMethods\": [\n      \"analyze-image\",\n      \"analyze\",\n      \"get-face-details\",\n      \"check-session-status\"\n    ],\n    \"auth\": { \"type\": \"none\" } // Or your specific auth if Proofly API https:/get.proofly.ai requires it\n  }\n}\n```\n\n**B. Standard HTTP (Non-streaming):**\n\n```json\n{\n  \"proofly\": {\n    \"serverUrl\": \"https://mcp.proofly.ai/mcp\",\n    \"supportedMethods\": [\n      \"analyze-image\",\n      \"analyze\",\n      \"get-face-details\",\n      \"check-session-status\"\n    ],\n    \"auth\": { \"type\": \"none\" } // Or your specific auth if Proofly API https:/get.proofly.ai requires it\n  }\n}\n```\n\n2.  **For clients that can execute a local command for an MCP server (e.g., Claude Desktop)**\n\n**Claude Desktop:**\n\n1. Run: npx proofly-mcp@latest\n2. Add to your Claude Desktop config file (e.g., `claude_desktop_config.json`)\n\n```json\n{\n  \"mcpServers\": {\n    \"proofly\": {\n      \"command\": \"npx\",\n      \"args\": [\n        \"-y\", // The -y flag might be specific to your npm/npx version or aliasing for auto-confirmation.\n        \"proofly-mcp@latest",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:40:58.567139"
 }

@@ -10,10 +10,26 @@
   },
   "release_date": "Mar 19, 2025",
   "url": "https://www.pulsemcp.com/servers/pica",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/picahq/mcp",
+  "categories": [
+    "documentation",
+    "security",
+    "git",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:34.929380",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 8,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Pica MCP Server\n\n[![npm version](https://img.shields.io/npm/v/%40picahq%2Fmcp)](https://npmjs.com/package/@picahq/mcp) [![smithery badge](https://smithery.ai/badge/@picahq/mcp)](https://smithery.ai/server/@picahq/mcp)\n\n<img src=\"https://assets.picaos.com/github/mcp.svg\" alt=\"Pica MCP Banner\" style=\"border-radius: 5px;\">\n\nA [Model Context Protocol (MCP)](https://modelcontextprotocol.io) server that integrates with [Pica](https://picaos.com), enabling seamless interaction with various third-party services through a standardized interface. This server provides direct access to platform integrations, actions, execution capabilities, and robust code generation capabilities.\n\n## Features\n\n### 🔧 Tools\n- **list_pica_integrations** - List all available platforms and your active connections\n- **search_pica_platform_actions** - Search for available actions for a specific platform\n- **get_pica_action_knowledge** - Get detailed documentation for a specific action including parameters and usage\n- **execute_pica_action** - Execute API actions with full parameter support\n\n## Key Capabilities\n\n### 🔌 **Platform Integration**\n- Connect to 100+ platforms through Pica\n- Manage multiple connections per platform\n- Access real-time connection status\n\n### 🎯 **Smart Intent Detection**\n- Execute actions immediately (e.g. \"read my last gmail email\", \"send a message to the slack channel #general\")\n- Generate integration code (e.g. \"build a form to send emails using gmail\", \"create a UI for messaging\")\n",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:40:03.451900"
 }

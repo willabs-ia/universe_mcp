@@ -10,10 +10,25 @@
   },
   "release_date": "Aug 20, 2025",
   "url": "https://www.pulsemcp.com/servers/pdfco",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/pdfdotco/pdfco-mcp",
+  "categories": [
+    "security",
+    "cloud",
+    "search",
+    "api",
+    "ai",
+    "monitoring",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:42.301801",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 6,
+    "runtime": "Python",
+    "readme_excerpt": "# PDF.co MCP\n\nPDF.co MCP Server provides [PDF.co API](https://pdf.co) functionality through the Model Context Protocol (MCP), enabling AI assistants to easily perform various PDF processing tasks.\n\n## 🚀 Key Features\n\n### 📄 PDF Conversion Tools\n- **PDF → Various Formats**: Convert PDFs to JSON, CSV, Text, Excel (XLS/XLSX), XML, HTML, Images (JPG/PNG/WebP/TIFF)\n- **Various Formats → PDF**: Convert documents (DOC/DOCX/RTF/TXT), spreadsheets (CSV/XLS/XLSX), images, web pages, HTML, emails (MSG/EML) to PDF\n- **Excel Conversions**: Convert Excel files to CSV, JSON, HTML, TXT, XML, PDF\n\n### 🛠️ PDF Editing & Modification\n- **PDF Merging**: Combine multiple PDF files into one\n- **PDF Splitting**: Split PDFs by specific pages or page ranges\n- **Add Annotations & Images**: Add text, links, images, shapes to PDFs\n- **Form Operations**: Read PDF form field information, fill forms, create new form elements\n\n### 🔍 PDF Search & Analysis\n- **Text Search**: Search text in PDFs (supports regular expressions)\n- **Table Detection**: Find table locations and coordinates in PDFs\n- **AI Invoice Parser**: Extract invoice data using AI\n- **PDF Information**: Get detailed information including metadata, page count, security info\n\n### 🔒 Security & Accessibility\n- **Password Protection**: Add/remove password protection to PDFs\n- **Searchability**: Make PDFs searchable via OCR or remove text layers\n- **Attachment Extraction**: Extract attachments from PDFs\n\n### 💼 File Management\n- **File Upload**: Upload ",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:39:48.578360"
 }

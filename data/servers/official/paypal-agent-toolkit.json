@@ -10,10 +10,22 @@
   },
   "release_date": "Apr 2, 2025",
   "url": "https://www.pulsemcp.com/servers/paypal-agent-toolkit",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/paypal/agent-toolkit/tree/HEAD/modelcontextprotocol",
+  "categories": [
+    "security",
+    "development",
+    "api",
+    "ai",
+    "monitoring"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:18.067367",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 168,
+    "runtime": "Node.js",
+    "readme_excerpt": "# PayPal Agent Toolkit\n\nThe PayPal Agent Toolkit enables popular agent frameworks including OpenAI's Agent SDK, LangChain, Vercel's AI SDK, and Model Context Protocol (MCP) to integrate with PayPal APIs through function calling. It includes support for TypeScript and is built on top of PayPal APIs and the PayPal SDKs.\n\n\n## Available tools\n\nThe PayPal Agent toolkit provides the following tools:\n\n**Invoices**\n\n- `create_invoice`: Create a new invoice in the PayPal system\n- `list_invoices`: List invoices with optional pagination and filtering\n- `get_invoice`: Retrieve details of a specific invoice\n- `send_invoice`: Send an invoice to recipients\n- `send_invoice_reminder`: Send a reminder for an existing invoice\n- `cancel_sent_invoice`: Cancel a sent invoice\n- `generate_invoice_qr_code`: Generate a QR code for an invoice\n\n**Payments**\n\n- `create_order`: Create an order in PayPal system based on provided details\n- `get_order`: Retrieve the details of an order\n- `pay_order`: Process payment for an authorized order\n- `create_refund`: Process a refund for a captured payment.\n- `get_refund`: Get the details for a specific refund.\n\n**Dispute Management**\n\n- `list_disputes`: Retrieve a summary of all open disputes\n- `get_dispute`: Retrieve detailed information of a specific dispute\n- `accept_dispute_claim`: Accept a dispute claim\n\n**Shipment Tracking**\n\n- `create_shipment_tracking`: Create a shipment tracking record\n- `get_shipment_tracking`: Retrieve shipment tracking information\n- `upd",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T18:39:43.676292"
 }

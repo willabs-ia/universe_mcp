@@ -10,10 +10,21 @@
   },
   "release_date": "Oct 10, 2025",
   "url": "https://www.pulsemcp.com/servers/parallel-search",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/parallel-web/search-mcp",
+  "categories": [
+    "documentation",
+    "security",
+    "search",
+    "api",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:20.272582",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 3,
+    "readme_excerpt": "# Parallel Search MCP\n\nThe **Parallel Search MCP** allows using Parallel Search API from within any MCP-compatible LLM client. It is meant for daily use for everyday smaller web-search tasks. Please read [our MCP docs here](https://docs.parallel.ai/integrations/mcp/getting-started) for more details.\n\n## Installation\n\nThe official installation instructions can be found [here](https://docs.parallel.ai/integrations/mcp/installation).\n\n```json Search MCP\n{\n  \"mcpServers\": {\n    \"Parallel Search MCP\": {\n      \"url\": \"https://search-mcp.parallel.ai/mcp\"\n    }\n  }\n}\n```\n\n## Running locally\n\n<details><summary>Running locally</summary>\n\nThis is a Search MCP proxy server (https://search-mcp.parallel.ai) that proxies `/mcp` to https://mcp.parallel.ai/v1beta/search_mcp and adds minimally needed additions to make it work with oauth.\n\nMCP address: https://search-mcp.parallel.ai/mcp\n\n[![Install Parallel Search MCP](https://img.shields.io/badge/Install_MCP-Parallel%20Search%20MCP-black?style=for-the-badge)](https://installthismcp.com/Parallel%20Search%20MCP?url=https%3A%2F%2Fsearch-mcp.parallel.ai%2Fmcp)\n\n</details>\n",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:39:33.851813"
 }

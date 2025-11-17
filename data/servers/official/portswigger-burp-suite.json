@@ -10,10 +10,28 @@
   },
   "release_date": "Apr 3, 2025",
   "url": "https://www.pulsemcp.com/servers/portswigger-burp-suite",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/portswigger/mcp-server",
+  "categories": [
+    "testing",
+    "security",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:22.740940",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 368,
+    "capabilities": [
+      "Automatic installation for Claude Desktop",
+      "Connect Burp Suite to AI clients through MCP",
+      "Comes with packaged Stdio MCP proxy server"
+    ],
+    "readme_excerpt": "# Burp Suite MCP Server Extension\n\n## Overview\n\nIntegrate Burp Suite with AI Clients using the Model Context Protocol (MCP).\n\nFor more information about the protocol visit: [modelcontextprotocol.io](https://modelcontextprotocol.io/)\n\n## Features\n\n- Connect Burp Suite to AI clients through MCP\n- Automatic installation for Claude Desktop\n- Comes with packaged Stdio MCP proxy server\n\n## Usage\n\n- Install the extension in Burp Suite\n- Configure your Burp MCP server in the extension settings\n- Configure your MCP client to use the Burp SSE MCP server or stdio proxy\n- Interact with Burp through your client!\n\n## Installation\n\n### Prerequisites\n\nEnsure that the following prerequisites are met before building and installing the extension:\n\n1. **Java**: Java must be installed and available in your system's PATH. You can verify this by running `java --version` in your terminal.\n2. **jar Command**: The `jar` command must be executable and available in your system's PATH. You can verify this by running `jar --version` in your terminal. This is required for building and installing the extension.\n\n### Building the Extension\n\n1. **Clone the Repository**: Obtain the source code for the MCP Server Extension.\n   ```\n   git clone https://github.com/PortSwigger/mcp-server.git\n   ```\n\n2. **Navigate to the Project Directory**: Move into the project's root directory.\n   ```\n   cd mcp-server\n   ```\n\n3. **Build the JAR File**: Use Gradle to build the extension.\n   ```\n   ./gradlew embedProxyJar\n   ```\n\n",
+    "quality_score": 65
+  },
+  "enriched_at": "2025-11-17T18:40:41.504231"
 }

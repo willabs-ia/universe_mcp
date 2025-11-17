@@ -10,10 +10,33 @@
   },
   "release_date": "Jun 2, 2025",
   "url": "https://www.pulsemcp.com/servers/pearl",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/pearl-com/pearl_mcp_server",
+  "categories": [
+    "git",
+    "development",
+    "api",
+    "ai",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:31.402193",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 6,
+    "capabilities": [
+      "Integration with Pearl API for AI and expert assistance",
+      "AI-Expert mode for AI-assisted human expert support",
+      "Session management for continuous conversations",
+      "Expert mode for direct human expert assistance",
+      "Stateful session management",
+      "AI-only mode for quick automated responses",
+      "Support for both stdio and SSE transports",
+      "Multiple interaction modes:",
+      "Conversation history tracking"
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "# Pearl MCP Server\n\nA Model Context Protocol (MCP) server implementation that exposes Pearl's AI and Expert services through a standardized interface. This server allows MCP clients like Claude Desktop, Cursor, and other MCP-compatible applications to interact with [Pearl's advanced AI assistants and human experts](https://www.pearl.com/post/download-this-free-whitepaper-now-beyond-ai-how-pearl-s-mcp-server-bridges-your-ai-agents-with-re).\n\n## Features\n\n- Support for both stdio and SSE transports\n- Integration with Pearl API for AI and expert assistance\n- Session management for continuous conversations\n- Multiple interaction modes:\n  - AI-only mode for quick automated responses\n  - AI-Expert mode for AI-assisted human expert support\n  - Expert mode for direct human expert assistance\n- Conversation history tracking\n- Stateful session management\n\n## Prerequisites\n\n- Python 3.12 or higher\n- Pearl API Key (Contact [Pearl](https://www.pearl.com/contact) to obtain your API key)\n- pip or uv package manager\n\n## Installation\n\n1. Clone the repository:\n```bash\ngit clone https://github.com/Pearl-com/pearl_mcp_server.git\ncd pearl_mcp_server\n```\n\n2. Create a virtual environment and activate it:\n```bash\npython -m venv .venv\nsource .venv/bin/activate  # On Windows: .venv\\Scripts\\activate\n```\n\n3. Install dependencies:\n```bash\npip install -e .\n```\n\n## Configuration\n\n1. Create a `.env` file in the src directory:\n```env\nPEARL_API_KEY=your-api-key-here\n```\n\n## Running the Server\n\n### Local Develo",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T18:39:51.049268"
 }

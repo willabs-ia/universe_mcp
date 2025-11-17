@@ -10,10 +10,24 @@
   },
   "release_date": "Apr 22, 2025",
   "url": "https://www.pulsemcp.com/servers/perses-monitoring",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/perses/mcp-server",
+  "categories": [
+    "documentation",
+    "security",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:35.889226",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 15,
+    "readme_excerpt": "<div align=\"center\">\n<img src=\"https://raw.githubusercontent.com/perses/perses/main/docs/images/perses_logo_cropped.svg\" alt=\"Perses\">\n    <h1 align=\"center\">MCP Server for Perses</h1>\n</div>\n\n> [!WARNING]  \n> This MCP Server is currently in **beta**. Features and tools may change, and stability is not guaranteed. Feedback and contributions are most welcome!\n\n## Overview\n\nThe Perses MCP Server is a local [Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction) Server that enables the LLM hosts(Claude Desktop, VS Code, Cursor) to interact with the Perses Application in a standardized way.\n\n## Demo\n\n<details open>\n<summary> Claude Desktop</summary>\n  \nhttps://github.com/user-attachments/assets/87137515-1b45-442d-a4c9-68f460a1ba4c\n</details>\n\n<details>\n<summary>VS Code with GitHub Copilot</summary>\n\nhttps://github.com/user-attachments/assets/b80c354a-8006-4e1f-b7f4-e123002f7dc3\n\n</details>\n\n## Pre-requisites\n\n- [percli](https://perses.dev/perses/docs/cli/)\n- `PERSES_TOKEN`\n\n### Obtaining Your Perses Authentication Token\n\n1. Login to your Perses server using the `percli` command line tool:\n\n```bash\npercli login <PERSES_SERVER_URL>\n```\n\nFor example, `percli login https://demo.perses.dev`.\n\nOr `percli login http://localhost:8080` if you are running [perses/perses](https://github.com/perses/perses) locally from the source code or from the perses image.\n\n2. After successful login, retrieve your token:\n\n```bash\npercli whoami --show-token\n```\n\nCopy the token to use ",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:40:00.788880"
 }

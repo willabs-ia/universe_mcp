@@ -7,10 +7,23 @@
   "weekly_metric": null,
   "release_date": "Mar 8, 2025",
   "url": "https://www.pulsemcp.com/servers/paymanai-documentation",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/paymanai/payman-doc-mcp-server",
+  "categories": [
+    "documentation",
+    "git",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:20.697154",
-  "metadata": {}
+  "metadata": {
+    "runtime": "Node.js",
+    "readme_excerpt": "# Payman AI Documentation MCP Server\n\nMCP server that provides easy access to Payman AI's documentation and helps developers build integrations more efficiently.\n\n## Overview\n\nThis repository contains the source code for a Payman documentation MCP server. This server allows AI assistants like Claude or Cursor to access Payman's documentation to help developers with their integration questions. By running this server locally, you can enhance your AI assistant's ability to provide accurate and helpful information about Payman's capabilities.\n\n## Prerequisites\n\n-   [Node.js](https://nodejs.org/) (v14 or higher)\n-   [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)\n-   Git\n\n## Installation\n\n1. Clone the repository:\n\n    ```bash\n    git clone https://github.com/PaymanAI/payman-doc-mcp-server\n    ```\n\n2. Navigate to the project directory:\n\n    ```bash\n    cd payman-doc-mcp-server\n    ```\n\n3. Install dependencies:\n    ```bash\n    npm install\n    # OR\n    yarn install\n    ```\n\n## Building the Project\n\nBuild the TypeScript code into JavaScript:\n\n```bash\nnpm run build\n# OR\nyarn build\n```\n\n## Checking Server\n\nCheck if the server is properly setup:\n\n```bash\nnode /ABSOLUTE/PATH/TO/PARENT/FOLDER/payman-doc-mcp-server/build/index.js\n```\n\nIf everything is good, you can now add the Payman MCP server to any client.\n\n- For Claude Desktop: [Here](https://modelcontextprotocol.io/quickstart/server#claude-for-desktop-integration-issues)\n- For Cursor: [Here](https://docs.cursor.com/conte",
+    "quality_score": 35
+  },
+  "enriched_at": "2025-11-17T18:39:41.151032"
 }

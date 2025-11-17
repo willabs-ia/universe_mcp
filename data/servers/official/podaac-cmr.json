@@ -7,10 +7,25 @@
   "weekly_metric": null,
   "release_date": "Apr 1, 2025",
   "url": "https://www.pulsemcp.com/servers/podaac-cmr",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/podaac/cmr-mcp",
+  "categories": [
+    "git",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:05.649584",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 4,
+    "runtime": "Python",
+    "readme_excerpt": "# Model Context Protocol (MCP) for NASA Earthdata Search (CMR)\n\nThis module is a [model context protocol](https://modelcontextprotocol.io/introduction) (MCP) for NASA's earthdata common metedata repository (CMR). The goal of this MCP server is to integrate AI retrievals with NASA Catalog of datasets by way of Earthaccess.\n\n## Dependencies\nuv -  a rust based python package manager\na LLM client, such as Claude desktop or chatGPT desktop (for consuming the MCP)\n\n## Install and Run\n\nClone the repository to your local environment, or where your LLM client is running.\n\n```\ngit clone https://github.com/podaac/cmr-mcp.git\ncd cmr-mcp\n```\n\n\n### Install uv \n\n```\ncurl -LsSf https://astral.sh/uv/install.sh | sh\n```\n\n\n```\nuv venv\nsource .venv/bin/activate\n```\n\n###  Install packages with uv\n```\nuv sync\n```\n\nuse the outputs of `which uv` (UV_LIB) and `PWD` (CMR_MCP_INSTALL) to update the following configuration.\n\n\n## Adding to AI Framework\n\nIn this example we'll use Claude desktop.\n\nUpdate the `claude_desktop_config.json` file (sometimes this must be created). On a mac, this is often found in `~/Library/Application\\ Support/Claude/claude_desktop_config.json`\n\nAdd the following configuration, filling in the values of UV_LIB and CMR_MCP_INSTALL - don't use environment variables here.\n\n```\n{\n    \"mcpServers\": {\n        \"cmr\": {\n            \"command\": \"$UV_LIB$\",\n            \"args\": [\n                \"--directory\",\n                \"$CMR_MCP_INSTALL$\",\n                \"run\",\n                \"cmr-",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:40:28.250916"
 }

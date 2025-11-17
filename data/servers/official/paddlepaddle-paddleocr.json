@@ -7,10 +7,14 @@
   "weekly_metric": null,
   "release_date": "Jul 16, 2025",
   "url": "https://www.pulsemcp.com/servers/paddlepaddle-paddleocr",
-  "source_url": null,
+  "source_url": "https://github.com/PaddlePaddle",
   "categories": [],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:25.007358",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 64099,
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:39:23.406670"
 }

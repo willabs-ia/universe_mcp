@@ -10,10 +10,25 @@
   },
   "release_date": "May 31, 2025",
   "url": "https://www.pulsemcp.com/servers/panther",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/panther-labs/mcp-panther",
+  "categories": [
+    "testing",
+    "security",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:40.225631",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 32,
+    "runtime": "Python",
+    "readme_excerpt": "# Panther MCP Server\n\n[![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)\n\nPanther's Model Context Protocol (MCP) server provides functionality to:\n\n1. **Write and tune detections from your IDE**\n2. **Interactively query security logs using natural language**\n3. **Triage, comment, and resolve one or many alerts**\n\n<a href=\"https://glama.ai/mcp/servers/@panther-labs/mcp-panther\">\n  <img width=\"380\" height=\"200\" src=\"https://glama.ai/mcp/servers/@panther-labs/mcp-panther/badge\" alt=\"Panther Server MCP server\" />\n</a>\n\n## Available Tools\n\n<details>\n<summary><strong>Alerts</strong></summary>\n\n| Tool Name | Description | Sample Prompt |\n|-----------|-------------|---------------|\n| `add_alert_comment` | Add a comment to a Panther alert | \"Add comment 'Looks pretty bad' to alert abc123\" |\n| `start_ai_alert_triage` | Start an AI-powered triage analysis for a Panther alert with intelligent insights and recommendations | \"Start AI triage for alert abc123\" / \"Generate a detailed AI analysis of alert def456\" |\n| `get_ai_alert_triage_summary` | Retrieve the latest AI triage summary previously generated for a specific alert | \"Get the AI triage summary for alert abc123\" / \"Show me the AI analysis for alert def456\" |\n| `get_alert` | Get detailed information about a specific alert | \"What's the status of alert 8def456?\" |\n| `get_alert_events` | Get a small sampling of events for a given ",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:39:28.275984"
 }

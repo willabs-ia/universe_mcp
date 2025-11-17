@@ -10,10 +10,22 @@
   },
   "release_date": "Mar 23, 2025",
   "url": "https://www.pulsemcp.com/servers/playcanvas-editor",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/playcanvas/editor-mcp-server",
+  "categories": [
+    "git",
+    "development",
+    "api",
+    "ai",
+    "browser"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:33.770148",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 74,
+    "runtime": "Node.js",
+    "readme_excerpt": "    ██████╗ ██╗      █████╗ ██╗   ██╗ ██████╗ █████╗ ███╗   ██╗██╗   ██╗ █████╗ ███████╗\n    ██╔══██╗██║     ██╔══██╗╚██╗ ██╔╝██╔════╝██╔══██╗████╗  ██║██║   ██║██╔══██╗██╔════╝\n    ██████╔╝██║     ███████║ ╚████╔╝ ██║     ███████║██╔██╗ ██║██║   ██║███████║███████╗\n    ██╔═══╝ ██║     ██╔══██║  ╚██╔╝  ██║     ██╔══██║██║╚██╗██║╚██╗ ██╔╝██╔══██║╚════██║\n    ██║     ███████╗██║  ██║   ██║   ╚██████╗██║  ██║██║ ╚████║ ╚████╔╝ ██║  ██║███████║\n    ╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝    ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝  ╚═══╝  ╚═╝  ╚═╝╚══════╝\n\n    ███╗   ███╗ ██████╗██████╗        ███████╗███████╗██████╗ ██╗   ██╗███████╗██████╗ \n    ████╗ ████║██╔════╝██╔══██╗       ██╔════╝██╔════╝██╔══██╗██║   ██║██╔════╝██╔══██╗\n    ██╔████╔██║██║     ██████╔╝       ███████╗█████╗  ██████╔╝██║   ██║█████╗  ██████╔╝\n    ██║╚██╔╝██║██║     ██╔═══╝        ╚════██║██╔══╝  ██╔══██╗╚██╗ ██╔╝██╔══╝  ██╔══██╗\n    ██║ ╚═╝ ██║╚██████╗██║            ███████║███████╗██║  ██║ ╚████╔╝ ███████╗██║  ██║\n    ╚═╝     ╚═╝ ╚═════╝╚═╝            ╚══════╝╚══════╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚═╝  ╚═╝\n\nAn MCP Server for automating the [PlayCanvas Editor](https://playcanvas.com/products/editor) using an LLM.\n\n<img width=\"1864\" alt=\"Screenshot 2025-03-21 at 15 50 10\" src=\"https://github.com/user-attachments/assets/393ffe73-40eb-4e1b-9442-2295bbb63326\" />\n\n> [!IMPORTANT]  \n> At the moment, the MCP Server needs to be driven by Anthropic's Claude. Our experience shows that the free tier for Claude does not deliver a big enough chat con",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:40:25.745786"
 }

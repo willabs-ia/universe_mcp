@@ -10,10 +10,26 @@
   },
   "release_date": "Jun 9, 2025",
   "url": "https://www.pulsemcp.com/servers/pangea",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/pangeacyber/pangea-mcp-server",
+  "categories": [
+    "documentation",
+    "security",
+    "git",
+    "cloud",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:50.182577",
-  "metadata": {}
+  "metadata": {
+    "runtime": "Node.js",
+    "readme_excerpt": "# Pangea MCP Server\n\nA [Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction)\nserver that provides integration with Pangea APIs.\n\n![sample output](.github/assets/sample-output.png)\n\n## Prerequisites\n\n- Node.js v24.11.0 or greater.\n- A Pangea API token with access to all of AI Guard, Domain Intel, Embargo,\n  IP Intel, Redact, Secure Audit Log, URL Intel, and Vault. This token needs to\n  be stored in Pangea Vault. See [Service Tokens][] for documentation on how to\n  create and manage Pangea API tokens.\n- A Pangea API token with access to Vault. This will be used to fetch the above\n  token at runtime.\n- A Pangea Secure Audit Log configuration with the \"Standard Audit Log Config\"\n  [schema][Audit Schema]. See [Multiple Service Configurations][] for\n  documentation on how to create a new Secure Audit Log configuration. Note down\n  the configuration ID for later.\n\nThe first API token may look like:\n\n![sample API token](.github/assets/services-token.png)\n\n## Pangea setup from scratch\n\nThis section will go over how to set up a brand new Pangea account for this MCP\nserver.\n\n1. Create a Pangea account at <https://pangea.cloud/signup>. During the account\n   creation process, an organization (top-level group) and project\n   (individual app) will be created as well. On the \"Get started with a common\n   service\" dialog, just click on the **Skip** button to get redirected to the\n   developer console.\n1. In the developer console, there will be a list of services in the ",
+    "quality_score": 35
+  },
+  "enriched_at": "2025-11-17T18:39:25.893895"
 }

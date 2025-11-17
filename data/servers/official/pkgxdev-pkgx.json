@@ -7,10 +7,24 @@
   "weekly_metric": null,
   "release_date": "May 1, 2025",
   "url": "https://www.pulsemcp.com/servers/pkgxdev-pkgx",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/pkgxdev/mcp",
+  "categories": [
+    "security",
+    "git",
+    "cloud",
+    "development",
+    "api",
+    "ai",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:30.113146",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 18,
+    "runtime": "Node.js",
+    "readme_excerpt": "# `pkgx` MCP\n\nA [Model Context Protocol] server that can run any Open Source tool via\n`pkgx`.\n\n## Usage\n\n1. Install [`pkgx`] (or not, we download it for you if you don’t)\n2. `git clone https://github.com/pkgxdev/pkgx-mcp`\n3. Consume in an MCP client (see below for configuration examples)\n\n### Cursor/Claude Configuation\n\n- `~/.cursor/mcp.json`:\n- `~/Library/Application Support/Claude/claude_desktop_config.json`\n\n```json\n{\n  \"mcpServers\": {\n    \"pkgx\": {\n      \"command\": \"/path/to/pkgx-mcp/main.ts\"\n    }\n  }\n}\n```\n\nOr without `pkgx`, but *with* `npx`:\n\n```json\n{\n  \"mcpServers\": {\n    \"pkgx\": {\n      \"command\": \"npx\",\n      \"args\": [\"ts-node\", \"/path/to/pkgx-mcp/main.ts\"]\n    }\n  }\n}\n```\n\n### MCP Inspector\n\n```sh\nnpx @modelcontextprotocol/inspector ts-node ./main.ts\n```\n\n## Suggested Prompts\n\n```text\nUse pkgx to run a series of git commands and generate statistics about this\nrepository.\n```\n\n## Security\n\nSecurity? Hah.\n\nBut seriously, this is a dangerous tool. You are letting AI read any file on\nyour computer†. We have the decency to run `pkgx` in a sandbox so at least a\nrogue AI can’t run `rm -rf /`. But we have not restricted reads because that\nseemed too limiting.\n\nWe need the MCP protocol to advance to allow the user to be prompted with UI\nto approve certain things that the AI cannot by itself do or something like\nthat.\n\nIn the meantime USE WITH ABSURD AMOUNTS OF CAUTION.\n\n> † well, on macOS at least we prevent reads to `~/.ssh` and `~/.aws`, PRs\n> welcome to exclude more an",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:40:21.105964"
 }

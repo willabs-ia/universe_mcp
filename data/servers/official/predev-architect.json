@@ -7,10 +7,20 @@
   "weekly_metric": null,
   "release_date": "Aug 12, 2025",
   "url": "https://www.pulsemcp.com/servers/predev-architect",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/arjunpredev/docs",
+  "categories": [
+    "documentation",
+    "git",
+    "development",
+    "api",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:29.290743",
-  "metadata": {}
+  "metadata": {
+    "readme_excerpt": "# Mintlify Starter Kit\n\nUse the starter kit to get your docs deployed and ready to customize.\n\nClick the green **Use this template** button at the top of this repo to copy the Mintlify starter kit. The starter kit contains examples with\n\n- Guide pages\n- Navigation\n- Customizations\n- API reference pages\n- Use of popular components\n\n**[Follow the full quickstart guide](https://starter.mintlify.com/quickstart)**\n\n## Development\n\nInstall the [Mintlify CLI](https://www.npmjs.com/package/mint) to preview your documentation changes locally. To install, use the following command:\n\n```\nnpm i -g mint\n```\n\nRun the following command at the root of your documentation, where your `docs.json` is located:\n\n```\nmint dev\n```\n\nView your local preview at `http://localhost:3000`.\n\n## Publishing changes\n\nInstall our GitHub app from your [dashboard](https://dashboard.mintlify.com/settings/organization/github-app) to propagate changes from your repo to your deployment. Changes are deployed to production automatically after pushing to the default branch.\n\n## Need help?\n\n### Troubleshooting\n\n- If your dev environment isn't running: Run `mint update` to ensure you have the most recent version of the CLI.\n- If a page loads as a 404: Make sure you are running in a folder with a valid `docs.json`.\n\n### Resources\n- [Mintlify documentation](https://mintlify.com/docs)\n- [Mintlify community](https://mintlify.com/community)\n",
+    "quality_score": 35
+  },
+  "enriched_at": "2025-11-17T18:40:53.878397"
 }

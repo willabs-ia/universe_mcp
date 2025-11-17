@@ -10,10 +10,26 @@
   },
   "release_date": "Jun 14, 2025",
   "url": "https://www.pulsemcp.com/servers/polygon",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/massive-com/mcp_massive",
+  "categories": [
+    "documentation",
+    "testing",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:35.919755",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 199,
+    "runtime": "Node.js",
+    "readme_excerpt": "<a href=\"https://massive.com\">\n  <div align=\"center\">\n    <picture>\n        <source media=\"(prefers-color-scheme: light)\" srcset=\"assets/logo-massive-lightmode.png\">\n        <source media=\"(prefers-color-scheme: dark)\" srcset=\"assets/logo-massive-darkmode.png\">\n        <img alt=\"Massive.com logo\" src=\"assets/logo-massive-lightmode.png\" height=\"100\">\n    </picture>\n  </div>\n</a>\n<br>\n\n> [!IMPORTANT]\n> :test_tube: This project is experimental and could be subject to breaking changes.\n\n# Massive.com MCP Server\n\n [![GitHub release](https://img.shields.io/github/v/release/massive-com/mcp_massive)](https://github.com/massive-com/mcp_massive/releases)\n\nA [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) server that provides access to [Massive.com](https://massive.com?utm_campaign=mcp&utm_medium=referral&utm_source=github) financial market data API through an LLM-friendly interface.\n\n## Overview\n\nThis server exposes all Massive.com API endpoints as MCP tools, providing access to comprehensive financial market data including:\n\n- Stock, options, forex, and crypto aggregates and bars\n- Real-time and historical trades and quotes\n- Market snapshots\n- Ticker details and reference data\n- Dividends and splits data\n- Financial fundamentals\n- Market status and holidays\n\n## Installation\n\n### Prerequisites\n\n- Python 3.10+\n- A Massive.com API key <br> [![Button]][Link]\n- [Astral UV](https://docs.astral.sh/uv/getting-started/installation/)\n  - For existing installs, check that you h",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T18:40:33.395803"
 }

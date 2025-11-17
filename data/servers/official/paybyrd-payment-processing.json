@@ -7,10 +7,15 @@
   "weekly_metric": null,
   "release_date": "Mar 21, 2025",
   "url": "https://www.pulsemcp.com/servers/paybyrd-payment-processing",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/paybyrd",
+  "categories": [
+    "api"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:37.029173",
-  "metadata": {}
+  "metadata": {
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T18:39:38.733254"
 }

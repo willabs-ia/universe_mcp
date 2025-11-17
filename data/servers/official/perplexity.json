@@ -10,10 +10,22 @@
   },
   "release_date": "Mar 12, 2025",
   "url": "https://www.pulsemcp.com/servers/perplexity",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/perplexityai/modelcontextprotocol",
+  "categories": [
+    "search",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:20.286148",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 1800,
+    "readme_excerpt": "# Perplexity API Platform MCP Server\n\n[![Install in Cursor](https://custom-icon-badges.demolab.com/badge/Install_in_Cursor-000000?style=for-the-badge&logo=cursor-ai-white)](https://cursor.com/en/install-mcp?name=perplexity&config=eyJ0eXBlIjoic3RkaW8iLCJjb21tYW5kIjoibnB4IiwiYXJncyI6WyIteSIsIkBwZXJwbGV4aXR5LWFpL21jcC1zZXJ2ZXIiXX0=)\n&nbsp;\n[![Install in VS Code](https://custom-icon-badges.demolab.com/badge/Install_in_VS_Code-007ACC?style=for-the-badge&logo=vsc&logoColor=white)](https://vscode.dev/redirect/mcp/install?name=perplexity&config=%7B%22type%22%3A%22stdio%22%2C%22command%22%3A%22npx%22%2C%22args%22%3A%5B%22-y%22%2C%22%40perplexity-ai%2Fmcp-server%22%5D%7D)\n&nbsp;\n[![npm version](https://img.shields.io/npm/v/%40perplexity-ai%2Fmcp-server?style=for-the-badge&logo=npm&logoColor=white&color=CB3837)](https://www.npmjs.com/package/@perplexity-ai/mcp-server)\n\nThe official MCP server implementation for the Perplexity API Platform, providing AI assistants with real-time web search, reasoning, and research capabilities through Sonar models and the Search API.\n\n## Available Tools\n\n### **perplexity_search**\nDirect web search using the Perplexity Search API. Returns ranked search results with metadata, perfect for finding current information.\n\n### **perplexity_ask** \nGeneral-purpose conversational AI with real-time web search using the `sonar-pro` model. Great for quick questions and everyday searches.\n\n### **perplexity_research**\nDeep, comprehensive research using the `sonar-deep-r",
+    "quality_score": 60
+  },
+  "enriched_at": "2025-11-17T18:39:57.887339"
 }

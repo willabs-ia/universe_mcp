@@ -10,10 +10,22 @@
   },
   "release_date": "Aug 26, 2025",
   "url": "https://www.pulsemcp.com/servers/postman",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/postmanlabs/postman-mcp-server",
+  "categories": [
+    "documentation",
+    "workflow",
+    "development",
+    "api",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:20.260593",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 98,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Postman MCP Server\n\nThe Postman MCP Server connects Postman to AI tools, giving AI agents and assistants the ability to access workspaces, manage collections and environments, evaluate APIs, and automate workflows through natural language interactions.\n\nPostman supports the following tool configurations:\n\n* **Minimal** — (Default) Only includes essential tools for basic Postman operations This offers faster performance and simplifies use for those who only need basic Postman operations. Ideal for users who want to modify a single Postman elements, such as collections, workspaces, or environments.\n* **Full** — Includes all available Postman API tools (100+ tools). This configuration is ideal for users who engage in advanced collaboration and Postman's Enterprise features.\n\nFor a complete list of the Postman MCP Server's tools, see the [Postman MCP Server collection](https://www.postman.com/postman/postman-public-workspace/collection/681dc649440b35935978b8b7). This collection offers both the remote [full](https://www.postman.com/postman/postman-public-workspace/mcp-request/6821a76b17ccb90a86df48d3) and [minimal](https://www.postman.com/postman/postman-public-workspace/mcp-request/689e1c635be722a98b723238) servers, and the [local server](https://www.postman.com/postman/postman-public-workspace/mcp-request/6866a655b36c67cc435b5033).\n\nPostman also offers servers as an [npm package](https://www.npmjs.com/package/@postman/postman-mcp-server).\n\n**Note:** Before getting started, ens",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:40:46.541106"
 }

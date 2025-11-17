@@ -7,10 +7,30 @@
   "weekly_metric": null,
   "release_date": "May 25, 2025",
   "url": "https://www.pulsemcp.com/servers/postmark",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/activecampaign/postmark-mcp",
+  "categories": [
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:47.700439",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 11,
+    "capabilities": [
+      "Secure logging practices (no sensitive data exposure)",
+      "Automatic email tracking configuration",
+      "Comprehensive error handling and graceful shutdown",
+      "Simple configuration via environment variables",
+      "Exposes a Model Context Protocol (MCP) server for sending emails via Postmark"
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "# Postmark MCP Server\n\nAn MCP server implementation for Postmark email services.\n\n## Features\n- Exposes a Model Context Protocol (MCP) server for sending emails via Postmark\n- Simple configuration via environment variables\n- Comprehensive error handling and graceful shutdown\n- Secure logging practices (no sensitive data exposure)\n- Automatic email tracking configuration\n\n## Feedback\nWe'd love to hear from you! Please share your feedback and suggestions through our [feedback form](https://forms.gle/zVdZLAJPM81Vo2Wh8).\n\n## Requirements\n- Node.js (v16 or higher recommended)\n- A Postmark account and server token\n\n## Setup\n\n1. **Clone the repository:**\n   ```sh\n   git clone https://github.com/ActiveCampaign/postmark-mcp\n   cd postmark-mcp\n   ```\n\n2. **Install dependencies:**\n   ```sh\n   npm install\n   ```\n\n3. **Configure environment variables:**\n   - Copy `.env.example` to `.env`:\n     ```sh\n     cp .env.example .env\n     ```\n   - Edit `.env` and fill in your Postmark credentials and settings.\n\n   | Variable                | Description                                      | Required |\n   |------------------------|--------------------------------------------------|----------|\n   | POSTMARK_SERVER_TOKEN  | Your Postmark server API token                   | Yes      |\n   | DEFAULT_SENDER_EMAIL   | Default sender email address                     | Yes      |\n   | DEFAULT_MESSAGE_STREAM | Postmark message stream (e.g., 'outbound')      | Yes      |\n\n4. **Run the server:**\n   ```sh\n  ",
+    "quality_score": 60
+  },
+  "enriched_at": "2025-11-17T18:40:48.981449"
 }
