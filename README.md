@@ -97,14 +97,21 @@ universe_mcp/
 │   ├── client.schema.json
 │   └── usecase.schema.json
 ├── scripts/                       # Automation scripts
-│   ├── scrapers/                 # Web scrapers
+│   ├── scrapers/                 # Web scrapers + detail enrichment
 │   ├── validators/               # Data validation
 │   ├── indexers/                 # Index generators
+│   ├── search.py                 # CLI search tool
 │   └── update.py                 # Main update script
+├── examples/                      # Usage examples
+│   ├── search_servers.py         # Search and filter examples
+│   ├── integration_example.py    # Integration with your app
+│   └── README.md                 # Examples documentation
 ├── docs/                          # Documentation
 │   ├── INTEGRATION.md            # Integration guide
 │   └── API.md                    # API reference
-└── DIARIO_PROJETO.md             # Project diary (development log)
+├── DIARIO_PROJETO.md             # Project diary (development log)
+├── CONTRIBUTING.md               # Contribution guidelines
+└── LICENSE                       # MIT License
 ```
 
 ---
@@ -207,6 +214,51 @@ python scripts/update.py --test
 
 # Update only servers
 python scripts/update.py --servers-only
+```
+
+### Search Servers (CLI)
+
+```bash
+# Search by keyword
+python scripts/search.py "database"
+
+# Filter by classification
+python scripts/search.py --classification official
+
+# Filter by provider
+python scripts/search.py --provider "Anthropic"
+
+# Combine filters
+python scripts/search.py "postgres" --classification community --limit 5
+
+# Get JSON output
+python scripts/search.py "ai" --json
+```
+
+### Enrich Server Details
+
+```bash
+# Enrich servers with detailed metadata (visits individual pages)
+python scripts/scrapers/enrich_server_details.py
+
+# Test mode (enrich only 3 servers)
+python scripts/scrapers/enrich_server_details.py --test
+
+# Enrich only official servers
+python scripts/scrapers/enrich_server_details.py --classification official
+
+# Limit number of servers
+python scripts/scrapers/enrich_server_details.py --limit 10
+```
+
+### Run Examples
+
+```bash
+# Search and filter examples
+python examples/search_servers.py
+
+# Integration example
+python examples/integration_example.py
 ```
 
 ---
