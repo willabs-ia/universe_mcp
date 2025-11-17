@@ -7,10 +7,26 @@
   "weekly_metric": null,
   "release_date": "Mar 28, 2025",
   "url": "https://www.pulsemcp.com/servers/aistor",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/minio/mcp-server-aistor",
+  "categories": [
+    "ai",
+    "data",
+    "api",
+    "monitoring"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:01.393598",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 32,
+    "readme_excerpt": "# AIStor MCP server\n\nThis is a Model Context Protocol (MCP) server for interacting with AIStor object stores.\n\nMore information about MCP can be found on its [official site](https://modelcontextprotocol.io/introduction).\n\nMore information about AIStor MCP server can be found in our blog posts:\n\n- [Introducing MCP server for AIStor](https://blog.min.io/mcp-server-for-aistor/)\n- [Administrative functions of MCP server for AIStor](https://blog.min.io/mcp-server-for-aistor-admin/)\n- [MCP server for AIStor: How it works](https://blog.min.io/mcp-server-for-aistor-how-it-works/)\n\n## Updates\n\n- **2025-05-28**\n  - Added support for MCP version [2025-03-26](https://modelcontextprotocol.io/specification/2025-03-26)\n  - Added support for **StreamableHTTP** protocol\n  - Added the **text_to_object** tool\n\n## Features\n\n### Read operations\n\n- List buckets\n- List objects in the bucket\n- Get object's metadata and tags\n- Create a presigned URL with expiration for an object\n\n### AI operations\n\n- Describe the object's contents using the `ask_object` tool\n\n### Write operations\n\nThese operations should be enabled by using the `--allow-write` flag in the config.\n\n- Create a bucket\n- Upload an object to the bucket\n- Add tags to the object\n\n### Delete operations\n\nThese operations should be enabled by using the `--allow-delete` flag in the config.\n\n- Delete an object\n- Delete a bucket\n\n### Admin operations\n\nThese operations should be enabled by using the `--allow-admin` flag in the config.\n\n- Get clust",
+    "language": null,
+    "license": null,
+    "forks": 5,
+    "open_issues": 2,
+    "last_pushed": "2025-05-28T22:13:55Z",
+    "topics": [],
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T17:46:16.846850"
 }

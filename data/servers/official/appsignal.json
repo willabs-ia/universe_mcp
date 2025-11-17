@@ -7,10 +7,33 @@
   "weekly_metric": null,
   "release_date": "May 19, 2025",
   "url": "https://www.pulsemcp.com/servers/appsignal",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/appsignal/appsignal-mcp",
+  "categories": [
+    "api",
+    "monitoring",
+    "testing",
+    "filesystem",
+    "git",
+    "ai",
+    "data",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:27.131361",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 8,
+    "readme_excerpt": "# AppSignal MCP Server [beta]\n\nThis is the official AppSignal [MCP][mcp] server. It allows AI agents to access AppSignal's monitoring data, metrics, and tools and is currently in beta.\n\nJoin our [Discord community][discord] to help test and shape this MCP implementation.\n\n## Prerequisites\n\n- Docker\n- An [AppSignal account][appsignal-sign-up] and an [AppSignal MCP token][appsignal-mcp-token].\n\n## Installation\n\nPull the Docker image:\n\n```\ndocker pull appsignal/mcp:latest\n```\n\n## Configuration\n\n### Claude\n\nConfigure Claude to use the AppSignal MCP server by editing the `~/Library/Application Support/Claude/claude_desktop_config.json` file:\n\n```json\n{\n  \"mcpServers\": {\n    \"appsignal\": {\n      \"command\": \"docker\",\n      \"args\": [\"run\", \"-i\", \"--rm\", \"-e\", \"APPSIGNAL_API_KEY\", \"appsignal/mcp\"],\n      \"env\": {\n        \"APPSIGNAL_API_KEY\": \"your_api_key_here\"\n      }\n    }\n  }\n}\n```\n\n### Claude code\n\nTo enable AppSignal MCP in Claude Code, run the following command:\n\n```\nclaude mcp add appsignal -e APPSIGNAL_API_KEY=your_api_key_here -- docker run -i --rm -e APPSIGNAL_API_KEY appsignal/mcp\n```\n\n### Cursor and Windsurf\n\nTo enable AppSignal MCP in Cursor or Windsurf, edit your configuration file.\n\nFor Cursor use `~/.cursor/mcp.json`\n\nFor Windsurf use `~/.codeium/windsurf/mcp_config.json`\n\nAdd the following configuration:\n\n```json\n{\n  \"mcpServers\": {\n    \"appsignal\": {\n      \"command\": \"docker\",\n      \"args\": [\"run\", \"-i\", \"--rm\", \"-e\", \"APPSIGNAL_API_KEY\", \"appsignal/mcp\"],\n      \"env",
+    "language": "TypeScript",
+    "license": "MIT License",
+    "forks": 4,
+    "open_issues": 4,
+    "last_pushed": "2025-11-17T16:22:36Z",
+    "topics": [
+      "mcp",
+      "mcp-server"
+    ],
+    "quality_score": 67
+  },
+  "enriched_at": "2025-11-17T17:47:56.777954"
 }

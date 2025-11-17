@@ -10,10 +10,43 @@
   },
   "release_date": "Apr 5, 2025",
   "url": "https://www.pulsemcp.com/servers/activepieces",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/activepieces/activepieces",
+  "categories": [
+    "api",
+    "workflow",
+    "monitoring",
+    "git",
+    "ai",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:18.090054",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 19199,
+    "readme_excerpt": "\n<h1 align=\"center\">\n  <a\n    target=\"_blank\"\n    href=\"https://activepieces.com\"\n  >\n    <img\n      align=\"center\"\n      alt=\"Activepieces\"\nsrc=\"https://github.com/activepieces/activepieces/assets/1812998/76c97441-c285-4480-bc75-30a0c73ed340\"\n      style=\"width:100%;\"\n    />\n    \n  </a>\n</h1>\n\n\n<p align=\"center\">\n<a href=\"/LICENSE\" target=\"_blank\"><img src='https://img.shields.io/badge/license-MIT-green?style=for-the-badge' /></a>&nbsp;<img src='https://img.shields.io/github/commit-activity/w/activepieces/activepieces/main?style=for-the-badge' />&nbsp;<a href='https://discord.gg/2jUXBKDdP8'><img src='https://img.shields.io/discord/966798490984382485?style=for-the-badge' /></a>\n</p>\n<p align=\"center\">\n   An open source replacement for Zapier\n</p>\n\n<p align=\"center\">\n  <a\n    href=\"https://www.activepieces.com/docs\"\n    target=\"_blank\"\n  ><b>Documentation</b></a>&nbsp;&nbsp;&nbsp;🌪️&nbsp;&nbsp;&nbsp;\n   <a\n    href=\"https://www.activepieces.com/docs/developers/building-pieces/overview\"\n    target=\"_blank\"\n  ><b>Create a Piece</b></a>&nbsp;&nbsp;&nbsp;🖉&nbsp;&nbsp;&nbsp;\n  <a\n    href=\"https://www.activepieces.com/docs/install/overview\"\n    target=\"_blank\"\n  ><b>Deploy</b></a>&nbsp;&nbsp;&nbsp;🔥&nbsp;&nbsp;&nbsp;\n  <a\n    href=\"https://discord.gg/yvxF5k5AUb\"\n    target=\"_blank\"\n  >\n    <b>Join Discord</b>\n  </a>\n</p>\n\n<br>\n<br>\n\n# 🤯 Welcome to Activepieces\n\nAll-in-one AI automation designed to be **extensible** through a **type-safe** pieces framework written in **TypeScript**.",
+    "language": "TypeScript",
+    "license": "Other",
+    "forks": 2933,
+    "open_issues": 339,
+    "last_pushed": "2025-11-17T16:59:04Z",
+    "topics": [
+      "ai-agent",
+      "ai-agent-tools",
+      "ai-agents",
+      "ai-agents-framework",
+      "mcp",
+      "mcp-server",
+      "mcp-tools",
+      "mcps",
+      "n8n-alternative",
+      "no-code-automation",
+      "workflow",
+      "workflow-automation",
+      "workflows"
+    ],
+    "quality_score": 80
+  },
+  "enriched_at": "2025-11-17T17:45:56.006595"
 }

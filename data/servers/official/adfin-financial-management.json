@@ -7,10 +7,28 @@
   "weekly_metric": null,
   "release_date": "Mar 20, 2025",
   "url": "https://www.pulsemcp.com/servers/adfin-financial-management",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/adfin-engineering/mcp-server-adfin",
+  "categories": [
+    "api",
+    "filesystem",
+    "ai",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:32.687432",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 9,
+    "runtime": "Python",
+    "readme_excerpt": "## Requirements:\n1. Python 3.10 or higher\n\n## Step 1. Install uv:\n   - MacOS/Linux: curl -LsSf https://astral.sh/uv/install.sh | sh\n   - Windows: powershell -ExecutionPolicy ByPass -c \"irm https://astral.sh/uv/install.ps1 | iex\"\n\n## Step 2. Configure Claude Desktop\n1. Download [Claude Desktop](https://claude.ai/download).\n2. Launch Claude and go to Settings > Developer > Edit Config.\n3. Modify `claude_desktop_config.json` with:\n```json\n{\n  \"mcpServers\": {\n    \"Adfin\": {\n      \"command\": \"<home_path>/.local/bin/uv\",\n      \"args\": [\n        \"--directory\",\n        \"<absolute_path_to_adfin_mcp_folder>\",\n        \"run\",\n        \"main_adfin_mcp.py\"\n      ],\n      \"env\": {\n        \"ADFIN_EMAIL\": \"<email>\",\n        \"ADFIN_PASSWORD\": \"<password>\"\n      }\n    },\n    \"filesystem\": {\n      \"command\": \"<home_path>/.local/bin/uv\",\n      \"args\": [\n        \"--directory\",\n        \"<absolute_path_to_adfin_mcp_folder>\",\n        \"run\",\n        \"filesystem.py\"\n      ]\n    }\n  }\n}\n```\n4. Relaunch Claude Desktop.\n\nThe first time you open Claude Desktop with these setting it may take\n10-20 seconds before the Adfin tools appear in the interface due to\nthe installation of the required packages and the download of the most \nrecent Adfin API documentation.\n\nEverytime you launch Claude Desktop, the most recent Adfin API tools are made available \nto your AI assistant.\n\n## Step 3. Launch Claude Desktop and let your assistant help you\n### Examples\n**Request a credit control status**\n```text\nGive me a credit ",
+    "language": "Python",
+    "license": null,
+    "forks": 8,
+    "open_issues": 1,
+    "last_pushed": "2025-03-20T14:09:47Z",
+    "topics": [],
+    "quality_score": 47
+  },
+  "enriched_at": "2025-11-17T17:45:58.660851"
 }

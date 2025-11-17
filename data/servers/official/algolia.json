@@ -7,10 +7,29 @@
   "weekly_metric": null,
   "release_date": "Mar 30, 2025",
   "url": "https://www.pulsemcp.com/servers/algolia",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/algolia/mcp",
+  "categories": [
+    "api",
+    "search",
+    "filesystem",
+    "git",
+    "ai",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:15.727101",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 25,
+    "runtime": "Node.js",
+    "readme_excerpt": "# MCP\n\nThis repository contains experimental [Model Context Protocol (or MCP)](https://modelcontextprotocol.io/introduction) servers for interacting with Algolia APIs. This MCP repo is something we're sharing for you to explore and experiment with. Feel free to use it, fork it, or build on top of it — but just know that it's not officially supported by Algolia and isn't covered under our SLA. We might update it, break it, or remove it entirely at any time. If you customize or configure things here, there's a chance that work could be lost. Also, using MCP in production could affect your Algolia usage.\n\nWe also have a Node.js MCP Server that you can find here: https://github.com/algolia/mcp-node.\n\nIf you have feedback or ideas (even code!), we'd love to hear it. Just know that we might use it to help improve our products. This project is provided \"as is\" and \"as available,\" with no guarantees or warranties. To be super clear: MCP isn't considered an \"API Client\" for SLA purposes.\n\n## Installation\n\nFirst follow the [quick start](https://modelcontextprotocol.io/quickstart/user), which will install Claude Desktop and setup a sample Fileserver MCP server.  This is a great introduction to using MCP and will let you debug things using the official guide if there are issues.\n\n## Setup the prototype Algolia MCP server\n\nRequirements:\n\n* Go (https://go.dev/doc/install)\n\n### Clone the repo and build the server\n\nClone the repo, amd build the mcp server:\n\n```shell\n$ git clone git@github.co",
+    "language": "Go",
+    "license": "MIT License",
+    "forks": 6,
+    "open_issues": 9,
+    "last_pushed": "2025-11-17T05:56:20Z",
+    "topics": [],
+    "quality_score": 69
+  },
+  "enriched_at": "2025-11-17T17:46:39.209134"
 }

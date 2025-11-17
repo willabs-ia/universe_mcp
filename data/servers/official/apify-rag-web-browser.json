@@ -10,10 +10,32 @@
   },
   "release_date": "Dec 6, 2024",
   "url": "https://www.pulsemcp.com/servers/apify-rag-web-browser",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/apify/mcp-server-rag-web-browser",
+  "categories": [
+    "browser",
+    "search",
+    "api",
+    "workflow",
+    "security",
+    "ai",
+    "data",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:42.317801",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 194,
+    "runtime": "Node.js",
+    "readme_excerpt": "# MCP Server for the RAG Web Browser Actor 🌐\n\nImplementation of an MCP server for the [RAG Web Browser Actor](https://apify.com/apify/rag-web-browser).\nThis Actor serves as a web browser for large language models (LLMs) and RAG pipelines, similar to a web search in ChatGPT.\n\n> **This MCP server is deprecated in favor of [mcp.apify.com](https://mcp.apify.com)**\n>\n> For the same functionality and much more, please use one of these alternatives:\n\n## 🚀 Recommended: use mcp.apify.com\n\nThe easiest way to get the same web browsing capabilities is to use **[mcp.apify.com](https://mcp.apify.com)** with default settings.\n\n**Benefits:**\n- ✅ No local setup required\n- ✅ Always up-to-date\n- ✅ Access to 6,000+ Apify Actors (including RAG Web Browser)\n- ✅ OAuth support for easy connection\n- ✅ Dynamic tool discovery\n\n**Quick Setup:**\n1. Go to https://mcp.apify.com\n2. Authorize the client (Claude, VS Code, etc.)\n3. Copy the generated MCP server configuration (or use OAuth flow if supported)\n4. Start using browsing & other tools immediately\n\n## 🌐 Alternative: direct RAG Web Browser integration\n\nYou can also call the [RAG Web Browser Actor](https://apify.com/apify/rag-web-browser) directly via its HTTP/SSE interface.\n\n**Benefits:**\n- ✅ Direct integration without mcp.apify.com\n- ✅ Real-time streaming via Server-Sent Events\n- ✅ Full control over the integration\n- ✅ No additional dependencies\n\n**Docs:** [Actor Documentation](https://apify.com/apify/rag-web-browser#anthropic-model-context-protocol-m",
+    "language": "JavaScript",
+    "license": "Apache License 2.0",
+    "forks": 25,
+    "open_issues": 0,
+    "last_pushed": "2025-08-21T08:25:16Z",
+    "topics": [],
+    "quality_score": 77
+  },
+  "enriched_at": "2025-11-17T17:47:51.685396"
 }

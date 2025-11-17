@@ -10,10 +10,29 @@
   },
   "release_date": "Apr 21, 2025",
   "url": "https://www.pulsemcp.com/servers/alibabacloud-observability",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/aliyun/alibabacloud-observability-mcp-server",
+  "categories": [
+    "api",
+    "search",
+    "monitoring",
+    "cloud",
+    "database",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:28.848613",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 47,
+    "runtime": "Python",
+    "readme_excerpt": "## 阿里云可观测MCP服务\n<p align=\"center\">\n  <a href=\"./README.md\"><img alt=\"中文自述文件\" src=\"https://img.shields.io/badge/简体中文-d9d9d9\"\"></a>\n  <a href=\"./README_EN.md\"><img alt=\"英文自述文件\" src=\"https://img.shields.io/badge/English-d9d9d9\")\n</p>\n\n### 简介\n\n阿里云可观测 MCP服务，提供了一系列访问阿里云可观测各产品的工具能力，覆盖产品包含阿里云日志服务SLS、阿里云应用实时监控服务ARMS、阿里云云监控等，任意支持 MCP 协议的智能体助手都可快速接入。\n\n目前提供的 MCP 工具以阿里云日志服务为主，其他产品会陆续支持，工具详细如下:\n\n### 版本记录\n可以查看 [CHANGELOG.md](./CHANGELOG.md)\n\n### 常见问题\n可以查看 [FAQ.md](./FAQ.md)\n\n### 工具列表\n#### 日志相关\n| 工具名称 | 用途 | 关键参数 | 最佳实践 |  \n|---------|------|---------|---------|  \n| `sls_list_projects` | 列出SLS项目，支持模糊搜索和分页 | `projectName`：项目名称（可选，模糊搜索）<br>`limit`：返回项目数量上限（默认50，范围1-100）<br>`regionId`：阿里云区域ID | - 在不确定可用项目时，首先使用此工具<br>- 使用合理的`limit`值避免返回过多结果 |  \n| `sls_list_logstores` | 列出项目内的日志存储，支持名称模糊搜索 | `project`：SLS项目名称（必需）<br>`logStore`：日志存储名称（可选，模糊搜索）<br>`limit`：返回结果数量上限（默认10）<br>`isMetricStore`：是否筛选指标存储<br>`logStoreType`：日志存储类型<br>`regionId`：阿里云区域ID | - 确定项目后使用此工具查找相关日志存储<br>- 可通过`logStoreType`筛选特定类型日志存储 |  \n| `sls_describe_logstore` | 检索日志存储的结构和索引信息 | `project`：SLS项目名称（必需）<br>`logStore`：SLS日志存储名称（必需）<br>`regionId`：阿里云区域ID | - 在查询前使用此工具了解可用字段及其类型<br>- 检查所需字段是否启用了索引 |  \n| `sls_execute_sql_query` | 在指定时间范围内对日志存储执行SQL查询 | `project`：SLS项目名称（必需）<br>`logStore`：SLS日志存储名称（必需）<br>`query`：SQL查询语句（必需）<br>`fromTimestampInSeconds`：查询开始时间戳（必需）<br>`toTimestampInSeconds`：查询结束时间戳（必需）<br>`limit`：返回结果数量上限（默认10）<br>`regionId`：阿里云区域ID | - 使用适当的时间范围优化查询性能<br>- 限制返回结果数量避免获取过多数据 |  \n| `sls_translate_text_to_sql_query` | 将自然语言描述",
+    "language": "Python",
+    "license": "MIT License",
+    "forks": 18,
+    "open_issues": 12,
+    "last_pushed": "2025-10-20T07:40:17Z",
+    "topics": [],
+    "quality_score": 69
+  },
+  "enriched_at": "2025-11-17T17:46:55.053368"
 }

@@ -7,10 +7,29 @@
   "weekly_metric": null,
   "release_date": "Mar 14, 2025",
   "url": "https://www.pulsemcp.com/servers/alby-lightning-tools",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/getalby/lightning-tools-mcp-server",
+  "categories": [
+    "api",
+    "testing",
+    "filesystem",
+    "git",
+    "ai",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:19.316890",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 1,
+    "runtime": "Node.js",
+    "readme_excerpt": "# ⚠️ DEPRECATED ⚠️\n\n**Please use [Alby MCP](https://github.com/getAlby/mcp/) instead!** \n\nThis repository has been deprecated in favor of Alby MCP, which includes all the NWC tools along with additional lightning tools.\n\n# Lightning Tools MCP Server\n\nInteract with lightning addresses and use other common lightning tools with your LLM. Works well combined with [NWC MCP Server](https://github.com/getAlby/nwc-mcp-server)\n\nThis MCP server uses the [official MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk)\n\n## Quick Start\n\n### Add to Claude Desktop\n\nAdd this to your claude_desktop_config.json:\n\n```json\n{\n  \"mcpServers\": {\n    \"lightning-tools\": {\n      \"command\": \"npx\",\n      \"args\": [\"-y\", \"@getalby/lightning-tools-mcp-server\"],\n      \"env\": {\n        \"NWC_CONNECTION_STRING\": \"YOUR NWC CONNECTION STRING HERE\"\n      }\n    }\n  }\n}\n```\n\n### Add to Cline\n\n> Copy the below and paste it into a cline prompt.\n\n```json\nAdd the following to my MCP servers list:\n\n\"lightning-tools\": {\n  \"command\": \"npx\",\n  \"args\": [\"-y\", \"@getalby/lightning-tools-mcp-server\"],\n  \"env\": {\n    \"NWC_CONNECTION_STRING\": \"YOUR NWC CONNECTION STRING HERE\"\n  },\n  \"disabled\": false,\n  \"autoApprove\": []\n}\n```\n\n## From Source\n\n### Prerequisites\n\n- Node.js 20+\n- Yarn\n\n### Installation\n\n```bash\nyarn install\n```\n\n### Building\n\n```bash\nyarn build\n```\n\n### Inspect the tools (use/test without an LLM)\n\n`yarn inspect`\n\n### Supported Tools\n\nSee the [tools directory](./src/tools)\n",
+    "language": "TypeScript",
+    "license": null,
+    "forks": 4,
+    "open_issues": 2,
+    "last_pushed": "2025-06-20T09:17:17Z",
+    "topics": [],
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T17:46:33.415286"
 }

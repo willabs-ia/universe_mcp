@@ -10,10 +10,34 @@
   },
   "release_date": "Mar 1, 2025",
   "url": "https://www.pulsemcp.com/servers/acryldata-datahub",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/acryldata/mcp-server-datahub",
+  "categories": [
+    "api",
+    "search",
+    "database",
+    "data",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:46.657441",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 63,
+    "capabilities": [
+      "Traversing the lineage graph, both upstream and downstream",
+      "Fetching metadata for any entity",
+      "Listing SQL queries associated with a dataset",
+      "Searching across all entity types and using arbitrary filters"
+    ],
+    "readme_excerpt": "# mcp-server-datahub\n\nA [Model Context Protocol](https://modelcontextprotocol.io/) server implementation for [DataHub](https://datahubproject.io/).\n\n## Features\n\nCheck out the [demo video](https://youtu.be/VXRvHIZ3Eww?t=1878), done in collaboration with the team at Block.\n\n- Searching across all entity types and using arbitrary filters\n- Fetching metadata for any entity\n- Traversing the lineage graph, both upstream and downstream\n- Listing SQL queries associated with a dataset\n\n## Usage\n\nSee instructions in the [DataHub MCP server docs](https://docs.datahub.com/docs/features/feature-guides/mcp).\n\n## Developing\n\nSee [DEVELOPING.md](DEVELOPING.md).\n",
+    "language": "Python",
+    "license": "Apache License 2.0",
+    "forks": 26,
+    "open_issues": 11,
+    "last_pushed": "2025-10-29T15:39:21Z",
+    "topics": [],
+    "quality_score": 79
+  },
+  "enriched_at": "2025-11-17T17:45:53.562282"
 }

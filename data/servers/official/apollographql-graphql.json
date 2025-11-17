@@ -10,10 +10,31 @@
   },
   "release_date": "May 16, 2025",
   "url": "https://www.pulsemcp.com/servers/apollographql-graphql",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/apollographql/apollo-mcp-server",
+  "categories": [
+    "api",
+    "workflow",
+    "monitoring",
+    "filesystem",
+    "git",
+    "ai",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:27.134736",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 231,
+    "runtime": "Rust",
+    "readme_excerpt": "<div align=\"center\">\n<a href=\"https://www.apollographql.com/\"><img src=\"https://raw.githubusercontent.com/apollographql/apollo-client-devtools/main/assets/apollo-wordmark.svg\" height=\"100\" alt=\"Apollo Client\"></a>\n</div>\n\n![version](https://img.shields.io/github/v/release/apollographql/apollo-mcp-server)\n![ci workflow status](https://img.shields.io/github/actions/workflow/status/apollographql/apollo-mcp-server/ci.yml)\n![release binaries workflow status](https://img.shields.io/github/actions/workflow/status/apollographql/apollo-mcp-server/release-bins.yml?label=release%20binaries)\n![release container workflow status](https://img.shields.io/github/actions/workflow/status/apollographql/apollo-mcp-server/release-container.yml?label=release%20container)\n![license](https://img.shields.io/github/license/apollographql/apollo-mcp-server)\n[![codecov](https://codecov.io/github/apollographql/apollo-mcp-server/graph/badge.svg?token=6NHuvZQ8ak)](https://codecov.io/github/apollographql/apollo-mcp-server)\n\n# Apollo MCP Server\n\nApollo MCP Server is a [Model Context Protocol](https://modelcontextprotocol.io/) server that exposes GraphQL operations as MCP tools. It provides a standard way for AI models to access and orchestrate your APIs running with Apollo.\n\n## Documentation\n\nSee [the documentation](https://www.apollographql.com/docs/apollo-mcp-server/) for full details. This README shows the basics of getting this MCP server running. More details are available on the documentation site.\n\n## I",
+    "language": "Rust",
+    "license": "MIT License",
+    "forks": 48,
+    "open_issues": 35,
+    "last_pushed": "2025-11-14T23:32:38Z",
+    "topics": [],
+    "quality_score": 70
+  },
+  "enriched_at": "2025-11-17T17:47:54.304129"
 }

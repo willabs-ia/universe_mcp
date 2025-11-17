@@ -10,10 +10,30 @@
   },
   "release_date": "Mar 14, 2025",
   "url": "https://www.pulsemcp.com/servers/alby-bitcoin-payments",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/getalby/mcp",
+  "categories": [
+    "browser",
+    "api",
+    "security",
+    "git",
+    "ai",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:31.411709",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 36,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Alby Bitcoin Payments MCP Server\n\nConnect a bitcoin lightning wallet to your LLM using Nostr Wallet Connect ([NWC](https://nwc.dev)).\n\nThis MCP server uses the [official MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk)\n\nThis MCP server has knowledge of [NWC](https://nwc.dev/), [LNURL](https://github.com/lnurl/luds) and [L402](https://docs.lightning.engineering/the-lightning-network/l402) using [Alby SDK](https://github.com/getAlby/js-sdk) and [Alby Lightning Tools](https://github.com/getAlby/js-lightning-tools).\n\n<a href=\"https://glama.ai/mcp/servers/@getAlby/mcp\">\n  <img width=\"380\" height=\"200\" src=\"https://glama.ai/mcp/servers/@getAlby/mcp/badge\" />\n</a>\n\n## Quick Start\n\n> In case you get stuck, see troubleshooting section below.\n\n### Use the Alby-Hosted MCP Server\n\nIf your agent supports remote MCP servers - SSE (e.g. N8N) or HTTP Streamable transports, you can connect to Alby's MCP server.\n\n- SSE: `https://mcp.getalby.com/sse`\n- HTTP Streamable: `https://mcp.getalby.com/mcp`\n\n#### Authentication\n\nBoth require providing an NWC connection secret as authentication, either as `Bearer` authentication (preferred) or via the `nwc` query parameter.\n\n##### Bearer Auth\n\nExample: `Authorization: Bearer nostr+walletconnect://...`\n\n> If your agent UI supports bearer auth, just paste the connection secret into the bearer auth field.\n\n##### Query Parameter\n\nIf your agent doesn't support bearer auth, you can pass the NWC connection secret as a query paramete",
+    "language": "TypeScript",
+    "license": "Apache License 2.0",
+    "forks": 9,
+    "open_issues": 0,
+    "last_pushed": "2025-07-16T11:04:59Z",
+    "topics": [],
+    "quality_score": 68
+  },
+  "enriched_at": "2025-11-17T17:46:30.639715"
 }

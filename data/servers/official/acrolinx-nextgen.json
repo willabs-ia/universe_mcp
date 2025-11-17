@@ -7,10 +7,38 @@
   "weekly_metric": null,
   "release_date": "Jul 15, 2025",
   "url": "https://www.pulsemcp.com/servers/acrolinx-nextgen",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/acrolinx/nextgen-mcp",
+  "categories": [
+    "api",
+    "workflow",
+    "monitoring",
+    "filesystem",
+    "git",
+    "ai",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:58.341794",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 2,
+    "capabilities": [
+      "**Tone Flexibility**: Academic, business, casual, conversational, formal, gen-z, informal, and technical",
+      "**Writing Suggestions**: Receive specific recommendations for text improvements",
+      "**Style Guide Support**: AP, Chicago Manual of Style, Microsoft, and Proofpoint",
+      "**Text Rewriting**: Automatically improve text for clarity, tone, and style guide compliance",
+      "**Content Analysis**: Get detailed quality scores across multiple dimensions",
+      "**Multiple Dialects**: American, British, Australian, and Canadian English"
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "# Markup.ai MCP Server\n\nA Model Context Protocol (MCP) server that integrates with the Markup.ai API to provide advanced text analysis and improvement capabilities to AI assistants like Claude and Cursor.\n\n## Features\n\n- **Text Rewriting**: Automatically improve text for clarity, tone, and style guide compliance\n- **Content Analysis**: Get detailed quality scores across multiple dimensions\n- **Writing Suggestions**: Receive specific recommendations for text improvements\n- **Style Guide Support**: AP, Chicago Manual of Style, Microsoft, and Proofpoint\n- **Multiple Dialects**: American, British, Australian, and Canadian English\n- **Tone Flexibility**: Academic, business, casual, conversational, formal, gen-z, informal, and technical\n\n## Installation\n\n### Prerequisites\n\n- Node.js 18.0.0 or higher\n- A Markup AI API key\n\n### Setup\n\n1. Clone the repository:\n\n```bash\ngit clone https://github.com/markupai/mcp.git\ncd mcp\n```\n\n2. Install dependencies:\n\n```bash\nnpm install\n```\n\n3. Configure environment variables:\n\n```bash\ncp .env.example .env\n# Edit .env and add your MARKUPAI_API_KEY\n```\n\n4. Build the project:\n\n```bash\nnpm run build\n```\n\n## Configuration\n\n| Variable | Required | Description | Default |\n|----------|----------|-------------|---------|\n| `MARKUPAI_API_KEY` | Yes | Your Markup.ai API key | - |\n| `MARKUPAI_BASE_URL` | No | API base URL | `https://api.markup.ai` |\n| `DEBUG` | No | Enable debug logging | `false` |\n| `MAX_TEXT_LENGTH` | No | Maximum text length (chars) | `10000",
+    "language": "JavaScript",
+    "license": "MIT License",
+    "forks": 0,
+    "open_issues": 7,
+    "last_pushed": "2025-08-27T17:00:56Z",
+    "topics": [],
+    "quality_score": 71
+  },
+  "enriched_at": "2025-11-17T17:45:50.944956"
 }

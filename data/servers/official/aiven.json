@@ -7,10 +7,33 @@
   "weekly_metric": null,
   "release_date": "Mar 22, 2025",
   "url": "https://www.pulsemcp.com/servers/aiven",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/aiven-open/mcp-aiven",
+  "categories": [
+    "api",
+    "search",
+    "monitoring",
+    "security",
+    "ai",
+    "cloud",
+    "filesystem",
+    "database",
+    "data",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:41.612198",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 11,
+    "runtime": "Python",
+    "readme_excerpt": "# Aiven MCP Server\n\nA [Model Context Protocol](https://modelcontextprotocol.io/) (MCP) server for Aiven.\n\nThis provides access to the Aiven for PostgreSQL, Kafka, ClickHouse, Valkey and OpenSearch services running in Aiven and the wider Aiven ecosystem of native connectors. Enabling LLMs to build full stack solutions for all use-cases.\n\n## Features\n\n### Tools\n\n* `list_projects`\n  - List all projects on your Aiven account.\n\n* `list_services`\n  - List all services in a specific Aiven project.\n\n* `get_service_details`\n  - Get the detail of your service in a specific Aiven project.\n\n## Configuration for Claude Desktop\n\n1. Open the Claude Desktop configuration file located at:\n   - On macOS: `~/Library/Application Support/Claude/claude_desktop_config.json`\n   - On Windows: `%APPDATA%/Claude/claude_desktop_config.json`\n\n2. Add the following:\n\n```json\n{\n  \"mcpServers\": {\n    \"mcp-aiven\": {\n      \"command\": \"uv\",\n      \"args\": [\n        \"--directory\",\n        \"$REPOSITORY_DIRECTORY\",\n        \"run\",\n        \"--with-editable\",\n        \"$REPOSITORY_DIRECTORY\",\n        \"--python\",\n        \"3.13\",\n        \"mcp-aiven\"\n      ],\n      \"env\": {\n        \"AIVEN_BASE_URL\": \"https://api.aiven.io\",\n        \"AIVEN_TOKEN\": \"$AIVEN_TOKEN\"\n      }\n    }\n  }\n}\n```\n\nUpdate the environment variables:\n* `$REPOSITORY_DIRECTORY` to point to the folder cointaining the repository\n* `AIVEN_TOKEN` to the [Aiven login token](https://aiven.io/docs/platform/howto/create_authentication_token).\n\n\n3. Locate the comma",
+    "language": "Python",
+    "license": "Apache License 2.0",
+    "forks": 11,
+    "open_issues": 4,
+    "last_pushed": "2025-05-14T14:32:30Z",
+    "topics": [],
+    "quality_score": 62
+  },
+  "enriched_at": "2025-11-17T17:46:19.566117"
 }

@@ -7,10 +7,29 @@
   "weekly_metric": null,
   "release_date": "May 29, 2025",
   "url": "https://www.pulsemcp.com/servers/alibabacloud-fc",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/aliyun/alibabacloud-fc-mcp-server",
+  "categories": [
+    "api",
+    "monitoring",
+    "cloud",
+    "filesystem",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:41.171727",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 7,
+    "runtime": "Node.js",
+    "readme_excerpt": "<p align=\"center\"><b>English</b> | <a href=\"./README_CN.md\">中文</a><br></p>\n\n# Alibaba Cloud FC MCP Server\n\nThis project is the MCP Server for Alibaba Cloud Function Compute (FC) service, based on [Serverless Devs](https://serverless-devs.com/docs/overview) and [OpenAPI](https://www.alibabacloud.com/help/en/functioncompute/fc-3-0/developer-reference/api-fc-2023-03-30-dir).\n\n## Usage Scenarios\n\nIntegrate Alibaba Cloud Function Compute capabilities into agent applications that support MCP Client (such as Cursor, Claude, Cline).\n\n## Prerequisites\n\n1. Install [Node.js](https://nodejs.org/en/download) (version 18 or above is required).\n2. Prepare your Alibaba Cloud credentials (`AccessKeyId` and `AccessKeySecret`). The following permissions are recommended:\n   - `AdministratorAccess` (recommended for full functionality), or at minimum:\n   - `AliyunFCFullAccess` (required)\n   - `AliyunDevsFullAccess` (recommended)\n   - `AliyunVPCFullAccess` (recommended)\n   - `AliyunLogFullAccess` (recommended)\n   - `AliyunEventBridgeFullAccess` (optional)\n\n## Quick Start\n\n### Method 1: Start from npm package [Recommended for MCP Server users]\n\nYou can use the following command to start the MCP server in `stdio` mode:\n\n```bash\nALIBABA_CLOUD_ACCESS_KEY_ID=${your-access-key-id} ALIBABA_CLOUD_ACCESS_KEY_SECRET=${your-access-key-secret} npx alibabacloud-fc-mcp-server\n```\n\n#### Using [Cursor](https://www.cursor.com/) [Recommended]\n+ Click [![Install MCP Server](https://cursor.com/deeplink/mcp-install-dar",
+    "language": "JavaScript",
+    "license": "MIT License",
+    "forks": 5,
+    "open_issues": 3,
+    "last_pushed": "2025-11-16T13:07:08Z",
+    "topics": [],
+    "quality_score": 67
+  },
+  "enriched_at": "2025-11-17T17:46:52.451446"
 }

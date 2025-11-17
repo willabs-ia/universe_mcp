@@ -10,10 +10,28 @@
   },
   "release_date": "Oct 23, 2025",
   "url": "https://www.pulsemcp.com/servers/alkemi-data",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/alkemi-ai/alkemi-mcp",
+  "categories": [
+    "api",
+    "ai",
+    "cloud",
+    "database",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:54.726958",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 2,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Alkemi MCP Server\n\nIntegrate your Alkemi Data, connected to Snowflake, Google BigQuery, DataBricks and other sources, with your MCP Client.\n\nThis is a STDIO wrapper for the Streamable HTTP MCP Endpoint:\n\n```\nhttps://api.alkemi.cloud/mcp\n```\n\nGet your free API key at [datalab.alkemi.ai](https://datalab.alkemi.ai?ref=alkemi-mcp)\n\n## Alkemi.ai\n\nQuerying databases requires knowledge about the schema of the tables and may require examples of the kinds of queries that can answer specific questions. Otherwise, you may be getting the wrong answers. Maintaining all that information in every agent or MCP Client that queries your database is a challenge and doesn't scale to teams looking to share data.\n\nThe Alkemi MCP Server uses Alkemi to store the database metadata, generate proper queries and actually query the database so you can share your MCP Server with teammates and everyone will have the same ability to query with quality.\n\n\n## Installation\n\nTo add OpenAI to Claude Desktop, add the server config:\n\nOn MacOS: `~/Library/Application Support/Claude/claude_desktop_config.json`\n\nOn Windows: `%APPDATA%/Claude/claude_desktop_config.json`\n\n### Env Vars\n\n- `MCP_NAME`: The name of the MCP Server. This is optional. If you configure multiple, this is required so they do not have the same names in your MCP Client..\n- `BEARER_TOKEN`: The Bearer token for the Streamable HTTP MCP Server. This is required for the STDIO MCP Integration.\n- `PRODUCT_ID`: The ID of the Product if you want to narro",
+    "language": "JavaScript",
+    "license": "MIT License",
+    "forks": 1,
+    "open_issues": 0,
+    "last_pushed": "2025-10-28T15:06:58Z",
+    "topics": [],
+    "quality_score": 70
+  },
+  "enriched_at": "2025-11-17T17:47:17.693960"
 }

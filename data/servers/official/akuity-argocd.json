@@ -10,10 +10,47 @@
   },
   "release_date": "May 8, 2025",
   "url": "https://www.pulsemcp.com/servers/akuity-argocd",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/argoproj-labs/mcp-for-argocd",
+  "categories": [
+    "api",
+    "testing",
+    "git",
+    "ai",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:28.860178",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 272,
+    "capabilities": [
+      "**AI Assistant Ready**: Pre-configured tools for AI assistants to interact with Argo CD in natural language",
+      "**Complete Argo CD API Integration**: Provides comprehensive access to Argo CD resources and operations",
+      "**Transport Protocols**: Supports both stdio and HTTP stream transport modes for flexible integration with different clients"
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "# Argo CD MCP Server\n\nAn implementation of [Model Context Protocol (MCP)](https://modelcontextprotocol.io) server for [Argo CD](https://argo-cd.readthedocs.io/en/stable/), enabling AI assistants to interact with your Argo CD applications through natural language. This server allows for seamless integration with Visual Studio Code and other MCP clients through stdio and HTTP stream transport protocols.\n\n<a href=\"https://glama.ai/mcp/servers/@akuity/argocd-mcp\">\n  <img width=\"380\" height=\"200\" src=\"https://glama.ai/mcp/servers/@akuity/argocd-mcp/badge\" alt=\"argocd-mcp MCP server\" />\n</a>\n\n<!--\n// Generate using?:\nconst config = JSON.stringify({\n  \"name\": \"argocd-mcp\",\n  \"command\": \"npx\",\n  \"args\": [\"argocd-mcp@latest\", \"stdio\"],\n  \"env\": {\n    \"ARGOCD_BASE_URL\": \"<argocd_url>\",\n    \"ARGOCD_API_TOKEN\": \"<argocd_token>\"\n  }\n});\nconst urlForWebsites = `vscode:mcp/install?${encodeURIComponent(config)}`;\n// Github markdown does not allow linking to `vscode:` directly, so you can use our redirect:\nconst urlForGithub = `https://insiders.vscode.dev/redirect?url=${encodeURIComponent(urlForWebsites)}`;\n-->\n\n[<img src=\"https://img.shields.io/badge/VS_Code-VS_Code?style=flat-square&label=Install%20Server&color=0098FF\" alt=\"Install in VS Code\">](https://insiders.vscode.dev/redirect?url=vscode%3Amcp%2Finstall%3F%257B%2522name%2522%253A%2522argocd-mcp%2522%252C%2522command%2522%253A%2522npx%2522%252C%2522args%2522%253A%255B%2522argocd-mcp%2540latest%2522%252C%2522stdio%2522%255D%252C%2522env%",
+    "language": "TypeScript",
+    "license": "Apache License 2.0",
+    "forks": 45,
+    "open_issues": 16,
+    "last_pushed": "2025-11-16T11:28:32Z",
+    "topics": [
+      "ai",
+      "argocd",
+      "argocd-mcp",
+      "continuous-delivery",
+      "continuous-deployment",
+      "devops",
+      "gitops",
+      "kubernetes",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "model-context-protocol-servers"
+    ],
+    "quality_score": 84
+  },
+  "enriched_at": "2025-11-17T17:46:27.989006"
 }

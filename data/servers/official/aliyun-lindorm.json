@@ -7,10 +7,31 @@
   "weekly_metric": null,
   "release_date": "Apr 23, 2025",
   "url": "https://www.pulsemcp.com/servers/aliyun-lindorm",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/aliyun/alibabacloud-lindorm-mcp-server",
+  "categories": [
+    "api",
+    "search",
+    "ai",
+    "cloud",
+    "filesystem",
+    "database",
+    "data",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:25.871212",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 2,
+    "runtime": "Python",
+    "readme_excerpt": "# Lindorm MCP Server\nThis repository is an example of how to create a MCP server for Lindorm, a multi-model NoSQL database.\n\n# Usage\n## Configuration on lindorm\nTo utilize this MCP server, follow these steps:\n1. Purchase the Lindorm wide-table engine, search-engine, vector-engine, and AI-engine on [Alibaba Cloud](https://common-buy.aliyun.com/?commodityCode=hitsdb_lindormpre_public_cn&regionId=cn-beijing).\n2. Deploy a text-embedding model by following the [official instructions](https://help.aliyun.com/zh/lindorm/user-guide/model-management-1).\n3. Create your index (knowledgebase) and import your data using the deployed embedding model.\n\n## Environment Setup\n1. Clone this repository and navigate to the project directory.\n2. Create your environment file:\n```shell\ncp .env.example .env\n```\n3. Edit the .env file with your specific configuration:\n* LINDORM_INSTANCE_ID: Your Lindorm instance ID\n* USING_VPC_NETWORK: Set to true if running on VPC network, otherwise false \n* USERNAME: Your Lindorm account username \n* PASSWORD: Your Lindorm account password \n* TEXT_EMBEDDING_MODEL: The name of your deployed text-embedding model \n* TABLE_DATABASE: The database for SQL operations\nNote: This configuration assumes all engines share the same username and password.\n\n## Running the MCP Server\nYou should install `uv`.\nDirectly start the mcp server. \n```shell\ncd /path/to/alibabacloud-lindorm-mcp-server/\n\nuv pip install .\n\nuv run python -m src.lindorm_mcp_server.server\n```\n\n## Visual Studio Code",
+    "language": "Python",
+    "license": "Apache License 2.0",
+    "forks": 1,
+    "open_issues": 2,
+    "last_pushed": "2025-04-23T08:58:16Z",
+    "topics": [],
+    "quality_score": 57
+  },
+  "enriched_at": "2025-11-17T17:47:06.253579"
 }

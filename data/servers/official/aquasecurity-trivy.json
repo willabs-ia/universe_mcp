@@ -7,10 +7,46 @@
   "weekly_metric": null,
   "release_date": "Aug 20, 2025",
   "url": "https://www.pulsemcp.com/servers/aquasecurity-trivy",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/aquasecurity/trivy-mcp",
+  "categories": [
+    "api",
+    "security",
+    "filesystem",
+    "git",
+    "ai",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:15.729538",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 26,
+    "capabilities": [
+      "Remote repository security analysis",
+      "**Integration with Aqua Platform**: Optional integration with Aqua Security's platform for enhanced scanning capabilities and **assurance policy compliance**",
+      "Filesystem scanning for local projects",
+      "**IDE Integration**: Seamless integration with VS Code, Cursor, JetBrains IDEs, and Claude Desktop",
+      "**Flexible Transport**: Support for both stdio and SSE (Server-Sent Events) transport protocols",
+      "**Multiple Scan Types**:",
+      "Container image vulnerability scanning",
+      "**Natural Language Scanning**: Ask questions about security issues in natural language"
+    ],
+    "readme_excerpt": "# Trivy MCP Server Plugin\n\n[![GitHub All Releases](https://img.shields.io/github/downloads/aquasecurity/trivy-mcp/total)](https://github.com/aquasecurity/trivy-mcp/releases)\n\nhttps://github.com/user-attachments/assets/125791b0-3164-4dcc-8fb3-e45481a9cbf7\n\nThis plugin starts a Model Context Protocol (MCP) server that integrates Trivy's security scanning capabilities with VS Code and other MCP-enabled tools.\n\n## Features\n\n- **Natural Language Scanning**: Ask questions about security issues in natural language\n- **Multiple Scan Types**:\n  - Filesystem scanning for local projects\n  - Container image vulnerability scanning\n  - Remote repository security analysis\n- **Integration with Aqua Platform**: Optional integration with Aqua Security's platform for enhanced scanning capabilities and **assurance policy compliance**\n- **Flexible Transport**: Support for both stdio and SSE (Server-Sent Events) transport protocols\n- **IDE Integration**: Seamless integration with VS Code, Cursor, JetBrains IDEs, and Claude Desktop\n\n## Quick Start\n\n### Installation\n\n```sh\ntrivy plugin install mcp\n```\n\n### Starting the Server\n\n```sh\ntrivy mcp\n```\n\n## Documentation\n\nFor comprehensive documentation, please see the [docs](./docs) directory:\n\n- [Installation Guide](./docs/installation.md)\n- [Quick Start Guide](./docs/quickstart.md)\n- [Configuration Options](./docs/configuration.md)\n- [IDE Integration](./docs/ide)\n  - [VS Code](./docs/ide/vscode.md)\n  - [Cursor](./docs/ide/cursor.md)\n  - [JetBrains IDE](",
+    "language": "Go",
+    "license": "MIT License",
+    "forks": 4,
+    "open_issues": 2,
+    "last_pushed": "2025-11-12T12:39:16Z",
+    "topics": [
+      "claude",
+      "cursor",
+      "mcp-server",
+      "security-scanner",
+      "trivy",
+      "vscode"
+    ],
+    "quality_score": 82
+  },
+  "enriched_at": "2025-11-17T17:48:02.003135"
 }

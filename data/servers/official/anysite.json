@@ -7,10 +7,33 @@
   "weekly_metric": null,
   "release_date": "Mar 16, 2025",
   "url": "https://www.pulsemcp.com/servers/anysite",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/anysiteio/anysite-mcp-server",
+  "categories": [
+    "api",
+    "search",
+    "monitoring",
+    "security",
+    "filesystem",
+    "git",
+    "ai",
+    "data",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:16.417257",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 47,
+    "runtime": "Node.js",
+    "readme_excerpt": "<div align=\"center\">\n\n<img src=\"icon.png\" alt=\"AnySite MCP Server Logo\" width=\"200\" />\n\n# 🌐 AnySite MCP Server\n\n**Agent-First Web Scraping Infrastructure via Model Context Protocol**\n\nConnect your AI agents to real-time data from LinkedIn, Instagram, Reddit, Twitter, and any website through a single MCP server.\n\n[![npm version](https://img.shields.io/npm/v/@anysiteio/mcp.svg)](https://www.npmjs.com/package/@anysiteio/mcp)\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\n[![GitHub stars](https://img.shields.io/github/stars/anysiteio/anysite-mcp-server)](https://github.com/anysiteio/anysite-mcp-server/stargazers)\n[![Documentation](https://img.shields.io/badge/docs-anysite.io-blue)](https://docs.anysite.io/mcp-server)\n\n[🚀 Quick Start](#-quick-start) • [📖 Documentation](https://docs.anysite.io/mcp-server) • [🐦 Twitter](#)\n\n</div>\n\n---\n\n## 🎯 What is AnySite MCP Server?\n\nAnySite MCP Server is a **Model Context Protocol (MCP)** implementation that gives AI agents direct access to web data through platform-specific APIs. Unlike traditional web scrapers, AnySite provides:\n\n- **🔒 OAuth Authentication** - Secure, one-click connection for Claude Desktop and other MCP clients\n- **🌐 Multi-Platform Support** - LinkedIn, Instagram, Reddit, Twitter, and custom web parsing\n- **🤖 Agent-First Design** - Built specifically for AI agents with structured data formats\n- **🔄 Self-Healing APIs** - Auto-recovery from platform changes and rate l",
+    "language": "JavaScript",
+    "license": "MIT License",
+    "forks": 19,
+    "open_issues": 1,
+    "last_pushed": "2025-11-03T00:01:35Z",
+    "topics": [],
+    "quality_score": 72
+  },
+  "enriched_at": "2025-11-17T17:47:37.967010"
 }

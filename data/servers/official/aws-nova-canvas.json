@@ -10,10 +10,27 @@
   },
   "release_date": "Apr 4, 2025",
   "url": "https://www.pulsemcp.com/servers/aws-nova-canvas",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/awslabs/mcp/tree/HEAD/src/nova-canvas-mcp-server",
+  "categories": [
+    "api",
+    "search",
+    "monitoring",
+    "ai",
+    "cloud",
+    "git",
+    "database",
+    "data",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:13.783954",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 7400,
+    "runtime": "Python",
+    "readme_excerpt": "# AWS MCP Servers\n\nA suite of specialized MCP servers that help you get the most out of AWS, wherever you use MCP.\n\n[![GitHub](https://img.shields.io/badge/github-awslabs/mcp-blue.svg?style=flat&logo=github)](https://github.com/awslabs/mcp)\n[![License](https://img.shields.io/badge/license-Apache--2.0-brightgreen)](LICENSE)\n[![Codecov](https://img.shields.io/codecov/c/github/awslabs/mcp)](https://app.codecov.io/gh/awslabs/mcp)\n[![OSSF-Scorecard Score](https://img.shields.io/ossf-scorecard/github.com/awslabs/mcp)](https://scorecard.dev/viewer/?uri=github.com/awslabs/mcp)\n\n## Table of Contents\n\n- [AWS MCP Servers](#aws-mcp-servers)\n  - [Table of Contents](#table-of-contents)\n  - [What is the Model Context Protocol (MCP) and how does it work with AWS MCP Servers?](#what-is-the-model-context-protocol-mcp-and-how-does-it-work-with-aws-mcp-servers)\n  - [AWS MCP Servers Transport Mechanisms](#aws-mcp-servers-transport-mechanisms)\n    - [Supported transport mechanisms](#supported-transport-mechanisms)\n    - [Server Sent Events Support Removal](#server-sent-events-support-removal)\n  - [Why AWS MCP Servers?](#why-aws-mcp-servers)\n  - [Available MCP Servers: Quick Installation](#available-mcp-servers-quick-installation)\n    - [🚀Getting Started with AWS](#-getting-started-with-aws)\n    - [Browse by What You're Building](#browse-by-what-youre-building)\n      - [📚 Real-time access to official AWS documentation](#-real-time-access-to-official-aws-documentation)\n      - [🏗️ Infrastructure \\& ",
+    "quality_score": 60
+  },
+  "enriched_at": "2025-11-17T17:48:42.174418"
 }

@@ -7,10 +7,42 @@
   "weekly_metric": null,
   "release_date": "Apr 10, 2025",
   "url": "https://www.pulsemcp.com/servers/apecloud-kb-cloud",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/apecloud/kb-cloud-mcp-server",
+  "categories": [
+    "api",
+    "security",
+    "ai",
+    "cloud",
+    "filesystem",
+    "git",
+    "database",
+    "data",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:14.975084",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 2,
+    "capabilities": [
+      "Secure authentication via KubeBlocks Cloud API key and secret",
+      "MCP-based API for accessing KubeBlocks Cloud resources",
+      "Organizations",
+      "Instances",
+      "Internationalization support via translation helpers",
+      "Environments",
+      "Support for common KubeBlocks Cloud resources:",
+      "Secure communication through StdioServer",
+      "Backups"
+    ],
+    "readme_excerpt": "# KubeBlocks Cloud MCP Server\n\nThe KubeBlocks Cloud MCP Server is a [Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction)\nserver that provides seamless integration with KubeBlocks Cloud APIs, enabling AI assistants to interact with\nKubeBlocks Cloud resources through a standardized tool-calling interface.\n\n[![Go Version](https://img.shields.io/github/go-mod/go-version/apecloud/kb-cloud-mcp-server?style=flat-square)](https://go.mod)\n[![License](https://img.shields.io/github/license/apecloud/kb-cloud-mcp-server?style=flat-square)](LICENSE)\n\n## Use Cases\n\n- Automating KubeBlocks Cloud resource management\n- Retrieving and analyzing data from KubeBlocks Cloud environments\n- Building AI-powered tools that interact with the KubeBlocks Cloud ecosystem\n- Enabling AI assistants to provision and manage database instances\n\n## Features\n\n- MCP-based API for accessing KubeBlocks Cloud resources\n- Secure authentication via KubeBlocks Cloud API key and secret\n- Support for common KubeBlocks Cloud resources:\n  - Organizations\n  - Environments\n  - Instances\n  - Backups\n- Internationalization support via translation helpers\n- Secure communication through StdioServer\n\n## Prerequisites\n\n1. Go 1.20+ (compatible with the MCP-Go package)\n2. KubeBlocks Cloud API credentials - you'll need an API key name and secret\n\n## Installation\n\n### Build from Source\n\n```bash\ngit clone https://github.com/apecloud/kb-cloud-mcp-server.git\ncd kb-cloud-mcp-server\ngo mod tidy\ngo build -o kb-cloud-m",
+    "language": "Go",
+    "license": "MIT License",
+    "forks": 0,
+    "open_issues": 7,
+    "last_pushed": "2025-11-03T08:46:14Z",
+    "topics": [],
+    "quality_score": 74
+  },
+  "enriched_at": "2025-11-17T17:47:46.167085"
 }

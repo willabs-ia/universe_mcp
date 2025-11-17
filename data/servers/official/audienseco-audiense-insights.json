@@ -7,10 +7,34 @@
   "weekly_metric": null,
   "release_date": "Feb 1, 2025",
   "url": "https://www.pulsemcp.com/servers/audienseco-audiense-insights",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/audienseco/mcp-audiense-insights",
+  "categories": [
+    "api",
+    "monitoring",
+    "security",
+    "filesystem",
+    "git",
+    "ai",
+    "data",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:55.075106",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 17,
+    "runtime": "Node.js",
+    "readme_excerpt": "## ⚠️ **Deprecated**\n\n## 🚫 This repository is no longer maintained.\n\n>The Audiense Insights MCP has been migrated to a remote model. For more information on how to use the new remote MCP, please reach us at [support@audiense.com](mailto:support@audiense.com).\n\n---\n---\n\n## 🏆 Audiense Insights MCP Server\n\nThis server, based on the [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol), allows **Claude** or any other MCP-compatible client to interact with your [Audiense Insights](https://www.audiense.com/) account. It extracts **marketing insights and audience analysis** from Audiense reports, covering **demographic, cultural, influencer, and content engagement analysis**.\n\n\n## 🚀 Prerequisites\n\nBefore using this server, ensure you have:\n\n- **Node.js** (v18 or higher)\n- **Claude Desktop App**\n- **Audiense Insights Account** with API credentials\n- **X/Twitter API Bearer Token** _(optional, for enriched influencer data)_\n\n---\n\n## ⚙️ Configuring Claude Desktop\n\n1. Open the configuration file for Claude Desktop:\n\n   - **MacOS:**\n     ```bash\n     code ~/Library/Application\\ Support/Claude/claude_desktop_config.json\n     ```\n   - **Windows:**\n     ```bash\n     code %AppData%\\Claude\\claude_desktop_config.json\n     ```\n\n2. Add or update the following configuration:\n\n   ```json\n   \"mcpServers\": {\n     \"audiense-insights\": {\n       \"command\": \"npx\",\n       \"args\": [\n        \"-y\",\n         \"mcp-audiense-insights\"\n       ],\n       \"env\": {\n         \"AUDIENSE_CLIENT_ID\": \"yo",
+    "language": "TypeScript",
+    "license": "Apache License 2.0",
+    "forks": 12,
+    "open_issues": 3,
+    "last_pushed": "2025-06-16T14:35:07Z",
+    "topics": [
+      "mcp",
+      "modelcontextprotocol"
+    ],
+    "quality_score": 65
+  },
+  "enriched_at": "2025-11-17T17:48:21.884116"
 }

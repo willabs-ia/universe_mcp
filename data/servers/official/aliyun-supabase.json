@@ -7,10 +7,33 @@
   "weekly_metric": null,
   "release_date": "Aug 20, 2025",
   "url": "https://www.pulsemcp.com/servers/aliyun-supabase",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/aliyun/alibabacloud-supabase-mcp-server",
+  "categories": [
+    "api",
+    "security",
+    "ai",
+    "cloud",
+    "testing",
+    "filesystem",
+    "git",
+    "database",
+    "data",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:15.700384",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 8,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Aliyun Supabase\n\nLearn more about our product  [Supabase on Alibaba Cloud (AnalyticDB for PostgreSQL)](https://www.alibabacloud.com/help/en/analyticdb/analyticdb-for-postgresql/user-guide/supabase/).\nDeploy Supabase **for free** on Alibaba Cloud today.\n\nLearn more about [Alibaba Cloud Supabase MCP](https://www.alibabacloud.com/help/en/analyticdb/analyticdb-for-postgresql/user-guide/supabase-mcp-user-guide?spm=a2c63.p38356.help-menu-92664.d_2_0_0.632d1bccKdiUyn).\n\n# Supabase MCP Server\n\n> Connect your Supabase projects to Cursor, Claude, Windsurf, Lingma, Qoder, and other AI assistants.\n\n![supabase-mcp-demo](https://github.com/user-attachments/assets/3fce101a-b7d4-482f-9182-0be70ed1ad56)\n\nThe [Model Context Protocol](https://modelcontextprotocol.io/introduction) (MCP) standardizes how Large Language Models (LLMs) talk to external services like Supabase. It connects AI assistants directly with your Supabase project and allows them to perform tasks like managing tables, fetching config, and querying data. See the [full list of tools](#tools).\n\n## Prerequisites\n\nYou will need Node.js installed on your machine. You can check this by running:\n\n```shell\nnode -v\n```\n\nIf you don't have Node.js installed, you can download it from [nodejs.org](https://nodejs.org/).\n\n## Setup\n\n### 1. Aliyun AK & SK\n\nFirst, go to your [Aliyun console](https://ram.console.aliyun.com/profile/access-keys) and create a personal access key. Give it a name that describes its purpose, like \"Cursor MCP Server\".",
+    "language": "TypeScript",
+    "license": "Apache License 2.0",
+    "forks": 1,
+    "open_issues": 2,
+    "last_pushed": "2025-09-25T01:41:29Z",
+    "topics": [],
+    "quality_score": 64
+  },
+  "enriched_at": "2025-11-17T17:47:14.886226"
 }

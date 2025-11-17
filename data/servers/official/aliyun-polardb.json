@@ -7,10 +7,27 @@
   "weekly_metric": null,
   "release_date": "Apr 28, 2025",
   "url": "https://www.pulsemcp.com/servers/aliyun-polardb",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/aliyun/alibabacloud-polardb-mcp-server",
+  "categories": [
+    "api",
+    "cloud",
+    "filesystem",
+    "database",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:27.974286",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 13,
+    "readme_excerpt": "PolarDB  MCP Server\n=======================\nAlibaba Cloud PolarDB is a cloud-native relational database service that decouples computing resources from storage resources and uses integrated software and hardware to provide secure and reliable services with high performance, auto scaling capabilities within seconds, and a large storage capacity. PolarDB is 100% compatible with MySQL and PostgreSQL and is highly compatible with the Oracle syntax. We provide the following PolarDB MCP Servers to help you access your PolarDB clusters.\n* polardb-mysql-mcp-server\n* polardb-postgresql-mcp-server\n* polardb-openapi-mcp-server",
+    "language": "Python",
+    "license": "Apache License 2.0",
+    "forks": 1,
+    "open_issues": 0,
+    "last_pushed": "2025-08-01T02:24:48Z",
+    "topics": [],
+    "quality_score": 68
+  },
+  "enriched_at": "2025-11-17T17:47:09.062239"
 }

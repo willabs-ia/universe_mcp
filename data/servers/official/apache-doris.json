@@ -10,10 +10,36 @@
   },
   "release_date": "May 6, 2025",
   "url": "https://www.pulsemcp.com/servers/apache-doris",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/apache/doris-mcp-server",
+  "categories": [
+    "api",
+    "security",
+    "ai",
+    "filesystem",
+    "database",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:35.901417",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 219,
+    "runtime": "Node.js",
+    "readme_excerpt": "<!--\nLicensed to the Apache Software Foundation (ASF) under one\nor more contributor license agreements.  See the NOTICE file\ndistributed with this work for additional information\nregarding copyright ownership.  The ASF licenses this file\nto you under the Apache License, Version 2.0 (the\n\"License\"); you may not use this file except in compliance\nwith the License.  You may obtain a copy of the License at\n\n  http://www.apache.org/licenses/LICENSE-2.0\n\nUnless required by applicable law or agreed to in writing,\nsoftware distributed under the License is distributed on an\n\"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY\nKIND, either express or implied.  See the License for the\nspecific language governing permissions and limitations\nunder the License.\n-->\n\n# Doris MCP Server\n\nDoris MCP (Model Context Protocol) Server is a backend service built with Python and FastAPI. It implements the MCP, allowing clients to interact with it through defined \"Tools\". It's primarily designed to connect to Apache Doris databases, potentially leveraging Large Language Models (LLMs) for tasks like converting natural language queries to SQL (NL2SQL), executing queries, and performing metadata management and analysis.\n\n## 🚀 What's New in v0.6.0\n\n- **🔐 Enterprise Authentication System**: **Revolutionary token-bound database configuration** with comprehensive Token, JWT, and OAuth authentication support, enabling secure multi-tenant access with granular control switches and enterprise-grade security d",
+    "language": "Python",
+    "license": "Apache License 2.0",
+    "forks": 59,
+    "open_issues": 5,
+    "last_pushed": "2025-11-04T06:45:38Z",
+    "topics": [
+      "ai",
+      "lakehouse",
+      "mcp",
+      "olap",
+      "query-engine",
+      "real-time"
+    ],
+    "quality_score": 77
+  },
+  "enriched_at": "2025-11-17T17:47:40.999377"
 }

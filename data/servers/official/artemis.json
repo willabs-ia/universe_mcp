@@ -10,10 +10,30 @@
   },
   "release_date": "Mar 7, 2025",
   "url": "https://www.pulsemcp.com/servers/artemis",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/artemis-xyz/artemis-mcp",
+  "categories": [
+    "api",
+    "monitoring",
+    "testing",
+    "filesystem",
+    "ai",
+    "data",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:10.515552",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 2,
+    "runtime": "Python",
+    "readme_excerpt": "## artemis-mcp\n\n```\n     _    ____ _____ _____ __  __ ___ ____    __  __  ____ ____\n    / \\  |  _ \\_   _| ____|  \\/  |_ _/ ___|  |  \\/  |/ ___|  _ \\\n   / _ \\ | |_) || | |  _| | |\\/| || |\\___ \\  | |\\/| | |   | |_) |\n  / ___ \\|  _ < | | | |___| |  | || | ___) | | |  | | |___|  __/\n /_/   \\_\\_| \\_\\|_| |_____|_|  |_|___|____/  |_|  |_|\\____|_|\n```\n\n## Prerequisites\n\n- Python 3.11+\n- [uv](https://docs.astral.sh/uv/getting-started/installation/#installation-methods). On MacOS, you can install it using Homebrew: `brew install uv`.\n- Claude Desktop\n- Artemis API Key\n- Artemis Snowflake Login\n\n## Installation\n\n### Automated Using OpenTools (Easier)\n\nInstall [OpenTools](https://opentools.com/docs/quickstart) prerequisites.\n\nThen run:\n\n```bash\nnpx opentools@latest i artemis\n```\n\n### Manual Setup (More Work)\n\n- Install uv\n\nCopy `sample_claude_desktop_config.json` to your `claude_desktop_config.json` file:\n\n- On MacOS: `~/Library/Application\\ Support/Claude/claude_desktop_config.json`\n- On Windows: `%APPDATA%/Claude/claude_desktop_config.json`\n\nFill out the relevant fields in `claude_desktop_config.json`:\n\n- `<UV_PATH>` - Path to uv executable (run `where python` on MacOS)\n- `<PATH_TO_ARTEMIS_MCP_REPO>` - Path to local clone of the Artemis MCP repo\n- `<ARTEMIS_API_KEY>` - Your Artemis API Key\n\n- Restart Claude Desktop\n- Artemis MCP Tools should now be available!\n\n## Available Tools\n\nThe Artemis MCP server provides the following tools:\n\n### API Tools\n- `validate-artemis-api-key`: Creates a",
+    "language": "Python",
+    "license": null,
+    "forks": 6,
+    "open_issues": 5,
+    "last_pushed": "2025-03-11T16:23:30Z",
+    "topics": [],
+    "quality_score": 47
+  },
+  "enriched_at": "2025-11-17T17:48:09.828718"
 }

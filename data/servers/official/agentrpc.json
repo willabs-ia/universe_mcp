@@ -10,10 +10,30 @@
   },
   "release_date": "Mar 19, 2025",
   "url": "https://www.pulsemcp.com/servers/agentrpc",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/agentrpc/agentrpc",
+  "categories": [
+    "api",
+    "monitoring",
+    "cloud",
+    "filesystem",
+    "git",
+    "ai",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:39.330700",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 120,
+    "runtime": "Python",
+    "readme_excerpt": "# AgentRPC\n\n![NPM Version](https://img.shields.io/npm/v/agentrpc?color=32CD32) ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/agentrpc/agentrpc?filename=sdk-go%2Fgo.mod&color=32CD32) ![PyPI - Python Version](https://img.shields.io/pypi/v/agentrpc?color=32CD32) ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)\n\n> Universal RPC layer for AI agents across network boundaries and languages\n\n## Overview\n\nAgentRPC allows you to connect to any function, in any language, across network boundaries. It's ideal when you have services deployed in:\n- Private VPCs\n- Kubernetes clusters\n- Multiple cloud environments\n\nAgentRPC wraps your functions in a universal RPC interface, connecting them to a hosted RPC server accessible through open standards:\n\n- Model Context Protocol (MCP)\n- OpenAI-compatible tool definitions (OpenAI, Anthropic, LiteLLM, OpenRouter, etc.)\n\n<p align=\"center\">\n<img src=\"./assets/deployment.png\" alt=\"deployment\" width=\"500\">\n</p>\n\n## How It Works\n\n1. **Registration**: Use our SDK to register functions and APIs in any language\n2. **Management**: The AgentRPC platform (api.agentrpc.com) registers the function and monitors its health\n3. **Access**: Receive OpenAPI SDK compatible tool definitions and a hosted MCP server for connecting to compatible agents\n\n## Key Features\n\n| Feature | Description |\n|---------|-------------|\n| **Multi-language Support** | Connect to tools in TypeScript, Go, Python and .NET (coming soon) |\n| **",
+    "language": "TypeScript",
+    "license": "Apache License 2.0",
+    "forks": 22,
+    "open_issues": 21,
+    "last_pushed": "2025-10-27T13:34:28Z",
+    "topics": [],
+    "quality_score": 70
+  },
+  "enriched_at": "2025-11-17T17:46:06.346256"
 }

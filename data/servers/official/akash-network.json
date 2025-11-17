@@ -7,10 +7,40 @@
   "weekly_metric": null,
   "release_date": "Apr 2, 2025",
   "url": "https://www.pulsemcp.com/servers/akash-network",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/akash-network/mcp",
+  "categories": [
+    "api",
+    "monitoring",
+    "security",
+    "git",
+    "ai",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:05.676320",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 10,
+    "capabilities": [
+      "**Wallet and Client Management**: Handles Akash wallet authentication and client initialization",
+      "Account address retrieval",
+      "SDL (Stack Definition Language) operations",
+      "**Certificate Management**: Manages Akash certificates",
+      "Lease creation",
+      "**Tools for Akash Interaction**:",
+      "Manifest deployment",
+      "Bid management",
+      "Deployment creation, querying, updating, and termination"
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "<div align=\"left\">\n  \n  <a href=\"https://akash.network/\" target=\"_blank\">\n    <img src=\"https://raw.githubusercontent.com/cosmos/chain-registry/master/akash/images/akt.png\" alt=\"Akash logo\" title=\"Akash Network\" align=\"left\" height=\"40\" />\n  </a>\n  \n  # Akash MCP Server\n  \n  **Akash MCP Server** is a TypeScript implementation of a Model Context Protocol (MCP) server for interacting with the Akash Network.\n\n[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)\n[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/akashnet_)](https://x.com/akashnet_ 'Follow Akash Network on X')\n[![Discord](https://img.shields.io/badge/discord-join-7289DA.svg?logo=discord&longCache=true&style=flat)](https://discord.gg/akash 'Join Akash Discord')\n\n</div>\n\n## Note\n\nThis project is still under development and not all tools are available. We are working on adding more tools and improving the server.\nWe are open to contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for more details.\n\n## Overview\n\nThis server provides a bridge between AI agents and the Akash Network, allowing AI models to deploy applications, create leases, manage deployments, and interact with other Akash services directly through typed tools. It implements the Model Context Protocol, making it compatible with various AI platforms and tools.\n\n## Features\n\n- **Wallet and Client Management**: Handles Akash wallet authentication and client initialization\n- *",
+    "language": "TypeScript",
+    "license": "Apache License 2.0",
+    "forks": 6,
+    "open_issues": 1,
+    "last_pushed": "2025-08-29T12:41:45Z",
+    "topics": [],
+    "quality_score": 79
+  },
+  "enriched_at": "2025-11-17T17:46:22.409738"
 }

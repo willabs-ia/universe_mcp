@@ -7,10 +7,17 @@
   "weekly_metric": null,
   "release_date": "Mar 24, 2025",
   "url": "https://www.pulsemcp.com/servers/1panel-dev-1panel",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/1Panel-dev",
+  "categories": [
+    "database",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:48.428674",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 143,
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T17:44:56.454769"
 }

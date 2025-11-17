@@ -10,10 +10,36 @@
   },
   "release_date": "Apr 18, 2025",
   "url": "https://www.pulsemcp.com/servers/alibabacloud-core",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/aliyun/alibaba-cloud-ops-mcp-server",
+  "categories": [
+    "api",
+    "monitoring",
+    "cloud",
+    "testing",
+    "git",
+    "ai",
+    "data",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:17.103414",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 85,
+    "readme_excerpt": "# Alibaba Cloud Ops MCP Server\n\n[![GitHub stars](https://img.shields.io/github/stars/aliyun/alibaba-cloud-ops-mcp-server?style=social)](https://github.com/aliyun/alibaba-cloud-ops-mcp-server)\n\n[中文版本](./README_zh.md)\n\nAlibaba Cloud Ops MCP Server is a [Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction) server that provides seamless integration with Alibaba Cloud APIs, enabling AI assistants to operation resources on Alibaba Cloud, supporting ECS, Cloud Monitor, OOS and other widely used cloud products.\n\n## Prepare\n\nInstall [uv](https://github.com/astral-sh/uv)\n\n```bash\n# On macOS and Linux.\ncurl -LsSf https://astral.sh/uv/install.sh | sh\n```\n\n## Configuration\n\nUse [VS Code](https://code.visualstudio.com/) + [Cline](https://cline.bot/) to config MCP Server.\n\nTo use `alibaba-cloud-ops-mcp-server` MCP Server with any other MCP Client, you can manually add this configuration and restart for changes to take effect:\n\n```json\n{\n  \"mcpServers\": {\n    \"alibaba-cloud-ops-mcp-server\": {\n      \"timeout\": 600,\n      \"command\": \"uvx\",\n      \"args\": [\n        \"alibaba-cloud-ops-mcp-server@latest\"\n      ],\n      \"env\": {\n        \"ALIBABA_CLOUD_ACCESS_KEY_ID\": \"Your Access Key ID\",\n        \"ALIBABA_CLOUD_ACCESS_KEY_SECRET\": \"Your Access Key SECRET\"\n      }\n    }\n  }\n}\n```\n\n[For detailed parameter description, see MCP startup parameter document](./README_mcp_args.md)\n\n## MCP Maketplace Integration\n\n* [Cline](https://cline.bot/mcp-marketplace)\n* [Cursor](https://docs.cur",
+    "language": "Python",
+    "license": "Apache License 2.0",
+    "forks": 27,
+    "open_issues": 7,
+    "last_pushed": "2025-10-29T15:40:58Z",
+    "topics": [
+      "alibabacloud",
+      "cloudops",
+      "llm",
+      "mcp"
+    ],
+    "quality_score": 69
+  },
+  "enriched_at": "2025-11-17T17:46:47.247544"
 }

@@ -7,10 +7,37 @@
   "weekly_metric": null,
   "release_date": "Apr 17, 2025",
   "url": "https://www.pulsemcp.com/servers/alibabacloud-rds",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/aliyun/alibabacloud-rds-openapi-mcp-server",
+  "categories": [
+    "api",
+    "monitoring",
+    "ai",
+    "cloud",
+    "testing",
+    "git",
+    "database",
+    "data",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:21.347878",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 39,
+    "runtime": "Python",
+    "readme_excerpt": "<p align=\"center\">English | <a href=\"./README_CN.md\">中文</a><br></p>\n\n# Alibaba Cloud RDS OpenAPI MCP Server\nMCP server for RDS Services via OPENAPI\n\n## Prerequisites\n1. Install `uv` from [Astral](https://docs.astral.sh/uv/getting-started/installation/) or the [GitHub README](https://github.com/astral-sh/uv#installation)\n2. Install Python using `uv python install 3.12`\n3. Alibaba Cloud credentials with access to Alibaba Cloud RDS services\n\n## Quick Start\n### Using [cherry-studio](https://github.com/CherryHQ/cherry-studio) (Recommended)\n1. Download and install cherry-studio\n2. Follow the [documentation](https://docs.cherry-ai.com/cherry-studio/download) to install uv, which is required for the MCP environment\n3. Configure and use RDS MCP according to the [documentation](https://docs.cherry-ai.com/advanced-basic/mcp/install). You can quickly import the RDS MCP configuration using the JSON below. Please set ALIBABA_CLOUD_ACCESS_KEY_ID and ALIBABA_CLOUD_ACCESS_KEY_SECRET to your Alibaba Cloud AK/SK.\n\n> The following error may appear during import, which can be ignored:\n> xxx settings.mcp.addServer.importFrom.connectionFailed\n\n<img src=\"./assets/cherry-config.png\" alt=\"cherry_config\"/>\n\n```json5\n{\n  \"mcpServers\": {\n    \"rds-openapi\": {\n      \"name\": \"rds-openapi\",\n      \"type\": \"stdio\",\n      \"description\": \"\",\n      \"isActive\": true,\n      \"registryUrl\": \"\",\n      \"command\": \"uvx\",\n      \"args\": [\n        \"alibabacloud-rds-openapi-mcp-server@latest\"\n      ],\n      \"env\": {\n       ",
+    "language": "Python",
+    "license": "Apache License 2.0",
+    "forks": 16,
+    "open_issues": 5,
+    "last_pushed": "2025-08-27T02:30:05Z",
+    "topics": [
+      "ai",
+      "mcp",
+      "rds"
+    ],
+    "quality_score": 69
+  },
+  "enriched_at": "2025-11-17T17:46:57.580585"
 }

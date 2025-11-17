@@ -7,10 +7,29 @@
   "weekly_metric": null,
   "release_date": "Mar 26, 2025",
   "url": "https://www.pulsemcp.com/servers/21stdev-magic-ui-generator",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/oyasimi1209/magic-mcp",
+  "categories": [
+    "api",
+    "workflow",
+    "development",
+    "ai",
+    "testing",
+    "monitoring"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:05.639923",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 2,
+    "runtime": "Node.js",
+    "readme_excerpt": "# 21st.dev Magic AI Agent\n\n![MCP Banner](https://21st.dev/magic-agent-og-image.png)\n\nMagic Component Platform (MCP) is a powerful AI-driven tool that helps developers create beautiful, modern UI components instantly through natural language descriptions. It integrates seamlessly with popular IDEs and provides a streamlined workflow for UI development.\n\n## 🌟 Features\n\n- **AI-Powered UI Generation**: Create UI components by describing them in natural language\n- **Multi-IDE Support**:\n  - [Cursor](https://cursor.com) IDE integration\n  - [Windsurf](https://windsurf.ai) support\n  - [VSCode + Cline](https://cline.bot) integration (Beta)\n- **Modern Component Library**: Access to a vast collection of pre-built, customizable components inspired by [21st.dev](https://21st.dev)\n- **Real-time Preview**: Instantly see your components as you create them\n- **TypeScript Support**: Full TypeScript support for type-safe development\n- **SVGL Integration**: Access to a vast collection of professional brand assets and logos\n- **Component Enhancement**: Improve existing components with advanced features and animations (Coming Soon)\n\n## 🎯 How It Works\n\n1. **Tell Agent What You Need**\n\n   - In your AI Agent's chat, just type `/ui` and describe the component you're looking for\n   - Example: `/ui create a modern navigation bar with responsive design`\n\n2. **Let Magic Create It**\n\n   - Your IDE prompts you to use Magic\n   - Magic instantly builds a polished UI component\n   - Components are inspired by 2",
+    "language": null,
+    "license": null,
+    "forks": 0,
+    "open_issues": 0,
+    "last_pushed": "2025-03-13T19:44:56Z",
+    "topics": [],
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T17:45:02.041096"
 }

@@ -7,10 +7,28 @@
   "weekly_metric": null,
   "release_date": "May 10, 2025",
   "url": "https://www.pulsemcp.com/servers/alchemyplatform-blockchain-api",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/alchemyplatform/alchemy-mcp-server",
+  "categories": [
+    "api",
+    "filesystem",
+    "ai",
+    "data",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:32.254418",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 68,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Alchemy MCP Server\n\nA Model Context Protocol (MCP) server that enables AI agents to interact with Alchemy's blockchain APIs in a structured way. This allows agents to query blockchain data directly without writing any code.\n\n<a href=\"https://glama.ai/mcp/servers/@alchemyplatform/alchemy-mcp-server\">\n  <img width=\"380\" height=\"200\" src=\"https://glama.ai/mcp/servers/@alchemyplatform/alchemy-mcp-server/badge\" alt=\"Alchemy Server MCP server\" />\n</a>\n\n## General Usage\n\nThis MCP server creates a bridge between AI agents and Alchemy's blockchain APIs, allowing agents to:\n- Query token prices and price history (including flexible time frame queries)\n- Get NFT ownership information and contract data\n- View transaction history across multiple networks\n- Check token balances across multiple blockchain networks\n- Retrieve detailed asset transfers with filtering\n- Send transactions via Smart Contract Accounts (**requires configured wallet agent server**)\n- Execute token swaps via DEX protocols (**requires configured wallet agent server**)\n- And more!\n\n### Quick Setup\n\nTo quickly set up the MCP server, use the following configuration in your MCP config file (typically in Claude Desktop or Cursor settings):\n\n```json\n{\n  \"mcpServers\": {\n    \"alchemy\": {\n      \"command\": \"npx\",\n      \"args\": [\n        \"-y\",\n        \"@alchemy/mcp-server\"\n      ],\n      \"env\": {\n        \"ALCHEMY_API_KEY\": \"YOUR_API_KEY\"\n      }\n    }\n  }\n}\n```\n\nThis configuration allows you to use the server without manually ",
+    "language": "TypeScript",
+    "license": "MIT License",
+    "forks": 26,
+    "open_issues": 6,
+    "last_pushed": "2025-09-18T15:19:44Z",
+    "topics": [],
+    "quality_score": 66
+  },
+  "enriched_at": "2025-11-17T17:46:36.220757"
 }

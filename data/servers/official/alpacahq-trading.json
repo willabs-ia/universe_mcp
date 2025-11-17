@@ -10,10 +10,58 @@
   },
   "release_date": "Jun 4, 2025",
   "url": "https://www.pulsemcp.com/servers/alpacahq-trading",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/alpacahq/alpaca-mcp-server",
+  "categories": [
+    "api",
+    "monitoring",
+    "git",
+    "ai",
+    "data",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:27.059377",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 345,
+    "capabilities": [
+      "Filter assets by status, class, exchange, and attributes",
+      "Comprehensive stock snapshots and trade-level history",
+      "Option contract quotes and Greeks",
+      "**Position Management**",
+      "**Market Status & Corporate Actions**",
+      "Create, update, and view personal watchlists",
+      "**Account Management**",
+      "Support for GTC and IOC time in force",
+      "Fetch market calendar and trading sessions",
+      "Check if markets are open",
+      "Query details for stocks, ETFs, crypto, and options",
+      "View upcoming / historical corporate announcements (earnings, splits, dividends)",
+      "Historical data with flexible timeframes (1Min to 1Month)",
+      "**Crypto Trading**",
+      "**Order Management**"
+    ],
+    "runtime": "Python",
+    "readme_excerpt": "<p align=\"center\">\n  <img src=\"https://raw.githubusercontent.com/alpacahq/alpaca-mcp-server/main/assets/01-primary-alpaca-logo.png\" alt=\"Alpaca logo\" width=\"220\">\n</p>\n\n<div align=\"center\">\n\n<a href=\"https://x.com/alpacahq?lang=en\" target=\"_blank\"><img src=\"https://img.shields.io/badge/X-DCDCDC?logo=x&logoColor=000\" alt=\"X\"></a>\n<a href=\"https://www.reddit.com/r/alpacamarkets/\" target=\"_blank\"><img src=\"https://img.shields.io/badge/Reddit-DCDCDC?logo=reddit&logoColor=000\" alt=\"Reddit\"></a>\n<a href=\"https://alpaca.markets/slack\" target=\"_blank\"><img src=\"https://img.shields.io/badge/Slack-DCDCDC?logo=slack&logoColor=000\" alt=\"Slack\"></a>\n<a href=\"https://www.linkedin.com/company/alpacamarkets/\" target=\"_blank\"><img src=\"https://img.shields.io/badge/LinkedIn-DCDCDC\" alt=\"LinkedIn\"></a>\n<a href=\"https://forum.alpaca.markets/\" target=\"_blank\"><img src=\"https://img.shields.io/badge/Forum-DCDCDC?logo=discourse&logoColor=000\" alt=\"Forum\"></a>\n<a href=\"https://docs.alpaca.markets/docs/getting-started\" target=\"_blank\"><img src=\"https://img.shields.io/badge/Docs-DCDCDC\" alt=\"Docs\"></a>\n<a href=\"https://alpaca.markets/sdks/python/\" target=\"_blank\"><img src=\"https://img.shields.io/badge/Python_SDK-DCDCDC?logo=python&logoColor=000\" alt=\"Python SDK\"></a>\n\n</div>\n\n<p align=\"center\">\n  A comprehensive Model Context Protocol (MCP) server for Alpaca's Trading API. Enable natural language trading operations through AI assistants like Claude, Cursor, and VS Code. Supports stocks, options, crypto",
+    "language": "Python",
+    "license": "MIT License",
+    "forks": 99,
+    "open_issues": 9,
+    "last_pushed": "2025-11-14T20:39:34Z",
+    "topics": [
+      "ai-trading",
+      "algorithmic-trading",
+      "crypto",
+      "etfs",
+      "mcp",
+      "mcp-server",
+      "options",
+      "stocks",
+      "trading",
+      "trading-api"
+    ],
+    "quality_score": 84
+  },
+  "enriched_at": "2025-11-17T17:47:22.822536"
 }

@@ -10,10 +10,36 @@
   },
   "release_date": "May 29, 2025",
   "url": "https://www.pulsemcp.com/servers/akave-storage",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/akave-ai/akave-mcp",
+  "categories": [
+    "api",
+    "cloud",
+    "filesystem",
+    "ai",
+    "data",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:52.304728",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 2,
+    "capabilities": [
+      "Simple configuration through JSON",
+      "Generate signed URLs for secure access",
+      "Support for both Claude and local LLMs (via Ollama)",
+      "List and manage buckets",
+      "Upload, download, and manage **objects**"
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "# Akave MCP Server\n\nA Model Context Protocol (MCP) server that enables AI models to interact with Akave's S3-compatible storage. This server provides a set of tools for managing your Akave storage buckets and objects through AI models like Claude and local LLMs.\n\n## What is MCP?\n\nThe Model Context Protocol (MCP) is an open protocol that standardizes how applications provide context to Large Language Models (LLMs). Think of MCP like a USB-C port for AI applications - it provides a standardized way to connect AI models to different data sources and tools.\n\n## Features\n\n- List and manage buckets\n- Upload, download, and manage **objects**\n- Generate signed URLs for secure access\n- Support for both Claude and local LLMs (via Ollama)\n- Simple configuration through JSON\n\n## Prerequisites\n\n- Node.js 16+\n- Access to an Akave account with:\n  - Access Key ID\n  - Secret Access Key\n  - Endpoint URL\n- For local LLM support:\n  - Go 1.23 or later  \n  - [Ollama](https://ollama.ai) installed\n\n## Quick Start\n\nCreate a configuration file (e.g., `mcp.json`):\n```json\n{\n  \"mcpServers\": {\n    \"akave\": {\n      \"command\": \"npx\",\n      \"args\": [\n        \"-y\",\n        \"akave-mcp-js\"\n      ],\n      \"env\": {\n        \"AKAVE_ACCESS_KEY_ID\": \"your_access_key\",\n        \"AKAVE_SECRET_ACCESS_KEY\": \"your_secret_key\",\n        \"AKAVE_ENDPOINT_URL\": \"your_endpoint_url\"\n      }\n    }\n  }\n}\n```\n\n## Usage with Claude Desktop\n\n1. Download and install [Claude for Desktop](https://claude.ai/download) (macOS or Windows)\n\n",
+    "language": "TypeScript",
+    "license": null,
+    "forks": 1,
+    "open_issues": 1,
+    "last_pushed": "2025-05-29T15:13:57Z",
+    "topics": [],
+    "quality_score": 60
+  },
+  "enriched_at": "2025-11-17T17:46:25.428279"
 }

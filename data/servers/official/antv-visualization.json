@@ -7,10 +7,35 @@
   "weekly_metric": null,
   "release_date": "Jul 11, 2025",
   "url": "https://www.pulsemcp.com/servers/antv-visualization",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/antvis/mcp-server-antv",
+  "categories": [
+    "api",
+    "workflow",
+    "testing",
+    "ai",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:56.217547",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 30,
+    "runtime": "Node.js",
+    "readme_excerpt": "# MCP Server AntV ![](https://badge.mcpx.dev?type=server 'MCP Server') [![npm Version](https://img.shields.io/npm/v/@antv/mcp-server-antv.svg)](https://www.npmjs.com/package/@antv/mcp-server-antv) [![smithery badge](https://smithery.ai/badge/@antvis/mcp-server-antv)](https://smithery.ai/server/@antvis/mcp-server-antv) [![npm License](https://img.shields.io/npm/l/@antv/mcp-server-antv.svg)](https://www.npmjs.com/package/@antv/mcp-server-antv)\n\n> A **Model Context Protocol (MCP)** server designed for AI development and QA that provides **AntV** documentation context and code examples using the latest APIs.\n\n<img width=\"768\" alt=\"mcp-server-antv Technical Architecture\" src=\"https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*WHSOR7L8U0YAAAAATjAAAAgAemJ7AQ/fmt.webp\" />\n\nSupports **G2**, **G6**, and **F2** libraries for declarative visualization workflows, with **S2**, **X6**, **L7**, and more (including **AVA**, **ADC**, and **G**) coming soon.\n\n## ✨ Features\n\n- ✅ **AntV 5.x Compatibility**: Leverages the latest APIs for performance and modularity.\n- 🧩 **Multi-Library Support**: G2 (2D charts), G6 (graph/networks), and F2 (mobile charts).\n- 🔍 **Smart Intent Extraction**: Detects library usage and task complexity via `extract_antv_topic`.\n- 📚 **Contextual Documentation**: Fetches relevant AntV docs and code snippets with `query_antv_document`.\n\n## 🛠️ Quick Start\n\n### Requirements\n\n- Node.js >= v18.0.0\n- Cursor, VSCode, Cline, Claude Desktop or another MCP Client.\n\n### Connect t",
+    "language": "TypeScript",
+    "license": "MIT License",
+    "forks": 5,
+    "open_issues": 2,
+    "last_pushed": "2025-11-13T07:36:17Z",
+    "topics": [
+      "antv",
+      "development",
+      "mcp",
+      "mcp-server",
+      "visualization"
+    ],
+    "quality_score": 72
+  },
+  "enriched_at": "2025-11-17T17:47:32.341590"
 }

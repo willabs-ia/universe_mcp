@@ -7,10 +7,36 @@
   "weekly_metric": null,
   "release_date": "May 31, 2025",
   "url": "https://www.pulsemcp.com/servers/aliyun-polardbx",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/aliyun/alibabacloud-polardbx-mcp-server",
+  "categories": [
+    "api",
+    "search",
+    "ai",
+    "cloud",
+    "filesystem",
+    "git",
+    "database",
+    "data",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:43.339469",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 4,
+    "runtime": "Node.js",
+    "readme_excerpt": "# polardbx-mcp\n\nA Model Context Protocol (MCP) servers which provides tools and resources, allowing AI agent to interact with Alibaba cloud [PolarDB-X](https://github.com/polardb/polardbx-sql) databases.\n\n## Installation\n\n### Option 1: Install from npm\n```bash\n# Install globally\nnpm install -g polardbx-mcp\n\n# Or install in current project only\nnpm install polardbx-mcp\n```\n\n### Option 2: Build from source\n1. Clone this repository:\n\n2. Install dependencies and build:\n```bash\nnpm install\nnpm run build\n```\n3. Configure the PolarDB-X connection in environment variable file `.env`:\n```\nPOLARDB_X_HOST=your_database_host\nPOLARDB_X_PORT=your_database_port\nPOLARDB_X_USER=your_database_user\nPOLARDB_X_PASSWORD=your_database_password\nPOLARDB_X_DATABASE=your_database_name\n```\n\n4. Start the server:\n```bash\nnpm start\n```\n\n## Configuration for MCP Client\n\nExample Cline Configuration if you install from npm:\n\n```\n{\n  \"mcpServers\": {\n    \"polardbx-mcp\": {\n      \"command\": \"npx\",\n      \"args\": [\n        \"polardbx-mcp\"\n      ],\n      \"env\": {\n        \"POLARDB_X_HOST\": \"your_database_host\",\n        \"POLARDB_X_PORT\": \"your_database_port\",\n        \"POLARDB_X_USER\": \"your_database_user\",\n        \"POLARDB_X_PASSWORD\": \"your_database_password\",\n        \"POLARDB_X_DATABASE\": \"your_database_name\"\n      },\n    }\n  }\n}\n```\n\nExample Cline Configuration if you build from source:\n\n```\n{\n  \"mcpServers\": {\n    \"polardbx-mcp\": {\n      \"command\": \"node\",\n      \"args\": [\n        \"path_to_mcp/polardbx-mcp/build/ind",
+    "language": "JavaScript",
+    "license": "Apache License 2.0",
+    "forks": 2,
+    "open_issues": 0,
+    "last_pushed": "2025-05-30T05:44:35Z",
+    "topics": [
+      "mcp",
+      "mcp-server",
+      "polardb-x"
+    ],
+    "quality_score": 63
+  },
+  "enriched_at": "2025-11-17T17:47:12.217635"
 }

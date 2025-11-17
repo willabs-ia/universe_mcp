@@ -10,10 +10,31 @@
   },
   "release_date": "Aug 28, 2025",
   "url": "https://www.pulsemcp.com/servers/appwrite-docs",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/appwrite/mcp-for-docs",
+  "categories": [
+    "api",
+    "search",
+    "ai",
+    "filesystem",
+    "git",
+    "database",
+    "data",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:22.728133",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 7,
+    "readme_excerpt": "<div align=\"center\">\n<img src=\"assets/banner.png\" alt=\"Appwrite Docs MCP Server\" width=\"700\" />\n</div>\n\n# Appwrite Docs MCP Server\nThis MCP server is a tool that allows IDEs (Cursor, Windsurf, Claude Code, etc.) to utilize the Appwrite documentation.\n\n## Usage in your IDE (Cursor, Windsurf, Claude Code, etc.)\n\n### Cursor\n\n<strong><a href=\"https://apwr.dev/docs-mcp-cursor?ref=appwrite-docs-mcp-github\">Click here to add the Appwrite Docs MCP Server to Cursor</a></strong>\n\n### VSCode\n\n<strong><a href=\"https://apwr.dev/docs-mcp-vscode?ref=appwrite-docs-mcp-github\">Click here to add the Appwrite Docs MCP Server to VSCode</a></strong>\n\n### Claude Code\n\nRun the following command to add the MCP server to Claude Code:\n```bash\nclaude mcp add appwrite-docs-mcp https://mcp-for-docs.appwrite.io -t http\n```\n\n### Windsurf\n\nAdd the following to your global Windsurf MCP configuration file (`~/.codeium/windsurf/mcp_config.json`):\n\n```json\n{\n  \"mcpServers\": {\n    \"appwrite-docs-mcp\": {\n      \"serverUrl\": \"https://mcp-for-docs.appwrite.io\"\n    }\n  }\n}\n```\n\n## Development\n\nBefore setting up, make sure you have Bun installed.\n\nThen, install the dependencies:\n```bash\nbun install\n```\n\nCheck out the [.env.example](.env.example) file for the environment variables you need to set.\n\n### Running Locally (Without Docker)\n\n### Initialization\nThere are three processes involved in setting up the MCP server, to ensure we have the most up-to-date documentation available.\n\n- **Downloading content:** This script",
+    "language": "TypeScript",
+    "license": null,
+    "forks": 0,
+    "open_issues": 1,
+    "last_pushed": "2025-10-13T04:35:56Z",
+    "topics": [],
+    "quality_score": 54
+  },
+  "enriched_at": "2025-11-17T17:47:59.388885"
 }

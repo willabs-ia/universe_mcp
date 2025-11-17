@@ -10,10 +10,31 @@
   },
   "release_date": "Mar 29, 2025",
   "url": "https://www.pulsemcp.com/servers/alibaba-cloud-adb-mysql",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/aliyun/alibabacloud-adb-mysql-mcp-server",
+  "categories": [
+    "api",
+    "ai",
+    "cloud",
+    "filesystem",
+    "git",
+    "database",
+    "data",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:12.810929",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 17,
+    "runtime": "Node.js",
+    "readme_excerpt": "# AnalyticDB for MySQL MCP Server\n\nAnalyticDB for MySQL MCP Server serves as a universal interface between AI Agents and [AnalyticDB for MySQL](https://www.alibabacloud.com/en/product/analyticdb-for-mysql) databases. It enables seamless communication between AI Agents and AnalyticDB for MySQL, helping AI Agents\nretrieve AnalyticDB for MySQL database metadata and execute SQL operations.\n\n## 1. MCP Client Configuration\n\n### Mode 1: Using Local File\n\n- #### Download the GitHub repository\n\n```shell\ngit clone https://github.com/aliyun/alibabacloud-adb-mysql-mcp-server\n```\n\n- #### MCP Integration\n\nAdd the following configuration to the MCP client configuration file:\n\n```json\n{\n  \"mcpServers\": {\n    \"adb-mysql-mcp-server\": {\n      \"command\": \"uv\",\n      \"args\": [\n        \"--directory\",\n        \"/path/to/alibabacloud-adb-mysql-mcp-server\",\n        \"run\",\n        \"adb-mysql-mcp-server\"\n      ],\n      \"env\": {\n        \"ADB_MYSQL_HOST\": \"host\",\n        \"ADB_MYSQL_PORT\": \"port\",\n        \"ADB_MYSQL_USER\": \"database_user\",\n        \"ADB_MYSQL_PASSWORD\": \"database_password\",\n        \"ADB_MYSQL_DATABASE\": \"database\"\n      }\n    }\n  }\n}\n```\n\n### Mode 2: Using PIP Mode\n\n- #### Installation\n\nInstall MCP Server using the following package:\n\n```bash\npip install adb-mysql-mcp-server\n```\n\n-  #### MCP Integration\n\nAdd the following configuration to the MCP client configuration file:\n\n```json\n {\n  \"mcpServers\": {\n    \"adb-mysql-mcp-server\": {\n      \"command\": \"uv\",\n      \"args\": [\n        \"run\",\n     ",
+    "language": "Python",
+    "license": "Apache License 2.0",
+    "forks": 12,
+    "open_issues": 6,
+    "last_pushed": "2025-03-31T14:50:08Z",
+    "topics": [],
+    "quality_score": 59
+  },
+  "enriched_at": "2025-11-17T17:46:42.059224"
 }

@@ -7,10 +7,36 @@
   "weekly_metric": null,
   "release_date": "Apr 28, 2025",
   "url": "https://www.pulsemcp.com/servers/antv-chart-generator",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/antvis/mcp-server-chart",
+  "categories": [
+    "api",
+    "workflow",
+    "monitoring",
+    "git",
+    "ai",
+    "data",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:27.979990",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 3175,
+    "runtime": "Node.js",
+    "readme_excerpt": "# MCP Server Chart ![](https://badge.mcpx.dev?type=server \"MCP Server\") [![build](https://github.com/antvis/mcp-server-chart/actions/workflows/build.yml/badge.svg)](https://github.com/antvis/mcp-server-chart/actions/workflows/build.yml) [![npm Version](https://img.shields.io/npm/v/@antv/mcp-server-chart.svg)](https://www.npmjs.com/package/@antv/mcp-server-chart) [![smithery badge](https://smithery.ai/badge/@antvis/mcp-server-chart)](https://smithery.ai/server/@antvis/mcp-server-chart) [![npm License](https://img.shields.io/npm/l/@antv/mcp-server-chart.svg)](https://www.npmjs.com/package/@antv/mcp-server-chart) [![Trust Score](https://archestra.ai/mcp-catalog/api/badge/quality/antvis/mcp-server-chart)](https://archestra.ai/mcp-catalog/antvis__mcp-server-chart) [![codecov](https://codecov.io/gh/antvis/mcp-server-chart/graph/badge.svg?token=7R98VGO5GL)](https://codecov.io/gh/antvis/mcp-server-chart)\n\nA Model Context Protocol server for generating charts using [AntV](https://github.com/antvis/). We can use this mcp server for _chart generation_ and _data analysis_.\n\n<a href=\"https://www.star-history.com/#antvis/mcp-server-chart&Date\">\n  <img width=\"512\" src=\"https://api.star-history.com/svg?repos=antvis/mcp-server-chart&type=Date\" />\n</a>\n\nThis is a TypeScript-based MCP server that provides chart generation capabilities. It allows you to create various types of charts through MCP tools. You can also use it in [Dify](https://marketplace.dify.ai/plugins/antv/visualization).\n\n## 📋 T",
+    "language": "TypeScript",
+    "license": "MIT License",
+    "forks": 303,
+    "open_issues": 11,
+    "last_pushed": "2025-11-06T01:36:18Z",
+    "topics": [
+      "antv",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "visualization"
+    ],
+    "quality_score": 79
+  },
+  "enriched_at": "2025-11-17T17:47:29.866522"
 }

@@ -10,10 +10,33 @@
   },
   "release_date": "Mar 20, 2025",
   "url": "https://www.pulsemcp.com/servers/aliyun-hologres",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/aliyun/alibabacloud-hologres-mcp-server",
+  "categories": [
+    "api",
+    "monitoring",
+    "ai",
+    "cloud",
+    "filesystem",
+    "git",
+    "database",
+    "data",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:19.254519",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 24,
+    "runtime": "Python",
+    "readme_excerpt": "English | [中文](README_ZH.md)\n\n# Hologres MCP Server\n\nHologres MCP Server serves as a universal interface between AI Agents and Hologres databases. It enables seamless communication between AI Agents and Hologres, helping AI Agents retrieve Hologres database metadata and execute SQL operations.\n\n## Configuration\n\n### Mode 1: Using Local File\n\n#### Download\n\nDownload from Github\n\n```bash\ngit clone https://github.com/aliyun/alibabacloud-hologres-mcp-server.git\n```\n\n#### MCP Integration\n\nAdd the following configuration to the MCP client configuration file:\n\n```json\n{\n    \"mcpServers\": {\n        \"hologres-mcp-server\": {\n            \"command\": \"uv\",\n            \"args\": [\n                \"--directory\",\n                \"/path/to/alibabacloud-hologres-mcp-server\",\n                \"run\",\n                \"hologres-mcp-server\"\n            ],\n            \"env\": {\n                \"HOLOGRES_HOST\": \"host\",\n                \"HOLOGRES_PORT\": \"port\",\n                \"HOLOGRES_USER\": \"access_id\",\n                \"HOLOGRES_PASSWORD\": \"access_key\",\n                \"HOLOGRES_DATABASE\": \"database\"\n            }\n        }\n    }\n}\n```\n\n### Mode 2: Using PIP Mode\n\n#### Installation\n\nInstall MCP Server using the following package:\n\n```bash\npip install hologres-mcp-server\n```\n\n#### MCP Integration\n\nAdd the following configuration to the MCP client configuration file:\n\nUse uv mode\n\n```json\n{\n    \"mcpServers\": {\n        \"hologres-mcp-server\": {\n            \"command\": \"uv\",\n            \"args\": [\n            ",
+    "language": "Python",
+    "license": "Apache License 2.0",
+    "forks": 11,
+    "open_issues": 3,
+    "last_pushed": "2025-05-09T08:29:56Z",
+    "topics": [],
+    "quality_score": 62
+  },
+  "enriched_at": "2025-11-17T17:47:02.810167"
 }

@@ -7,10 +7,45 @@
   "weekly_metric": null,
   "release_date": "Mar 28, 2025",
   "url": "https://www.pulsemcp.com/servers/aapanel",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/aapanel/mcp-server",
+  "categories": [
+    "git",
+    "filesystem",
+    "api",
+    "development",
+    "data",
+    "database",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:01.362889",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 9,
+    "capabilities": [
+      "View container list",
+      "Docker image management",
+      "View container details",
+      "Get panel system information and network status",
+      "Query PHP website list",
+      "View email list",
+      "Query MySQL database list",
+      "More features under development...",
+      "Add email account",
+      "Docker container management",
+      "Get panel public configuration information",
+      "View local image list",
+      "Email management",
+      "Create new PHP website"
+    ],
+    "readme_excerpt": "# aaPanel MCP Interface\n## Features\n\n- Get panel system information and network status\n- Query PHP website list\n- Create new PHP website\n- Query MySQL database list\n- Docker container management\n  - View container list\n  - View container details\n- Docker image management\n  - View local image list\n- Email management\n  - Add email account\n  - View email list\n- Get panel public configuration information\n- More features under development...\n\n## Requirements\n- Go 1.18+\n- aaPanel API access\n- aaPanel API token\n\n## Installation\n### From source code\n\n```bash\n# Clone repository\ngit clone https://github.com/aaPanel/mcp-server.git\ncd mcp_btpanel\n\n# Install dependencies\ngo mod tidy\n\n# Build project\nmake build\n\n# Build for Windows\n.\\build.bat build\n```\n\n### Direct download\nYou can also download pre-compiled binaries from the Releases page .\n\n## Configuration\n### Environment variables\nConfigure the program through environment variables:\n```bash\n# Set aaPanel address\nexport BT_BASE_URL=\"http://your-panel-address:8888\"\n\n# Set aaPanel API token\nexport BT_API_TOKEN=\"your-api-token\"\n```\n\n### Cursor configuration\nWhen using in Cursor, configure through the following steps:\n\n1. Open Cursor Settings > Extensions > MCP Tools\n2. Add new MCP tool\n3. Fill in the configuration in the following format:\n```json\n{\n    \"mcpServers\": {\n        \"mcp-aapanel\": {\n            \"command\": \"C:\\\\path\\\\to\\\\mcp-server.exe\",\n            \"env\": {\n                \"BT_BASE_URL\": \"http://192.168.xx.xx:8888/\",\n            ",
+    "language": "Go",
+    "license": "MIT License",
+    "forks": 3,
+    "open_issues": 0,
+    "last_pushed": "2025-03-28T07:48:25Z",
+    "topics": [],
+    "quality_score": 70
+  },
+  "enriched_at": "2025-11-17T17:45:06.939036"
 }

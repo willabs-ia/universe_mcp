@@ -7,10 +7,44 @@
   "weekly_metric": null,
   "release_date": "Apr 30, 2025",
   "url": "https://www.pulsemcp.com/servers/automattic-wordpress-remote",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/automattic/mcp-wordpress-remote",
+  "categories": [
+    "api",
+    "monitoring",
+    "security",
+    "filesystem",
+    "ai",
+    "data",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:27.990899",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 102,
+    "capabilities": [
+      "**MCP Authorization Specification Compliant** - Implements MCP Authorization specification 2025-06-18",
+      "**Enhanced Error Handling** - Detailed error messages with proper categorization",
+      "**Protected Resource Metadata Discovery** - RFC 9728 for automatic endpoint discovery",
+      "**Dynamic Client Registration** - RFC 7591 support for automatic client registration",
+      "**Multiple Authentication Methods** - OAuth 2.1, JWT tokens, and WordPress application passwords",
+      "**Automatic Token Management** - Handles validation, refresh, and cleanup",
+      "**Complete MCP Support** - Tools, resources, prompts, and more",
+      "**Comprehensive Logging** - Structured logging with categories and levels",
+      "**Resource Indicators** - RFC 8707 compliance for token audience binding",
+      "**OAuth 2.1 with PKCE** - Secure authorization code flow with PKCE (RFC 7636)",
+      "**Persistent Token Storage** - OAuth tokens stored securely with automatic validation",
+      "**Multi-instance Coordination** - Lockfiles prevent authentication conflicts"
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "# MCP WordPress Remote\n\n**A Model Context Protocol (MCP) server for seamless WordPress integration**\n\nConnect AI assistants like Claude Desktop to your WordPress sites with multiple authentication methods including OAuth 2.0, JWT tokens, and application passwords.\n\n## Features\n\n- **MCP Authorization Specification Compliant** - Implements MCP Authorization specification 2025-06-18\n- **OAuth 2.1 with PKCE** - Secure authorization code flow with PKCE (RFC 7636)\n- **Resource Indicators** - RFC 8707 compliance for token audience binding\n- **Dynamic Client Registration** - RFC 7591 support for automatic client registration\n- **Protected Resource Metadata Discovery** - RFC 9728 for automatic endpoint discovery\n- **Multiple Authentication Methods** - OAuth 2.1, JWT tokens, and WordPress application passwords\n- **Persistent Token Storage** - OAuth tokens stored securely with automatic validation\n- **Multi-instance Coordination** - Lockfiles prevent authentication conflicts\n- **Automatic Token Management** - Handles validation, refresh, and cleanup\n- **Enhanced Error Handling** - Detailed error messages with proper categorization\n- **Comprehensive Logging** - Structured logging with categories and levels\n- **Complete MCP Support** - Tools, resources, prompts, and more\n\n## Quick Start\n\n### Installation\n\n```bash\nnpm install @automattic/mcp-wordpress-remote\n```\n\n### Configuration\n\nAdd to your MCP client configuration (e.g., Claude Desktop's `claude_desktop_config.json`):\n\n```json\n{\n  \"mcp",
+    "language": "TypeScript",
+    "license": "MIT License",
+    "forks": 13,
+    "open_issues": 1,
+    "last_pushed": "2025-09-23T07:05:48Z",
+    "topics": [],
+    "quality_score": 84
+  },
+  "enriched_at": "2025-11-17T17:48:29.878930"
 }

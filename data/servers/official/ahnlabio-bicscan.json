@@ -10,10 +10,29 @@
   },
   "release_date": "Mar 25, 2025",
   "url": "https://www.pulsemcp.com/servers/ahnlabio-bicscan",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/ahnlabio/bicscan-mcp",
+  "categories": [
+    "api",
+    "monitoring",
+    "filesystem",
+    "git",
+    "ai",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:53.140878",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 14,
+    "runtime": "Python",
+    "readme_excerpt": "# BICScan MCP Server\n\nA powerful and efficient Blockchain address risk scoring API MCP Server, leveraging the BICScan API to provide comprehensive risk assessments and asset information for blockchain addresses, domains, and decentralized applications (dApps).\n\n🎉 We're listed on https://github.com/modelcontextprotocol/servers for official integration 🎉\n\n\nhttps://github.com/user-attachments/assets/f9425429-1cb1-4508-b962-81351075258b\n\n## Key Features\n- **Risk Scoring**: Obtain risk scores for various blockchain entities, including crypto addresses, domain names, and decentralized application URLs, with scores ranging from 0 to 100, where 100 indicates high risk.\n- **Asset Information**: Retrieve detailed asset holdings for specified crypto addresses, including cryptocurrencies and tokens, with support for multiple blockchain networks.\n- **Real-time Scanning**: Utilize the BICScan API to perform real-time scans and receive up-to-date information on potential risks and asset holdings.\n- **Secure and Reliable**: Built with robust error handling and logging to ensure secure and reliable operations.\n\n## Example Output\n\n## How to use.\n\nYou con either use Python with `uv` or `docker` depending on your preference.\n\nDepending on your environment, you can choose to use either `uv`, `docker`, or `uvx`.\n\n### 1. Running with `uv`\n\n#### 1-1. Requirements\n1. Python 3.10 or higher\n2. uv 0.6.x\n3. git\n\n#### 1.2. Clone the repository\n```sh\ngit clone https://github.com/ahnlabio/bicscan-mcp\n```\n\n#",
+    "language": "Python",
+    "license": "MIT License",
+    "forks": 15,
+    "open_issues": 3,
+    "last_pushed": "2025-04-03T04:23:35Z",
+    "topics": [],
+    "quality_score": 62
+  },
+  "enriched_at": "2025-11-17T17:46:11.157871"
 }

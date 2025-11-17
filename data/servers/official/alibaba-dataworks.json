@@ -7,10 +7,45 @@
   "weekly_metric": null,
   "release_date": "Mar 26, 2025",
   "url": "https://www.pulsemcp.com/servers/alibaba-dataworks",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/aliyun/alibabacloud-dataworks-mcp-server",
+  "categories": [
+    "api",
+    "workflow",
+    "security",
+    "ai",
+    "cloud",
+    "git",
+    "database",
+    "data",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:57.153909",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 25,
+    "runtime": "Node.js",
+    "readme_excerpt": "[![MseeP.ai Security Assessment Badge](https://mseep.net/mseep-audited.png)](https://mseep.ai/app/aliyun-alibabacloud-dataworks-mcp-server)\n\n# DataWorks MCP Server\n\nA Model Context Protocol (MCP) server that provides tools for AI, allowing it to interact with the DataWorks Open API through a standardized interface. This implementation is based on the Aliyun Open API and enables AI agents to perform cloud resources operations seamlessly.\n\n## Overview\n\nThis MCP server:\n\n* Interact with DataWorks Open API\n* Manage DataWorks resources\n\nThe server implements the Model Context Protocol specification to standardize cloud resource interactions for AI agents.\n\n## Prerequisites\n\n* Node.js (v16 or higher)\n* pnpm (recommended), npm, or yarn\n* DataWorks Open API with access key and secret key\n\n## Installation\n\n### Option 1: Install from npm (recommend for clients like Cursor/Cline)\n\n```bash\n# Install globally\nnpm install -g alibabacloud-dataworks-mcp-server\n\n# Or install locally in your project\nnpm install alibabacloud-dataworks-mcp-server\n```\n\n### Option 2: Build from Source (for developers)\n\n1. Clone this repository:\n```bash\ngit clone https://github.com/aliyun/alibabacloud-dataworks-mcp-server\ncd alibabacloud-dataworks-mcp-server\n```\n\n2. Install dependencies (pnpm is recommended, npm is supported):\n```bash\npnpm install\n```\n\n3. Build the project:\n```bash\npnpm run build\n```\n\n4. Development the project (by @modelcontextprotocol/inspector):\n```bash\npnpm run dev\n```\nopen http://localhost:517",
+    "language": "TypeScript",
+    "license": "Apache License 2.0",
+    "forks": 6,
+    "open_issues": 4,
+    "last_pushed": "2025-09-08T22:00:49Z",
+    "topics": [
+      "ai",
+      "aliyun",
+      "bigdata",
+      "data",
+      "data-analysis",
+      "data-science",
+      "data-visualization",
+      "database",
+      "ide",
+      "modeling",
+      "scheduler",
+      "sql"
+    ],
+    "quality_score": 69
+  },
+  "enriched_at": "2025-11-17T17:46:44.640145"
 }

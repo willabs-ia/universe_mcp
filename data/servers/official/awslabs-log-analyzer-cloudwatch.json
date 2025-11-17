@@ -10,10 +10,27 @@
   },
   "release_date": "Apr 15, 2025",
   "url": "https://www.pulsemcp.com/servers/awslabs-log-analyzer-cloudwatch",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/awslabs/log-analyzer-with-mcp",
+  "categories": [
+    "api",
+    "search",
+    "monitoring",
+    "cloud",
+    "filesystem",
+    "git",
+    "ai",
+    "data",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:55.299654",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 137,
+    "runtime": "Python",
+    "readme_excerpt": "# Log Analyzer with MCP\n\nA [Model Context Protocol (MCP)](https://modelcontextprotocol.io) server that provides AI assistants access to AWS CloudWatch Logs for analysis, searching, and correlation.\n\n## 🏗️ Architecture\n![Architecture Diagram](./docs/assets/Log-Analyzer-with-MCP-arch.png)\n\n## 🔌 Model Context Protocol (MCP)\n\nAs outlined by Anthropic:\n> MCP is an open protocol that standardizes how applications provide context to LLMs. Think of MCP like a USB-C port for AI applications. Just as USB-C provides a standardized way to connect your devices to various peripherals and accessories, MCP provides a standardized way to connect AI models to different data sources and tools.\n\nThis repository is an example client and server that allows an AI assistant like Claude to interact with CloudWatch logs in an AWS account. To learn more about MCP, read through the [introduction](https://modelcontextprotocol.io/introduction). \n\n## ✨ Features\n\n- Browse and search CloudWatch Log Groups\n- Search logs using CloudWatch Logs Insights query syntax\n- Generate log summaries and identify error patterns\n- Correlate logs across multiple AWS services\n- AI-optimized tools for assistants like Claude\n\n[Detailed feature list](./docs/features.md)\n\n## 🚀 Installation\n\n### Prerequisites\n\n- The [uv](https://github.com/astral-sh/uv) Python package and project manager\n- An AWS account with CloudWatch Logs\n- Configured [AWS credentials](./docs/aws-config.md)\n\n\n### Setup\n\n```bash\n# Clone the repository\ngit clone",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T17:48:47.454663"
 }
