@@ -7,10 +7,32 @@
   "weekly_metric": null,
   "release_date": "Mar 27, 2025",
   "url": "https://www.pulsemcp.com/servers/paddle-billing",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/paddlehq/paddle-mcp-server",
+  "categories": [
+    "workflow",
+    "testing",
+    "development",
+    "api",
+    "ai",
+    "monitoring"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:59.265457",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 32,
+    "capabilities": [
+      "Create and adjust transactions directly in conversation",
+      "Manage your full Paddle catalog",
+      "Debug billing and order management issues",
+      "Implement and test Paddle integrations faster",
+      "Generate financial reports for financial and operational insights",
+      "Handle subscription, payment, and refund workflows",
+      "View customer, purchase, and provisioning information"
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "# MCP Server for Paddle Billing\n\n[Paddle Billing](https://www.paddle.com/billing?utm_source=dx&utm_medium=paddle-mcp-server) is the developer-first merchant of record. We take care of payments, tax, subscriptions, and metrics with one unified API that does it all.\n\nThis is a [Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction) server that provides LLMs and AI agents with tools for interacting with the Paddle API.\n\n> **Important:** This MCP server works with Paddle Billing. It does not support Paddle Classic. To work with Paddle Classic, see: [Paddle Classic API reference](https://developer.paddle.com/classic/api-reference/1384a288aca7a-api-reference?utm_source=dx&utm_medium=paddle-mcp-server)\n\n[![Install MCP Server](https://cursor.com/deeplink/mcp-install-dark.svg)](https://cursor.com/install-mcp?name=paddle&config=eyJjb21tYW5kIjoibnB4IC15IEBwYWRkbGUvcGFkZGxlLW1jcCIsImVudiI6eyJQQURETEVfQVBJX0tFWSI6InBkbF9zZGJ4X2FwaWtleV8iLCJQQURETEVfRU5WSVJPTk1FTlQiOiJzYW5kYm94In19)\n\n## Features\n\nThe MCP server has near parity with the Paddle API, allowing AI assistants and agents to:\n\n* Manage your full Paddle catalog\n* View customer, purchase, and provisioning information\n* Handle subscription, payment, and refund workflows\n* Debug billing and order management issues\n* Create and adjust transactions directly in conversation\n* Generate financial reports for financial and operational insights\n* Implement and test Paddle integrations faster\n\n<details>\n<summary>Available",
+    "quality_score": 60
+  },
+  "enriched_at": "2025-11-17T18:39:20.957269"
 }

@@ -7,10 +7,38 @@
   "weekly_metric": null,
   "release_date": "Apr 5, 2025",
   "url": "https://www.pulsemcp.com/servers/openlinksoftware-pyodbc",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/openlinksoftware/mcp-pyodbc-server",
+  "categories": [
+    "git",
+    "search",
+    "development",
+    "api",
+    "database",
+    "ai",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:27.999358",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 3,
+    "capabilities": [
+      "**Search Tables**: Filter and retrieve tables based on name substrings.",
+      "JSONL result format: Optimized for structured responses.",
+      "Primary and foreign keys",
+      "Nullable attributes",
+      "**Execute Stored Procedures**: When connected to Virtuoso, execute stored procedures and retrieve results.",
+      "**Execute Queries**:",
+      "Column names and data types",
+      "Markdown table format: Ideal for reporting and visualization.",
+      "**Get Tables**: Retrieve table information for specific schemas or all schemas.",
+      "**Get Schemas**: Fetch and list all schema names from the connected database.",
+      "**Describe Table**: Generate a detailed description of table structures, including:"
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "---\n# OpenLink MCP Server for ODBC via PyODBC\n\nA lightweight MCP (Model Context Protocol) server for ODBC built with **FastAPI** and **pyodbc**. This server is compatible with Virtuoso DBMS and any other DBMS backend that has an ODBC driver.\n\n![mcp-client-and-servers|648x499](https://www.openlinksw.com/data/gifs/mcp-client-and-servers.gif)\n\n---\n\n## Features\n\n- **Get Schemas**: Fetch and list all schema names from the connected database.\n- **Get Tables**: Retrieve table information for specific schemas or all schemas.\n- **Describe Table**: Generate a detailed description of table structures, including:\n  - Column names and data types\n  - Nullable attributes\n  - Primary and foreign keys\n- **Search Tables**: Filter and retrieve tables based on name substrings.\n- **Execute Stored Procedures**: When connected to Virtuoso, execute stored procedures and retrieve results.\n- **Execute Queries**:\n  - JSONL result format: Optimized for structured responses.\n  - Markdown table format: Ideal for reporting and visualization.\n\n---\n\n## Prerequisites\n\n1. **Install uv**:\n   ```bash\n   pip install uv\n   ```\n   Or use Homebrew:\n   ```bash\n   brew install uv\n   ```\n\n2. **unixODBC Runtime Environment Checks**:\n\n3. Check installation configuration (i.e., location of key INI files) by running: `odbcinst -j`\n\n4. List available data source names by running: `odbcinst -q -s`\n   \n5. **ODBC DSN Setup**: Configure your ODBC Data Source Name (typically in `~/.odbc.ini`) for the target database. Example for",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T18:38:55.783201"
 }

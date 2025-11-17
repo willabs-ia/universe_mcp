@@ -7,10 +7,20 @@
   "weekly_metric": null,
   "release_date": "Feb 12, 2025",
   "url": "https://www.pulsemcp.com/servers/novu",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/novuhq/smithery-mcp",
+  "categories": [
+    "api",
+    "development",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:59.311955",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 3,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Novu MCP Implementation\n\nThis is a TypeScript implementation of a Model Context Protocol (MCP) server for Novu, allowing AI agents to interact with Novu's notification infrastructure.\n\n## Setup\n\n1. Install dependencies:\n```bash\nnpm install\n```\n\n2. Build the project:\n```bash\nnpm run build\n```\n\n3. Start the MCP server:\n```bash\nnpm start\n```\n\nFor development, you can use:\n```bash\nnpm run dev\n```\n\n## Configuration\n\nThe MCP server requires a Novu API key to be configured in `smithery.yml`. You can obtain an API key from your Novu dashboard.\n\n## Available Operations\n\nThe MCP server supports the following Novu operations:\n\n### Events\n- `trigger_event`: Send a notification to specific subscribers\n- `broadcast_event`: Send a notification to all subscribers\n- `cancel_triggered_event`: Cancel a triggered notification\n\n### Notifications\n- `get_notifications`: List notifications with pagination\n- `get_notification_stats`: Get notification statistics\n\n### Subscribers\n- `get_subscribers`: List subscribers with pagination\n- `create_subscriber`: Create a new subscriber\n- `update_subscriber`: Update subscriber details\n- `delete_subscriber`: Remove a subscriber\n\n### Topics\n- `get_topics`: List all topics\n- `create_topic`: Create a new topic\n- `delete_topic`: Delete an existing topic\n- `add_subscribers_to_topic`: Add subscribers to a topic\n- `remove_subscribers_from_topic`: Remove subscribers from a topic\n\n## Example Usage\n\nTo trigger a notification:\n\n```json\n{\n  \"type\": \"execute\",\n  \"payload\"",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:38:12.320066"
 }

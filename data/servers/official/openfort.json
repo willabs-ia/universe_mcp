@@ -7,10 +7,33 @@
   "weekly_metric": null,
   "release_date": "Jul 24, 2025",
   "url": "https://www.pulsemcp.com/servers/openfort",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/openfort-xyz/mcp",
+  "categories": [
+    "documentation",
+    "testing",
+    "security",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:02.954787",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 3,
+    "capabilities": [
+      "**🔎 Context** — Query the latest version of the documentation",
+      "**🏗️ Scaffold** — Build new apps from scratch using a single prompt",
+      "**🔐 Authentication** — Directly authenticate from just plugging in the MCP",
+      "**💳️ Create** — Generate wallets, users, contracts, and policies by just telling the LLM",
+      "**🔨 42 Tools** — A complete set of tools to interact with Openfort",
+      "**📄️ Initialize** — Create new Openfort projects from the chat"
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "![Group 48095760](https://github.com/user-attachments/assets/ce49cf85-7e38-4ff5-9ff0-05042667a3d8)\n\n--- \n\n<h1> Openfort Model Context Protocol (MCP) Server</h1>\n\n\nOpenfort is an open source alternative to wallet infrastructure solutions, it supercharges your project with authentication, user management and payments. \n\nOpenfort’s MCP Server is a plug-and-play solution that enhances AI assistants by enabling them to create projects, manage configurations, and query data automatically when building applications on Openfort's infrastructure. Here's a guide on how to set it up\n\n### Features\n- **🔨 42 Tools** — A complete set of [tools](https://www.openfort.io/docs/configuration/ai-tooling/mcp-server/tools) to interact with Openfort\n- **🔐 Authentication** — Directly authenticate from just plugging in the MCP\n- **📄️ Initialize** — Create new Openfort projects from the chat\n- **🏗️ Scaffold** — Build new apps from scratch using a single prompt\n- **🔎 Context** — Query the latest version of the documentation\n- **💳️ Create** — Generate wallets, users, contracts, and policies by just telling the LLM \n\n### Steps\n  1. Install Openfort's MCP server.\n  2. Add rules for the LLMs.\n  3. Create a new project.\n  4. Debug common issues.\n  5. Discover all the capabilities.\n\n\n## 1. Install Openfort's MCP server\nThis will allow your AI Assistant to interact with Openfort's tools on your behalf to create projects and manage them.\n\nEnsure you have the following prerequisites:\n - `Node.js` - Installation ",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T18:38:45.054567"
 }

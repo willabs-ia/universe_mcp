@@ -10,10 +10,20 @@
   },
   "release_date": "Mar 26, 2025",
   "url": "https://www.pulsemcp.com/servers/noveum-api-market",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/noveum/api-market-mcp-server",
+  "categories": [
+    "filesystem",
+    "api",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:37.108227",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 3,
+    "runtime": "Node.js",
+    "readme_excerpt": "# API-MARKET MCP Server\n\n## About\nA Model Context Protocol (MCP) server that exposes API-Market's endpoints as MCP resources. This server allows Large Language Models to discover and interact with APIs defined by OpenAPI specifications through the MCP protocol.  \nThis repository provides access to the APIs available at [API.market](https://api.market/). The tool is free to use and allows agents to communicate freely with all available APIs, making it super powerful. With over **200+ APIs** available at [API.market](https://api.market/), you can leverage a wide range of functionalities.\n\n## Quick Start\n\nYou do not need to clone this repository to use this MCP server. You can simply configure it in your client of choice.\n\n### For Claude Desktop\n1. Locate or create your Claude Desktop configuration file:\n   - On macOS: `~/Library/Application Support/Claude/claude_desktop_config.json`\n2. Add the following configuration to enable the API-Market MCP server:\n   ```json\n   {\n     \"mcpServers\": {\n       \"api-market\": {\n         \"command\": \"npx\",\n         \"args\": [\"-y\", \"@noveum-ai/mcp-server\"],\n         \"env\": {\n           \"API_HEADERS\": \"x-magicapi-key:your-api-key\"\n         }\n       }\n     }\n   }\n   ```\n### For Cursor\n1. Go to File -> Preferences -> Cursor Settings.\n2. Select MCP.\n3. Click on Add new global MCP Server.\n4. Paste the following into the mcp.json file.\n\n```json\n  {\n    \"mcpServers\": {\n      \"api-market\": {\n        \"command\": \"npx\",\n        \"args\": [\n          \"-y\",\n    ",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:38:07.460073"
 }

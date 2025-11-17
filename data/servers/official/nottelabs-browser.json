@@ -10,10 +10,26 @@
   },
   "release_date": "Apr 29, 2025",
   "url": "https://www.pulsemcp.com/servers/nottelabs-browser",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/nottelabs/notte/tree/HEAD/packages/notte-mcp",
+  "categories": [
+    "documentation",
+    "workflow",
+    "cloud",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "browser"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:26.765473",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 1700,
+    "runtime": "Python",
+    "readme_excerpt": "# Rapidly build reliable web automation agents\n\n<div align=\"center\">\n  <p>\n    The web agent framework built for <strong>speed</strong>, <strong>cost-efficiency</strong>, <strong>scale</strong>, and <strong>reliability</strong> <br/>\n    → Read more at: <a href=\"https://github.com/nottelabs/open-operator-evals\" target=\"_blank\" rel=\"noopener noreferrer\">open-operator-evals</a> • <a href=\"https://x.com/nottecore?ref=github\" target=\"_blank\" rel=\"noopener noreferrer\">X</a> • <a href=\"https://www.linkedin.com/company/nottelabsinc/?ref=github\" target=\"_blank\" rel=\"noopener noreferrer\">LinkedIn</a> • <a href=\"https://notte.cc?ref=github\" target=\"_blank\" rel=\"noopener noreferrer\">Landing</a> • <a href=\"https://console.notte.cc/?ref=github\" target=\"_blank\" rel=\"noopener noreferrer\">Console</a>\n  </p>\n</div>\n\n<p align=\"center\">\n  <img src=\"docs/logo/bgd.png\" alt=\"Notte Logo\" width=\"100%\">\n</p>\n\n[![GitHub stars](https://img.shields.io/github/stars/nottelabs/notte?style=social)](https://github.com/nottelabs/notte/stargazers)\n[![License: SSPL-1.0](https://img.shields.io/badge/License-SSPL%201.0-blue.svg)](https://spdx.org/licenses/SSPL-1.0.html)\n[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)\n[![PyPI version](https://img.shields.io/pypi/v/notte?color=blue)](https://pypi.org/project/notte/)\n[![PyPI Downloads](https://static.pepy.tech/badge/notte?color=blue)](https://pepy.tech/projects/notte)\n\n---\n\n# What is Notte?\n\nNotte provides all",
+    "quality_score": 60
+  },
+  "enriched_at": "2025-11-17T18:38:01.718492"
 }

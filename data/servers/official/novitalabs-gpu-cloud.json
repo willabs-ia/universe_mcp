@@ -10,10 +10,31 @@
   },
   "release_date": "May 8, 2025",
   "url": "https://www.pulsemcp.com/servers/novitalabs-gpu-cloud",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/novitalabs/novita-mcp-server",
+  "categories": [
+    "security",
+    "cloud",
+    "api",
+    "ai",
+    "monitoring",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:52.296871",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 12,
+    "capabilities": [
+      "Cluster(/Region): List;",
+      "Network Storage: List, Create, Update, Delete;",
+      "GPU Instance: List, Get, Create, Start, Stop, Delete, Restart;",
+      "Product: List;",
+      "Template: List, Get, Create, Delete;",
+      "Container Registry Auth: List, Create, Delete;"
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "# Novita MCP Server\n[![smithery badge](https://smithery.ai/badge/@novitalabs/novita-mcp-server)](https://smithery.ai/server/@novitalabs/novita-mcp-server)\n\n`novita-mcp-server` is a Model Context Protocol (MCP) server that provides seamless interaction with Novita AI platform resources. We recommend accessing this server through [Claude Desktop](https://claude.ai/download), [Cursor](https://www.cursor.com/), or any other compatible MCP client.\n\n<a href=\"https://glama.ai/mcp/servers/@novitalabs/novita-mcp-server\">\n  <img width=\"380\" height=\"200\" src=\"https://glama.ai/mcp/servers/@novitalabs/novita-mcp-server/badge\" alt=\"Novita Server MCP server\" />\n</a>\n\n## Features\n\n> ⚠️ **Beta Notice**: `novita-mcp-server` is currently in beta and only supports GPU instance management. Additional resource types will be supported in future releases.\n\nCurrently, `novita-mcp-server` enables management the resources of [GPU instances product](https://novita.ai/gpus-console). \n\nSupported operations are as follows:\n- Cluster(/Region): List;\n- Product: List;\n- GPU Instance: List, Get, Create, Start, Stop, Delete, Restart;\n- Template: List, Get, Create, Delete;\n- Container Registry Auth: List, Create, Delete;\n- Network Storage: List, Create, Update, Delete;\n\n## Installation\n\nYou can install the package using npm, or Smithery:\n\n**Using npm**\n\n```bash\nnpm install -g @novitalabs/novita-mcp-server\n```\n\n**Using Smithery**\n\nVisit the [https://smithery.ai/server/@novitalabs/novita-mcp-server](https://smithe",
+    "quality_score": 60
+  },
+  "enriched_at": "2025-11-17T18:38:09.953871"
 }

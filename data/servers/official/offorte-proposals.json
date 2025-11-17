@@ -10,10 +10,23 @@
   },
   "release_date": "Jul 26, 2025",
   "url": "https://www.pulsemcp.com/servers/offorte-proposals",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/offorte/offorte-mcp-server",
+  "categories": [
+    "documentation",
+    "workflow",
+    "development",
+    "api",
+    "ai",
+    "monitoring"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:56.939209",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 4,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Offorte MCP Server <!-- omit in toc -->\n\nMCP server for Offorte - Create & send proposals using AI.\n\nThis server acts as the bridge between AI agents and Offorte's proposal engine.\nIt enables external models to create and send proposals via Offorte.\nBuilt for automation workflows, the [MCP](https://modelcontextprotocol.io/) makes it easy to integrate proposal actions into AI tools, chat interfaces, and autonomous systems.\n\n> **Early technology**\n> Please note that MCP (Model Context Protocol) is a new approach to AI integration.\n> While powerful, it's still evolving and may occasionally produce unexpected or undesired results.\n\n## Table of Contents <!-- omit in toc -->\n\n- [About Offorte](#about-offorte)\n- [Goals \\& Coverage](#goals--coverage)\n- [Prerequisites](#prerequisites)\n- [Available Tools](#available-tools)\n- [MCP Clients](#mcp-clients)\n- [Development](#development)\n\n## About Offorte\n\nOfforte is automated proposal software which helps businesses create, send, and track beautiful interactive proposals.\nBuilt for speed, flexibility, and real-world use, it combines automation and smart workflows without sacrificing the personal touch.\n[Learn more about Offorte](https://www.offorte.com).\n\n### API <!-- omit in toc -->\n\nThe MCP server is using the Offorte Public API v2.\nRead the [API documentation](https://www.offorte.com/api-docs/) for more information.\n\n### Demo <!-- omit in toc -->\n\nExperience the future of proposals: voice-triggered, AI-powered, fully automated.\nSee how",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:38:35.822366"
 }

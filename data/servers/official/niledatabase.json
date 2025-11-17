@@ -10,10 +10,39 @@
   },
   "release_date": "Mar 11, 2025",
   "url": "https://www.pulsemcp.com/servers/niledatabase",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/niledatabase/nile-mcp-server",
+  "categories": [
+    "documentation",
+    "testing",
+    "git",
+    "development",
+    "api",
+    "database",
+    "ai",
+    "monitoring",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:23.547670",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 16,
+    "capabilities": [
+      "**Credential Management**: Create and list database credentials",
+      "**Type Safety**: Written in TypeScript with full type checking",
+      "**MCP Protocol Support**: Full implementation of the Model Context Protocol",
+      "**Database Management**: Create, list, get details, and delete databases",
+      "**SQL Query Support**: Execute SQL queries directly on Nile databases",
+      "**Region Management**: List available regions for database creation",
+      "**Input Validation**: Schema-based input validation using Zod",
+      "**Error Handling**: Comprehensive error handling and user-friendly error messages",
+      "**Environment Management**: Automatic loading of environment variables from .env file",
+      "**Test Coverage**: Comprehensive test suite using Jest"
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "<p align=\"center\">\n <a href=\"https://thenile.dev\" target=\"_blank\"><img width=\"96px\" src=\"https://www.thenile.dev/about-logo.png\" /></a>\n <h2 align=\"center\">Nile MCP Server\n  <br/>\n  <img src=\"https://img.shields.io/npm/v/@niledatabase/server\"/>\n </h2>\n <p align=\"center\">\n  <a href=\"https://thenile.dev/docs/ai-embeddings/nile-mcp-server\"><strong>Learn more ↗️</strong></a>\n  <br />\n  <br />\n  <a href=\"https://discord.gg/akRKRPKA\">Discord</a>\n  🔵\n  <a href=\"https://thenile.dev\">Website</a>\n  🔵 \n  <a href=\"https://github.com/orgs/niledatabase/discussions\">Issues</a>\n </p>\n</p>\n\n[![smithery badge](https://smithery.ai/badge/@niledatabase/nile-mcp-server)](https://smithery.ai/server/@niledatabase/nile-mcp-server)\n\nA Model Context Protocol (MCP) server implementation for Nile database platform. This server allows LLM applications to interact with Nile platform through a standardized interface.\n\n## Features\n\n- **Database Management**: Create, list, get details, and delete databases\n- **Credential Management**: Create and list database credentials\n- **Region Management**: List available regions for database creation\n- **SQL Query Support**: Execute SQL queries directly on Nile databases\n- **MCP Protocol Support**: Full implementation of the Model Context Protocol\n- **Type Safety**: Written in TypeScript with full type checking\n- **Error Handling**: Comprehensive error handling and user-friendly error messages\n- **Test Coverage**: Comprehensive test suite using Jest\n- **Environment Mana",
+    "quality_score": 60
+  },
+  "enriched_at": "2025-11-17T18:37:51.783863"
 }

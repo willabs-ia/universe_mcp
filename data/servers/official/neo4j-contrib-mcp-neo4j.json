@@ -10,10 +10,24 @@
   },
   "release_date": "Dec 3, 2024",
   "url": "https://www.pulsemcp.com/servers/neo4j-contrib-mcp-neo4j",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/neo4j-contrib/mcp-neo4j",
+  "categories": [
+    "documentation",
+    "testing",
+    "cloud",
+    "development",
+    "api",
+    "database",
+    "ai",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:27.077710",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 801,
+    "readme_excerpt": "# Neo4j MCP Clients & Servers\n\nModel Context Protocol (MCP) is a [standardized protocol](https://modelcontextprotocol.io/introduction) for managing context between large language models (LLMs) and external systems. \n\nThis lets you use Claude Desktop, or any other MCP Client (VS Code, Cursor, Windsurf), to use natural language to accomplish things with Neo4j and your Aura account, e.g.:\n\n* What is in this graph?\n* Render a chart from the top products sold by frequency, total and average volume\n* List my instances\n* Create a new instance named mcp-test for Aura Professional with 4GB and Graph Data Science enabled\n* Store the fact that I worked on the Neo4j MCP Servers today with Andreas and Oskar\n\n## Servers\n\n### `mcp-neo4j-cypher` - natural language to Cypher queries\n\n[Details in Readme](./servers/mcp-neo4j-cypher/)\n\nGet database schema for a configured database and execute generated read and write Cypher queries on that database.\n\n### `mcp-neo4j-memory` - knowledge graph memory stored in Neo4j\n\n[Details in Readme](./servers/mcp-neo4j-memory/)\n\nStore and retrieve entities and relationships from your personal knowledge graph in a local or remote Neo4j instance.\nAccess that information over different sessions, conversations, clients.\n\n### `mcp-neo4j-cloud-aura-api` - Neo4j Aura cloud service management API\n\n[Details in Readme](./servers/mcp-neo4j-cloud-aura-api//)\n\nManage your [Neo4j Aura](https://console.neo4j.io) instances directly from the comfort of your AI assistant chat.\n\n",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T18:37:36.413971"
 }

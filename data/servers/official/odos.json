@@ -7,10 +7,24 @@
   "weekly_metric": null,
   "release_date": "Sep 12, 2025",
   "url": "https://www.pulsemcp.com/servers/odos",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/odos-xyz/odos-mcp",
+  "categories": [
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:26.649340",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 2,
+    "runtime": "Python",
+    "readme_excerpt": "# Odos MCP Client\n\nA Model Context Protocol (MCP) client for interacting with the Odos DEX aggregation platform and Zerion portfolio analytics. This tool provides comprehensive access to DeFi trading data, swap quotes, portfolio analysis, and transaction history across multiple blockchain networks.\n\n## Features\n\n### Odos API Integration\n\n- **Swap Quotes**: Get optimal swap routes and pricing across DEX liquidity sources\n- **Zap Operations**: Single-transaction liquidity provision quotes\n- **Chain Support**: Access all Odos-supported blockchain networks\n- **Token Data**: Real-time pricing and metadata for supported tokens\n- **Router Information**: Contract addresses and blockchain infrastructure details\n\n### Zerion Analytics\n\n- **Portfolio Analysis**: Complete wallet holdings and composition breakdown\n- **Transaction History**: Detailed historical transaction data and analysis\n- **Performance Tracking**: Historical portfolio performance and returns\n- **Gas Price Monitoring**: Real-time gas estimates across networks\n\n## Installation\n\n```bash\n# Clone the repository\ngit clone <repository-url>\ncd odos-mcp\n\n# Create and activate virtual environment\npython -m venv .venv\nsource .venv/bin/activate  # On Windows: .venv\\Scripts\\activate\n\n# Install dependencies\npip install -r requirements.txt\n\n# Set up environment variables\n# Create a .env file and add your API keys (see Configuration section)\n# Or set environment variables directly:\nexport ZERION_API_KEY=\"your_zerion_api_key_here\"\n\n# Ve",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:38:33.445763"
 }

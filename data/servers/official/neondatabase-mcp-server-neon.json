@@ -10,10 +10,23 @@
   },
   "release_date": "Nov 29, 2024",
   "url": "https://www.pulsemcp.com/servers/neondatabase-mcp-server-neon",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/neondatabase/mcp-server-neon",
+  "categories": [
+    "documentation",
+    "api",
+    "database",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:22.735694",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 519,
+    "runtime": "Node.js",
+    "readme_excerpt": "<picture>\n  <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://neon.com/brand/neon-logo-dark-color.svg\">\n  <source media=\"(prefers-color-scheme: light)\" srcset=\"https://neon.com/brand/neon-logo-light-color.svg\">\n  <img width=\"250px\" alt=\"Neon Logo fallback\" src=\"https://neon.com/brand/neon-logo-dark-color.svg\">\n</picture>\n\n# Neon MCP Server\n\n[![Install MCP Server in Cursor](https://cursor.com/deeplink/mcp-install-dark.svg)](https://cursor.com/install-mcp?name=Neon&config=eyJ1cmwiOiJodHRwczovL21jcC5uZW9uLnRlY2gvbWNwIn0%3D)\n\n**Neon MCP Server** is an open-source tool that lets you interact with your Neon Postgres databases in **natural language**.\n\n[![npm version](https://img.shields.io/npm/v/@neondatabase/mcp-server-neon)](https://www.npmjs.com/package/@neondatabase/mcp-server-neon)\n[![npm downloads](https://img.shields.io/npm/dt/@neondatabase/mcp-server-neon)](https://www.npmjs.com/package/@neondatabase/mcp-server-neon)\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\n\nThe Model Context Protocol (MCP) is a [new, standardized protocol](https://modelcontextprotocol.io/introduction) designed to manage context between large language models (LLMs) and external systems. This repository offers an installer and an MCP Server for [Neon](https://neon.tech).\n\nNeon's MCP server acts as a bridge between natural language requests and the [Neon API](https://api-docs.neon.tech/reference/getting-started-with-neon-api). Built",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T18:37:38.782605"
 }

@@ -7,10 +7,22 @@
   "weekly_metric": null,
   "release_date": "Apr 3, 2025",
   "url": "https://www.pulsemcp.com/servers/neosapience-typecast",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/neosapience/typecast-api-mcp-server-sample",
+  "categories": [
+    "git",
+    "development",
+    "api",
+    "ai",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:07.814163",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 2,
+    "runtime": "Python",
+    "readme_excerpt": "# typecast-api-mcp-server-sample\n\nMCP Server for typecast-api, enabling seamless integration with MCP clients. This project provides a standardized way to interact with Typecast API through the Model Context Protocol.\n\n## About\n\nThis project implements a Model [Context Protocol server](https://modelcontextprotocol.io/introduction) for Typecast API, allowing MCP clients to interact with the Typecast API in a standardized way.\n\n## Feature Implementation Status\n\n| Feature              | Status |\n| -------------------- | ------ |\n| **Voice Management** |        |\n| Get Voices           | ✅     |\n| Text to Speech       | ✅     |\n| Play Audio           | ✅     |\n\n## Setup\n\n### Git Clone\n\n```bash\ngit clone https://github.com/hyunseung/typecast-api-mcp-server-sample.git\ncd typecast-api-mcp-server-sample\n```\n\n### Dependencies\n\nThis project requires Python 3.10 or higher and uses `uv` for package management.\n\n#### Package Installation\n\n```bash\n# Create virtual environment and install packages\nuv venv\nuv pip install -e .\n```\n\n### Environment Variables\n\nSet the following environment variables:\n\n```bash\nTYPECAST_API_HOST=https://api.typecast.ai\nTYPECAST_API_KEY=<your-api-key>\nTYPECAST_OUTPUT_DIR=<your-output-directory> # default: ~/Downloads/typecast_output\n```\n\n### Usage with Claude Desktop\n\nYou can add the following to your `claude_desktop_config.json`:\n\n#### Basic Configuration:\n\n```json\n{\n  \"mcpServers\": {\n    \"typecast-api-mcp-server\": {\n      \"command\": \"uv\",\n      \"args\": [\n       ",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:37:41.437721"
 }

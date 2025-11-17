@@ -7,10 +7,23 @@
   "weekly_metric": null,
   "release_date": "Mar 19, 2025",
   "url": "https://www.pulsemcp.com/servers/oraichain-blockchain",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/oraichain/orai-mcp",
+  "categories": [
+    "testing",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:25.763360",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 3,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Multichain MCP Server 🌐\n\n[![License: GPL-3.0](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)\n\n> 🏗️ Built and maintained by [Oraichain Labs](https://github.com/oraichain)\n\nA comprehensive toolkit for building and deploying AI agents with blockchain capabilities. This monorepo includes:\n\n- A Model Context Protocol (MCP) server for AI applications\n- Agent development tools for blockchain interactions\n- Development kit for building custom AI agents\n\n## About Oraichain Labs\n\n[Oraichain Labs](https://orai.io) is the team behind Oraichain, the world's first AI Layer 1 for Web3. We specialize in AI Agents and blockchain technologies:\n\n- Autonomous Web3 AI Agents\n- Decentralized AI Marketplace\n- AI Oracle System\n- Multichain DeFi protocols\n\n## Contributors\n\nThanks goes to these wonderful people:\n\n<a href=\"https://github.com/oraichain/multichain-mcp/graphs/contributors\">\n  <img src=\"https://contrib.rocks/image?repo=oraichain/multichain-mcp\" />\n</a>\n\n## Overview\n\nThis project provides a complete suite of tools for AI-blockchain integration:\n\n### MCP Server\n\n- Interact with multiple blockchain networks\n- Retrieve wallet addresses and balances\n- Transfer funds and manage tokens\n- Deploy and interact with smart contracts\n- Bridge assets between networks\n\n### Agent Tools\n\n- Ready-to-use blockchain interaction tools\n- Multi-chain support out of the box\n- DeFi protocol integrations\n- Secure transaction handling\n\n### Agent Development Kit\n\n- Bu",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:39:13.158227"
 }

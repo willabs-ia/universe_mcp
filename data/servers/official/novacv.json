@@ -7,10 +7,16 @@
   "weekly_metric": null,
   "release_date": "Apr 3, 2025",
   "url": "https://www.pulsemcp.com/servers/novacv",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/Lightbaby",
+  "categories": [
+    "api"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:07.823372",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 3,
+    "quality_score": 35
+  },
+  "enriched_at": "2025-11-17T18:38:04.201592"
 }

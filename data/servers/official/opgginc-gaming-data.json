@@ -10,10 +10,23 @@
   },
   "release_date": "Apr 23, 2025",
   "url": "https://www.pulsemcp.com/servers/opgginc-gaming-data",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/opgginc/opgg-mcp",
+  "categories": [
+    "git",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:35.893277",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 47,
+    "readme_excerpt": "# OP.GG MCP Server\n\n[![smithery badge](https://smithery.ai/badge/@opgginc/opgg-mcp)](https://smithery.ai/server/@opgginc/opgg-mcp)\n\nThe OP.GG MCP Server is a Model Context Protocol implementation that seamlessly connects OP.GG data with AI agents and platforms. This server enables AI agents to retrieve various OP.GG data via function calling.\n\n![opgg-mcp-lol-leaderboard](https://github.com/user-attachments/assets/e89a77e7-0b83-4e20-a660-b16aa2d03fe2)\n![opgg-mcp-esports](https://github.com/user-attachments/assets/4e134577-57b6-4369-bb71-b72f1bebcdd8)\n\n## Overview\n\nThis MCP server provides AI agents with access to OP.GG data through a standardized interface. It offers a simple way to connect to our remote server (https://mcp-api.op.gg/mcp), allowing for easy installation and immediate access to OP.GG data in a format that's easily consumable by AI models and agent frameworks.\n\n## Features\n\nThe OP.GG MCP Server currently supports the following tools:\n\n### League of Legends\n- **lol-champion-leader-board**: Get ranking board data for League of Legends champions.\n- **lol-champion-analysis**: Provides analysis data for League of Legends champions (counter and ban/pick data available in the \"weakCounters\" field).\n- **lol-champion-meta-data**: Retrieves meta data for a specific champion, including statistics and performance metrics.\n- **lol-champion-skin-sale**: Retrieves information about champion skins that are currently on sale.\n- **lol-summoner-search**: Search for League of Legen",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:39:03.342627"
 }

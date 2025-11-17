@@ -7,10 +7,23 @@
   "weekly_metric": null,
   "release_date": "Apr 26, 2025",
   "url": "https://www.pulsemcp.com/servers/opslevel-developer-portal",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/opslevel/opslevel-mcp",
+  "categories": [
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:28.005331",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 8,
+    "runtime": "Rust",
+    "readme_excerpt": "<p align=\"center\">\n    <a href=\"https://github.com/OpsLevel/opslevel-mcp/blob/main/LICENSE\">\n        <img src=\"https://img.shields.io/github/license/OpsLevel/opslevel-mcp.svg\" alt=\"License\" /></a>\n    <a href=\"https://GitHub.com/OpsLevel/opslevel-mcp/releases/\">\n        <img src=\"https://img.shields.io/github/v/release/OpsLevel/opslevel-mcp\" alt=\"Release\" /></a>\n    <a href=\"https://masterminds.github.io/stability/active.html\">\n        <img src=\"https://masterminds.github.io/stability/active.svg\" alt=\"Stability: Active\" /></a>\n    <a href=\"https://github.com/OpsLevel/opslevel-mcp/graphs/contributors\">\n        <img src=\"https://img.shields.io/github/contributors/OpsLevel/opslevel-mcp\" alt=\"Contributors\" /></a>\n    <a href=\"https://github.com/OpsLevel/opslevel-mcp/pulse\">\n        <img src=\"https://img.shields.io/github/commit-activity/m/OpsLevel/opslevel-mcp\" alt=\"Activity\" /></a>\n    <a href=\"https://github.com/OpsLevel/opslevel-mcp/releases\">\n        <img src=\"https://img.shields.io/github/downloads/OpsLevel/opslevel-mcp/total\" alt=\"Downloads\" /></a>\n    <a href=\"https://app.opslevel.com/services/opslevel_mcp/maturity-report\">\n        <img src=\"https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapp.opslevel.com%2Fapi%2Fservice_level%2Fdlmj6PlFjehv6iLE6IQtEGXi_uz3LF9rA5nxb35wiY8\" alt=\"Overall\" /></a>\n\n[![Trust Score](https://archestra.ai/mcp-catalog/api/badge/quality/opslevel/opslevel-mcp)](https://archestra.ai/mcp-catalog/opslevel__opslevel-mcp)\n</p>\n\n<p align=\"cent",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:39:08.334690"
 }

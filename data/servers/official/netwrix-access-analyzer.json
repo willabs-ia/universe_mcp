@@ -7,10 +7,28 @@
   "weekly_metric": null,
   "release_date": "Apr 9, 2025",
   "url": "https://www.pulsemcp.com/servers/netwrix-access-analyzer",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/netwrix/mcp-server-naa",
+  "categories": [
+    "security",
+    "database",
+    "ai",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:14.966610",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 1,
+    "capabilities": [
+      "SQL Server integration with automatic connection on startup",
+      "SQL query execution",
+      "Netwrix Access Analyzer File System tools",
+      "Dynamic database schema exploration"
+    ],
+    "runtime": "Python",
+    "readme_excerpt": "# Netwrix Access Analyzer MCP Server\n\nAn MCP server for Netwrix Access Analyzer, designed to integrate with Claude Desktop. Currently supports Active Directory and File System solutions. \n\n## Features\n\n- SQL Server integration with automatic connection on startup\n- Dynamic database schema exploration\n- SQL query execution\n- Netwrix Access Analyzer File System tools\n\n## Dependencies\n\nThis MCP server requires the following dependencies:\n\n- Python 3.12 or higher\n- MCP SDK\n- pyodbc 4.0.39 or higher (for SQL Server connectivity)\n- python-dotenv 1.0.0 or higher (for environment variable management)\n- ODBC Driver 17 for SQL Server or later (must be installed on your system)\n\n### Netwrix Access Analyzer (NAA) Dependencies\n\nThis MCP Server requires Netwrix Access Analyzer (NAA) File System or Active Directory scans to be completed.\n\n## Available Tools\n\n| Solution         | Tool Name                       | Description |\n|------------------|---------------------------------|-------------|\n| Active Directory | Get-ADEffectiveMembership       | Discovers effective group membership in AD with filters. |\n| Active Directory | Get-ADExceptions                | Retrieves AD exceptions with optional filters. |\n| Active Directory | Get-ADPermissions               | Retrieves AD permissions from the permissions view with filters. |\n| Active Directory | Get-DomainControllers           | Lists domain controllers. |\n| Active Directory | Get-CertificateVulnerabilities  | Lists certificate vulnerabil",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T18:37:46.699607"
 }

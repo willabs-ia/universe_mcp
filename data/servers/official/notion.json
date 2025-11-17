@@ -10,10 +10,26 @@
   },
   "release_date": "Apr 11, 2025",
   "url": "https://www.pulsemcp.com/servers/notion",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/makenotion/notion-mcp-server",
+  "categories": [
+    "documentation",
+    "security",
+    "git",
+    "search",
+    "development",
+    "api",
+    "database",
+    "ai",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:15.897866",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 3500,
+    "readme_excerpt": "# Notion MCP Server\n\n> [!NOTE] \n> \n> We’ve introduced **Notion MCP**, a remote MCP server with the following improvements:\n> - Easy installation via standard OAuth. No need to fiddle with JSON or API token anymore.\n> - Powerful tools tailored to AI agents. These tools are designed with optimized token consumption in mind.\n> \n> Learn more and try it out [here](https://developers.notion.com/docs/mcp)\n\n\n![notion-mcp-sm](https://github.com/user-attachments/assets/6c07003c-8455-4636-b298-d60ffdf46cd8)\n\nThis project implements an [MCP server](https://spec.modelcontextprotocol.io/) for the [Notion API](https://developers.notion.com/reference/intro). \n\n![mcp-demo](https://github.com/user-attachments/assets/e3ff90a7-7801-48a9-b807-f7dd47f0d3d6)\n\n### Installation\n\n#### 1. Setting up Integration in Notion:\nGo to [https://www.notion.so/profile/integrations](https://www.notion.so/profile/integrations) and create a new **internal** integration or select an existing one.\n\n![Creating a Notion Integration token](docs/images/integrations-creation.png)\n\nWhile we limit the scope of Notion API's exposed (for example, you will not be able to delete databases via MCP), there is a non-zero risk to workspace data by exposing it to LLMs. Security-conscious users may want to further configure the Integration's _Capabilities_. \n\nFor example, you can create a read-only integration token by giving only \"Read content\" access from the \"Configuration\" tab:\n\n![Notion Integration Token Capabilities showing Rea",
+    "quality_score": 60
+  },
+  "enriched_at": "2025-11-17T18:37:59.000345"
 }

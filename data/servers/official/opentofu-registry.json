@@ -10,10 +10,32 @@
   },
   "release_date": "May 23, 2025",
   "url": "https://www.pulsemcp.com/servers/opentofu-registry",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/opentofu/opentofu-mcp-server",
+  "categories": [
+    "documentation",
+    "testing",
+    "cloud",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:56.911193",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 68,
+    "capabilities": [
+      "MCP-compatible interface for AI assistants",
+      "Get detailed information about specific providers and modules",
+      "Access documentation for resources and data sources",
+      "Search the OpenTofu Registry for providers, modules, resources, and data sources",
+      "Retrieve comprehensive OpenTofu configuration examples"
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "# OpenTofu MCP Server\n\nA Model Context Protocol (MCP) server for accessing the OpenTofu Registry. This server allows language model assistants to search for and retrieve information about OpenTofu providers, modules, resources, and data sources.\n\nAvailable as both a local Node.js server and a remote Cloudflare Worker deployment.\n\n## Features\n\n- Search the OpenTofu Registry for providers, modules, resources, and data sources\n- Get detailed information about specific providers and modules\n- Access documentation for resources and data sources\n- Retrieve comprehensive OpenTofu configuration examples\n- MCP-compatible interface for AI assistants\n\n## Installation\n\nYou can use this MCP server with any AI assistant that supports the Model Context Protocol. Choose between the hosted service or local installation:\n\n### Hosted Service (Recommended)\n\nThe easiest way to get started is to use our hosted service at `mcp.opentofu.org`. Benefits include:\n\n- ✅ No local installation required\n- ✅ Always up-to-date with the latest OpenTofu Registry data\n- ✅ Globally distributed via Cloudflare Workers\n- ✅ High availability and performance\n\n#### Claude Code\n\nAdd the hosted OpenTofu MCP server to Claude Code:\n\n```bash\nclaude mcp add opentofu -t sse https://mcp.opentofu.org/sse\n```\n\n#### Cursor / VS Code\n\n[Automatically install to Cursor in one click](https://cursor.com/install-mcp?name=opentofu&config=eyJ0cmFuc3BvcnQiOiJzc2UiLCJ1cmwiOiJodHRwczovL21jcC5vcGVudG9mdS5vcmcvc3NlIn0%3D)\n\nAdd this to your `s",
+    "quality_score": 60
+  },
+  "enriched_at": "2025-11-17T18:38:58.406510"
 }

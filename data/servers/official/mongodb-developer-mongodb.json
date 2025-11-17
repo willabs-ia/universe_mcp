@@ -7,10 +7,23 @@
   "weekly_metric": null,
   "release_date": "Dec 13, 2024",
   "url": "https://www.pulsemcp.com/servers/mongodb-developer-mongodb",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/mongodb-developer/mongodb-mcp-server",
+  "categories": [
+    "workflow",
+    "git",
+    "development",
+    "api",
+    "database",
+    "ai",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:35.742147",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 27,
+    "readme_excerpt": "<h2 align=\"center\">\n  📢 <strong>COMMUNITY SERVER NOTICE</strong><br/>\n  This is a community-maintained MCP Server.<br/>\n  👉 For the <strong>official</strong> MongoDB MCP Server, visit  \n  <a href=\"https://github.com/mongodb-js/mongodb-mcp-server\">mongodb-js/mongodb-mcp-server</a>\n</h2>\n\n# MongoDB MCP Server\n\nA Model Context Protocol server that provides read-only access to MongoDB databases. This server enables LLMs to inspect collection schemas and execute aggregation pipelines.\n\n## Components\n\n### Tools\n\n- **aggregate**\n  - Execute MongoDB aggregation pipelines against the connected database\n  - Input:\n    - `collection` (string): The collection to query\n    - `pipeline` (array): MongoDB aggregation pipeline stages\n    - `options` (object): Optional aggregation settings\n      - `allowDiskUse` (boolean): Allow operations that require disk usage\n      - `maxTimeMS` (number): Maximum execution time in milliseconds\n      - `comment` (string): Comment to identify the operation\n  - Default limit of 1000 documents if no limit stage is specified\n  - Default timeout of 30 seconds\n\n- **explain**\n  - Get execution plans for aggregation pipelines\n  - Input:\n    - `collection` (string): The collection to analyze\n    - `pipeline` (array): MongoDB aggregation pipeline stages\n    - `verbosity` (string): Detail level of the explanation\n      - Options: \"queryPlanner\", \"executionStats\", \"allPlansExecution\"\n      - Default: \"queryPlanner\"\n\n### Resources\n\nThe server provides schema information",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:37:11.746712"
 }

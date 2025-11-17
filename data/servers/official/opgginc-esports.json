@@ -7,10 +7,27 @@
   "weekly_metric": null,
   "release_date": "Apr 5, 2025",
   "url": "https://www.pulsemcp.com/servers/opgginc-esports",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/opgginc/esports-mcp",
+  "categories": [
+    "search",
+    "api",
+    "ai",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:10.284870",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 6,
+    "capabilities": [
+      "**get-lol-matches**: Fetch and format upcoming League of Legends match schedules from OP.GG Esports",
+      "Formats the data in a clean, structured format for AI consumption",
+      "Returns match name, league, status, score, scheduled time, and a direct link to the match"
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "# OP.GG Esports MCP Server\n\n[![smithery badge](https://smithery.ai/badge/@opgginc/esports-mcp)](https://smithery.ai/server/@opgginc/esports-mcp)\n\nThe OP.GG Esports MCP Server is a Model Context Protocol implementation that seamlessly connects OP.GG Esports data with AI agents and platforms. This server enables AI agents to retrieve upcoming League of Legends match schedules and information via function calling.\n\n## Overview\n\nThis MCP server provides AI agents with access to OP.GG Esports data through a standardized interface. Built on TypeScript and Node.js, it connects directly to the OP.GG Esports GraphQL API and formats the data in a way that's easily consumable by AI models and agent frameworks.\n\n## Features\n\nThe OP.GG Esports MCP Server currently supports the following tools:\n\n- **get-lol-matches**: Fetch and format upcoming League of Legends match schedules from OP.GG Esports\n  - Returns match name, league, status, score, scheduled time, and a direct link to the match\n  - Formats the data in a clean, structured format for AI consumption\n\n## Installation\n\n### Installing via Smithery\n\nTo install OP.GG Esports MCP for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@opgginc/esports-mcp):\n\n```bash\nnpx -y @smithery/cli install @opgginc/esports-mcp --client claude\n```\n\n### Using npm/pnpm\n\n```bash\n# Install dependencies\npnpm install\n\n# Build the project\npnpm build\n```\n\n### Running the server\n\n#### Using pnpm\n\n```bash\n# Start the MCP server on stdio\npnpm ",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T18:39:00.829709"
 }

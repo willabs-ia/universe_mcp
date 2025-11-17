@@ -7,10 +7,20 @@
   "weekly_metric": null,
   "release_date": "Feb 24, 2025",
   "url": "https://www.pulsemcp.com/servers/ntropy-banking-data-enrichment",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/ntropy-network/ntropy-mcp",
+  "categories": [
+    "api",
+    "data",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:04.158069",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 4,
+    "runtime": "Python",
+    "readme_excerpt": "# Ntropy MCP server\n\nMCP server for enriching banking data using the Ntropy API. This allows LLM agents that work with financial data to easily call any of the Ntropy API endpoints.\n\n## Components\n\n### Tools\n\nThe server implements the following tools to interact with the Ntropy API:\n\n- **check_connection**: Verify connection to the Ntropy API\n  - Returns: Connection status information\n\n- **set_api_key**: Set or update the Ntropy API key at runtime\n  - Parameters: `api_key` (string)\n  - Returns: Status of the API key update and validation\n\n- **create_account_holder**: Create an account holder\n  - Parameters: `id` (string/int), `type` (string), `name` (string)\n  - Returns: The created account holder details\n\n- **update_account_holder**: Update an existing account holder\n  - Parameters: `id` (string/int), `name` (string, optional), `type` (string, optional)\n  - Returns: The updated account holder details\n\n- **enrich_transaction**: Enrich a bank transaction\n  - Parameters: `id` (string/int), `description` (string), `date` (string), `amount` (float), `entry_type` (string), `currency` (string), `account_holder_id` (string/int), `country` (string, optional)\n  - Returns: The enriched transaction data\n\n- **get_account_holder**: Get details of an account holder\n  - Parameters: `account_holder_id` (string/int)\n  - Returns: Account holder details\n\n- **list_transactions**: List transactions for an account holder\n  - Parameters: `account_holder_id` (string/int), `limit` (int, default=10), ",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:38:14.984272"
 }

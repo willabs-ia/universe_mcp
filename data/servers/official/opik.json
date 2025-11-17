@@ -10,10 +10,29 @@
   },
   "release_date": "Mar 12, 2025",
   "url": "https://www.pulsemcp.com/servers/opik",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/comet-ml/opik-mcp",
+  "categories": [
+    "documentation",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:24.618886",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 184,
+    "capabilities": [
+      "**Prompts Management**: Create, list, update, and delete prompts",
+      "**Metrics**: Gather and query metrics data",
+      "**Traces**: Track and analyze trace data",
+      "**Projects/Workspaces Management**: Organize and manage projects"
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "<h1 align=\"center\" style=\"border-bottom: none\">\n    <div>\n        <a href=\"https://www.comet.com/site/products/opik/?from=llm&utm_source=opik&utm_medium=github&utm_content=header_img&utm_campaign=opik-mcp\">\n            <picture>\n                <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/comet-ml/opik-mcp/refs/heads/main/docs/assets/logo-dark-mode.svg\">\n                <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/comet-ml/opik-mcp/refs/heads/main/docs/assets/logo-light-mode.svg\">\n                <img alt=\"Comet Opik logo\" src=\"docs/assets/logo-light-mode.svg\" width=\"200\" />\n            </picture>\n        </a>\n        <br>\n        Opik MCP Server\n    </div>\n    (Model Context Protocol)<br>\n</h1>\n\n<p align=\"center\">\nA Model Context Protocol (MCP) implementation for the <a href=\"https://github.com/comet-ml/opik/\">Opik platform</a> with support for multiple transport mechanisms, enabling seamless integration with IDEs and providing a unified interface for Opik's capabilities.\n</p>\n\n<div align=\"center\">\n\n[![License](https://img.shields.io/github/license/comet-ml/opik-mcp)](https://github.com/comet-ml/opik-mcp/blob/main/LICENSE)\n[![Node.js Version](https://img.shields.io/badge/node-%3E%3D20.11.0-brightgreen)](https://nodejs.org/)\n[![TypeScript](https://img.shields.io/badge/typescript-%5E5.8.2-blue)](https://www.typescriptlang.org/)\n<img src=\"https://badge.mcpx.dev?status=on\" title=\"MCP Enabled\"/>\n",
+    "quality_score": 65
+  },
+  "enriched_at": "2025-11-17T18:39:05.908692"
 }

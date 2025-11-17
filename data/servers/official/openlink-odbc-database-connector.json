@@ -7,10 +7,25 @@
   "weekly_metric": null,
   "release_date": "Mar 28, 2025",
   "url": "https://www.pulsemcp.com/servers/openlink-odbc-database-connector",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/openlinksoftware/mcp-odbc-server",
+  "categories": [
+    "security",
+    "git",
+    "development",
+    "api",
+    "database",
+    "ai",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:27.997747",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 9,
+    "runtime": "Node.js",
+    "readme_excerpt": "# OpenLink MCP Server for ODBC\n\nThis document covers the set up and use of a generic ODBC server for the Model Context Protocol (MCP), referred to as an `mcp-odbc` server. It has been developed to provide Large Language Models with transparent access to ODBC-accessible data sources via a Data Source Name configured for a specific ODBC Connector (also called an ODBC Driver).\n\n![mcp-client-and-servers|648x499](https://www.openlinksw.com/data/gifs/mcp-client-and-servers.gif)\n\n## Server Implementation\n\nThis **MCP Server for ODBC** is a small TypeScript layer built on top of `node-odbc`. It routes calls to the host system's local ODBC Driver Manager via `node.js` (specifically using `npx` for TypeScript).\n\n## Operating Environment Set Up & Prerequisites\n\nWhile the examples that follow are oriented toward the Virtuoso ODBC Connector, this guide will also work with other ODBC Connectors. We *strongly* encourage code contributions and submissions of usage demos related to other database management systems (DBMS) for incorporation into this project.\n\n### Key System Components\n\n1. Check the `node.js` version. If it's not `21.1.0` or higher, upgrade or install explicitly using:\n   ```sh\n   nvm install v21.1.0\n   ```\n2. Install MCP components using: \n   ```sh\n   npm install @modelcontextprotocol/sdk zod tsx odbc dotenv\n   ```\n3. Set the `nvm` version using: \n   ```sh\n   nvm alias default 21.1.0\n   ```\n\n### Installation\n\n1. Run \n   ```sh\n   git clone https://github.com/OpenLinkSoftware/mc",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:38:47.780809"
 }

@@ -10,10 +10,26 @@
   },
   "release_date": "Jun 16, 2025",
   "url": "https://www.pulsemcp.com/servers/nutrient-dws",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/pspdfkit/nutrient-dws-mcp-server",
+  "categories": [
+    "documentation",
+    "workflow",
+    "security",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:34.926727",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 61,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Nutrient DWS MCP Server\n\n![Document workflows using natural language](https://raw.githubusercontent.com/PSPDFKit/nutrient-dws-mcp-server/main/resources/readme-header.png)\n\n[![npm](https://img.shields.io/npm/v/%40nutrient-sdk/dws-mcp-server)](https://www.npmjs.com/package/@nutrient-sdk/dws-mcp-server)\n\nA Model Context Protocol (MCP) server implementation that integrates with the Nutrient Document Web Service (DWS) Processor API, providing powerful PDF processing capabilities for AI assistants.\n\nThis server allows AI assistants to access the tools provided by Nutrient DWS Processor API, enabling operations such as digital signing, document generation, document editing, OCR, watermarking, redaction, and more.\n\n## Table of Contents\n\n- [Features Overview](#features-overview)\n- [Usage](#usage)\n  - [Getting Started with Claude Desktop](#getting-started-with-claude-desktop--nutrient-dws-mcp-server)\n  - [Compatibility](#compatibility)\n  - [Further Configuration](#further-configuration)\n- [Contributions](#contributions)\n\n### Features overview\n\n| Feature           | Description                                                                 |\n| ----------------- | --------------------------------------------------------------------------- |\n| Document Creation | Merge PDFs, Office docs, and images                                         |\n| Editing           | Watermark, rotate, flatten, redact, and more                                |\n| Format Conversion | PDF ⇄ DOCX, images, PDF/A ",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:38:20.414149"
 }

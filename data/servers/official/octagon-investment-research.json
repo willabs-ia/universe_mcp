@@ -10,10 +10,34 @@
   },
   "release_date": "Mar 20, 2025",
   "url": "https://www.pulsemcp.com/servers/octagon-investment-research",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/octagonai/octagon-mcp-server",
+  "categories": [
+    "documentation",
+    "search",
+    "api",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:17.122212",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 79,
+    "capabilities": [
+      "Funding rounds and venture capital research (500k+ deals)",
+      "Financial metrics and ratios analysis (10 yrs of historical and current)",
+      "Earnings call transcript analysis (10 yrs of historical and current)",
+      "SEC filings analysis and data extraction (8000+ public companies 10-K, 10-Q, 8-K, 20-F, S-1)",
+      "Institutional holdings and Form 13F filings",
+      "Cryptocurrency market data and analysis",
+      "Stock market data access (over 10,000 active tickers, daily historical and current)",
+      "Private company research (3M+ companies)",
+      "M&A and IPO transaction research (2M+ deals)"
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "# Octagon: MCP for Market Data \n\n[![smithery badge](https://smithery.ai/badge/@OctagonAI/octagon-mcp-server)](https://smithery.ai/server/@OctagonAI/octagon-mcp-server)\n\n![Favicon](https://docs.octagonagents.com/logo.svg) The Octagon MCP server provides specialized AI-powered financial research and analysis by integrating with the Octagon Market Intelligence API, enabling users to easily analyze and extract detailed insights from public filings, earnings call transcripts, financial metrics, stock market data, and extensive private market transactions within Claude Desktop and other popular MCP clients.\n\n[![Demo](https://docs.octagonagents.com/financial_model_demo_fast.gif)](https://docs.octagonagents.com/financial_model_demo.mp4)\n\n## Features\n\n✅ **Comprehensive Market Intelligence** - Orchestrates multiple specialized agents for complete market analysis\n   - SEC filings analysis and data extraction (8000+ public companies 10-K, 10-Q, 8-K, 20-F, S-1)\n   - Earnings call transcript analysis (10 yrs of historical and current)\n   - Financial metrics and ratios analysis (10 yrs of historical and current)\n   - Stock market data access (over 10,000 active tickers, daily historical and current)\n   - Private company research (3M+ companies)\n   - Funding rounds and venture capital research (500k+ deals)\n   - M&A and IPO transaction research (2M+ deals)\n   - Institutional holdings and Form 13F filings\n   - Cryptocurrency market data and analysis\n     \n✅ **Deep Research Capabilities** - Co",
+    "quality_score": 60
+  },
+  "enriched_at": "2025-11-17T18:38:25.873402"
 }

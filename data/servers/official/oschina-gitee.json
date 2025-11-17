@@ -7,10 +7,32 @@
   "weekly_metric": null,
   "release_date": "Mar 21, 2025",
   "url": "https://www.pulsemcp.com/servers/oschina-gitee",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/oschina/mcp-gitee",
+  "categories": [
+    "documentation",
+    "workflow",
+    "testing",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:39.470186",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 43,
+    "capabilities": [
+      "Interact with Gitee repositories, issues, pull requests, and notifications",
+      "Dynamic toolset enable/disable",
+      "Supports both personal, organization, and enterprise operations",
+      "Command-line flags for easy configuration",
+      "Configurable API base URL to support different Gitee instances"
+    ],
+    "readme_excerpt": "# Gitee MCP Server\n\nGitee MCP Server is a Model Context Protocol (MCP) server implementation for Gitee. It provides a set of tools for interacting with Gitee's API, allowing AI assistants to manage repositories, issues, pull requests, and more.\n\n[![Install MCP Server](https://cursor.com/deeplink/mcp-install-dark.svg)](https://cursor.com/en/install-mcp?name=gitee&config=eyJ1cmwiOiJodHRwczovL2FwaS5naXRlZS5jb20vbWNwIiwiaGVhZGVycyI6eyJBdXRob3JpemF0aW9uIjoiQmVhcmVyIDx5b3VyIHBlcnNvbmFsIGFjY2VzcyB0b2tlbj4ifX0%3D)\n\n## Features\n\n- Interact with Gitee repositories, issues, pull requests, and notifications\n- Configurable API base URL to support different Gitee instances\n- Command-line flags for easy configuration\n- Supports both personal, organization, and enterprise operations\n- Dynamic toolset enable/disable\n\n<details>\n<summary><b>Practical scenario: Obtain Issue from the repository, implement and create a Pull Request</b></summary>\n\n1. Get repository Issues\n![get_repo_issues](./docs/images/get_repo_issues.jpg)\n2. Implement coding & create Pull Request based on Issue details\n![implement_issue](./docs/images/implement_issue.jpg)\n3. Comment & Close Issue\n![comment_and_close_issue](./docs/images/comment_and_close_issue.jpg)\n</details>\n\n## Installation(This step can be skipped directly when starting npx)\n\n### Prerequisites\n\n- Go 1.23.0 or higher\n- Gitee account with an access token, [Go to get](https://gitee.com/profile/personal_access_tokens)\n\n### Building from Source\n\n1. Clone the repos",
+    "quality_score": 60
+  },
+  "enriched_at": "2025-11-17T18:39:15.688731"
 }

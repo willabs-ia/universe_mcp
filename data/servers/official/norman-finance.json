@@ -10,10 +10,16 @@
   },
   "release_date": "Apr 17, 2025",
   "url": "https://www.pulsemcp.com/servers/norman-finance",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/norman-finance",
+  "categories": [
+    "api"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:18.069824",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 7,
+    "quality_score": 35
+  },
+  "enriched_at": "2025-11-17T18:37:56.511647"
 }

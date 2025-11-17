@@ -7,10 +7,24 @@
   "weekly_metric": null,
   "release_date": "Mar 10, 2025",
   "url": "https://www.pulsemcp.com/servers/mongodb-atlas",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/mongodb-developer/mcp-mongodb-atlas",
+  "categories": [
+    "git",
+    "development",
+    "api",
+    "database",
+    "ai",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:17.216502",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 13,
+    "runtime": "Node.js",
+    "readme_excerpt": "<h2 align=\"center\">\n  📢 <strong>COMMUNITY SERVER NOTICE</strong><br/>\n  This is a community-maintained MCP Server.<br/>\n  👉 For the <strong>official</strong> MongoDB MCP Server, visit  \n  <a href=\"https://github.com/mongodb-js/mongodb-mcp-server\">mongodb-js/mongodb-mcp-server</a>\n</h2>\n\n# MongoDB Atlas MCP Server\n\nAn MCP (Model Context Protocol) server for managing MongoDB Atlas projects. This package provides tools for creating and managing MongoDB Atlas clusters, users, and network access through the MCP interface.\n\n\n## Demo Video\n\n[![MongoDB Atlas MCP Server Demo](https://img.youtube.com/vi/h8nmRsOGUew/0.jpg)](https://www.youtube.com/watch?v=h8nmRsOGUew)\n\nWatch the demonstration video to see MongoDB Atlas MCP Server in action.\n\n## Features\n\n### MCP Tools\n\n- `create_atlas_cluster` - Create a new MongoDB Atlas cluster in an existing project\n- `setup_atlas_network_access` - Configure network access for an Atlas project\n- `create_atlas_user` - Create a new database user with atlasAdmin role\n- `get_atlas_connection_strings` - Retrieve connection strings for a cluster\n- `list_atlas_projects` - List all Atlas projects accessible with the provided API key\n- `list_atlas_clusters` - List all clusters in a specific Atlas project\n\n## Installation\n\n```bash\nnpm install mcp-mongodb-atlas\n```\n\n## Usage\n\n### As a Command Line Tool\n\nYou can run the Atlas Project Manager directly from the command line:\n\n```bash\n# Using environment variables\nexport ATLAS_PUBLIC_KEY=\"your-public-key\"\nexport AT",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:37:09.016421"
 }

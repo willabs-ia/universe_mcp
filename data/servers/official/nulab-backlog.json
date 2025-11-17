@@ -10,10 +10,35 @@
   },
   "release_date": "May 8, 2025",
   "url": "https://www.pulsemcp.com/servers/nulab-backlog",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/nulab/backlog-mcp-server",
+  "categories": [
+    "documentation",
+    "workflow",
+    "testing",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:28.813864",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 116,
+    "capabilities": [
+      "Wiki page support",
+      "Version/Milestone management (create, read, update, delete)",
+      "Git repository and pull request tools",
+      "Issue tracking and comments (create, update, delete, list)",
+      "Project tools (create, read, update, delete)",
+      "Notification tools",
+      "GraphQL-style field selection for optimized responses",
+      "Token limiting for large responses"
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "# Backlog MCP Server\n\n![MIT License](https://img.shields.io/badge/license-MIT-green.svg)\n![Build](https://github.com/nulab/backlog-mcp-server/actions/workflows/ci.yml/badge.svg)\n![Last Commit](https://img.shields.io/github/last-commit/nulab/backlog-mcp-server.svg)\n\n[📘 日本語でのご利用ガイド](./README.ja.md) \n\nA Model Context Protocol (MCP) server for interacting with the Backlog API. This server provides tools for managing projects, issues, wiki pages, and more in Backlog through AI agents like Claude Desktop / Cline / Cursor etc.\n\n## Features\n\n- Project tools (create, read, update, delete)\n- Issue tracking and comments (create, update, delete, list)\n- Version/Milestone management (create, read, update, delete)\n- Wiki page support\n- Git repository and pull request tools\n- Notification tools\n- GraphQL-style field selection for optimized responses\n- Token limiting for large responses\n\n## Getting Started\n\n### Requirements\n\n- Docker\n- A Backlog account with API access\n- API key from your Backlog account\n\n### Option 1: Install via Docker\n\nThe easiest way to use this MCP server is through MCP configurations:\n\n1. Open MCP settings\n2. Navigate to the MCP configuration section\n3. Add the following configuration:\n\n```json\n{\n  \"mcpServers\": {\n    \"backlog\": {\n      \"command\": \"docker\",\n      \"args\": [\n        \"run\",\n        \"--pull\", \"always\",\n        \"-i\",\n        \"--rm\",\n        \"-e\", \"BACKLOG_DOMAIN\",\n        \"-e\", \"BACKLOG_API_KEY\",\n        \"ghcr.io/nulab/backlog-mcp-server\"\n      ],\n      \"en",
+    "quality_score": 65
+  },
+  "enriched_at": "2025-11-17T18:38:18.024396"
 }

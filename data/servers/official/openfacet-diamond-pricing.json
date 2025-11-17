@@ -7,10 +7,38 @@
   "weekly_metric": null,
   "release_date": "Jul 26, 2025",
   "url": "https://www.pulsemcp.com/servers/openfacet-diamond-pricing",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/openfacet/mcp-server",
+  "categories": [
+    "documentation",
+    "testing",
+    "cloud",
+    "git",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:02.947058",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 2,
+    "capabilities": [
+      "Tools: `get_diamond_price`, `get_dcx_index`, `get_market_depth`",
+      "**Node.js**: HTTP server, CORS, configurable port",
+      "**Cloudflare Worker**: single fetch entrypoint",
+      "Real-time interpolation over carat/color/clarity",
+      "DCX Index and inventory snapshot with daily refresh",
+      "Runtime adapters:",
+      "Implements MCP 2025‑06‑18 (no batch support, structured content, version headers)",
+      "Single-file deployable; no dependencies"
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "# OpenFacet MCP Server\n\n[![MCP Protocol](https://img.shields.io/badge/MCP-2025--06--18-blue)](https://spec.modelcontextprotocol.io/)\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\n[![Node.js Version](https://img.shields.io/badge/node-%3E%3D18-brightgreen)](https://nodejs.org/)\n\nA Model Context Protocol (MCP) implementation for the [OpenFacet](https://openfacet.net) Diamond Pricing API. Provides transparent, real-time diamond pricing data with interpolation algorithms and market depth analytics.\n\nBuilt with vanilla JavaScript and core modules only - zero external dependencies.\n\n## Features\n\n* Implements MCP 2025‑06‑18 (no batch support, structured content, version headers)\n* Tools: `get_diamond_price`, `get_dcx_index`, `get_market_depth`\n* Real-time interpolation over carat/color/clarity\n* DCX Index and inventory snapshot with daily refresh\n* Single-file deployable; no dependencies\n* Runtime adapters:\n  * **Node.js**: HTTP server, CORS, configurable port\n  * **Cloudflare Worker**: single fetch entrypoint\n\n## Project Structure\n\n```\nmcp-server/\n├── core.js         # Shared logic, tool handlers, interpolation\n├── stdio.js        # Local stdio transport\n├── node.js         # Node.js HTTP server (PORT via CLI or env)\n├── worker.js       # Remote Cloudflare Worker\n├── test-core.js    # Vanilla JS test runner\n├── mcp-version.js  # Protocol version constant\n└── README.md\n```\n\n## Usage\n\nRequires Node.js ≥18, clone the reposit",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T18:38:42.603842"
 }

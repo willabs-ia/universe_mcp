@@ -10,10 +10,25 @@
   },
   "release_date": "Mar 26, 2018",
   "url": "https://www.pulsemcp.com/servers/mux-video-data",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/muxinc/mux-node-sdk",
+  "categories": [
+    "documentation",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:43.639176",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 170,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Mux Node API Library\n\n[![NPM version](https://img.shields.io/npm/v/@mux/mux-node.svg)](https://npmjs.org/package/@mux/mux-node) ![npm bundle size](https://img.shields.io/bundlephobia/minzip/@mux/mux-node)\n\nThis library provides convenient access to the Mux REST API from server-side TypeScript or JavaScript.\n\n> [!NOTE]\n> In February 2024 this SDK was updated to Version 8.0. For upgrading to 8.x see [UPGRADE_8.x.md](https://github.com/muxinc/mux-node-sdk/blob/master/UPGRADE_8.x.md)\n\nThe REST API documentation can be found on [docs.mux.com](https://docs.mux.com). The full API of this library can be found in [api.md](api.md).\n\n## Installation\n\n```sh\nnpm install @mux/mux-node\n```\n\n## Usage\n\nThe full API of this library can be found in [api.md](api.md).\n\n<!-- prettier-ignore -->\n```js\nimport Mux from '@mux/mux-node';\n\nconst client = new Mux({\n  tokenId: process.env['MUX_TOKEN_ID'], // This is the default and can be omitted\n  tokenSecret: process.env['MUX_TOKEN_SECRET'], // This is the default and can be omitted\n});\n\nconst asset = await client.video.assets.create({\n  inputs: [{ url: 'https://storage.googleapis.com/muxdemofiles/mux-video-intro.mp4' }],\n  playback_policies: ['public'],\n});\n\nconsole.log(asset.id);\n```\n\n### Request & Response types\n\nThis library includes TypeScript definitions for all request params and response fields. You may import and use them like so:\n\n<!-- prettier-ignore -->\n```ts\nimport Mux from '@mux/mux-node';\n\nconst client = new Mux({\n  tokenId: process.env",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T18:37:22.181139"
 }

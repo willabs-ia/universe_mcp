@@ -10,10 +10,27 @@
   },
   "release_date": "May 13, 2025",
   "url": "https://www.pulsemcp.com/servers/moralisweb3-web3-api",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/moralisweb3/moralis-mcp-server",
+  "categories": [
+    "testing",
+    "cloud",
+    "git",
+    "development",
+    "api",
+    "database",
+    "ai",
+    "monitoring",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:17.098529",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 13,
+    "runtime": "Node.js",
+    "readme_excerpt": "<div align=\"center\">\n  <p>\n    <a align=\"center\" href=\"https://developers.moralis.com/\" target=\"_blank\">\n      <img src=\"https://raw.githubusercontent.com/MoralisWeb3/moralis-analytics-js/main/assets/moralis-logo.svg\" alt=\"Moralis Analytics\" height=200/>\n    </a>\n    <h1 align=\"center\">Moralis MCP Server</h1>\n  </p>\n  <p>\n    A TypeScript-based MCP server that implements a wrapper to the Moralis rest API.\n  </p>\n  <br/>\n</div>\n\n![smithery badge](https://smithery.ai/badge/@MoralisWeb3/moralis-mcp-server)\n\n## 🧠 Overview\nThe **Moralis MCP Server** is a local or cloud-deployable engine that connects natural language prompts to real blockchain insights — allowing AI models to query wallet activity, token metrics, dapp usage, and more without custom code or SQL.\n\nBuilt on top of the [Model Context Protocol](https://github.com/modelcontextprotocol/spec), this server makes it easy for LLMs to talk to Moralis APIs in a consistent, explainable, and extensible way.\n\n- 🔗 Fully pluggable: swap LLMs, customize retrieval logic, or extend with your own tools\n- 🧱 Works with OpenAI, Claude, and open-source models\n- 🧠 Powers agents, devtools, bots, dashboards, and beyond\n\n## ⚙️ Common Use Cases\n\n- 🤖 AI agents & assistants: “What’s this wallet’s trading history?”\n- 📈 Devtools: on-chain QA, testing, CLI integrations\n- 📊 Dashboards: natural language to charts/data\n- 📉 Monitoring: alerting & summarization for tokens/dapps\n- 🧠 Trading bots: LLM-driven strategies with real blockchain grounding\n\n## 🔐 ",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:37:17.259798"
 }

@@ -7,10 +7,30 @@
   "weekly_metric": null,
   "release_date": "Mar 17, 2025",
   "url": "https://www.pulsemcp.com/servers/nylas-communications-platform",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/nylas-samples/nylas-api-mcp",
+  "categories": [
+    "documentation",
+    "security",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:54.967077",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 2,
+    "capabilities": [
+      "**Documentation Resources**: Comprehensive documentation about Nylas API endpoints, authentication, and best practices",
+      "**Interactive Tools**: Tools to generate authentication code and endpoint-specific implementation code",
+      "**Prompts**: Pre-built prompts for common Nylas integration scenarios",
+      "**Code Samples**: Ready-to-use code samples for various Nylas API operations in multiple languages (Node.js, Python, Java, Ruby, curl)"
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "# Nylas API MCP Server (Experimental)\n\n> **Note**: This project is experimental and is intended as an exploration of using the Model Context Protocol (MCP) as a guide for Nylas API integrations. It is not official and should be used for learning and experimentation purposes only.\n\nThis project implements a Model Context Protocol (MCP) server for the Nylas API. It provides resources, tools, and prompts to help developers learn about and integrate with the Nylas API for email, calendar, and contacts functionality.\n\n## What is MCP?\n\nThe [Model Context Protocol (MCP)](https://modelcontextprotocol.io) is a standard for integrating data, tools, and prompts with AI applications. MCP servers can expose resources, tools, and prompts to AI applications like [Claude Desktop](https://claude.ai/download), [Cursor](https://cursor.sh), and other MCP-compatible applications.\n\n## Features\n\nThis MCP server provides:\n\n- **Documentation Resources**: Comprehensive documentation about Nylas API endpoints, authentication, and best practices\n- **Code Samples**: Ready-to-use code samples for various Nylas API operations in multiple languages (Node.js, Python, Java, Ruby, curl)\n- **Interactive Tools**: Tools to generate authentication code and endpoint-specific implementation code\n- **Prompts**: Pre-built prompts for common Nylas integration scenarios\n\n![Screenshot 2025-03-16 at 4 43 38 PM](https://github.com/user-attachments/assets/01436765-2eb8-4d8b-90ab-f0a8544355db)\n\n## Getting Started\n\n### Prereq",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T18:38:23.343334"
 }

@@ -10,10 +10,25 @@
   },
   "release_date": "Apr 1, 2025",
   "url": "https://www.pulsemcp.com/servers/octomind-e2e-test-automation",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/octomind-dev/octomind-mcp",
+  "categories": [
+    "documentation",
+    "workflow",
+    "testing",
+    "development",
+    "api",
+    "database",
+    "ai",
+    "monitoring",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:10.558077",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 21,
+    "readme_excerpt": "# octomind mcp server: let agents create and manage e2e tests\n\n<img src=\"images/light.png\" alt=\"Octomind Logo\" width=\"250\">\n\n[![smithery badge](https://smithery.ai/badge/@OctoMind-dev/octomind-mcp)](https://smithery.ai/server/@OctoMind-dev/octomind-mcp)\n\nOctomind provides a whole e2e platform for test creation, execution and management including auto-fix.\nWith this MCP server you can use Octomind tools and resources in your local development environment and \nenable it to create new e2e tests, execute them and more. see https://octomind.dev/ and \nhttps://octomind.dev/docs/mcp/install-octomind-mcp for more details.\n\n## See it in action together with testrail mcp\n\n[![Video Title](https://img.youtube.com/vi/I7lc9I0S62Y/0.jpg)](https://www.youtube.com/watch?v=I7lc9I0S62Y)\n\n## Configuration\n\n### Environment Variables\n\nThe server uses the following environment variables:\n\n- `APIKEY` - The API key for Octomind API (required)\n- `OCTOMIND_API_URL` - Base URL for the API endpoint to use (defaults to https://app.octomind.dev/api)\n- `REDIS_URL` - Redis connection URL for session storage (optional, format: redis://host:port)\n- `SESSION_EXPIRATION_SECONDS` - Time in seconds after which sessions expire (optional, Redis only)\n\n### Command Line Options\n\nThe server supports the following command line options:\n\n- `-s, --sse` - Enable SSE transport mode\n- `-t, --stream` - Enable Streamable HTTP transport mode\n- `-c, --clients` - Show client configuration examples\n- `-p, --port <port>` - Port to l",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:38:28.326139"
 }
