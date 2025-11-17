@@ -1,0 +1,19 @@
+{
+  "id": "jtewen-ynab",
+  "name": "YNAB",
+  "provider": "Jtewen",
+  "description": "Integrates with You Need A Budget's API to enable budget inquiries, expense tracking, and financial data analysis...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jun 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/jtewen-ynab",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:59.571316",
+  "metadata": {}
+}

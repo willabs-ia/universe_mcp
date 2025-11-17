@@ -1,0 +1,19 @@
+{
+  "id": "yoavniran-cloudinary",
+  "name": "Cloudinary",
+  "provider": "Yoav Niran",
+  "description": "Provides direct access to Cloudinary's Upload and Admin APIs for uploading, retrieving, searching, and managing...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 4
+  },
+  "release_date": "Mar 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/yoavniran-cloudinary",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:45.792414",
+  "metadata": {}
+}

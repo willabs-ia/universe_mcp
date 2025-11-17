@@ -1,0 +1,16 @@
+{
+  "id": "kwrds-ai",
+  "name": "kwrds.ai",
+  "provider": "mkotsollaris",
+  "description": "Integrates with kwrds.ai's keyword research API to provide search volume analysis, competition data, SERP insights,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/kwrds-ai",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:09.311395",
+  "metadata": {}
+}

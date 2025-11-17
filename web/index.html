@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Universe MCP - The World's Largest MCP Library</title>
+    <meta name="description" content="Explore 6,488+ MCP servers, 428+ clients, and use cases. The most comprehensive MCP ecosystem directory.">
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <h1 class="logo">🌌 Universe MCP</h1>
+                <p class="tagline">The World's Largest MCP Library</p>
+            </div>
+            <nav class="nav-tabs">
+                <button class="tab-btn active" data-tab="servers">Servers</button>
+                <button class="tab-btn" data-tab="clients">Clients</button>
+                <button class="tab-btn" data-tab="usecases">Use Cases</button>
+                <button class="tab-btn" data-tab="stats">Statistics</button>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main">
+        <div class="container">
+            <!-- Statistics Banner -->
+            <section class="stats-banner">
+                <div class="stat-card">
+                    <div class="stat-number" id="total-servers">6,488</div>
+                    <div class="stat-label">MCP Servers</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="total-clients">428</div>
+                    <div class="stat-label">Clients</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="official-servers">736</div>
+                    <div class="stat-label">Official</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="community-servers">5,729</div>
+                    <div class="stat-label">Community</div>
+                </div>
+            </section>
+
+            <!-- Search & Filters -->
+            <section class="search-section">
+                <div class="search-bar">
+                    <input type="text" id="search-input" placeholder="Search servers, clients, or use cases..." autocomplete="off">
+                    <button class="search-btn" id="search-btn">🔍 Search</button>
+                </div>
+
+                <div class="filters" id="filters-container">
+                    <!-- Filters will be dynamically inserted -->
+                </div>
+            </section>
+
+            <!-- Tab Content -->
+            <section class="tab-content">
+                <!-- Servers Tab -->
+                <div class="tab-panel active" id="servers-panel">
+                    <div class="results-header">
+                        <h2>MCP Servers</h2>
+                        <div class="results-count" id="servers-count">Loading...</div>
+                    </div>
+                    <div class="grid" id="servers-grid">
+                        <!-- Server cards will be dynamically inserted -->
+                    </div>
+                    <div class="load-more-container">
+                        <button class="load-more-btn" id="load-more-servers">Load More</button>
+                    </div>
+                </div>
+
+                <!-- Clients Tab -->
+                <div class="tab-panel" id="clients-panel">
+                    <div class="results-header">
+                        <h2>MCP Clients</h2>
+                        <div class="results-count" id="clients-count">Loading...</div>
+                    </div>
+                    <div class="grid" id="clients-grid">
+                        <!-- Client cards will be dynamically inserted -->
+                    </div>
+                    <div class="load-more-container">
+                        <button class="load-more-btn" id="load-more-clients">Load More</button>
+                    </div>
+                </div>
+
+                <!-- Use Cases Tab -->
+                <div class="tab-panel" id="usecases-panel">
+                    <div class="results-header">
+                        <h2>Use Cases</h2>
+                        <div class="results-count" id="usecases-count">Loading...</div>
+                    </div>
+                    <div class="grid" id="usecases-grid">
+                        <!-- Use case cards will be dynamically inserted -->
+                    </div>
+                </div>
+
+                <!-- Statistics Tab -->
+                <div class="tab-panel" id="stats-panel">
+                    <div class="stats-content">
+                        <h2>Ecosystem Statistics</h2>
+
+                        <div class="stats-section">
+                            <h3>Top Providers</h3>
+                            <div class="stats-list" id="top-providers">
+                                <!-- Top providers will be dynamically inserted -->
+                            </div>
+                        </div>
+
+                        <div class="stats-section">
+                            <h3>Distribution by Classification</h3>
+                            <div class="stats-chart" id="classification-chart">
+                                <!-- Classification chart will be dynamically inserted -->
+                            </div>
+                        </div>
+
+                        <div class="stats-section">
+                            <h3>Data Quality</h3>
+                            <div class="quality-metrics" id="quality-metrics">
+                                <!-- Quality metrics will be dynamically inserted -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>Universe MCP - The World's Largest MCP Library</p>
+            <p>Data sourced from <a href="https://www.pulsemcp.com" target="_blank">PulseMCP</a></p>
+            <p>Updated daily via automated scraping | <a href="https://github.com/willabs-ia/universe_mcp" target="_blank">View on GitHub</a></p>
+        </div>
+    </footer>
+
+    <!-- Loading Overlay -->
+    <div class="loading-overlay" id="loading-overlay">
+        <div class="loading-spinner"></div>
+        <p>Loading data...</p>
+    </div>
+
+    <script src="assets/js/app.js"></script>
+</body>
+</html>

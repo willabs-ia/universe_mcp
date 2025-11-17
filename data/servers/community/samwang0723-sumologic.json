@@ -1,0 +1,19 @@
+{
+  "id": "samwang0723-sumologic",
+  "name": "Sumo Logic",
+  "provider": "Sam Wang",
+  "description": "Integrates with the Sumo Logic API to perform log searches, enabling custom queries and analysis of log data for...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Feb 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/samwang0723-sumologic",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:46.644008",
+  "metadata": {}
+}

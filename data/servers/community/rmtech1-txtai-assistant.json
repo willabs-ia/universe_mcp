@@ -1,0 +1,16 @@
+{
+  "id": "rmtech1-txtai-assistant",
+  "name": "txtai",
+  "provider": "rmtech1",
+  "description": "Configurable server environment for efficient memory-based operations with customizable settings and flexible limits...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/rmtech1-txtai-assistant",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:48.530819",
+  "metadata": {}
+}

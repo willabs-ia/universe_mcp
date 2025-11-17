@@ -1,0 +1,16 @@
+{
+  "id": "iamalexander-readwise",
+  "name": "Readwise",
+  "provider": "Alexander Bastien",
+  "description": "Integrates with Readwise to provide access to saved articles, books, highlights, and documents, enabling users to...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/iamalexander-readwise",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:17.224226",
+  "metadata": {}
+}

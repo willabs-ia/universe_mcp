@@ -1,0 +1,16 @@
+{
+  "id": "coinapi-realtime-exchange-rates",
+  "name": "CoinAPI Real-time Exchange Rates",
+  "provider": "CoinAPI",
+  "description": "Integrates with CoinAPI to provide real-time cryptocurrency and exchange rate data.",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Oct 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/coinapi-realtime-exchange-rates",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:29.298323",
+  "metadata": {}
+}

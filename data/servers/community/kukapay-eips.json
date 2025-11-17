@@ -1,0 +1,16 @@
+{
+  "id": "kukapay-eips",
+  "name": "Ethereum Improvement Proposals (EIPs)",
+  "provider": "kukapay",
+  "description": "Provides semantic search across Ethereum Improvement Proposals using vector embeddings and LanceDB to retrieve...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/kukapay-eips",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:17.837187",
+  "metadata": {}
+}

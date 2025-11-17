@@ -1,0 +1,19 @@
+{
+  "id": "bowwowxx-gemini-image-generation",
+  "name": "Gemini Image Generation",
+  "provider": "bowwowxx",
+  "description": "Integrates with Google's Gemini 2.0 Flash experimental model to generate images from text prompts with configurable...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Aug 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/bowwowxx-gemini-image-generation",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:01.866600",
+  "metadata": {}
+}

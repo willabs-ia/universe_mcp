@@ -1,0 +1,16 @@
+{
+  "id": "jskorlol-json-skeleton",
+  "name": "JSON Skeleton",
+  "provider": "jskorlol",
+  "description": "Creates lightweight skeleton representations of large JSON files by truncating strings, deduplicating arrays, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/jskorlol-json-skeleton",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:00.616400",
+  "metadata": {}
+}

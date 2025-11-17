@@ -1,0 +1,19 @@
+{
+  "id": "liorfranko-chain-of-thought",
+  "name": "Chain of Thought Task Manager",
+  "provider": "Lior Franko",
+  "description": "Task management system that converts natural language into organized development tasks with dependency tracking,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 4
+  },
+  "release_date": "May 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/liorfranko-chain-of-thought",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:45.813456",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "setu-upi-deeplinks",
+  "name": "Setu UPI Deeplinks",
+  "provider": "Setu",
+  "description": "Integrates Setu's UPI payment infrastructure to enable seamless generation and management of payment links for...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Jan 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/setu-upi-deeplinks",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:01.239949",
+  "metadata": {}
+}

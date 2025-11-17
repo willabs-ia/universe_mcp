@@ -1,0 +1,16 @@
+{
+  "id": "dynamicendpoints-paypal",
+  "name": "PayPal",
+  "provider": "Dynamic Endpoints",
+  "description": "Integrates with PayPal's APIs to enable payment processing, order management, and financial operations for e-commerce...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/dynamicendpoints-paypal",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:03.340124",
+  "metadata": {}
+}

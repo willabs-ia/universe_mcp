@@ -1,0 +1,16 @@
+{
+  "id": "sumup-agent-toolkit",
+  "name": "SumUp Agent Toolkit",
+  "provider": "SumUp",
+  "description": "Develop payment products with SumUp. Interact with the SumUp API and search developer documentation.",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Apr 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/sumup-agent-toolkit",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:10.282111",
+  "metadata": {}
+}

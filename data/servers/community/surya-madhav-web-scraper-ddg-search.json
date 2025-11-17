@@ -1,0 +1,16 @@
+{
+  "id": "surya-madhav-web-scraper-ddg-search",
+  "name": "Web Scraper & DuckDuckGo Search",
+  "provider": "Surya Madhav",
+  "description": "Provides web scraping and DuckDuckGo search capabilities for retrieving and processing web content as markdown.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/surya-madhav-web-scraper-ddg-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:15.087525",
+  "metadata": {}
+}

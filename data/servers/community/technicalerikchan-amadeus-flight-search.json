@@ -1,0 +1,16 @@
+{
+  "id": "technicalerikchan-amadeus-flight-search",
+  "name": "Amadeus Flight Search",
+  "provider": "Erik Chan",
+  "description": "Integrates with the Amadeus API to provide real-time flight search, airport information lookup, flight status...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/technicalerikchan-amadeus-flight-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:28.802959",
+  "metadata": {}
+}

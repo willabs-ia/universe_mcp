@@ -1,0 +1,16 @@
+{
+  "id": "rajeshrah22-nmstate",
+  "name": "NetworkManager (nmstate)",
+  "provider": "rajeshrah22",
+  "description": "Integrates with Linux NetworkManager through libnmstate library to query current network interface configurations and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/rajeshrah22-nmstate",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:49.847783",
+  "metadata": {}
+}

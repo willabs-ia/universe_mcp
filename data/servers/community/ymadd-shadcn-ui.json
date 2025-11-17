@@ -1,0 +1,16 @@
+{
+  "id": "ymadd-shadcn-ui",
+  "name": "Shadcn UI",
+  "provider": "ymadd",
+  "description": "Provides a dynamic server for accessing shadcn/ui component documentation by scraping and caching information from...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/ymadd-shadcn-ui",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:57.118703",
+  "metadata": {}
+}

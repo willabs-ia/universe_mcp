@@ -1,0 +1,16 @@
+{
+  "id": "ruchernchong-google-analytics",
+  "name": "Google Analytics",
+  "provider": "Ru Chen Chong",
+  "description": "Integrates GA4 data to provide web analytics metrics and insights for analyzing website performance and user engagement.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Nov 29, 2024",
+  "url": "https://www.pulsemcp.com/servers/ruchernchong-google-analytics",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:33.667408",
+  "metadata": {}
+}

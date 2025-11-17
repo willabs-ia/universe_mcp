@@ -1,0 +1,19 @@
+{
+  "id": "juhemcp",
+  "name": "JNews",
+  "provider": "juhemcp",
+  "description": "Lightweight Python FastAPI server implementation for streamlined server-side interactions, using modern tooling like...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 24
+  },
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/juhemcp",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:23.533808",
+  "metadata": {}
+}

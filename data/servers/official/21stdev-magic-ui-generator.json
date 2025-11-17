@@ -1,0 +1,16 @@
+{
+  "id": "21stdev-magic-ui-generator",
+  "name": "Magic (21st.dev UI Generator)",
+  "provider": "21st Dev",
+  "description": "Bridges to 21st.dev's Magic API for generating UI components from descriptions, fetching existing components for...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Mar 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/21stdev-magic-ui-generator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:05.639923",
+  "metadata": {}
+}

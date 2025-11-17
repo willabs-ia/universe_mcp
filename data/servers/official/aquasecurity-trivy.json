@@ -1,0 +1,16 @@
+{
+  "id": "aquasecurity-trivy",
+  "name": "Trivy Security Scanner",
+  "provider": "Aqua Security",
+  "description": "Integrates Trivy's security scanning capabilities to detect vulnerabilities, misconfigurations, licenses, and secrets...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/aquasecurity-trivy",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:15.729538",
+  "metadata": {}
+}

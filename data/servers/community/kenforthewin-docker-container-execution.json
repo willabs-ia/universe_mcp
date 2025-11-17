@@ -1,0 +1,19 @@
+{
+  "id": "kenforthewin-docker-container-execution",
+  "name": "Docker Container Execution",
+  "provider": "kenforthewin",
+  "description": "Provides Docker container execution with intelligent process management, background task tracking, and comprehensive...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 20
+  },
+  "release_date": "Aug 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/kenforthewin-docker-container-execution",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:25.886800",
+  "metadata": {}
+}

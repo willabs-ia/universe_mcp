@@ -1,0 +1,16 @@
+{
+  "id": "devcycle",
+  "name": "DevCycle",
+  "provider": "DevCycle",
+  "description": "Integrates with DevCycle's feature flag platform to create, manage, and analyze feature flags, variables, and...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Sep 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/devcycle",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:27.176980",
+  "metadata": {}
+}

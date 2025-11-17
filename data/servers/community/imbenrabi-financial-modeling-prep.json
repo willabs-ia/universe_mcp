@@ -1,0 +1,16 @@
+{
+  "id": "imbenrabi-financial-modeling-prep",
+  "name": "Financial Modeling Prep",
+  "provider": "Ben Rabi",
+  "description": "Integrates with Financial Modeling Prep's API to provide real-time market data, financial statements, technical...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/imbenrabi-financial-modeling-prep",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:25.038670",
+  "metadata": {}
+}

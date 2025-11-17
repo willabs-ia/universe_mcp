@@ -1,0 +1,16 @@
+{
+  "id": "priyankark-lighthouse",
+  "name": "Lighthouse",
+  "provider": "Priyankar Kumar",
+  "description": "Use Google's lighthouse tool to measure perf metrics for your webpage. You can then run an agentic loop and get the...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/priyankark-lighthouse",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:12.721634",
+  "metadata": {}
+}

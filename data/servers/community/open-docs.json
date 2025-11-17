@@ -1,0 +1,19 @@
+{
+  "id": "open-docs",
+  "name": "Open Docs (Technical Documentation Search)",
+  "provider": "askme765cs",
+  "description": "Crawls and indexes technical documentation sites with multi-language support using jieba-wasm and Lunr.js for...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 5
+  },
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/open-docs",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:43.616658",
+  "metadata": {}
+}

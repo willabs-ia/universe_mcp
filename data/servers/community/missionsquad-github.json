@@ -1,0 +1,19 @@
+{
+  "id": "missionsquad-github",
+  "name": "GitHub",
+  "provider": "MissionSquad",
+  "description": "Integrates with GitHub's API to enable repository operations, file management, issue tracking, and code search...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 7
+  },
+  "release_date": "Mar 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/missionsquad-github",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:39.333401",
+  "metadata": {}
+}

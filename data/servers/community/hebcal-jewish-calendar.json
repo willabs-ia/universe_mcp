@@ -1,0 +1,16 @@
+{
+  "id": "hebcal-jewish-calendar",
+  "name": "Hebcal (Jewish Calendar)",
+  "provider": "Michael J. Radwin",
+  "description": "Integrates with Hebrew calendar libraries to provide date conversions, yahrzeit calculations, and Torah portion...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/hebcal-jewish-calendar",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:46.310816",
+  "metadata": {}
+}

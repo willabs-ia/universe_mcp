@@ -1,0 +1,16 @@
+{
+  "id": "pulsemcp-claude-code-agent",
+  "name": "Claude Code Agent",
+  "provider": "PulseMCP",
+  "description": "Solves tool overload by dynamically spawning Claude Code subagents with only task-relevant MCP servers, analyzing...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/pulsemcp-claude-code-agent",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:35.313647",
+  "metadata": {}
+}

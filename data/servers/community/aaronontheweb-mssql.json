@@ -1,0 +1,19 @@
+{
+  "id": "aaronontheweb-mssql",
+  "name": "SQL Server",
+  "provider": "Aaron Stannard",
+  "description": "Provides robust SQL Server database access with T-SQL validation, connection management, and cross-platform Docker...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "Jun 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/aaronontheweb-mssql",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:35.918263",
+  "metadata": {}
+}

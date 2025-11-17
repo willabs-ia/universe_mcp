@@ -1,0 +1,16 @@
+{
+  "id": "mccartykim-goose-fm",
+  "name": "Goose FM Radio",
+  "provider": "Kim McCarty",
+  "description": "Integrates with RTL-SDR hardware to enable FM radio tuning, playback control, and audio analysis for smart home and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/mccartykim-goose-fm",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:03.321269",
+  "metadata": {}
+}

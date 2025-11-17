@@ -1,0 +1,16 @@
+{
+  "id": "vendia",
+  "name": "Vendia",
+  "provider": "Vendia",
+  "description": "Fully managed MCP server to run any MCP compliant AI agent (Claude, ChatGPT, Gemini etc.) on any type of data (files,...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Sep 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/vendia",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:29.260110",
+  "metadata": {}
+}

@@ -1,0 +1,11 @@
+{
+  "id": "algolia-client",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Web client for interacting with Algolia MCP servers and multiple LLMs through a responsive chat interface with prompt templates, markdown rendering, chart visualization, and persistent history.",
+  "url": "https://www.pulsemcp.com/clients/algolia-client",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.467818"
+}

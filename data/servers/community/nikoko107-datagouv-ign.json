@@ -1,0 +1,16 @@
+{
+  "id": "nikoko107-datagouv-ign",
+  "name": "Data.gouv.fr & IGN",
+  "provider": "nikoko107",
+  "description": "Integrates with France's national open data portal and IGN geographic services to provide access to government...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/nikoko107-datagouv-ign",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:37.567633",
+  "metadata": {}
+}

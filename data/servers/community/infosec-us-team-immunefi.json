@@ -1,0 +1,16 @@
+{
+  "id": "infosec-us-team-immunefi",
+  "name": "Immunefi",
+  "provider": "infosec-us-team",
+  "description": "Integrates with Immunefi bug bounty platform through cached API to search programs, retrieve assets, bounty amounts,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/infosec-us-team-immunefi",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:33.200101",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "wazzan-coincap",
+  "name": "CoinCap",
+  "provider": "wazzan",
+  "description": "Integrates with CoinCap's API v3 to provide real-time cryptocurrency price tracking, market analysis, and historical...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 14
+  },
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/wazzan-coincap",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:30.170934",
+  "metadata": {}
+}

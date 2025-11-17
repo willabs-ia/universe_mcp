@@ -1,0 +1,19 @@
+{
+  "id": "deepview",
+  "name": "DeepView",
+  "provider": "Dmitry Degtyarev",
+  "description": "Enables AI-powered code analysis by loading entire codebases into Gemini's large context window, allowing developers...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 87
+  },
+  "release_date": "Mar 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/deepview",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:08.422356",
+  "metadata": {}
+}

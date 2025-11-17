@@ -1,0 +1,11 @@
+{
+  "id": "emergent-lab-playground",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Web playground for testing and experimenting with MCP servers through a clean interface that manages HTTP, SSE, and stdio connections with server inspection tools and keyboard shortcuts.",
+  "url": "https://www.pulsemcp.com/clients/emergent-lab-playground",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.468390"
+}

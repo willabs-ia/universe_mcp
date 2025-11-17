@@ -1,0 +1,19 @@
+{
+  "id": "dollhouse",
+  "name": "DollhouseMCP",
+  "provider": "Mick Darling",
+  "description": "Enables dynamic persona management from markdown files with local creation, GitHub marketplace integration, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jul 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/dollhouse",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:59.587632",
+  "metadata": {}
+}

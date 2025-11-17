@@ -1,0 +1,16 @@
+{
+  "id": "roshan-rowik",
+  "name": "Rowik (Personal MediaWiki)",
+  "provider": "Roshan George",
+  "description": "Integrates with a personal MediaWiki instance to enable searching, retrieving, and manipulating wiki content for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/roshan-rowik",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:03.361452",
+  "metadata": {}
+}

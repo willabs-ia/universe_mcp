@@ -1,0 +1,16 @@
+{
+  "id": "weirdmachine64-kali-docker",
+  "name": "Kali Docker",
+  "provider": "weirdmachine64",
+  "description": "Provides secure command execution within a containerized Kali Linux environment with background job management,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Nov 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/weirdmachine64-kali-docker",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:39.806424",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "mitchybawesome-aws-service-reference",
+  "name": "AWS Service Reference",
+  "provider": "MitchyBAwesome",
+  "description": "Integrates with AWS Service Reference API to provide real-time access to AWS service capabilities and API actions for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/mitchybawesome-aws-service-reference",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:17.226724",
+  "metadata": {}
+}

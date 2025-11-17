@@ -1,0 +1,19 @@
+{
+  "id": "pathintegral-institute-science",
+  "name": "MCP Science",
+  "provider": "Path Integral Institute",
+  "description": "Unified command-line launcher for discovering and running scientific research MCP servers from the Path Integral...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 119
+  },
+  "release_date": "Jul 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/pathintegral-institute-science",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:06.218335",
+  "metadata": {}
+}

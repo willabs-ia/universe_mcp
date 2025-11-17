@@ -1,0 +1,16 @@
+{
+  "id": "cursor-ide-development-tools",
+  "name": "Cursor IDE Development Tools (Jira, GitHub, PostgreSQL)",
+  "provider": "Michael Trullion",
+  "description": "Provides Cursor IDE with domain-specific tools for accessing Jira, GitHub, and PostgreSQL databases through...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/cursor-ide-development-tools",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:44.126484",
+  "metadata": {}
+}

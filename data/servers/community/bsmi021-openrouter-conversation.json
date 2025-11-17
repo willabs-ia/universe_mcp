@@ -1,0 +1,16 @@
+{
+  "id": "bsmi021-openrouter-conversation",
+  "name": "OpenRouter Conversation Manager",
+  "provider": "Brian W. Smith",
+  "description": "Provides a unified conversation management system for OpenRouter's language models with features like token counting,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/bsmi021-openrouter-conversation",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:50.754356",
+  "metadata": {}
+}

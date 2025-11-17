@@ -1,0 +1,19 @@
+{
+  "id": "ivlad003-newrelic-logs",
+  "name": "New Relic Logs",
+  "provider": "Ivlad003",
+  "description": "Bridges New Relic's log querying capabilities with a Python-based server, enabling execution of NRQL queries for...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jan 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/ivlad003-newrelic-logs",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:44.520393",
+  "metadata": {}
+}

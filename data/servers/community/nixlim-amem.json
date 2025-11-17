@@ -1,0 +1,16 @@
+{
+  "id": "nixlim-amem",
+  "name": "A-MEM (Agentic Memory)",
+  "provider": "nixlim",
+  "description": "Provides persistent memory capabilities for coding contexts using ChromaDB vector storage and semantic search,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/nixlim-amem",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:58.358163",
+  "metadata": {}
+}

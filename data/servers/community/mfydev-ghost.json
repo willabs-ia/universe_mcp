@@ -1,0 +1,19 @@
+{
+  "id": "mfydev-ghost",
+  "name": "Ghost",
+  "provider": "mfydev",
+  "description": "Interact with the Ghost CMS to control your blog through natural language. Manage posts, tags, users, members, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Feb 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/mfydev-ghost",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:46.630169",
+  "metadata": {}
+}

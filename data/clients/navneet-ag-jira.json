@@ -1,0 +1,11 @@
+{
+  "id": "navneet-ag-jira",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Integrates with the Jira API to enable issue retrieval and comment access directly within coding environments.",
+  "url": "https://www.pulsemcp.com/clients/navneet-ag-jira",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.477167"
+}

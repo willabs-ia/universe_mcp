@@ -1,0 +1,11 @@
+{
+  "id": "robert-githubusername-winformsapp",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Windows Forms application that integrates large language models with Microsoft's Semantic Kernel framework, providing tool functionality for GitHub, GitLab, and filesystem operations with configurable OpenAI model settings.",
+  "url": "https://www.pulsemcp.com/clients/robert-githubusername-winformsapp",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.483836"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "luotocompany-local-code-search",
+  "name": "Local Code Search",
+  "provider": "Luoto Company",
+  "description": "Locally indexes codebases using ChromaDB to enable semantic code search without sending code to external services,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/luotocompany-local-code-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:30.543563",
+  "metadata": {}
+}

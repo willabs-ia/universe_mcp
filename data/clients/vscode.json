@@ -1,0 +1,11 @@
+{
+  "id": "vscode",
+  "name": "Unknown",
+  "provider": null,
+  "description": "In VS Code, MCP support enhances GitHub Copilot's agent mode by allowing you to connect any MCP-compatible server to your agentic coding workflow.",
+  "url": "https://www.pulsemcp.com/clients/vscode",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.307627"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "luisrincon23-sec-edgar",
+  "name": "SEC EDGAR",
+  "provider": "LuisRincon23",
+  "description": "Integrates with the SEC EDGAR database to retrieve company filings, financial data, and structured XBRL information...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/luisrincon23-sec-edgar",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:39.041047",
+  "metadata": {}
+}

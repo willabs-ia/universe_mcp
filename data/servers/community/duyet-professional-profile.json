@@ -1,0 +1,16 @@
+{
+  "id": "duyet-professional-profile",
+  "name": "Duyet Professional Profile",
+  "provider": "duyet",
+  "description": "Provides access to Duyet's professional information including CV, GitHub activity, and blog posts, with contact...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/duyet-professional-profile",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:51.990425",
+  "metadata": {}
+}

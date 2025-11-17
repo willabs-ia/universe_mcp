@@ -1,0 +1,16 @@
+{
+  "id": "jmanhype-vggt-mps",
+  "name": "VGGT-MPS",
+  "provider": "jmanhype",
+  "description": "Provides 3D vision and reconstruction capabilities through VGGT transformer model for multi-view reconstruction from...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/jmanhype-vggt-mps",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:28.864323",
+  "metadata": {}
+}

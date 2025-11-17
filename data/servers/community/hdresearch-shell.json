@@ -1,0 +1,19 @@
+{
+  "id": "hdresearch-shell",
+  "name": "CLI",
+  "provider": "HD Research",
+  "description": "Secure shell command execution server for AI models to interact with local systems while maintaining strict security...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 47
+  },
+  "release_date": "Nov 26, 2024",
+  "url": "https://www.pulsemcp.com/servers/hdresearch-shell",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:14.981103",
+  "metadata": {}
+}

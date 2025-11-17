@@ -1,0 +1,11 @@
+{
+  "id": "nerding-io-n8n-nodes",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Integrates MCP server capabilities into n8n workflows, enabling AI model interactions and external tool execution for automated data processing and content generation.",
+  "url": "https://www.pulsemcp.com/clients/nerding-io-n8n-nodes",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.379263"
+}

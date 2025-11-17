@@ -1,0 +1,16 @@
+{
+  "id": "owen-lacey-fpl",
+  "name": "Fantasy Premier League",
+  "provider": "Owen Lacey",
+  "description": "Integrates with the official Fantasy Premier League API to retrieve player statistics, team information, fixture...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/owen-lacey-fpl",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:22.115189",
+  "metadata": {}
+}

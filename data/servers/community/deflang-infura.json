@@ -1,0 +1,16 @@
+{
+  "id": "deflang-infura",
+  "name": "Infura",
+  "provider": "Sumitesh Naithani",
+  "description": "Provides access to Ethereum and Polygon blockchain data through Infura's JSON-RPC APIs, offering 35+ tools for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/deflang-infura",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:24.518173",
+  "metadata": {}
+}

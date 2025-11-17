@@ -1,0 +1,16 @@
+{
+  "id": "openlinksoftware-jdbc-database-connector",
+  "name": "JDBC Database Connector",
+  "provider": "OpenLink Software",
+  "description": "Provides a bridge between relational databases and language models through JDBC connections, enabling SQL, SPARQL,...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Apr 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/openlinksoftware-jdbc-database-connector",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:28.002386",
+  "metadata": {}
+}

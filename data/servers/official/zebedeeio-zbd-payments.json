@@ -1,0 +1,19 @@
+{
+  "id": "zebedeeio-zbd-payments",
+  "name": "ZBD Payments",
+  "provider": "ZBD",
+  "description": "Integrates with ZBD Payments API to enable Bitcoin and Lightning Network transactions including sending/receiving...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 3
+  },
+  "release_date": "May 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/zebedeeio-zbd-payments",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:50.177644",
+  "metadata": {}
+}

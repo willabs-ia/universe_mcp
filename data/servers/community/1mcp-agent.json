@@ -1,0 +1,16 @@
+{
+  "id": "1mcp-agent",
+  "name": "1MCP Agent",
+  "provider": "William Xu",
+  "description": "Aggregates multiple MCP servers into a single unified interface, reducing system resource usage and simplifying...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/1mcp-agent",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:10.272494",
+  "metadata": {}
+}

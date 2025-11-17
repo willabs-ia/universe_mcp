@@ -1,0 +1,19 @@
+{
+  "id": "portainer-container-management",
+  "name": "Portainer Container Management",
+  "provider": "Portainer",
+  "description": "Provides a bridge between AI and Portainer container management platform, enabling environment monitoring, access...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 415
+  },
+  "release_date": "Apr 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/portainer-container-management",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:26.764083",
+  "metadata": {}
+}

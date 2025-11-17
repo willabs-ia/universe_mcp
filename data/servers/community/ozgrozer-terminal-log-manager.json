@@ -1,0 +1,16 @@
+{
+  "id": "ozgrozer-terminal-log-manager",
+  "name": "Terminal Log Manager",
+  "provider": "ozgrozer",
+  "description": "Retrieves and manages terminal logs from a specified directory, offering functionality to read recent entries and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/ozgrozer-terminal-log-manager",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:01.602618",
+  "metadata": {}
+}

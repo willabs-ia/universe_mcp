@@ -1,0 +1,16 @@
+{
+  "id": "m4s1t4-websearch-tools",
+  "name": "WebSearch Tools",
+  "provider": "m4s1t4",
+  "description": "Integrates with web search APIs and crawling tools to enable internet-wide information retrieval, content extraction,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/m4s1t4-websearch-tools",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:08.616601",
+  "metadata": {}
+}

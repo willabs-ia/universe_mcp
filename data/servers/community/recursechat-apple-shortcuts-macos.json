@@ -1,0 +1,19 @@
+{
+  "id": "recursechat-apple-shortcuts-macos",
+  "name": "Apple Shortcuts (macOS)",
+  "provider": "Recurse Chat",
+  "description": "Control Apple Shortcuts automations on macOS.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Dec 11, 2024",
+  "url": "https://www.pulsemcp.com/servers/recursechat-apple-shortcuts-macos",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:42.319013",
+  "metadata": {}
+}

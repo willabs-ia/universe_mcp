@@ -1,0 +1,19 @@
+{
+  "id": "pradumnasaraf-aviationstack",
+  "name": "AviationStack",
+  "provider": "Pradumna Saraf",
+  "description": "Integrates with the AviationStack API to provide real-time flight data, airport schedules, aircraft information, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 77
+  },
+  "release_date": "Jul 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/pradumnasaraf-aviationstack",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:10.537194",
+  "metadata": {}
+}

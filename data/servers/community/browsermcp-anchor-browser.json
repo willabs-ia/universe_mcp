@@ -1,0 +1,19 @@
+{
+  "id": "browsermcp-anchor-browser",
+  "name": "Anchor Browser",
+  "provider": "Guy Ben Simhon",
+  "description": "Provides remote browser automation with built-in proxy rotation and stealth capabilities through Anchor Browser's...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 3
+  },
+  "release_date": "Aug 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/browsermcp-anchor-browser",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:50.195308",
+  "metadata": {}
+}

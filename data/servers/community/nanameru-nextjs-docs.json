@@ -1,0 +1,19 @@
+{
+  "id": "nanameru-nextjs-docs",
+  "name": "Next.js Documentation",
+  "provider": "nanameru",
+  "description": "Provides structured access to Next.js documentation URLs organized by categories including routing, data fetching,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 51
+  },
+  "release_date": "Aug 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/nanameru-nextjs-docs",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:14.963174",
+  "metadata": {}
+}

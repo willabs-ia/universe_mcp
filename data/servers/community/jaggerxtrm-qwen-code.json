@@ -1,0 +1,19 @@
+{
+  "id": "jaggerxtrm-qwen-code",
+  "name": "Qwen Code",
+  "provider": "Jaggerxtrm",
+  "description": "Bridges Qwen's code analysis capabilities through CLI integration, providing file-referenced queries with @filename...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 3
+  },
+  "release_date": "Oct 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/jaggerxtrm-qwen-code",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:50.213065",
+  "metadata": {}
+}

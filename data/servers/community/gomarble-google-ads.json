@@ -1,0 +1,19 @@
+{
+  "id": "gomarble-google-ads",
+  "name": "Google Ads",
+  "provider": "GoMarble",
+  "description": "Integrates with Google Ads API to list accounts, execute GAQL queries, and generate keyword ideas with search volume...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 415
+  },
+  "release_date": "Jul 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/gomarble-google-ads",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:28.827775",
+  "metadata": {}
+}

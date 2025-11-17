@@ -1,0 +1,16 @@
+{
+  "id": "tommyn0225-exa-ai-security-scanner",
+  "name": "Exa AI Security Scanner",
+  "provider": "Tommy N",
+  "description": "Integrates with Exa AI to scan projects for security vulnerabilities through a containerized JSON-RPC service that...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/tommyn0225-exa-ai-security-scanner",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:10.014987",
+  "metadata": {}
+}

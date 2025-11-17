@@ -1,0 +1,16 @@
+{
+  "id": "021-factory-laravel-debugbar",
+  "name": "Laravel DebugBar",
+  "provider": "Raphael Kagermeier",
+  "description": "Provides a bridge to Laravel DebugBar for accessing detailed request logs, queries, routes, views, and models with...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/021-factory-laravel-debugbar",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:50.759436",
+  "metadata": {}
+}

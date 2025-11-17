@@ -1,0 +1,16 @@
+{
+  "id": "openlink-sqlalchemy-odbc-bridge",
+  "name": "SQLAlchemy ODBC Bridge",
+  "provider": "OpenLink Software",
+  "description": "Provides a bridge between databases and SQL/SPARQL queries through ODBC connections, enabling schema exploration,...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Mar 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/openlink-sqlalchemy-odbc-bridge",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:05.632408",
+  "metadata": {}
+}

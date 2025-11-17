@@ -1,0 +1,16 @@
+{
+  "id": "peakmojo-applescript",
+  "name": "AppleScript",
+  "provider": "PeakMojo",
+  "description": "Enables AI to execute AppleScript code on macOS systems, providing access to applications and system features like...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/peakmojo-applescript",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:23.762506",
+  "metadata": {}
+}

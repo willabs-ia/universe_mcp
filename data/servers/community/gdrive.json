@@ -1,0 +1,16 @@
+{
+  "id": "gdrive",
+  "name": "Google Drive",
+  "provider": "Woojin Jeon",
+  "description": "Integrates with Google Drive to enable file listing, reading, and searching across various document formats, with...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/gdrive",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:07.879963",
+  "metadata": {}
+}

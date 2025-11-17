@@ -1,0 +1,16 @@
+{
+  "id": "run-as-root-warden-magento",
+  "name": "Warden Magento",
+  "provider": "run-as-root",
+  "description": "Integrates with Warden and Magento 2 development environments to automate Docker-based workflows including project...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/run-as-root-warden-magento",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:54.086274",
+  "metadata": {}
+}

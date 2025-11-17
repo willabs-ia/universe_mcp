@@ -1,0 +1,16 @@
+{
+  "id": "wunrry-universal-sql",
+  "name": "Universal SQL",
+  "provider": "Wunrry",
+  "description": "Provides secure access to multiple SQL database engines (MySQL, PostgreSQL, SQLite, SQL Server) through a unified...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/wunrry-universal-sql",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:33.222442",
+  "metadata": {}
+}

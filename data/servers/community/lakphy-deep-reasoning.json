@@ -1,0 +1,19 @@
+{
+  "id": "lakphy-deep-reasoning",
+  "name": "Deep Reasoning (OpenRouter)",
+  "provider": "Lakphy",
+  "description": "Integrates with OpenRouter's AI SDK to enable deep reasoning capabilities for complex analysis and inference tasks.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 3
+  },
+  "release_date": "Feb 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/lakphy-deep-reasoning",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:48.016682",
+  "metadata": {}
+}

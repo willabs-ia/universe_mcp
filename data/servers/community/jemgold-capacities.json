@@ -1,0 +1,19 @@
+{
+  "id": "jemgold-capacities",
+  "name": "Capacities",
+  "provider": "Jem Gold",
+  "description": "Integrates with Capacities knowledge management platform to search content across knowledge bases, save weblinks with...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jun 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/jemgold-capacities",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:57.446266",
+  "metadata": {}
+}

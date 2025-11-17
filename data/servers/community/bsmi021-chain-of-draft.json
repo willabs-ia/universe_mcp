@@ -1,0 +1,19 @@
+{
+  "id": "bsmi021-chain-of-draft",
+  "name": "Chain of Draft",
+  "provider": "Brian W. Smith",
+  "description": "Enables iterative reasoning through structured drafts with explicit reasoning chains, allowing for focused critiques...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 7
+  },
+  "release_date": "Mar 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/bsmi021-chain-of-draft",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:39.335964",
+  "metadata": {}
+}

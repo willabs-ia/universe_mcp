@@ -1,0 +1,16 @@
+{
+  "id": "imgmcp",
+  "name": "ImgMCP",
+  "provider": "ImgMCP",
+  "description": "Unified multimedia AI server providing access to image, audio, and video generation models from OpenAI, Stability AI,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/imgmcp",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:22.836463",
+  "metadata": {}
+}

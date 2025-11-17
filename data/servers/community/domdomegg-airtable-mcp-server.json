@@ -1,0 +1,16 @@
+{
+  "id": "domdomegg-airtable-mcp-server",
+  "name": "Airtable",
+  "provider": "Adam Jones",
+  "description": "Provides read and write access to Airtable databases.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 12, 2024",
+  "url": "https://www.pulsemcp.com/servers/domdomegg-airtable-mcp-server",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:31.519731",
+  "metadata": {}
+}

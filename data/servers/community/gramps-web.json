@@ -1,0 +1,19 @@
+{
+  "id": "gramps-web",
+  "name": "Gramps Web",
+  "provider": "cabout-me",
+  "description": "Integrates with Gramps Web API to provide genealogy research and management through 24 specialized tools for family...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Sep 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/gramps-web",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:04.031898",
+  "metadata": {}
+}

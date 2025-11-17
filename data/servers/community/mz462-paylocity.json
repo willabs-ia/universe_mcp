@@ -1,0 +1,16 @@
+{
+  "id": "mz462-paylocity",
+  "name": "Paylocity",
+  "provider": "MJ Zou",
+  "description": "Integrates with Paylocity's HR and payroll API to enable secure access to employee data and payroll information...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/mz462-paylocity",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:09.998744",
+  "metadata": {}
+}

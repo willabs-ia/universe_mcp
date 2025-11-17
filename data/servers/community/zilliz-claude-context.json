@@ -1,0 +1,19 @@
+{
+  "id": "zilliz-claude-context",
+  "name": "Claude Context",
+  "provider": "Zilliz",
+  "description": "Provides semantic code search and indexing using vector embeddings and AST-based code splitting, enabling natural...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 180
+  },
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/zilliz-claude-context",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:40.221535",
+  "metadata": {}
+}

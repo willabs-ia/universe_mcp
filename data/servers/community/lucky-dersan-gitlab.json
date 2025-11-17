@@ -1,0 +1,16 @@
+{
+  "id": "lucky-dersan-gitlab",
+  "name": "GitLab",
+  "provider": "lucky-dersan",
+  "description": "Integrates with GitLab repositories to enable comprehensive project management including repository operations,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/lucky-dersan-gitlab",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:52.015247",
+  "metadata": {}
+}

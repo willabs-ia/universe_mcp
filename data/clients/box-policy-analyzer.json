@@ -1,0 +1,11 @@
+{
+  "id": "box-policy-analyzer",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Enables secure access to sensitive government information for Pydantic AI agents through Box integration, supporting policy analysis, compliance assessment, and document tracking capabilities.",
+  "url": "https://www.pulsemcp.com/clients/box-policy-analyzer",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.560591"
+}

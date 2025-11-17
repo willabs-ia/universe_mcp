@@ -1,0 +1,16 @@
+{
+  "id": "jaacob-perplexity",
+  "name": "Perplexity",
+  "provider": "Jacob",
+  "description": "Integrates with Perplexity's API to enable real-time web searches for up-to-date information retrieval and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/jaacob-perplexity",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:57.190712",
+  "metadata": {}
+}

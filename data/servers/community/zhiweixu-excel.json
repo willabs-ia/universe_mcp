@@ -1,0 +1,19 @@
+{
+  "id": "zhiweixu-excel",
+  "name": "Excel File Processor",
+  "provider": "Zhiwei Xu",
+  "description": "Enables direct interaction with Excel files for reading sheet names, extracting data, and managing workbook caching...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 5
+  },
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/zhiweixu-excel",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:43.612362",
+  "metadata": {}
+}

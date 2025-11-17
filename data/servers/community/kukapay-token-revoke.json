@@ -1,0 +1,16 @@
+{
+  "id": "kukapay-token-revoke",
+  "name": "Token Revoke",
+  "provider": "kukapay",
+  "description": "Enables secure management and revocation of ERC20 token allowances across 40+ blockchain networks, helping users...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/kukapay-token-revoke",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:03.490811",
+  "metadata": {}
+}

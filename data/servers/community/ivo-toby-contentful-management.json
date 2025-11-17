@@ -1,0 +1,19 @@
+{
+  "id": "ivo-toby-contentful-management",
+  "name": "Contentful Management",
+  "provider": "Ivo Toby",
+  "description": "Integrate with Contentful's Content Management API for CMS management.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 17
+  },
+  "release_date": "Dec 4, 2024",
+  "url": "https://www.pulsemcp.com/servers/ivo-toby-contentful-management",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:27.991542",
+  "metadata": {}
+}

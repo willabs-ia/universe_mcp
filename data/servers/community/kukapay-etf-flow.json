@@ -1,0 +1,19 @@
+{
+  "id": "kukapay-etf-flow",
+  "name": "ETF Flow (CoinGlass)",
+  "provider": "kukapay",
+  "description": "Retrieves crypto ETF flow data from CoinGlass API, providing historical Bitcoin and Ethereum fund flow analysis in...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 12
+  },
+  "release_date": "Jun 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/kukapay-etf-flow",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:32.775580",
+  "metadata": {}
+}

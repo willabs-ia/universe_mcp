@@ -1,0 +1,16 @@
+{
+  "id": "yuiseki-edge-tts",
+  "name": "Edge Text-to-Speech",
+  "provider": "yuiseki",
+  "description": "Provides a bridge to Microsoft's Edge Text-to-Speech service for converting text into natural-sounding speech across...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/yuiseki-edge-tts",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:23.733925",
+  "metadata": {}
+}

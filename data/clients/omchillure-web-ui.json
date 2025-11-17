@@ -1,0 +1,11 @@
+{
+  "id": "omchillure-web-ui",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Web-based chat interface for interacting with multiple language models, supporting persistent chat history, streaming responses, and external tool integration across providers like Ollama, Anthropic, OpenAI, and OpenRouter.",
+  "url": "https://www.pulsemcp.com/clients/omchillure-web-ui",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.478315"
+}

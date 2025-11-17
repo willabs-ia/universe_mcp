@@ -1,0 +1,16 @@
+{
+  "id": "raoulbia-intercom-support-tickets",
+  "name": "Intercom Support Tickets",
+  "provider": "Raoul Biagioni",
+  "description": "Integrates with Intercom's API to retrieve, filter, and analyze customer support tickets by date range, keywords, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/raoulbia-intercom-support-tickets",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:23.628287",
+  "metadata": {}
+}

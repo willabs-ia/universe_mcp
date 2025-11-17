@@ -1,0 +1,16 @@
+{
+  "id": "postgres-query",
+  "name": "Postgres Query",
+  "provider": "Darshil Rathod",
+  "description": "Provides a read-only PostgreSQL query server with strict validation, 10-second timeout, and secure database access...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/postgres-query",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:20.695883",
+  "metadata": {}
+}

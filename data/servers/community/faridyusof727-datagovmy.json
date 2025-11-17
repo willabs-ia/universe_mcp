@@ -1,0 +1,16 @@
+{
+  "id": "faridyusof727-datagovmy",
+  "name": "Data.gov.my",
+  "provider": "Farid Yusof",
+  "description": "Integrates with Malaysia's open government data API to provide access to population statistics, birth records, fuel...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/faridyusof727-datagovmy",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:36.826149",
+  "metadata": {}
+}

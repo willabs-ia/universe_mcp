@@ -1,0 +1,16 @@
+{
+  "id": "omer-ayhan-custom-context",
+  "name": "Custom Context Transformer",
+  "provider": "Omer Ayhan",
+  "description": "Transforms unstructured text into structured JSON data using customizable templates with placeholders for extracting...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/omer-ayhan-custom-context",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:12.736643",
+  "metadata": {}
+}

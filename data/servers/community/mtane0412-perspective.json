@@ -1,0 +1,19 @@
+{
+  "id": "mtane0412-perspective",
+  "name": "Perspective API",
+  "provider": "mtane0412",
+  "description": "Integrates with Perspective API to analyze text toxicity and provide content moderation across multiple languages for...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 15
+  },
+  "release_date": "Feb 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/mtane0412-perspective",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:28.034662",
+  "metadata": {}
+}

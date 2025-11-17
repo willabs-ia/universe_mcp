@@ -1,0 +1,19 @@
+{
+  "id": "msgbyte-tianji",
+  "name": "Tianji",
+  "provider": "MsgByte",
+  "description": "Bridges AI assistants with the Tianji platform to enable survey management, including querying results, retrieving...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 4
+  },
+  "release_date": "May 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/msgbyte-tianji",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:45.817500",
+  "metadata": {}
+}

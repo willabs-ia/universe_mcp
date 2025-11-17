@@ -1,0 +1,19 @@
+{
+  "id": "taazkareem-twitter",
+  "name": "X (Twitter)",
+  "provider": "Talib Kareem",
+  "description": "Integrates with X's API to enable tweet retrieval, user interactions, and social media analysis capabilities",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 3
+  },
+  "release_date": "Feb 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/taazkareem-twitter",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:48.018116",
+  "metadata": {}
+}

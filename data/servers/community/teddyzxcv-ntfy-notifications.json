@@ -1,0 +1,16 @@
+{
+  "id": "teddyzxcv-ntfy-notifications",
+  "name": "Ntfy Notifications",
+  "provider": "teddyzxcv",
+  "description": "Enables real-time notifications through ntfy.sh, allowing assistants to send customizable alerts with titles and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/teddyzxcv-ntfy-notifications",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:25.760921",
+  "metadata": {}
+}

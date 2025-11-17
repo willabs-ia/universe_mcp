@@ -1,0 +1,19 @@
+{
+  "id": "just-every-screenshot-website-fast",
+  "name": "Screenshot Website Fast",
+  "provider": "Just Every",
+  "description": "Captures full-page website screenshots using Puppeteer and automatically splits them into 1072x1072 pixel tiles...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jun 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/just-every-screenshot-website-fast",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:57.450376",
+  "metadata": {}
+}

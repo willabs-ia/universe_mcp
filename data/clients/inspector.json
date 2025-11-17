@@ -1,0 +1,11 @@
+{
+  "id": "inspector",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Officially maintained by the MCP community, MCP server debugging tool that provides real-time interaction with MCP servers through stdio, HTTP, or SSE transports",
+  "url": "https://www.pulsemcp.com/clients/inspector",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.314537"
+}

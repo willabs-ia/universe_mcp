@@ -1,0 +1,16 @@
+{
+  "id": "savignano-vscode-simple-browser",
+  "name": "VS Code Simple Browser",
+  "provider": "SaViGnAnO",
+  "description": "Enables web interaction through VS Code's Simple Browser with tools for opening URLs, navigating pages, executing...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/savignano-vscode-simple-browser",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:45.508134",
+  "metadata": {}
+}

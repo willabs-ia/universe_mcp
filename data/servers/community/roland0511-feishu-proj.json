@@ -1,0 +1,19 @@
+{
+  "id": "roland0511-feishu-proj",
+  "name": "Feishu Project",
+  "provider": "Roland0511",
+  "description": "Integrates with Feishu Project management API, enabling direct interaction with project data, tasks, and resources...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 62
+  },
+  "release_date": "Mar 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/roland0511-feishu-proj",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:12.795654",
+  "metadata": {}
+}

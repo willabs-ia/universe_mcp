@@ -1,0 +1,19 @@
+{
+  "id": "mindscapehq-raygun",
+  "name": "Raygun",
+  "provider": "Mindscape",
+  "description": "Monitor crash reports and performance metrics for application stability.",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 29
+  },
+  "release_date": "Nov 28, 2024",
+  "url": "https://www.pulsemcp.com/servers/mindscapehq-raygun",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:21.370310",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "tanevanwifferen-usescraper",
+  "name": "UseScraper",
+  "provider": "Tane van Wifferen",
+  "description": "Integrates with UseScraper API to extract web content in various formats with advanced proxy options and custom data...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/tanevanwifferen-usescraper",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:48.539590",
+  "metadata": {}
+}

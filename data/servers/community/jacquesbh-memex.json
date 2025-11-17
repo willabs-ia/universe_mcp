@@ -1,0 +1,16 @@
+{
+  "id": "jacquesbh-memex",
+  "name": "Memex",
+  "provider": "jacquesbh",
+  "description": "Manages a local knowledge base of technical guides and AI contexts using vector embeddings for semantic search,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/jacquesbh-memex",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:35.311863",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "bazylhorsey-obsidian",
+  "name": "Obsidian",
+  "provider": "bazylhorsey",
+  "description": "Integrates with Obsidian vaults to provide knowledge graph analysis, note creation and editing, template management,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/bazylhorsey-obsidian",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:35.342074",
+  "metadata": {}
+}

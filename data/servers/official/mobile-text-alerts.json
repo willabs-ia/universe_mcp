@@ -1,0 +1,16 @@
+{
+  "id": "mobile-text-alerts",
+  "name": "Mobile Text Alerts",
+  "provider": "Mobile Text Alerts",
+  "description": "Provides the ability to send SMS messages, manage subscribers and enable an AI agent to use Mobile Text Alerts directly.",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Oct 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/mobile-text-alerts",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:29.292102",
+  "metadata": {}
+}

@@ -1,0 +1,11 @@
+{
+  "id": "taggartbg-vibeframe",
+  "name": "Unknown",
+  "provider": null,
+  "description": "VS Code extension that embeds MCP server frontends directly within the editor, automatically discovering and connecting to servers from configuration files across multiple development environments.",
+  "url": "https://www.pulsemcp.com/clients/taggartbg-vibeframe",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.448825"
+}

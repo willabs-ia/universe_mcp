@@ -1,0 +1,16 @@
+{
+  "id": "vertex-ai-gemini",
+  "name": "Vertex AI Gemini",
+  "provider": "Shariq Riaz",
+  "description": "Provides a bridge to Google Cloud's Vertex AI Gemini models with web search grounding, direct knowledge answering,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/vertex-ai-gemini",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:23.748198",
+  "metadata": {}
+}

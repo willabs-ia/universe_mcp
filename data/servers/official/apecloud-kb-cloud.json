@@ -1,0 +1,16 @@
+{
+  "id": "apecloud-kb-cloud",
+  "name": "KubeBlocks Cloud",
+  "provider": "ApeCloud",
+  "description": "Enables querying and managing KubeBlocks Cloud resources including organizations, environments, instances, and...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Apr 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/apecloud-kb-cloud",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:14.975084",
+  "metadata": {}
+}

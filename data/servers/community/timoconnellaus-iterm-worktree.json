@@ -1,0 +1,16 @@
+{
+  "id": "timoconnellaus-iterm-worktree",
+  "name": "iTerm2 Git Worktree Manager",
+  "provider": "timoconnellaus",
+  "description": "Automates git worktree management with iTerm2 integration, creating isolated feature branches in dedicated terminal...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/timoconnellaus-iterm-worktree",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:56.203924",
+  "metadata": {}
+}

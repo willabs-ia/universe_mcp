@@ -1,0 +1,16 @@
+{
+  "id": "h4ck4life-mssql",
+  "name": "MSSQL",
+  "provider": "h4ck4life",
+  "description": "Enables read-only SQL queries against Microsoft SQL Server databases with configurable timeouts, connection pooling,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/h4ck4life-mssql",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:18.546077",
+  "metadata": {}
+}

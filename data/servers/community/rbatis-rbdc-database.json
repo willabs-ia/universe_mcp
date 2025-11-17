@@ -1,0 +1,16 @@
+{
+  "id": "rbatis-rbdc-database",
+  "name": "RBDC Database",
+  "provider": "rbdc team",
+  "description": "Provides SQL database access through the RBDC framework, supporting SQLite, MySQL, PostgreSQL, and MSSQL with...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/rbatis-rbdc-database",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:49.842958",
+  "metadata": {}
+}

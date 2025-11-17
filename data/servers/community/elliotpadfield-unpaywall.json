@@ -1,0 +1,16 @@
+{
+  "id": "elliotpadfield-unpaywall",
+  "name": "Unpaywall",
+  "provider": "ElliotPadfield",
+  "description": "Integrates with Unpaywall's database to find open access versions of academic papers and retrieve publication...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/elliotpadfield-unpaywall",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:22.120528",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "eat-pray-ai-youtube-data-api",
+  "name": "YouTube Data API",
+  "provider": "eat-pray-ai",
+  "description": "Integrates with YouTube Data API v3 to provide complete video management, channel operations, playlist control,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 553
+  },
+  "release_date": "Jul 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/eat-pray-ai-youtube-data-api",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:24.645456",
+  "metadata": {}
+}

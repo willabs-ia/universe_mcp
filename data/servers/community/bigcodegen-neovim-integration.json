@@ -1,0 +1,16 @@
+{
+  "id": "bigcodegen-neovim-integration",
+  "name": "Neovim Integration",
+  "provider": "Derek White",
+  "description": "Integrates Claude Desktop with Neovim, enabling AI-enhanced coding assistance within the familiar Vim environment...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 23, 2024",
+  "url": "https://www.pulsemcp.com/servers/bigcodegen-neovim-integration",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:37.896123",
+  "metadata": {}
+}

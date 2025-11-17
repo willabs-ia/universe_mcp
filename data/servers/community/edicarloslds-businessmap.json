@@ -1,0 +1,19 @@
+{
+  "id": "edicarloslds-businessmap",
+  "name": "BusinessMap",
+  "provider": "Edicarlos Lopes",
+  "description": "Integrates with BusinessMap's Kanban platform to enable complete project management operations including card...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 6
+  },
+  "release_date": "Aug 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/edicarloslds-businessmap",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:41.488720",
+  "metadata": {}
+}

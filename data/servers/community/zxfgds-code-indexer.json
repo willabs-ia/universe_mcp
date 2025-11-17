@@ -1,0 +1,19 @@
+{
+  "id": "zxfgds-code-indexer",
+  "name": "Code Indexer",
+  "provider": "zxfgds",
+  "description": "Indexes and retrieves code snippets using embedding models and vector databases, enabling efficient code search and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/zxfgds-code-indexer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:48.768292",
+  "metadata": {}
+}

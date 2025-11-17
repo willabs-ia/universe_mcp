@@ -1,0 +1,11 @@
+{
+  "id": "aasherkamal-axiom",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Chainlit-based interface that connects to documentation sources through dual operational modes: Agent Mode for code generation and Chat Mode for answering queries, powered by Google's Gemini models and LangGraph orchestration.",
+  "url": "https://www.pulsemcp.com/clients/aasherkamal-axiom",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.469698"
+}

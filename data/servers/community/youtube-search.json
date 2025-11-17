@@ -1,0 +1,16 @@
+{
+  "id": "youtube-search",
+  "name": "YouTube Search",
+  "provider": "hightemp",
+  "description": "Enables searching YouTube videos, retrieving detailed information, and extracting subtitles in English or Russian for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/youtube-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:30.108061",
+  "metadata": {}
+}

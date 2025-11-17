@@ -1,0 +1,19 @@
+{
+  "id": "csevero-clickup",
+  "name": "ClickUp",
+  "provider": "Carlos Severo",
+  "description": "Integrates with ClickUp's REST API to retrieve task details including name, description, and attachments by searching...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 2
+  },
+  "release_date": "Oct 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/csevero-clickup",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:54.719970",
+  "metadata": {}
+}

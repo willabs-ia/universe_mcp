@@ -1,0 +1,16 @@
+{
+  "id": "qching",
+  "name": "QChing",
+  "provider": "qching.ai",
+  "description": "Generates true quantum randomness powered IChing hexagrams with LLM interpretation",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/qching",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:29.258780",
+  "metadata": {}
+}

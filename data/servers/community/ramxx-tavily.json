@@ -1,0 +1,19 @@
+{
+  "id": "ramxx-tavily",
+  "name": "Tavily Search",
+  "provider": "RamXX",
+  "description": "Search and retrieve AI-enhanced web results via Tavily.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 345
+  },
+  "release_date": "Dec 1, 2024",
+  "url": "https://www.pulsemcp.com/servers/ramxx-tavily",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:28.866666",
+  "metadata": {}
+}

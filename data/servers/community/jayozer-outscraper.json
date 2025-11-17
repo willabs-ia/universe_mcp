@@ -1,0 +1,16 @@
+{
+  "id": "jayozer-outscraper",
+  "name": "Outscraper",
+  "provider": "Jay Ozer",
+  "description": "Integrates with Outscraper's data extraction services to provide Google Maps business search, review extraction,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/jayozer-outscraper",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:43.329967",
+  "metadata": {}
+}

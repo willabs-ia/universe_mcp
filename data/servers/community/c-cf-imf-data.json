@@ -1,0 +1,16 @@
+{
+  "id": "c-cf-imf-data",
+  "name": "IMF Data",
+  "provider": "c-cf",
+  "description": "Provides structured access to International Monetary Fund datasets, enabling retrieval of economic indicators and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/c-cf-imf-data",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:21.480645",
+  "metadata": {}
+}

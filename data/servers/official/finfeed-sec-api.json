@@ -1,0 +1,16 @@
+{
+  "id": "finfeed-sec-api",
+  "name": "FinFeedAPI SEC API",
+  "provider": "CoinAPI",
+  "description": "Instantly access over 30 years of SEC filings, no scraping or delays",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Oct 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/finfeed-sec-api",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:29.304165",
+  "metadata": {}
+}

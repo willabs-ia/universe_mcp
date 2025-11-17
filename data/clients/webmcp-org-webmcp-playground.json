@@ -1,0 +1,11 @@
+{
+  "id": "webmcp-org-webmcp-playground",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Web-based playground for testing and developing MCP implementations with client-side PostgreSQL functionality, memory management systems, and PWA capabilities for offline usage.",
+  "url": "https://www.pulsemcp.com/clients/webmcp-org-webmcp-playground",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.544399"
+}

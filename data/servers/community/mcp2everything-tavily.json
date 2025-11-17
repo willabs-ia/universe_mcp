@@ -1,0 +1,16 @@
+{
+  "id": "mcp2everything-tavily",
+  "name": "Tavily",
+  "provider": "mcp2everything",
+  "description": "Integrates the Tavily search API to enable web searches and information retrieval for fact-checking and research tasks.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/mcp2everything-tavily",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:42.188370",
+  "metadata": {}
+}

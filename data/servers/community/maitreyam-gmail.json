@@ -1,0 +1,16 @@
+{
+  "id": "maitreyam-gmail",
+  "name": "Gmail",
+  "provider": "Maitreya M",
+  "description": "Enables sending emails through Gmail's SMTP service with support for attachments from local files, pre-staged files,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/maitreyam-gmail",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:23.641151",
+  "metadata": {}
+}

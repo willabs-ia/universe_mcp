@@ -1,0 +1,16 @@
+{
+  "id": "podaac-cmr",
+  "name": "NASA CMR (Common Metadata Repository)",
+  "provider": "NASA PO.DAAC",
+  "description": "Bridges to NASA's Common Metadata Repository for searching and retrieving Earth science datasets by date range,...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Apr 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/podaac-cmr",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:05.649584",
+  "metadata": {}
+}

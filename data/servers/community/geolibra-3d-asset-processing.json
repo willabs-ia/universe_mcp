@@ -1,0 +1,19 @@
+{
+  "id": "geolibra-3d-asset-processing",
+  "name": "3D Asset Processing",
+  "provider": "geolibra",
+  "description": "Processes and optimizes 3D glTF/GLB models with analysis, validation, format conversion, compression, and geometry...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 2
+  },
+  "release_date": "Oct 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/geolibra-3d-asset-processing",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:54.724064",
+  "metadata": {}
+}

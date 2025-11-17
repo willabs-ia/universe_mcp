@@ -1,0 +1,19 @@
+{
+  "id": "fiveohhwon-workflows",
+  "name": "Workflows",
+  "provider": "FiveOhhWon",
+  "description": "Provides workflow management and automation through step-by-step execution with branching logic, conditional...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 3
+  },
+  "release_date": "Jun 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/fiveohhwon-workflows",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:50.183770",
+  "metadata": {}
+}

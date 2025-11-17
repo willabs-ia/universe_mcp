@@ -1,0 +1,16 @@
+{
+  "id": "evalstate-miro",
+  "name": "Miro",
+  "provider": "evalstate",
+  "description": "Create and manage content on Miro whiteboards.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Nov 28, 2024",
+  "url": "https://www.pulsemcp.com/servers/evalstate-miro",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:31.495102",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "m-pineapple-crypto-analysis",
+  "name": "CryptoAnalysis (CoinPaprika)",
+  "provider": "M-Pineapple",
+  "description": "Integrates with CoinPaprika API to provide real-time cryptocurrency price data, historical OHLCV analysis, technical...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/m-pineapple-crypto-analysis",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:51.980557",
+  "metadata": {}
+}

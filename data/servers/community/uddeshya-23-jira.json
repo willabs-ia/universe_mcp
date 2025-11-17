@@ -1,0 +1,16 @@
+{
+  "id": "uddeshya-23-jira",
+  "name": "Jira",
+  "provider": "Uddeshya",
+  "description": "Integrates with Jira's REST API to enable issue tracking, project management, and workload analytics tasks.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/uddeshya-23-jira",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:48.543402",
+  "metadata": {}
+}

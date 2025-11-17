@@ -1,0 +1,16 @@
+{
+  "id": "sidemail",
+  "name": "Sidemail",
+  "provider": "Sidemail.io",
+  "description": "Integrates with Sidemail.io email service to send emails through a simple API interface for automated notifications,...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Jul 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/sidemail",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:02.958482",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "chulanpro5-evm-blockchain-bridge",
+  "name": "EVM Blockchain Bridge",
+  "provider": "Etheral",
+  "description": "Provides a bridge to Ethereum Virtual Machine (EVM) compatible blockchains, enabling wallet management, blockchain...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/chulanpro5-evm-blockchain-bridge",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:12.196272",
+  "metadata": {}
+}

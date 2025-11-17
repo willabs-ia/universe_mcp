@@ -1,0 +1,16 @@
+{
+  "id": "robertoamoreno-couchdb",
+  "name": "CouchDB",
+  "provider": "Roberto A. Moreno",
+  "description": "Integrates with CouchDB to enable database management, document operations, and Mango queries for applications...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/robertoamoreno-couchdb",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:04.136438",
+  "metadata": {}
+}

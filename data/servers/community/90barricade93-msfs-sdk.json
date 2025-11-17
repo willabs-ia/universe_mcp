@@ -1,0 +1,16 @@
+{
+  "id": "90barricade93-msfs-sdk",
+  "name": "Microsoft Flight Simulator SDK",
+  "provider": "90barricade93",
+  "description": "Provides TypeScript-based access to Microsoft Flight Simulator SDK documentation through web scraping and natural...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/90barricade93-msfs-sdk",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:07.194633",
+  "metadata": {}
+}

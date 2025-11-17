@@ -1,0 +1,16 @@
+{
+  "id": "lucas-deangelis-arangodb",
+  "name": "ArangoDB",
+  "provider": "Lucas DE ANGELIS",
+  "description": "Integrates ArangoDB databases into workflows, enabling dynamic querying and analysis of document-oriented and graph...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/lucas-deangelis-arangodb",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:46.401380",
+  "metadata": {}
+}

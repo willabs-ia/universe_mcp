@@ -1,0 +1,16 @@
+{
+  "id": "upamune-human",
+  "name": "Human MCP",
+  "provider": "upamune",
+  "description": "Human-in-the-loop server that routes AI assistant requests to a human operator through a Streamlit UI, enabling...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/upamune-human",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:10.309413",
+  "metadata": {}
+}

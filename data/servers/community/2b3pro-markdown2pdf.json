@@ -1,0 +1,16 @@
+{
+  "id": "2b3pro-markdown2pdf",
+  "name": "Markdown to PDF",
+  "provider": "Ian Shen",
+  "description": "Converts Markdown to PDF using Puppeteer, offering syntax highlighting, custom styling, and watermarking capabilities...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 23, 2024",
+  "url": "https://www.pulsemcp.com/servers/2b3pro-markdown2pdf",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:37.911931",
+  "metadata": {}
+}

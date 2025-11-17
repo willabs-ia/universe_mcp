@@ -1,0 +1,16 @@
+{
+  "id": "allaboutai-yt-gpt5",
+  "name": "GPT-5",
+  "provider": "AllAboutAI-YT",
+  "description": "Provides direct integration with OpenAI's GPT-5 API through simple prompt-based and structured conversation tools for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/allaboutai-yt-gpt5",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:11.444253",
+  "metadata": {}
+}

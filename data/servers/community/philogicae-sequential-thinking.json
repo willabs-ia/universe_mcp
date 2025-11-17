@@ -1,0 +1,19 @@
+{
+  "id": "philogicae-sequential-thinking",
+  "name": "Sequential Thinking",
+  "provider": "philogicae",
+  "description": "Provides a lightweight meta-cognition tool that enables structured, step-by-step problem-solving through thought...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 316
+  },
+  "release_date": "Aug 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/philogicae-sequential-thinking",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:31.054262",
+  "metadata": {}
+}

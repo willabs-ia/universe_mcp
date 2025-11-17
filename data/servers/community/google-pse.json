@@ -1,0 +1,19 @@
+{
+  "id": "google-pse",
+  "name": "Google Programmable Search Engine",
+  "provider": "Rendy Febry",
+  "description": "Integrates with Google Programmable Search Engine to enable web search capabilities with support for pagination,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "May 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/google-pse",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:56.912912",
+  "metadata": {}
+}

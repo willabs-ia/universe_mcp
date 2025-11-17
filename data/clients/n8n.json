@@ -1,0 +1,11 @@
+{
+  "id": "n8n",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Connect MCP servers (or generate MCP servers) from n8n nodes as you visually build workflow automations.",
+  "url": "https://www.pulsemcp.com/clients/n8n",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.368441"
+}

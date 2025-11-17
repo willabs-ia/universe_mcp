@@ -1,0 +1,19 @@
+{
+  "id": "quazaai-unity",
+  "name": "Unity",
+  "provider": "Shahzad",
+  "description": "Enables real-time interaction with Unity projects through a WebSocket-based system that retrieves scene hierarchies,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/quazaai-unity",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:50.942977",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ravenwits-arangodb",
+  "name": "ArangoDB",
+  "provider": "ravenwits",
+  "description": "Integrates with ArangoDB to enable querying, insertion, updating, and deletion of documents using parameterized AQL...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 29, 2024",
+  "url": "https://www.pulsemcp.com/servers/ravenwits-arangodb",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:40.066948",
+  "metadata": {}
+}

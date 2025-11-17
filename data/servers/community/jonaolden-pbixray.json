@@ -1,0 +1,16 @@
+{
+  "id": "jonaolden-pbixray",
+  "name": "PBIXRay",
+  "provider": "jonaolden",
+  "description": "Provides a bridge to analyze Power BI (.pbix) files through a Python-based interface, enabling data model...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/jonaolden-pbixray",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:19.260622",
+  "metadata": {}
+}

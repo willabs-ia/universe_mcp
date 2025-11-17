@@ -1,0 +1,16 @@
+{
+  "id": "ghidra",
+  "name": "Ghidra",
+  "provider": "pr0cf5",
+  "description": "Bridges Ghidra reverse engineering platform with language models through a Java plugin HTTP server and Python MCP...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/ghidra",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:22.134360",
+  "metadata": {}
+}

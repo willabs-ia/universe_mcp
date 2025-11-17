@@ -1,0 +1,16 @@
+{
+  "id": "hide-org-hide",
+  "name": "Hide (Headless IDE)",
+  "provider": "Hide",
+  "description": "Integrates Hide's capabilities to enable agentic work on code in a headless environment.",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Dec 26, 2024",
+  "url": "https://www.pulsemcp.com/servers/hide-org-hide",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:46.421725",
+  "metadata": {}
+}

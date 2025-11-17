@@ -1,0 +1,16 @@
+{
+  "id": "gfb-47-whatsapp-desktop",
+  "name": "WhatsApp Desktop",
+  "provider": "gfb-47",
+  "description": "Enables interaction with WhatsApp desktop on macOS through AppleScript automation for sending messages, checking...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/gfb-47-whatsapp-desktop",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:01.366940",
+  "metadata": {}
+}

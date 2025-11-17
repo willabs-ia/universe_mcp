@@ -1,0 +1,19 @@
+{
+  "id": "agentsphere-cloud-sandboxes",
+  "name": "Cloud Sandboxes",
+  "provider": "Agentsphere",
+  "description": "Connect to isolated cloud sandboxes - purpose-built to execute AI-generated code and handle files securely.",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 399
+  },
+  "release_date": "Aug 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/agentsphere-cloud-sandboxes",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:28.851591",
+  "metadata": {}
+}

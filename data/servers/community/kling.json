@@ -1,0 +1,16 @@
+{
+  "id": "kling",
+  "name": "Kling AI",
+  "provider": "Boris Djordjevic",
+  "description": "Integrates with Kling AI's video and image generation APIs to create high-quality videos from text prompts, convert...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/kling",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:02.973608",
+  "metadata": {}
+}

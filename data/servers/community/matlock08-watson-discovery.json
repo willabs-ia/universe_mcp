@@ -1,0 +1,16 @@
+{
+  "id": "matlock08-watson-discovery",
+  "name": "Watson Discovery",
+  "provider": "matlock08",
+  "description": "Integrates with IBM Watson Discovery to search and retrieve information from enterprise knowledge bases and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/matlock08-watson-discovery",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:10.029590",
+  "metadata": {}
+}

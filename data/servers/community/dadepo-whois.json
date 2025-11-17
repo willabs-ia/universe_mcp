@@ -1,0 +1,16 @@
+{
+  "id": "dadepo-whois",
+  "name": "WHOIS",
+  "provider": "dadepo",
+  "description": "Provides network information lookup through WHOIS and RIR database queries across RIPE NCC and ARIN regions, enabling...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/dadepo-whois",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:26.676568",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "btafoya-spamassassin",
+  "name": "SpamAssassin",
+  "provider": "btafoya",
+  "description": "Integrates with SpamAssassin spam detection engine to provide email security analysis tools for scanning content,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/btafoya-spamassassin",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:22.097264",
+  "metadata": {}
+}

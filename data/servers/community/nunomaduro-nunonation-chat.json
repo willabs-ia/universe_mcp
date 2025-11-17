@@ -1,0 +1,16 @@
+{
+  "id": "nunomaduro-nunonation-chat",
+  "name": "Nuno Nation Chat",
+  "provider": "Nuno Maduro",
+  "description": "Laravel-based chat system that stores messages in SQLite with user identity validation, preventing generic names and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/nunomaduro-nunonation-chat",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:28.878851",
+  "metadata": {}
+}

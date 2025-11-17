@@ -1,0 +1,19 @@
+{
+  "id": "coleam00-postgresql-github-oauth",
+  "name": "PostgreSQL with GitHub OAuth",
+  "provider": "Cole Medin",
+  "description": "Provides secure PostgreSQL database access with GitHub OAuth authentication, enabling read-only operations for all...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 553
+  },
+  "release_date": "Jul 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/coleam00-postgresql-github-oauth",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:24.642803",
+  "metadata": {}
+}

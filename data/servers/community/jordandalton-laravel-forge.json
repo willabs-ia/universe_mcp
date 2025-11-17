@@ -1,0 +1,16 @@
+{
+  "id": "jordandalton-laravel-forge",
+  "name": "Laravel Forge",
+  "provider": "Jordan Dalton",
+  "description": "Minimal Laravel Forge integration that provides a single focused tool for triggering site deployments through the...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/jordandalton-laravel-forge",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:05.081423",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "yamanoku-baseline-web-compatibility",
+  "name": "Baseline (Web Platform Compatibility)",
+  "provider": "yamanoku",
+  "description": "Provides real-time browser compatibility status for Web Platform APIs by connecting to the WebStatus API, helping web...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/yamanoku-baseline-web-compatibility",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:17.124470",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ebowwa-xcode",
+  "name": "Xcode",
+  "provider": "ebowwa",
+  "description": "Integrates with Xcode development tools to execute xcodebuild commands, manage iOS/macOS simulators, and perform...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/ebowwa-xcode",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:13.568501",
+  "metadata": {}
+}

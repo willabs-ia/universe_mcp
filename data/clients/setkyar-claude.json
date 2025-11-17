@@ -1,0 +1,11 @@
+{
+  "id": "setkyar-claude",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Streamlit-based client for connecting to MCP servers, interacting with tools, and engaging in conversations with an AI assistant via the Anthropic API.",
+  "url": "https://www.pulsemcp.com/clients/setkyar-claude",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.518528"
+}

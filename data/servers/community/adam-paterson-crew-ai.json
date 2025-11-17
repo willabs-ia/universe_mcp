@@ -1,0 +1,16 @@
+{
+  "id": "adam-paterson-crew-ai",
+  "name": "CrewAI Workflow",
+  "provider": "Adam Paterson",
+  "description": "Lightweight Python server for dynamically loading CrewAI multi-agent workflows from YAML configurations, enabling...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/adam-paterson-crew-ai",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:59.242125",
+  "metadata": {}
+}

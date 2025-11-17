@@ -1,0 +1,19 @@
+{
+  "id": "cognitive-stack-hermes-search",
+  "name": "Hermes Search (Azure Cognitive Search)",
+  "provider": "Cognitive Stack",
+  "description": "Provides a bridge to Azure Cognitive Search for executing search queries, indexing documents, and managing search...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 9
+  },
+  "release_date": "Apr 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/cognitive-stack-hermes-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:37.113496",
+  "metadata": {}
+}

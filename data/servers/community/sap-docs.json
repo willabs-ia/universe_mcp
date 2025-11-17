@@ -1,0 +1,19 @@
+{
+  "id": "sap-docs",
+  "name": "SAP Docs",
+  "provider": "marianfoo",
+  "description": "Provides offline access to SAP documentation and community content with searchable indexes across SAPUI5, CAP,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "Jun 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/sap-docs",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:35.921265",
+  "metadata": {}
+}

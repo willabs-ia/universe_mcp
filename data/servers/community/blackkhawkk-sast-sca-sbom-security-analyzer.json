@@ -1,0 +1,16 @@
+{
+  "id": "blackkhawkk-sast-sca-sbom-security-analyzer",
+  "name": "SAST SCA SBOM Security Analyzer",
+  "provider": "blackkhawkk",
+  "description": "Provides enterprise-grade security analysis through SAST, SCA, SBOM generation, and vulnerability scanning with Snyk...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/blackkhawkk-sast-sca-sbom-security-analyzer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:58.331130",
+  "metadata": {}
+}

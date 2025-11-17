@@ -1,0 +1,16 @@
+{
+  "id": "any4ai-anycrawl",
+  "name": "AnyCrawl",
+  "provider": "AnyCrawl Team",
+  "description": "Integrates with the AnyCrawl API to provide web scraping and crawling capabilities with configurable depth limits,...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Sep 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/any4ai-anycrawl",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:26.675347",
+  "metadata": {}
+}

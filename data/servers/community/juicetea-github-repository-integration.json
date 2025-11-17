@@ -1,0 +1,16 @@
+{
+  "id": "juicetea-github-repository-integration",
+  "name": "GitHub Repository Integration",
+  "provider": "juicetea",
+  "description": "Integrates GitHub repositories with Cursor IDE, enabling direct access and interaction with GitHub content within the...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/juicetea-github-repository-integration",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:23.609214",
+  "metadata": {}
+}

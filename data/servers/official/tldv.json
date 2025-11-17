@@ -1,0 +1,16 @@
+{
+  "id": "tldv",
+  "name": "tl;dv",
+  "provider": "tldv",
+  "description": "Interact with your meeting data (to list, ask, summarize, extract - virtually anything about your meetings) across...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Apr 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/tldv",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:19.278665",
+  "metadata": {}
+}

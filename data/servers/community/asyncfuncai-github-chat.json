@@ -1,0 +1,19 @@
+{
+  "id": "asyncfuncai-github-chat",
+  "name": "GitHub Chat",
+  "provider": "AsyncFunc AI",
+  "description": "Enables AI to analyze and query GitHub repositories through a FastMCP-based interface for understanding codebases,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 216
+  },
+  "release_date": "Apr 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/asyncfuncai-github-chat",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:40.190617",
+  "metadata": {}
+}

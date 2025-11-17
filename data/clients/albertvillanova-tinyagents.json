@@ -1,0 +1,11 @@
+{
+  "id": "albertvillanova-tinyagents",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Minimalist framework for building LLM-powered agents that use external tools through Python or JavaScript servers with Qwen2.5-Coder-32B-Instruct model.",
+  "url": "https://www.pulsemcp.com/clients/albertvillanova-tinyagents",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.410599"
+}

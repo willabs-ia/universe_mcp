@@ -1,0 +1,16 @@
+{
+  "id": "truss44-crypto-price-coincap",
+  "name": "Crypto Price (CoinCap)",
+  "provider": "Tracey Russell",
+  "description": "Integrates with CoinCap's API to provide real-time cryptocurrency data, enabling price tracking, market analysis, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/truss44-crypto-price-coincap",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:01.627399",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "zencoderai-slack",
+  "name": "Slack",
+  "provider": "Zencoder AI",
+  "description": "Integrates with Slack workspaces to enable complete messaging operations including channel management, message...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 261
+  },
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/zencoderai-slack",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:38.059334",
+  "metadata": {}
+}

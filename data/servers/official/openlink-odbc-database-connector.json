@@ -1,0 +1,16 @@
+{
+  "id": "openlink-odbc-database-connector",
+  "name": "ODBC Database Connector",
+  "provider": "OpenLink Software",
+  "description": "Connects AI systems to relational databases through ODBC, enabling SQL, SPARQL, and hybrid SpaSQLqueries for data...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Mar 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/openlink-odbc-database-connector",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:27.997747",
+  "metadata": {}
+}

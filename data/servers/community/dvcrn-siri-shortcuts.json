@@ -1,0 +1,19 @@
+{
+  "id": "dvcrn-siri-shortcuts",
+  "name": "Siri Shortcuts",
+  "provider": "David Mohl",
+  "description": "Integrates with macOS Shortcuts to dynamically expose and execute user-defined automation workflows through generated...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 40
+  },
+  "release_date": "Feb 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/dvcrn-siri-shortcuts",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:17.119537",
+  "metadata": {}
+}

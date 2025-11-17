@@ -1,0 +1,19 @@
+{
+  "id": "jonrad-tmux",
+  "name": "Tmux",
+  "provider": "Jon Rad",
+  "description": "Provides control over tmux sessions by leveraging libtmux to execute commands through a simple interface, enabling...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Feb 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/jonrad-tmux",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:46.641049",
+  "metadata": {}
+}

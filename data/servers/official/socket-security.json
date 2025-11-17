@@ -1,0 +1,19 @@
+{
+  "id": "socket-security",
+  "name": "Socket Security",
+  "provider": "Socket Inc",
+  "description": "Integrates with Socket's dependency security API to analyze npm and PyPI packages, returning detailed security and...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 83
+  },
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/socket-security",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:10.514211",
+  "metadata": {}
+}

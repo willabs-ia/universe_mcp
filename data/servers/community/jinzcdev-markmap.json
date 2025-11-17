@@ -1,0 +1,19 @@
+{
+  "id": "jinzcdev-markmap",
+  "name": "Markmap",
+  "provider": "jinzcdev",
+  "description": "Transforms Markdown documents into interactive mind maps with zooming, node expansion/collapse, and multi-format...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 65
+  },
+  "release_date": "May 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/jinzcdev-markmap",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:12.780323",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "baranwang-tung-shing-calendar",
+  "name": "Tung Shing Calendar",
+  "provider": "Baran Wang",
+  "description": "Provides cross-calendar date parsing, formatting, and manipulation for Gregorian and lunar calendars.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/baranwang-tung-shing-calendar",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:50.812043",
+  "metadata": {}
+}

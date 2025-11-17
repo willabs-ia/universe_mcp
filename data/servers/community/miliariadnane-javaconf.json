@@ -1,0 +1,16 @@
+{
+  "id": "miliariadnane-javaconf",
+  "name": "Java Conferences",
+  "provider": "Nane Miliari",
+  "description": "Provides access to Java conference information by parsing GitHub-hosted markdown files, enabling filtering by year to...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/miliariadnane-javaconf",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:23.746966",
+  "metadata": {}
+}

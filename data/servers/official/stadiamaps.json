@@ -1,0 +1,16 @@
+{
+  "id": "stadiamaps",
+  "name": "Stadia Maps",
+  "provider": "Stadia Maps",
+  "description": "Integrates with Stadia Maps API to provide geocoding, routing, isochrone analysis, timezone lookups, and static map...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Aug 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/stadiamaps",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:09.322448",
+  "metadata": {}
+}

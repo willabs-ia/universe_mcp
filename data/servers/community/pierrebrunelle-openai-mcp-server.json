@@ -1,0 +1,16 @@
+{
+  "id": "pierrebrunelle-openai-mcp-server",
+  "name": "OpenAI",
+  "provider": "Pierre Brunelle",
+  "description": "Leverage OpenAI's language models through a standardized interface.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Nov 28, 2024",
+  "url": "https://www.pulsemcp.com/servers/pierrebrunelle-openai-mcp-server",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:31.491100",
+  "metadata": {}
+}

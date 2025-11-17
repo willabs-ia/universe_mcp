@@ -1,0 +1,19 @@
+{
+  "id": "korigamik-markitdown",
+  "name": "MarkItDown",
+  "provider": "KorigamiK",
+  "description": "Converts diverse file formats to Markdown using MarkItDown utility, enabling unified text-based workflows for content...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jan 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/korigamik-markitdown",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:46.617467",
+  "metadata": {}
+}

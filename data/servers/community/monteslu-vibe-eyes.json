@@ -1,0 +1,16 @@
+{
+  "id": "monteslu-vibe-eyes",
+  "name": "Vibe-Eyes",
+  "provider": "Luis Montes",
+  "description": "Enables LLMs to visualize and debug browser-based games and applications by capturing canvas content, console logs,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/monteslu-vibe-eyes",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:44.171454",
+  "metadata": {}
+}

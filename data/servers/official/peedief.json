@@ -1,0 +1,16 @@
+{
+  "id": "peedief",
+  "name": "Peedief",
+  "provider": "Peedief",
+  "description": "Template-to-PDF service that converts predefined templates with structured data into formatted documents like...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Jul 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/peedief",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:25.026047",
+  "metadata": {}
+}

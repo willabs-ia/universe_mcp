@@ -1,0 +1,16 @@
+{
+  "id": "gtokai-continuo-memory",
+  "name": "Continuo Memory",
+  "provider": "D.D. & Gustavo Porto",
+  "description": "Provides hierarchical memory storage with three-tier compression (chunks, micro-summaries, meta-summaries) and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/gtokai-continuo-memory",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:35.330448",
+  "metadata": {}
+}

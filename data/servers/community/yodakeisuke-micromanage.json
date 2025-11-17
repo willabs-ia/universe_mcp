@@ -1,0 +1,19 @@
+{
+  "id": "yodakeisuke-micromanage",
+  "name": "MicroManage (Task Flowchart Visualizer)",
+  "provider": "Yoda Keisuke",
+  "description": "Task management system that visualizes development work as interactive flowcharts, enabling structured breakdown of...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 7
+  },
+  "release_date": "Mar 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/yodakeisuke-micromanage",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:39.342372",
+  "metadata": {}
+}

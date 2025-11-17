@@ -1,0 +1,19 @@
+{
+  "id": "characat0-databricks",
+  "name": "Databricks",
+  "provider": "Marco Vela",
+  "description": "Provides a bridge between AI and Databricks workspaces, enabling interaction with data catalogs, schemas, tables, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 8
+  },
+  "release_date": "Apr 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/characat0-databricks",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:39.302087",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "mikechao-brave-search",
+  "name": "Brave Search",
+  "provider": "Mike Chao",
+  "description": "Provides a bridge to the Brave Search API for performing web, image, video, news, and local business searches with...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 50
+  },
+  "release_date": "Apr 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/mikechao-brave-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:14.966101",
+  "metadata": {}
+}

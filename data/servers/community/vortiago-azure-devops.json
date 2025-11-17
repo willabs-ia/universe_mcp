@@ -1,0 +1,19 @@
+{
+  "id": "vortiago-azure-devops",
+  "name": "Azure DevOps",
+  "provider": "Vortiago",
+  "description": "Integrates with Azure DevOps services to enable natural language interactions for querying work items, retrieving...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 74
+  },
+  "release_date": "Mar 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/vortiago-azure-devops",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:10.545921",
+  "metadata": {}
+}

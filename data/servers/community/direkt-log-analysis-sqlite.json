@@ -1,0 +1,16 @@
+{
+  "id": "direkt-log-analysis-sqlite",
+  "name": "Log Analysis SQLite",
+  "provider": "direkt",
+  "description": "Transforms compressed log files into a queryable SQLite database with tables for logs, stack traces, and errors,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/direkt-log-analysis-sqlite",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:05.801805",
+  "metadata": {}
+}

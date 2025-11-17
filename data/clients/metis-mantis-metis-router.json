@@ -1,0 +1,11 @@
+{
+  "id": "metis-mantis-metis-router",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Intelligent MCP router and web-based client that aggregates multiple MCP servers through a unified proxy interface, enabling seamless access to distributed tools and resources via conversational chat with automatic discovery and session management.",
+  "url": "https://www.pulsemcp.com/clients/metis-mantis-metis-router",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.412245"
+}

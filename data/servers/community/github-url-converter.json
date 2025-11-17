@@ -1,0 +1,16 @@
+{
+  "id": "github-url-converter",
+  "name": "GitHub URL Converter",
+  "provider": "kongyo2",
+  "description": "Converts and validates GitHub URLs between different formats including standard repository URLs, raw file URLs, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/github-url-converter",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:17.832382",
+  "metadata": {}
+}

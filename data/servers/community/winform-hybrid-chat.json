@@ -1,0 +1,16 @@
+{
+  "id": "winform-hybrid-chat",
+  "name": "WinForm Hybrid Chat",
+  "provider": "icyhy",
+  "description": "Provides a hybrid desktop-web chat interface that combines Windows Forms GUI with embedded ASP.NET Core web server,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/winform-hybrid-chat",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:28.801721",
+  "metadata": {}
+}

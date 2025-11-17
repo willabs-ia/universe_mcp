@@ -1,0 +1,16 @@
+{
+  "id": "novu",
+  "name": "Novu",
+  "provider": "Novu",
+  "description": "Integrates with Novu's notification infrastructure to enable subscriber management, notification triggering, and...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Feb 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/novu",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:59.311955",
+  "metadata": {}
+}

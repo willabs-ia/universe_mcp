@@ -1,0 +1,16 @@
+{
+  "id": "alexleventer-marketo-forms",
+  "name": "Marketo Forms",
+  "provider": "Alex Leventer",
+  "description": "Provides a bridge between Marketo's REST API and form management operations, enabling marketing teams to retrieve,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/alexleventer-marketo-forms",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:34.391533",
+  "metadata": {}
+}

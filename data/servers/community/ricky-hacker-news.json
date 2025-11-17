@@ -1,0 +1,19 @@
+{
+  "id": "ricky-hacker-news",
+  "name": "Hacker News",
+  "provider": "Ricky",
+  "description": "Integrates with Hacker News to fetch stories, comments, and user data, enabling tech news aggregation, trend...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 221
+  },
+  "release_date": "Dec 29, 2024",
+  "url": "https://www.pulsemcp.com/servers/ricky-hacker-news",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:40.187963",
+  "metadata": {}
+}

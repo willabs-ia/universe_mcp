@@ -1,0 +1,11 @@
+{
+  "id": "adamholsinger-claude-agent",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Turn Claude into an agent to perform long-running workflows using MCP servers. Open source.",
+  "url": "https://www.pulsemcp.com/clients/adamholsinger-claude-agent",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.482758"
+}

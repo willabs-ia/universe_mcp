@@ -1,0 +1,16 @@
+{
+  "id": "jbrower95-image-generator",
+  "name": "Image Generator (OpenAI)",
+  "provider": "Jay Brower",
+  "description": "Enables image generation from text prompts via OpenAI's API, returning the created image saved to a specified file path",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/jbrower95-image-generator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:30.128310",
+  "metadata": {}
+}

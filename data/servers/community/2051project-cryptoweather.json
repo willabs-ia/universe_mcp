@@ -1,0 +1,16 @@
+{
+  "id": "2051project-cryptoweather",
+  "name": "CryptoWeather",
+  "provider": "CryptoWeather Team",
+  "description": "Integrates with CryptoWeather's Bitcoin price prediction API to provide current trading signals, performance metrics,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/2051project-cryptoweather",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:56.228381",
+  "metadata": {}
+}

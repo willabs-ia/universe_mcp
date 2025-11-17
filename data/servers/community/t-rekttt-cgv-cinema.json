@@ -1,0 +1,16 @@
+{
+  "id": "t-rekttt-cgv-cinema",
+  "name": "CGV Cinema",
+  "provider": "t-rekttt",
+  "description": "Integrates with CGV Cinema's API to provide movie showtimes, cinema locations, and seat availability information for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/t-rekttt-cgv-cinema",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:07.886304",
+  "metadata": {}
+}

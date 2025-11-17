@@ -1,0 +1,16 @@
+{
+  "id": "ixe1-code-scanner",
+  "name": "Code Scanner",
+  "provider": "Ixe1",
+  "description": "Analyzes source code across multiple programming languages to extract structural information like classes, functions,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/ixe1-code-scanner",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:12.713496",
+  "metadata": {}
+}

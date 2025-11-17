@@ -1,0 +1,16 @@
+{
+  "id": "anuj0456-arxiv",
+  "name": "arXiv",
+  "provider": "Anuj",
+  "description": "Integrates with arXiv's academic paper repository to enable searching, analyzing, and managing research papers with...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/anuj0456-arxiv",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:05.058406",
+  "metadata": {}
+}

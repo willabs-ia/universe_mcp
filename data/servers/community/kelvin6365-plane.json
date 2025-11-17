@@ -1,0 +1,16 @@
+{
+  "id": "kelvin6365-plane",
+  "name": "Plane",
+  "provider": "Kelvin Kwong",
+  "description": "Integrates with Plane.so project management platform, enabling listing projects, creating and updating issues,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/kelvin6365-plane",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:41.633256",
+  "metadata": {}
+}

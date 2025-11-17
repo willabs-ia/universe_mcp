@@ -1,0 +1,19 @@
+{
+  "id": "cmann50-chrome-google-search",
+  "name": "Google Search (via Chrome)",
+  "provider": "Chris Mann",
+  "description": "Integrates Google search and webpage content extraction via Chrome browser automation, enabling access up-to-date web...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 12
+  },
+  "release_date": "Jan 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/cmann50-chrome-google-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:32.749743",
+  "metadata": {}
+}

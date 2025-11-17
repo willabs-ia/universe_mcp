@@ -1,0 +1,16 @@
+{
+  "id": "kazz187-google-spreadsheet",
+  "name": "Google Spreadsheet",
+  "provider": "Kazuki Akamine",
+  "description": "Integrates with Google Drive and Sheets to enable document management, file operations, and spreadsheet manipulation...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/kazz187-google-spreadsheet",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:25.764634",
+  "metadata": {}
+}

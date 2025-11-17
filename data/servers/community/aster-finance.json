@@ -1,0 +1,16 @@
+{
+  "id": "aster-finance",
+  "name": "Aster Finance",
+  "provider": "kukapay",
+  "description": "Integrates with Aster Finance API to provide cryptocurrency futures trading data including kline charts, price...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/aster-finance",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:09.324191",
+  "metadata": {}
+}

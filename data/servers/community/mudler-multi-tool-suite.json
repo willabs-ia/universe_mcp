@@ -1,0 +1,19 @@
+{
+  "id": "mudler-multi-tool-suite",
+  "name": "Multi-Tool Suite (DuckDuckGo, Weather, Memory)",
+  "provider": "Ettore Di Giacinto",
+  "description": "Integrates with DuckDuckGo search API, goweather.xyz weather service, and file-based storage through three...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "Oct 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/mudler-multi-tool-suite",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:38.050450",
+  "metadata": {}
+}

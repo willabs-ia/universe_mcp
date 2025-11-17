@@ -1,0 +1,16 @@
+{
+  "id": "toowiredd-chatgpt-docker-manager",
+  "name": "Docker Manager",
+  "provider": "toowiredd",
+  "description": "Enables natural language-driven Docker container management, including operations, log monitoring, and command...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/toowiredd-chatgpt-docker-manager",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:59.335179",
+  "metadata": {}
+}

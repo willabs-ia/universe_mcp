@@ -1,0 +1,16 @@
+{
+  "id": "tecton-ai",
+  "name": "Tecton",
+  "provider": "Tecton",
+  "description": "Integrates with Tecton clusters to enable feature store management, workspace listing, and configuration retrieval...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Mar 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/tecton-ai",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:12.992498",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "graphlit",
+  "name": "Graphlit",
+  "provider": "Unstruk Data Inc.",
+  "description": "Integrates with the Graphlit platform to enable natural language processing tasks and data retrieval from the...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 206
+  },
+  "release_date": "Mar 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/graphlit",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:40.204905",
+  "metadata": {}
+}

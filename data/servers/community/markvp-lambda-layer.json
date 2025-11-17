@@ -1,0 +1,16 @@
+{
+  "id": "markvp-lambda-layer",
+  "name": "Lambda Layer",
+  "provider": "Mark Van Proctor",
+  "description": "Lightweight AWS Lambda layer for streaming Server-Sent Events (SSE) that simplifies creating Lambda functions with...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/markvp-lambda-layer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:52.926316",
+  "metadata": {}
+}

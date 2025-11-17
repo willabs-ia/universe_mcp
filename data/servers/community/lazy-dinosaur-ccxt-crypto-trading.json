@@ -1,0 +1,19 @@
+{
+  "id": "lazy-dinosaur-ccxt-crypto-trading",
+  "name": "CCXT Crypto Trading",
+  "provider": "LazyDino",
+  "description": "Bridges the CCXT cryptocurrency trading library with natural language interfaces, enabling monitoring, analysis, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 28
+  },
+  "release_date": "Mar 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/lazy-dinosaur-ccxt-crypto-trading",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:21.379364",
+  "metadata": {}
+}

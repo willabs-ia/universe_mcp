@@ -1,0 +1,16 @@
+{
+  "id": "mtane0412-twitch-api-integration",
+  "name": "Twitch",
+  "provider": "mtane0412",
+  "description": "Integrates with Twitch API to provide channel info, stream details, game data, user profiles, clips, chat settings,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/mtane0412-twitch-api-integration",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:57.184353",
+  "metadata": {}
+}

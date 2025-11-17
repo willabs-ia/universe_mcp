@@ -1,0 +1,11 @@
+{
+  "id": "vrknetha-langchainjs-adapters",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Integrates LangChain.js with MCP servers using stdio and SSE transports, enabling seamless tool integration for AI applications.",
+  "url": "https://www.pulsemcp.com/clients/vrknetha-langchainjs-adapters",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.393364"
+}

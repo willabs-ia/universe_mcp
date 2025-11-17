@@ -1,0 +1,19 @@
+{
+  "id": "mocksi-temporal-workflows",
+  "name": "Temporal Workflows",
+  "provider": "Mocksi",
+  "description": "Exposes Temporal workflows as tools for AI assistants, enabling organizations to leverage existing workflow...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Apr 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/mocksi-temporal-workflows",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:55.316371",
+  "metadata": {}
+}

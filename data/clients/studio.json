@@ -1,0 +1,11 @@
+{
+  "id": "studio",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Desktop application for interacting with multiple AI providers (OpenAI, Anthropic, Gemini, DeepSeek, Qwen, Ollama) through a unified interface with conversation management, real-time tool execution, and comprehensive monitoring capabilities.",
+  "url": "https://www.pulsemcp.com/clients/studio",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.513486"
+}

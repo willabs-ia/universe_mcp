@@ -1,0 +1,16 @@
+{
+  "id": "shadowk1337-csv-and-excel-processor",
+  "name": "CSV and Excel Processor",
+  "provider": "shadowk1337",
+  "description": "Integrates with Spring Boot to process CSV and Excel files, enabling data extraction and manipulation for analysis,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/shadowk1337-csv-and-excel-processor",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:10.882623",
+  "metadata": {}
+}

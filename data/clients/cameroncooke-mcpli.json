@@ -1,0 +1,11 @@
+{
+  "id": "cameroncooke-mcpli",
+  "name": "Unknown",
+  "provider": null,
+  "description": "CLI tool that transforms any MCP server into a first-class command-line application with automatic tool discovery, parameter parsing, and configurable output formatting.",
+  "url": "https://www.pulsemcp.com/clients/cameroncooke-mcpli",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.419676"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "thirdweb-ai",
+  "name": "Thirdweb",
+  "provider": "Thirdweb",
+  "description": "Read/write to over 2k blockchains, enabling data querying, contract analysis/deployment, and transaction execution,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 191
+  },
+  "release_date": "Mar 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/thirdweb-ai",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:40.216254",
+  "metadata": {}
+}

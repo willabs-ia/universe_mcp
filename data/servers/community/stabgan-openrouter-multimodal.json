@@ -1,0 +1,16 @@
+{
+  "id": "stabgan-openrouter-multimodal",
+  "name": "OpenRouter",
+  "provider": "Siddharth Agrawal",
+  "description": "Provides seamless access to OpenRouter's diverse AI models, enabling multimodal interactions across vision and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/stabgan-openrouter-multimodal",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:59.254036",
+  "metadata": {}
+}

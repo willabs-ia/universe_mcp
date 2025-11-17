@@ -1,0 +1,19 @@
+{
+  "id": "phialsbasement-cmd-mcp-server",
+  "name": "CMD Executor",
+  "provider": "PhialsBasement",
+  "description": "Cross-platform MCP server for executing command-line operations and SSH connections on Windows and Linux systems...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 4
+  },
+  "release_date": "Dec 4, 2024",
+  "url": "https://www.pulsemcp.com/servers/phialsbasement-cmd-mcp-server",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:43.653567",
+  "metadata": {}
+}

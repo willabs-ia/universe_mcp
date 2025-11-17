@@ -1,0 +1,19 @@
+{
+  "id": "sakshee5-jobapply",
+  "name": "JobApply",
+  "provider": "Sakshee5",
+  "description": "Automates job application workflows by scraping job postings, analyzing resumes against job descriptions for ATS...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "May 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/sakshee5-jobapply",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:57.430081",
+  "metadata": {}
+}

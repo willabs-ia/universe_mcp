@@ -1,0 +1,11 @@
+{
+  "id": "pickpppcc-qbittorrent",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Enables natural language interaction with qBittorrent for managing torrents through commands that connect to the client, process queries, and execute appropriate operations.",
+  "url": "https://www.pulsemcp.com/clients/pickpppcc-qbittorrent",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.467276"
+}

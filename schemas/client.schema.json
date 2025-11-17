@@ -14,11 +14,11 @@
       "description": "Client name"
     },
     "provider": {
-      "type": "string",
+      "type": ["string", "null"],
       "description": "Developer or organization name"
     },
     "description": {
-      "type": "string",
+      "type": ["string", "null"],
       "description": "Brief description of the client"
     },
     "url": {
@@ -27,7 +27,7 @@
       "description": "PulseMCP client page URL"
     },
     "source_url": {
-      "type": "string",
+      "type": ["string", "null"],
       "format": "uri",
       "description": "Source repository or download URL"
     },

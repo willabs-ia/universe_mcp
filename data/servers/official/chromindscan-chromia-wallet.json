@@ -1,0 +1,16 @@
+{
+  "id": "chromindscan-chromia-wallet",
+  "name": "Chromia Wallet",
+  "provider": "Chromindscan",
+  "description": "Integrates with the Chromia blockchain to enable cryptocurrency transactions and wallet operations for automated...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Dec 20, 2024",
+  "url": "https://www.pulsemcp.com/servers/chromindscan-chromia-wallet",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:35.768621",
+  "metadata": {}
+}

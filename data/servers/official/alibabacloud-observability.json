@@ -1,0 +1,19 @@
+{
+  "id": "alibabacloud-observability",
+  "name": "Alibaba Cloud Observability",
+  "provider": "Alibaba Cloud",
+  "description": "Integrates with Alibaba Cloud's monitoring and logging services, enabling log structure queries, log searches,...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 402
+  },
+  "release_date": "Apr 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/alibabacloud-observability",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:28.848613",
+  "metadata": {}
+}

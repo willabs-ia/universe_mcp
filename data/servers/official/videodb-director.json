@@ -1,0 +1,19 @@
+{
+  "id": "videodb-director",
+  "name": "VideoDB",
+  "provider": "VideoDB",
+  "description": "Bridges to VideoDB's video processing capabilities for searching, indexing, subtitling, and manipulating video...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 31
+  },
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/videodb-director",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:21.360251",
+  "metadata": {}
+}

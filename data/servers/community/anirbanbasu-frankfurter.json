@@ -1,0 +1,19 @@
+{
+  "id": "anirbanbasu-frankfurter",
+  "name": "Frankfurter",
+  "provider": "Anirban Basu",
+  "description": "Integrates with the Frankfurter API to provide real-time currency exchange rates, historical rate data, and currency...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 294
+  },
+  "release_date": "Jun 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/anirbanbasu-frankfurter",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:31.062966",
+  "metadata": {}
+}

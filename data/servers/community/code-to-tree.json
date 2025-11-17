@@ -1,0 +1,19 @@
+{
+  "id": "code-to-tree",
+  "name": "Code to Tree",
+  "provider": "Michael Lee",
+  "description": "Converts source code into Abstract Syntax Tree representations using tree-sitter parsers for multiple programming...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/code-to-tree",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:01.884303",
+  "metadata": {}
+}

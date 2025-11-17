@@ -1,0 +1,19 @@
+{
+  "id": "enesbol-gcp",
+  "name": "GCP",
+  "provider": "Enes Bol",
+  "description": "Enables developers to manage and interact with Google Cloud Platform resources like Compute Engine, Cloud Run,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 17
+  },
+  "release_date": "Mar 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/enesbol-gcp",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:27.996628",
+  "metadata": {}
+}

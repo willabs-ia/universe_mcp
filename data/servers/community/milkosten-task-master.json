@@ -1,0 +1,16 @@
+{
+  "id": "milkosten-task-master",
+  "name": "Task Master",
+  "provider": "Milko Sten",
+  "description": "Integrates with an external task API to provide CRUD operations for task management, enabling natural language...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/milkosten-task-master",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:10.869721",
+  "metadata": {}
+}

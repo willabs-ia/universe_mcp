@@ -1,0 +1,19 @@
+{
+  "id": "xlwings-excel",
+  "name": "xlwings Excel",
+  "provider": "hyunjae-labs",
+  "description": "Enables Excel file manipulation without Microsoft Excel installation through xlwings library, providing 30+ tools for...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 21
+  },
+  "release_date": "Aug 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/xlwings-excel",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:25.865364",
+  "metadata": {}
+}

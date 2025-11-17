@@ -1,0 +1,16 @@
+{
+  "id": "markitdown",
+  "name": "MarkItDown",
+  "provider": "Microsoft",
+  "description": "Integrates with Microsoft's MarkItDown tool to convert documents like PDFs, Word files, and PowerPoint presentations...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Sep 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/markitdown",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:29.254469",
+  "metadata": {}
+}

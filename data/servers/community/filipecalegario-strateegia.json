@@ -1,0 +1,19 @@
+{
+  "id": "filipecalegario-strateegia",
+  "name": "Strateegia",
+  "provider": "Filipe Calegario",
+  "description": "Provides a bridge to the Strateegia API, enabling quick retrieval of project workspace details through a single tool...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 15
+  },
+  "release_date": "Mar 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/filipecalegario-strateegia",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:30.150972",
+  "metadata": {}
+}

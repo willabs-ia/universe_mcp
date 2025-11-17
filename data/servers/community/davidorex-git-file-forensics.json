@@ -1,0 +1,16 @@
+{
+  "id": "davidorex-git-file-forensics",
+  "name": "Git File Forensics",
+  "provider": "David Orex",
+  "description": "Provides deep git file-level forensics capabilities for tracking versions, analyzing diffs, examining commit...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/davidorex-git-file-forensics",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:03.312723",
+  "metadata": {}
+}

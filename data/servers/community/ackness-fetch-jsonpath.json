@@ -1,0 +1,19 @@
+{
+  "id": "ackness-fetch-jsonpath",
+  "name": "Fetch JSONPath",
+  "provider": "ackness",
+  "description": "Fetches and extracts data from HTTP endpoints using JSONPath patterns with support for batch processing, custom...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 73
+  },
+  "release_date": "Aug 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/ackness-fetch-jsonpath",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:10.550126",
+  "metadata": {}
+}

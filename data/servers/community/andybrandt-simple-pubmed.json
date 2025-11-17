@@ -1,0 +1,19 @@
+{
+  "id": "andybrandt-simple-pubmed",
+  "name": "Simple PubMed",
+  "provider": "Andy Brandt",
+  "description": "Access PubMed's medical research database via the Entrez API for biomedical literature search and analysis.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 95
+  },
+  "release_date": "Dec 11, 2024",
+  "url": "https://www.pulsemcp.com/servers/andybrandt-simple-pubmed",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:08.391801",
+  "metadata": {}
+}

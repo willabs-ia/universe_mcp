@@ -1,0 +1,16 @@
+{
+  "id": "nih-reporter",
+  "name": "NIH RePORTER",
+  "provider": "John Damask",
+  "description": "Provides a conversational interface to the NIH's research database, enabling users to search for funded projects and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/nih-reporter",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:12.172410",
+  "metadata": {}
+}

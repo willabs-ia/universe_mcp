@@ -1,0 +1,16 @@
+{
+  "id": "highlight-github-pull-request-diff",
+  "name": "GitHub PR Diff",
+  "provider": "Highlight",
+  "description": "Integrates with GitHub's Pull Request API to extract diff content, enabling automated code review and analysis...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/highlight-github-pull-request-diff",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:55.060915",
+  "metadata": {}
+}

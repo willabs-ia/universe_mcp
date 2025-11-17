@@ -1,0 +1,16 @@
+{
+  "id": "shinkeonkim-e-gonghun",
+  "name": "E-Gonghun (Korean Military Service Records)",
+  "provider": "Shinkeon Kim",
+  "description": "Provides a bridge to the Korean military service records API for retrieving and verifying service history information...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/shinkeonkim-e-gonghun",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:18.529633",
+  "metadata": {}
+}

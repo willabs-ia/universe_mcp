@@ -1,0 +1,16 @@
+{
+  "id": "cwahlfeldt-blender",
+  "name": "Blender",
+  "provider": "Christopher Wahlfeldt",
+  "description": "Integrates with Blender's Python API to enable natural language-driven 3D modeling, scene generation, and animation...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/cwahlfeldt-blender",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:08.611595",
+  "metadata": {}
+}

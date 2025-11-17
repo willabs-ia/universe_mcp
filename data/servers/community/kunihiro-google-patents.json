@@ -1,0 +1,19 @@
+{
+  "id": "kunihiro-google-patents",
+  "name": "Google Patents (SerpAPI)",
+  "provider": "Kunihiro Setogawa",
+  "description": "Search Google Patents using the SerpAPI.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 16
+  },
+  "release_date": "Apr 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/kunihiro-google-patents",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:28.018959",
+  "metadata": {}
+}

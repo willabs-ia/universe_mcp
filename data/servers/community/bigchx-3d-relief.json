@@ -1,0 +1,16 @@
+{
+  "id": "bigchx-3d-relief",
+  "name": "3D Relief Generator",
+  "provider": "Bigchx",
+  "description": "Converts 2D images into 3D relief STL files for 3D printing by generating depth maps from brightness values and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/bigchx-3d-relief",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:15.734534",
+  "metadata": {}
+}

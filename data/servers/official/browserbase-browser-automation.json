@@ -1,0 +1,16 @@
+{
+  "id": "browserbase-browser-automation",
+  "name": "Browserbase (Browser Automation)",
+  "provider": "Browserbase",
+  "description": "Provides browser automation through dual servers: Browserbase for direct browser control and Stagehand for natural...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/browserbase-browser-automation",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:18.551416",
+  "metadata": {}
+}

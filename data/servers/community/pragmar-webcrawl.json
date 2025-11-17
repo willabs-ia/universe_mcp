@@ -1,0 +1,19 @@
+{
+  "id": "pragmar-webcrawl",
+  "name": "Web Crawler Data Bridge",
+  "provider": "Ben Caulfield",
+  "description": "Advanced search and retrieval for web crawler data. Supports WARC, wget, Katana, SiteOne, and InterroBot crawlers.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 266
+  },
+  "release_date": "Jun 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/pragmar-webcrawl",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:38.056919",
+  "metadata": {}
+}

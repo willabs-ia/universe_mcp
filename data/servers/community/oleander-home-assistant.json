@@ -1,0 +1,16 @@
+{
+  "id": "oleander-home-assistant",
+  "name": "Home Assistant",
+  "provider": "Linus Oleander",
+  "description": "Enables natural language control of Home Assistant smart home systems with tools for querying entity states,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/oleander-home-assistant",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:50.781616",
+  "metadata": {}
+}

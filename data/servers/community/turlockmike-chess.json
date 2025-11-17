@@ -1,0 +1,16 @@
+{
+  "id": "turlockmike-chess",
+  "name": "Chess",
+  "provider": "Michael Darmousseh",
+  "description": "Integrates with chess engines and libraries to provide game analysis, move generation, and position evaluation for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 21, 2024",
+  "url": "https://www.pulsemcp.com/servers/turlockmike-chess",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:37.879569",
+  "metadata": {}
+}

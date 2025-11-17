@@ -1,0 +1,16 @@
+{
+  "id": "rae-dictionary",
+  "name": "RAE Dictionary",
+  "provider": "rae-api-com",
+  "description": "Integrates with the Royal Spanish Academy (RAE) dictionary to provide authoritative Spanish word definitions, daily...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/rae-dictionary",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:19.912979",
+  "metadata": {}
+}

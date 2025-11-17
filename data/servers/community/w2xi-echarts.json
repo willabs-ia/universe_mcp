@@ -1,0 +1,19 @@
+{
+  "id": "w2xi-echarts",
+  "name": "ECharts",
+  "provider": "w2xi",
+  "description": "Generates ECharts visualizations as PNG images from JavaScript configuration objects, processing chart dimensions and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Jul 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/w2xi-echarts",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:56.930794",
+  "metadata": {}
+}

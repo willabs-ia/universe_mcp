@@ -1,0 +1,16 @@
+{
+  "id": "aio-2030-siliconflow-voice-transcription",
+  "name": "SiliconFlow Voice Transcription",
+  "provider": "AIO-2030",
+  "description": "Provides voice transcription capabilities by processing audio files with the FunAudioLLM/SenseVoiceSmall model,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/aio-2030-siliconflow-voice-transcription",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:38.987679",
+  "metadata": {}
+}

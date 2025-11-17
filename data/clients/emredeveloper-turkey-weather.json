@@ -1,0 +1,11 @@
+{
+  "id": "emredeveloper-turkey-weather",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Provides real-time weather data and forecasts for locations in Turkey through the OpenWeatherMap API with Turkish language support.",
+  "url": "https://www.pulsemcp.com/clients/emredeveloper-turkey-weather",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.527578"
+}

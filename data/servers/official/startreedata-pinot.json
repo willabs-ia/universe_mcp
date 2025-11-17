@@ -1,0 +1,19 @@
+{
+  "id": "startreedata-pinot",
+  "name": "Apache Pinot",
+  "provider": "StarTree",
+  "description": "Integrates with Apache Pinot to enable real-time analytics queries through SQL execution, table schema inspection,...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 12
+  },
+  "release_date": "Jun 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/startreedata-pinot",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:32.777341",
+  "metadata": {}
+}

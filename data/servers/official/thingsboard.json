@@ -1,0 +1,16 @@
+{
+  "id": "thingsboard",
+  "name": "ThingsBoard",
+  "provider": "ThingsBoard",
+  "description": "Integrates with ThingsBoard IoT platform to manage devices, assets, customers, users, alarms, and telemetry data with...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Jan 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/thingsboard",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:13.541149",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "sleekbeat-keyvault-pro",
+  "name": "KeyVault Pro",
+  "provider": "SleekBeat",
+  "description": "Provides secure encrypted storage and intelligent auto-fill for API keys across development environments through...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Oct 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/sleekbeat-keyvault-pro",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:04.067375",
+  "metadata": {}
+}

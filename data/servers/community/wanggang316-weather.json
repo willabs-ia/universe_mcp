@@ -1,0 +1,16 @@
+{
+  "id": "wanggang316-weather",
+  "name": "Weather API",
+  "provider": "Gang Wang",
+  "description": "Integrates with weather data APIs to provide real-time conditions and forecasts for location-based decision making,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/wanggang316-weather",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:10.042077",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "tackana-haoka-api",
+  "name": "Haoka API",
+  "provider": "TacKana",
+  "description": "Integrates with the Haoka API to provide authenticated access to Haoka's data and services through HTTP requests with...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/tackana-haoka-api",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:22.147509",
+  "metadata": {}
+}

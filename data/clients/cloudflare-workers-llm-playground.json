@@ -1,0 +1,11 @@
+{
+  "id": "cloudflare-workers-llm-playground",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Remote MCP server playground with chat.",
+  "url": "https://www.pulsemcp.com/clients/cloudflare-workers-llm-playground",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.366671"
+}

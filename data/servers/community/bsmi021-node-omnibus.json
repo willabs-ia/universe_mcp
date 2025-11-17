@@ -1,0 +1,16 @@
+{
+  "id": "bsmi021-node-omnibus",
+  "name": "Node Omnibus",
+  "provider": "Brian W. Smith",
+  "description": "Enables AI-assisted Node.js and TypeScript development optimized for popular frameworks, offering code generation,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/bsmi021-node-omnibus",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:42.192112",
+  "metadata": {}
+}

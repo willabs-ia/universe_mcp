@@ -1,0 +1,16 @@
+{
+  "id": "alexw00-artifacthub",
+  "name": "ArtifactHub",
+  "provider": "Alex Wollert",
+  "description": "Provides a bridge to Artifact Hub's Helm chart repository, enabling quick retrieval, searching, and analysis of Helm...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/alexw00-artifacthub",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:34.384934",
+  "metadata": {}
+}

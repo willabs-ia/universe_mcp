@@ -1,0 +1,16 @@
+{
+  "id": "expressionsbot-windows-speech",
+  "name": "Text To Speech (Windows)",
+  "provider": "ExpressionsBot",
+  "description": "Integrates with Windows speech services to enable text-to-speech and speech-to-text capabilities using native system...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/expressionsbot-windows-speech",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:48.586735",
+  "metadata": {}
+}

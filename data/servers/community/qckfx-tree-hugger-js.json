@@ -1,0 +1,19 @@
+{
+  "id": "qckfx-tree-hugger-js",
+  "name": "Tree Hugger JS",
+  "provider": "qckfx",
+  "description": "Provides JavaScript and TypeScript code analysis through AST parsing for function extraction, scope analysis,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 13
+  },
+  "release_date": "Jun 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/qckfx-tree-hugger-js",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:32.725049",
+  "metadata": {}
+}

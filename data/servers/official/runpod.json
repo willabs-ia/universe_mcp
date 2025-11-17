@@ -1,0 +1,16 @@
+{
+  "id": "runpod",
+  "name": "RunPod",
+  "provider": "RunPod",
+  "description": "Enables programmatic control of RunPod cloud GPU resources and serverless deployments through a TypeScript interface...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Apr 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/runpod",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:19.257665",
+  "metadata": {}
+}

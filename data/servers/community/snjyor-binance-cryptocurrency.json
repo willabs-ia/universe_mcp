@@ -1,0 +1,19 @@
+{
+  "id": "snjyor-binance-cryptocurrency",
+  "name": "Binance Cryptocurrency",
+  "provider": "snjyor",
+  "description": "Integrates with Binance cryptocurrency API to provide real-time market data including prices, order books,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 14
+  },
+  "release_date": "Apr 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/snjyor-binance-cryptocurrency",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:30.175867",
+  "metadata": {}
+}

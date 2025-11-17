@@ -1,0 +1,16 @@
+{
+  "id": "restaurant-finder-preference-elicitation",
+  "name": "Restaurant Finder with Preference Elicitation",
+  "provider": "MCPJam",
+  "description": "Demonstrates preference elicitation techniques for restaurant recommendations by learning user preferences through...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/restaurant-finder-preference-elicitation",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:56.206447",
+  "metadata": {}
+}

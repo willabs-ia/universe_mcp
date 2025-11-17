@@ -1,0 +1,16 @@
+{
+  "id": "ks-gen-ai-jira",
+  "name": "Jira",
+  "provider": "KS GEN AI",
+  "description": "Integrates with Jira to enable automated ticket management, project oversight, and streamlined communication through...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/ks-gen-ai-jira",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:46.408179",
+  "metadata": {}
+}

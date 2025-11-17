@@ -1,0 +1,16 @@
+{
+  "id": "mrexodia-user-feedback",
+  "name": "User Feedback",
+  "provider": "Duncan Ogilvie",
+  "description": "Enable a human-in-the-loop workflow in tools like Cline and Cursor.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/mrexodia-user-feedback",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:39.474095",
+  "metadata": {}
+}

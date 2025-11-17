@@ -1,0 +1,16 @@
+{
+  "id": "lalanikarim-systemctl",
+  "name": "Systemctl",
+  "provider": "Karim Lalani",
+  "description": "Bridges Claude with systemd services, enabling direct management of system services through a FastMCP server that...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/lalanikarim-systemctl",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:12.204872",
+  "metadata": {}
+}

@@ -1,0 +1,11 @@
+{
+  "id": "huggingface-tiny-agent",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Hugging Face client for interacting with MCP servers, providing CLI agent capabilities with filesystem and Playwright integration across multiple transport types.",
+  "url": "https://www.pulsemcp.com/clients/huggingface-tiny-agent",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.380513"
+}

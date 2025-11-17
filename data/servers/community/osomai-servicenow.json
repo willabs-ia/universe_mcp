@@ -1,0 +1,19 @@
+{
+  "id": "osomai-servicenow",
+  "name": "ServiceNow ITSM",
+  "provider": "100x Technology Inc",
+  "description": "Provides a bridge to ServiceNow ITSM functionality for managing incidents, service catalogs, change requests,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 415
+  },
+  "release_date": "Mar 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/osomai-servicenow",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:26.746186",
+  "metadata": {}
+}

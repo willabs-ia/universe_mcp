@@ -1,0 +1,19 @@
+{
+  "id": "simplemindedbot-mnemex",
+  "name": "Mnemex",
+  "provider": "simplemindedbot",
+  "description": "Human-like temporal memory for AI assistants that naturally fades over time unless reinforced through use, mimicking...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 113
+  },
+  "release_date": "Oct 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/simplemindedbot-mnemex",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:06.225873",
+  "metadata": {}
+}

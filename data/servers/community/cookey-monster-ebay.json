@@ -1,0 +1,16 @@
+{
+  "id": "cookey-monster-ebay",
+  "name": "eBay",
+  "provider": "gh-CooKey-Monster",
+  "description": "Fetch auctions from ebay.com.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/cookey-monster-ebay",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:19.333519",
+  "metadata": {}
+}

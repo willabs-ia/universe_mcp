@@ -1,0 +1,11 @@
+{
+  "id": "prakhar394-cinegraphrag-neo4j",
+  "name": "Unknown",
+  "provider": null,
+  "description": "ReAct-driven agent that performs GraphRAG over Neo4j databases, translating natural language queries to Cypher and generating movie recommendations with explainable provenance through interactive CLI discovery.",
+  "url": "https://www.pulsemcp.com/clients/prakhar394-cinegraphrag-neo4j",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.512757"
+}

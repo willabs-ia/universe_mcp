@@ -1,0 +1,16 @@
+{
+  "id": "coinbase-near-intents",
+  "name": "CrewAI (Near Intents)",
+  "provider": "Matthew Law",
+  "description": "Leverages the CrewAI framework in combination with OpenAI API to orchestrate multi-agent workflows for automated...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/coinbase-near-intents",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:55.094007",
+  "metadata": {}
+}

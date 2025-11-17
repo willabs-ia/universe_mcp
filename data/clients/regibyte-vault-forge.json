@@ -1,0 +1,11 @@
+{
+  "id": "regibyte-vault-forge",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Desktop application for managing AI conversations, MCP servers, and vaults using Electron and React, with multi-provider support and configurable server connections.",
+  "url": "https://www.pulsemcp.com/clients/regibyte-vault-forge",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.453887"
+}

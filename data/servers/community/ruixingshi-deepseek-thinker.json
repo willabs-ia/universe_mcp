@@ -1,0 +1,19 @@
+{
+  "id": "ruixingshi-deepseek-thinker",
+  "name": "DeepSeek Thinker",
+  "provider": "Ruixing Shi",
+  "description": "Integrates with DeepSeek Thinker model to enable chain-of-thought reasoning and complex problem-solving for...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 12
+  },
+  "release_date": "Feb 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/ruixingshi-deepseek-thinker",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:32.751046",
+  "metadata": {}
+}

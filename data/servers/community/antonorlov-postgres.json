@@ -1,0 +1,19 @@
+{
+  "id": "antonorlov-postgres",
+  "name": "PostgreSQL",
+  "provider": "Anton O",
+  "description": "Provides a bridge to PostgreSQL databases for executing SQL queries, managing tables, and inspecting schemas with...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 12
+  },
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/antonorlov-postgres",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:32.755223",
+  "metadata": {}
+}

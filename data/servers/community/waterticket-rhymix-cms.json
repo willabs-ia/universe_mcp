@@ -1,0 +1,16 @@
+{
+  "id": "waterticket-rhymix-cms",
+  "name": "Rhymix CMS",
+  "provider": "Waterticket",
+  "description": "Integrates with the Rhymix CMS platform to expose CMS functionality and custom business logic through streamable HTTP...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/waterticket-rhymix-cms",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:07.239471",
+  "metadata": {}
+}

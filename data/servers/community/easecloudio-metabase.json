@@ -1,0 +1,19 @@
+{
+  "id": "easecloudio-metabase",
+  "name": "Metabase",
+  "provider": "EaseCloud Technologies",
+  "description": "Integrates with Metabase business intelligence platform to provide dashboard management, query execution, database...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Aug 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/easecloudio-metabase",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:59.081438",
+  "metadata": {}
+}

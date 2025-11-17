@@ -1,0 +1,16 @@
+{
+  "id": "adx",
+  "name": "Azure Data Explorer",
+  "provider": "pab1it0",
+  "description": "Integrates with Azure Data Explorer to enable executing KQL queries, discovering database resources, exploring table...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/adx",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:17.214912",
+  "metadata": {}
+}

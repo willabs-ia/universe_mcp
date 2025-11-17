@@ -1,0 +1,11 @@
+{
+  "id": "herder-cli",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Terminal chat utility for Ollama that enables conversational interactions with tool calling capabilities through MCP server integration.",
+  "url": "https://www.pulsemcp.com/clients/herder-cli",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.511084"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "omd01-aws-ses",
+  "name": "AWS SES Email",
+  "provider": "omd01",
+  "description": "Enables direct email sending through Amazon SES with support for HTML content, CC/BCC recipients, and reply-to...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/omd01-aws-ses",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:41.597173",
+  "metadata": {}
+}

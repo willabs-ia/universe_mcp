@@ -1,0 +1,19 @@
+{
+  "id": "cabra-lat-tuya-smart-home",
+  "name": "Tuya Smart Home",
+  "provider": "Cabra Lattice",
+  "description": "Integrates with Tuya smart home devices using tinytuya, enabling control and monitoring for home automation scenarios...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 54
+  },
+  "release_date": "Feb 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/cabra-lat-tuya-smart-home",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:14.937501",
+  "metadata": {}
+}

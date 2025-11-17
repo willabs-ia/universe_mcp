@@ -1,0 +1,19 @@
+{
+  "id": "chroma-core-package-search",
+  "name": "Package Search",
+  "provider": "Chroma",
+  "description": "Provides access to versioned source code from major open-source projects including Go, Python, Rust, and LLVM through...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Sep 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/chroma-core-package-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:01.902288",
+  "metadata": {}
+}

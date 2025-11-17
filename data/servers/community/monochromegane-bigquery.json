@@ -1,0 +1,16 @@
+{
+  "id": "monochromegane-bigquery",
+  "name": "BigQuery",
+  "provider": "monochromegane",
+  "description": "Integrates with BigQuery to enable querying and retrieving table schemas from specified datasets for data analysis...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/monochromegane-bigquery",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:03.319951",
+  "metadata": {}
+}

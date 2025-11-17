@@ -1,0 +1,16 @@
+{
+  "id": "jlgrimes-pokemon-tcg",
+  "name": "Pokemon TCG Card Search",
+  "provider": "Jared Grimes",
+  "description": "Enables searching and displaying Pokemon Trading Card Game cards with rich filtering capabilities for name, type,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/jlgrimes-pokemon-tcg",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:14.944787",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "jezweb-australian-postcodes",
+  "name": "Australian Postcodes",
+  "provider": "jezweb",
+  "description": "Provides fast postcode and suburb lookup services for Australia with fuzzy matching, phonetic search, and geographic...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/jezweb-australian-postcodes",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:22.136900",
+  "metadata": {}
+}

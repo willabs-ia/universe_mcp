@@ -1,0 +1,19 @@
+{
+  "id": "dmontgomery40-3d-printer",
+  "name": "3D Printer Manager",
+  "provider": "DMontgomery40",
+  "description": "Integrates with multiple 3D printer management systems to enable remote control, file handling, and advanced STL...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Feb 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/dmontgomery40-3d-printer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:54.742159",
+  "metadata": {}
+}

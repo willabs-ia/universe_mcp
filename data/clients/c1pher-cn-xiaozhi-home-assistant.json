@@ -1,0 +1,11 @@
+{
+  "id": "c1pher-cn-xiaozhi-home-assistant",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Connects Home Assistant to Xiaozhi's service for integrating AI capabilities with smart home automation through a WebSocket connection with automatic reconnection.",
+  "url": "https://www.pulsemcp.com/clients/c1pher-cn-xiaozhi-home-assistant",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.463757"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "google-gemini-cli",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Command-line tool that connects to your tools, understands your code, and accelerates workflows using Google's Gemini models with 1M token context window for querying large codebases, generating apps from PDFs or sketches, and automating operational tasks.",
+  "url": "https://www.pulsemcp.com/clients/google-gemini-cli",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.308543"
+}

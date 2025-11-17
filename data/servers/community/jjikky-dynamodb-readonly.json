@@ -1,0 +1,19 @@
+{
+  "id": "jjikky-dynamodb-readonly",
+  "name": "DynamoDB Readonly",
+  "provider": "Yunjik Kim",
+  "description": "Provides read-only access to AWS DynamoDB databases, enabling natural language interactions for listing tables,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Mar 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/jjikky-dynamodb-readonly",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:56.883994",
+  "metadata": {}
+}

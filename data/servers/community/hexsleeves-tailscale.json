@@ -1,0 +1,19 @@
+{
+  "id": "hexsleeves-tailscale",
+  "name": "Tailscale",
+  "provider": "HexSleeves",
+  "description": "Integrates with Tailscale's CLI and REST API to provide network management capabilities including device...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jun 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/hexsleeves-tailscale",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:57.443791",
+  "metadata": {}
+}

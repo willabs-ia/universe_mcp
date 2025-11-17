@@ -1,0 +1,16 @@
+{
+  "id": "appleinmusic-baidu-search",
+  "name": "Baidu Search",
+  "provider": "appleinmusic",
+  "description": "Integrates with Baidu Search to enable web searches, result retrieval, and information extraction from China's...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/appleinmusic-baidu-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:44.156471",
+  "metadata": {}
+}

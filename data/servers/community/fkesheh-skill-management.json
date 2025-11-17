@@ -1,0 +1,19 @@
+{
+  "id": "fkesheh-skill-management",
+  "name": "Skill Management",
+  "provider": "Foad K",
+  "description": "Organizes and executes reusable automation scripts with structured metadata, environment variable management, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 70
+  },
+  "release_date": "Oct 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/fkesheh-skill-management",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:10.560828",
+  "metadata": {}
+}

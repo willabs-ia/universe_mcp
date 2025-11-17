@@ -1,0 +1,16 @@
+{
+  "id": "iris-networks-terminal",
+  "name": "Terminal",
+  "provider": "iris-networks",
+  "description": "Provides secure terminal command execution through both isolated commands and persistent shell sessions that maintain...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/iris-networks-terminal",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:58.313791",
+  "metadata": {}
+}

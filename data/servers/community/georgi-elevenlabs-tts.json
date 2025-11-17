@@ -1,0 +1,16 @@
+{
+  "id": "georgi-elevenlabs-tts",
+  "name": "ElevenLabs Text-to-Speech",
+  "provider": "Sebastian Georgi",
+  "description": "Integrates ElevenLabs' text-to-speech capabilities for high-quality, customizable voice output in interactions,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/georgi-elevenlabs-tts",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:04.164011",
+  "metadata": {}
+}

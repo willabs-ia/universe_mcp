@@ -1,0 +1,19 @@
+{
+  "id": "spathodea-network-opencti",
+  "name": "OpenCTI",
+  "provider": "Spathodea Network",
+  "description": "Integrates with OpenCTI to query and manipulate threat intelligence data, enabling automated analysis and enrichment...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Dec 29, 2024",
+  "url": "https://www.pulsemcp.com/servers/spathodea-network-opencti",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:44.486670",
+  "metadata": {}
+}

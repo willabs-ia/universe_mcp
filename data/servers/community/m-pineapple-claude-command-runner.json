@@ -1,0 +1,19 @@
+{
+  "id": "m-pineapple-claude-command-runner",
+  "name": "Claude Command Runner",
+  "provider": "M-Pineapple",
+  "description": "Provides terminal command execution and management capabilities for macOS, bridging with terminal applications like...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jun 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/m-pineapple-claude-command-runner",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:59.583678",
+  "metadata": {}
+}

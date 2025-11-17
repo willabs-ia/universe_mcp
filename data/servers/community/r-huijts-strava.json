@@ -1,0 +1,19 @@
+{
+  "id": "r-huijts-strava",
+  "name": "Strava",
+  "provider": "R Huijts",
+  "description": "Integrates with Strava's API to access and analyze fitness data, retrieve athlete profiles, activities, segments,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 553
+  },
+  "release_date": "Apr 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/r-huijts-strava",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:24.635020",
+  "metadata": {}
+}

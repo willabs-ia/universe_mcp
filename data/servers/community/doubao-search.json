@@ -1,0 +1,16 @@
+{
+  "id": "doubao-search",
+  "name": "Search1API",
+  "provider": "fatwang2",
+  "description": "Integrates with Search1API to enable web searches, website crawling, and content extraction with configurable...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/doubao-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:28.253885",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "jdez427-claude-ipc",
+  "name": "Claude IPC",
+  "provider": "jdez427",
+  "description": "Enables secure inter-process communication between multiple AI instances running on the same machine through TCP...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jul 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/jdez427-claude-ipc",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:59.592912",
+  "metadata": {}
+}

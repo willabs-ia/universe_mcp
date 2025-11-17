@@ -1,0 +1,16 @@
+{
+  "id": "mateicanavra-filesystem",
+  "name": "Filesystem",
+  "provider": "Matei Canavra",
+  "description": "Provides secure, permission-controlled access to local filesystems with granular controls for reading, writing,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/mateicanavra-filesystem",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:25.877549",
+  "metadata": {}
+}

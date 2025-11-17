@@ -1,0 +1,16 @@
+{
+  "id": "alexmdac-starlark",
+  "name": "Starlark",
+  "provider": "alexmdac",
+  "description": "Provides safe execution of Python-like Starlark code in a sandboxed environment with built-in mathematical functions...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/alexmdac-starlark",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:29.285284",
+  "metadata": {}
+}

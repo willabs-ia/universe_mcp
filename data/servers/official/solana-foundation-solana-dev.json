@@ -1,0 +1,19 @@
+{
+  "id": "solana-foundation-solana-dev",
+  "name": "Solana Dev",
+  "provider": "Solana Foundation",
+  "description": "Integrates with Solana blockchain to provide direct access to account data, transaction details, and network...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/solana-foundation-solana-dev",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:48.793357",
+  "metadata": {}
+}

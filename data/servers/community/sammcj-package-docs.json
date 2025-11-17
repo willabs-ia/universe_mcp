@@ -1,0 +1,19 @@
+{
+  "id": "sammcj-package-docs",
+  "name": "Package Docs",
+  "provider": "Sam McLeod",
+  "description": "Provides efficient access to NPM/Go/Python package documentation through smart parsing and caching, enabling quick...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 7
+  },
+  "release_date": "Dec 29, 2024",
+  "url": "https://www.pulsemcp.com/servers/sammcj-package-docs",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:39.322770",
+  "metadata": {}
+}

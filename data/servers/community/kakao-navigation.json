@@ -1,0 +1,16 @@
+{
+  "id": "kakao-navigation",
+  "name": "Kakao Navigation",
+  "provider": "CaChiJ",
+  "description": "Integrates with Kakao Maps and Mobility APIs to enable route planning, geocoding, and location searches within Korea.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/kakao-navigation",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:10.300340",
+  "metadata": {}
+}

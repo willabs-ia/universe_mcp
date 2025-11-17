@@ -1,0 +1,19 @@
+{
+  "id": "fernforestgames-black-forest-labs",
+  "name": "Black Forest Labs",
+  "provider": "Justin Spahr-Summers",
+  "description": "Integrates with Black Forest Labs API to generate high-quality images using FLUX models with parameter control,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 7
+  },
+  "release_date": "Oct 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/fernforestgames-black-forest-labs",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:41.450198",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "mqan-routine",
+  "name": "Routine",
+  "provider": "Quan Nguyen",
+  "description": "Creates and manages reusable workflows by capturing sequences of tool calls and converting them into parameterized...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/mqan-routine",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:05.111076",
+  "metadata": {}
+}

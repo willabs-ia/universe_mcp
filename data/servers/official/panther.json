@@ -1,0 +1,19 @@
+{
+  "id": "panther",
+  "name": "Panther Labs",
+  "provider": "Panther Labs Inc",
+  "description": "Integrates with Panther Labs' cybersecurity platform to enable security alert triage, data lake querying, detection...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 176
+  },
+  "release_date": "May 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/panther",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:40.225631",
+  "metadata": {}
+}

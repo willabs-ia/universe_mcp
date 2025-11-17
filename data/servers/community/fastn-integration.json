@@ -1,0 +1,16 @@
+{
+  "id": "fastn-integration",
+  "name": "Fastn",
+  "provider": "fastn",
+  "description": "Dynamically registers and executes tools across multiple services, enabling seamless integration and real-time...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/fastn-integration",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:59.221521",
+  "metadata": {}
+}

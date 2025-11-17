@@ -1,0 +1,19 @@
+{
+  "id": "tan-yong-sheng-triliumnext-notes",
+  "name": "TriliumNext Notes",
+  "provider": "Tan Yong Sheng",
+  "description": "Integrates with TriliumNext Notes for creating, retrieving, updating, searching, and deleting notes through...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/tan-yong-sheng-triliumnext-notes",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:50.954800",
+  "metadata": {}
+}

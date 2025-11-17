@@ -1,0 +1,16 @@
+{
+  "id": "wangtsiao-weibohot",
+  "name": "Weibo Hot",
+  "provider": "Wang Tsiao",
+  "description": "Provides real-time access to Weibo trending topics through a TypeScript/Node.js server that delivers Chinese social...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/wangtsiao-weibohot",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:23.589336",
+  "metadata": {}
+}

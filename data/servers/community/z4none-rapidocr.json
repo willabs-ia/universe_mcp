@@ -1,0 +1,19 @@
+{
+  "id": "z4none-rapidocr",
+  "name": "RapidOCR",
+  "provider": "z4none",
+  "description": "Extracts text from images using RapidOCR library through base64-encoded data or file paths for automated document...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 91
+  },
+  "release_date": "Mar 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/z4none-rapidocr",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:08.404353",
+  "metadata": {}
+}

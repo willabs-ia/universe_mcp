@@ -1,0 +1,16 @@
+{
+  "id": "armanzeroeight-octopus-deploy",
+  "name": "Octopus Deploy",
+  "provider": "Arman Nourifar",
+  "description": "Integrates with Octopus Deploy to manage projects, releases, and deployments through natural language interactions,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/armanzeroeight-octopus-deploy",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:05.064044",
+  "metadata": {}
+}

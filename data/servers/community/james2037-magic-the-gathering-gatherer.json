@@ -1,0 +1,16 @@
+{
+  "id": "james2037-magic-the-gathering-gatherer",
+  "name": "Magic: The Gathering",
+  "provider": "james2037",
+  "description": "Integrates Magic: The Gathering data sources to provide unified access for card searches, rules lookup, and set...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/james2037-magic-the-gathering-gatherer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:48.552937",
+  "metadata": {}
+}

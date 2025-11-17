@@ -1,0 +1,16 @@
+{
+  "id": "modelcontextprotocol-redis",
+  "name": "Redis",
+  "provider": "Anthropic",
+  "description": "Integrates Redis to enable set/get/delete/list operations on Redis instances",
+  "classification": "reference",
+  "weekly_metric": null,
+  "release_date": "Feb 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/modelcontextprotocol-redis",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:03.318560",
+  "metadata": {}
+}

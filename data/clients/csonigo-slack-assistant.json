@@ -1,0 +1,11 @@
+{
+  "id": "csonigo-slack-assistant",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Slack bot that integrates with MCP servers to enable tool discovery, execution, and AI-powered interactions across channels and direct messages.",
+  "url": "https://www.pulsemcp.com/clients/csonigo-slack-assistant",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.431449"
+}

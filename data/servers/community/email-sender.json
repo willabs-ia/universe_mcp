@@ -1,0 +1,19 @@
+{
+  "id": "email-sender",
+  "name": "Email Sender",
+  "provider": "Tian Ming Guang",
+  "description": "Enables language models to compose and send emails with attachments through SMTP servers, supporting multiple...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 66
+  },
+  "release_date": "Mar 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/email-sender",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:12.777712",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "nsantra-rag-document-search",
+  "name": "RAG Document Search",
+  "provider": "NSANTRA",
+  "description": "Provides document embedding, semantic search, and citation generation using ChromaDB vector storage with PDF...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/nsantra-rag-document-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:37.530627",
+  "metadata": {}
+}

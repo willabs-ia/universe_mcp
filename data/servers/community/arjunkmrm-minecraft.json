@@ -1,0 +1,19 @@
+{
+  "id": "arjunkmrm-minecraft",
+  "name": "Minecraft",
+  "provider": "Arjun Kumar M",
+  "description": "Integrates with Minecraft to enable AI control and interaction within game environments for research, education, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 6
+  },
+  "release_date": "Jan 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/arjunkmrm-minecraft",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:41.453001",
+  "metadata": {}
+}

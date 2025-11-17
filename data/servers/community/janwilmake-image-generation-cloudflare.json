@@ -1,0 +1,16 @@
+{
+  "id": "janwilmake-image-generation-cloudflare",
+  "name": "Image Generation (Cloudflare)",
+  "provider": "Jan Wilmake",
+  "description": "Integrates with Cloudflare's AI image generation capabilities, leveraging Workers for serverless deployment to enable...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/janwilmake-image-generation-cloudflare",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:01.586834",
+  "metadata": {}
+}

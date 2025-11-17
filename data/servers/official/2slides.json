@@ -1,0 +1,16 @@
+{
+  "id": "2slides",
+  "name": "2slides",
+  "provider": "2slides",
+  "description": "Integrates with 2slides.com's presentation generation API to create professional slides from text descriptions with...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Sep 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/2slides",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:31.084628",
+  "metadata": {}
+}

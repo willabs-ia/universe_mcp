@@ -1,0 +1,16 @@
+{
+  "id": "cyclimse-scaleway-functions",
+  "name": "Scaleway Functions",
+  "provider": "cyclimse",
+  "description": "Integrates with Scaleway's serverless Functions platform to create, deploy, update, and manage serverless functions...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/cyclimse-scaleway-functions",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:28.883944",
+  "metadata": {}
+}

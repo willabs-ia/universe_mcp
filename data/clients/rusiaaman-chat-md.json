@@ -1,0 +1,11 @@
+{
+  "id": "rusiaaman-chat-md",
+  "name": "Unknown",
+  "provider": null,
+  "description": "VS Code extension that enables interactive conversations with any LLM directly in markdown files, supporting tool integration, image sharing, and file attachments.",
+  "url": "https://www.pulsemcp.com/clients/rusiaaman-chat-md",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.410076"
+}

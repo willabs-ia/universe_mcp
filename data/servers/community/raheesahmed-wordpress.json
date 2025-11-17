@@ -1,0 +1,19 @@
+{
+  "id": "raheesahmed-wordpress",
+  "name": "WordPress",
+  "provider": "Rahees Ahmed",
+  "description": "Integrates with WordPress REST API to provide complete site management including posts, pages, media uploads, user...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 6
+  },
+  "release_date": "Oct 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/raheesahmed-wordpress",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:41.494005",
+  "metadata": {}
+}

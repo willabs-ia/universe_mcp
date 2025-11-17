@@ -1,0 +1,19 @@
+{
+  "id": "jsonallen-perplexity",
+  "name": "Perplexity",
+  "provider": "Jason Allen",
+  "description": "Integrates with Perplexity AI API to enable web search capabilities for retrieving up-to-date information across...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 455
+  },
+  "release_date": "Dec 27, 2024",
+  "url": "https://www.pulsemcp.com/servers/jsonallen-perplexity",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:26.709246",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "michael7736-mysql",
+  "name": "MySQL Database",
+  "provider": "michael7736",
+  "description": "Provides direct access to MySQL databases for executing queries, creating tables, inserting data, and performing...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/michael7736-mysql",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:17.086765",
+  "metadata": {}
+}

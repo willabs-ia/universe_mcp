@@ -1,0 +1,16 @@
+{
+  "id": "tofunori-data-explorer",
+  "name": "Data Explorer",
+  "provider": "tofunori",
+  "description": "Enables data analysis and visualization by integrating with pandas, scikit-learn, matplotlib, and seaborn libraries...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/tofunori-data-explorer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:17.210097",
+  "metadata": {}
+}

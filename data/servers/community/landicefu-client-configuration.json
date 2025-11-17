@@ -1,0 +1,16 @@
+{
+  "id": "landicefu-client-configuration",
+  "name": "Configuration Manager",
+  "provider": "Landice Fu",
+  "description": "Manages configurations for multiple MCP clients across platforms, providing tools to retrieve, list, add, and remove...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/landicefu-client-configuration",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:10.881353",
+  "metadata": {}
+}

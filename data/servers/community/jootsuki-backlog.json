@@ -1,0 +1,16 @@
+{
+  "id": "jootsuki-backlog",
+  "name": "Backlog",
+  "provider": "jootsuki",
+  "description": "Provides a bridge to the Backlog project management API, enabling querying and manipulation of project tracking,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/jootsuki-backlog",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:57.122641",
+  "metadata": {}
+}

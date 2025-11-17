@@ -1,0 +1,16 @@
+{
+  "id": "lochgeo-kubernetes",
+  "name": "Kubernetes",
+  "provider": "Lochan",
+  "description": "Integrates with Kubernetes clusters to enable direct pod, deployment, and service management operations through...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/lochgeo-kubernetes",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:19.340872",
+  "metadata": {}
+}

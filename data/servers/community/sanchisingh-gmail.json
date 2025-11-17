@@ -1,0 +1,16 @@
+{
+  "id": "sanchisingh-gmail",
+  "name": "Gmail",
+  "provider": "Sanchi Singh",
+  "description": "Integrates with Gmail to enable reading, sending, trashing, and opening emails through OAuth 2.0 authentication for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/sanchisingh-gmail",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:14.325773",
+  "metadata": {}
+}

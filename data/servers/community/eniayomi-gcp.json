@@ -1,0 +1,19 @@
+{
+  "id": "eniayomi-gcp",
+  "name": "Google Cloud Platform",
+  "provider": "Oluwapelumi Oluwaseyi",
+  "description": "Integrates with Google Cloud Platform services, providing tools for interacting with Compute Engine, Cloud Storage,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 26
+  },
+  "release_date": "Mar 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/eniayomi-gcp",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:23.515668",
+  "metadata": {}
+}

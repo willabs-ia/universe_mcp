@@ -1,0 +1,16 @@
+{
+  "id": "puch-interactive-mind-maps",
+  "name": "Puch Interactive Mind Maps",
+  "provider": "YOUAREGOINGTO",
+  "description": "Generates interactive mind maps through conversational refinement using Google Gemini and DSPy, asking clarifying...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/puch-interactive-mind-maps",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:11.456264",
+  "metadata": {}
+}

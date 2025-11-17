@@ -1,0 +1,16 @@
+{
+  "id": "delorenj-super-windows-cli",
+  "name": "Super Windows CLI",
+  "provider": "delorenj",
+  "description": "Provides unrestricted Windows system access and command execution across multiple shells for remote administration...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/delorenj-super-windows-cli",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:50.788101",
+  "metadata": {}
+}

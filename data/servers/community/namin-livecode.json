@@ -1,0 +1,16 @@
+{
+  "id": "namin-livecode",
+  "name": "Livecode.ch",
+  "provider": "Nada Amin",
+  "description": "Executes code snippets from GitHub repositories on io.livecode.ch's backend, enabling live code execution across...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/namin-livecode",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:01.242654",
+  "metadata": {}
+}

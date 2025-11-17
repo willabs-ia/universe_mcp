@@ -1,0 +1,19 @@
+{
+  "id": "lark-base",
+  "name": "Lark Base",
+  "provider": "Lark Base Team",
+  "description": "Integrates with Lark Base (formerly Feishu Bitable) to enable data retrieval, field management, and table...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "May 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/lark-base",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:56.914697",
+  "metadata": {}
+}

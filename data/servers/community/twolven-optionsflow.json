@@ -1,0 +1,19 @@
+{
+  "id": "twolven-optionsflow",
+  "name": "OptionsFlow (Yahoo Finance)",
+  "provider": "Todd Wolven",
+  "description": "Integrates with Yahoo Finance to provide options analysis and strategy evaluation tools for risk assessment and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jan 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/twolven-optionsflow",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:44.513356",
+  "metadata": {}
+}

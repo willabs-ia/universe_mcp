@@ -1,0 +1,16 @@
+{
+  "id": "matmax-payloadcms",
+  "name": "Payload CMS",
+  "provider": "MATMAX WORLDWIDE",
+  "description": "Provides validation, query, and code generation services for Payload CMS 3.0 development, enabling developers to...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/matmax-payloadcms",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:41.627908",
+  "metadata": {}
+}

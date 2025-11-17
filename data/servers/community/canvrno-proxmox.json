@@ -1,0 +1,19 @@
+{
+  "id": "canvrno-proxmox",
+  "name": "Proxmox",
+  "provider": "Kevin",
+  "description": "Integrates with Proxmox virtualization environments to enable monitoring and management of virtual machines,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 553
+  },
+  "release_date": "Feb 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/canvrno-proxmox",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:24.623992",
+  "metadata": {}
+}

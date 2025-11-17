@@ -1,0 +1,16 @@
+{
+  "id": "imiborbas-pocketbase",
+  "name": "PocketBase",
+  "provider": "Imre Borbás",
+  "description": "Provides a TypeScript-based server for interacting with PocketBase, enabling flexible database management and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/imiborbas-pocketbase",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:57.130067",
+  "metadata": {}
+}

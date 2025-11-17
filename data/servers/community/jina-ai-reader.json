@@ -1,0 +1,16 @@
+{
+  "id": "jina-ai-reader",
+  "name": "Jina AI Reader",
+  "provider": "jSwords91",
+  "description": "Converts web pages into clean Markdown format using Jina AI's r.jina.ai service with automatic content caching, token...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/jina-ai-reader",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:49.845343",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "gannonh-firebase",
+  "name": "Firebase",
+  "provider": "Gannon Hall",
+  "description": "Enables Firebase Authentication, Firestore, and Storage operations for developers building applications that require...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 157
+  },
+  "release_date": "Mar 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/gannonh-firebase",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:42.278653",
+  "metadata": {}
+}

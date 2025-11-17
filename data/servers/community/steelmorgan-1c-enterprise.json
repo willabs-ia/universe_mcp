@@ -1,0 +1,19 @@
+{
+  "id": "steelmorgan-1c-enterprise",
+  "name": "1C Enterprise",
+  "provider": "SteelMorgan",
+  "description": "Bridges 1C enterprise systems with reactive REST API endpoints and server-sent events for real-time business...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "Oct 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/steelmorgan-1c-enterprise",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:38.053088",
+  "metadata": {}
+}

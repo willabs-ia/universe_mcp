@@ -1,0 +1,19 @@
+{
+  "id": "ilyazub-serpapi-google-search",
+  "name": "SerpApi Google Search",
+  "provider": "Ilya Zub",
+  "description": "Integrates with the SerpApi Google Search API to enable access to structured search results data for SEO tools,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/ilyazub-serpapi-google-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:48.766437",
+  "metadata": {}
+}

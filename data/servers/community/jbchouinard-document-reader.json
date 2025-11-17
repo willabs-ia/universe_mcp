@@ -1,0 +1,16 @@
+{
+  "id": "jbchouinard-document-reader",
+  "name": "Document Reader",
+  "provider": "Jerome Boisvert-Chouinard",
+  "description": "Enables interaction with PDF and EPUB documents for reading, analyzing content, and extracting information from...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/jbchouinard-document-reader",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:17.208713",
+  "metadata": {}
+}

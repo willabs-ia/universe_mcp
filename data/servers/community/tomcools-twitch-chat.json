@@ -1,0 +1,16 @@
+{
+  "id": "tomcools-twitch-chat",
+  "name": "Twitch Chat",
+  "provider": "Tom Cools",
+  "description": "Integrates with Twitch chat using Apache Camel and Quarkus to enable real-time interaction, moderation, and analysis...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/tomcools-twitch-chat",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:50.798261",
+  "metadata": {}
+}

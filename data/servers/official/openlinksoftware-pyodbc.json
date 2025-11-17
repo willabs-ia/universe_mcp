@@ -1,0 +1,16 @@
+{
+  "id": "openlinksoftware-pyodbc",
+  "name": "PyODBC",
+  "provider": "OpenLink Software",
+  "description": "Provides a lightweight bridge between AI systems and ODBC-compatible databases, enabling SQL queries, table...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Apr 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/openlinksoftware-pyodbc",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:27.999358",
+  "metadata": {}
+}

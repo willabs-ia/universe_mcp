@@ -1,0 +1,16 @@
+{
+  "id": "wesnermichel-nexus-vscode",
+  "name": "Nexus (VSCode)",
+  "provider": "Wesner C. Michel",
+  "description": "Integrates Claude Desktop with VSCode, enabling file access and manipulation within specified workspace directories...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/wesnermichel-nexus-vscode",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:10.873927",
+  "metadata": {}
+}

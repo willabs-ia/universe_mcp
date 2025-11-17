@@ -1,0 +1,16 @@
+{
+  "id": "jitsmaster-web-crawler",
+  "name": "Web Crawler",
+  "provider": "jitsmaster",
+  "description": "Configurable web crawler that extracts structured content from websites while respecting robots.txt rules and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/jitsmaster-web-crawler",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:46.443996",
+  "metadata": {}
+}

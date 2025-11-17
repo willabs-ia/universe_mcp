@@ -1,0 +1,16 @@
+{
+  "id": "ad-veritas-graphql-policies",
+  "name": "TrueRAG Compliance Policies",
+  "provider": "Ad Veritas",
+  "description": "Integrates with a TrueRAG GraphQL API to provide state-specific policy information for legal compliance checks,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 27, 2024",
+  "url": "https://www.pulsemcp.com/servers/ad-veritas-graphql-policies",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:40.043676",
+  "metadata": {}
+}

@@ -1,0 +1,11 @@
+{
+  "id": "inventorado-ollamaton",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Connects Ollama-hosted local LLMs to MCP servers through both command-line and web interfaces, enabling enhanced local model capabilities with external tools and resources.",
+  "url": "https://www.pulsemcp.com/clients/inventorado-ollamaton",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.479973"
+}

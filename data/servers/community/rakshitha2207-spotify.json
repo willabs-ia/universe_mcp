@@ -1,0 +1,16 @@
+{
+  "id": "rakshitha2207-spotify",
+  "name": "Spotify",
+  "provider": "Rakshitha",
+  "description": "Provides a bridge to the Spotify Web API, enabling music playback control, track searching, and playlist management...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/rakshitha2207-spotify",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:18.557890",
+  "metadata": {}
+}

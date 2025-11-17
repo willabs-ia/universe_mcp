@@ -1,0 +1,16 @@
+{
+  "id": "capecoma-winterm",
+  "name": "Windows Terminal",
+  "provider": "capecoma",
+  "description": "Enables interaction with the Windows command line interface, allowing for writing commands, reading terminal output,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/capecoma-winterm",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:03.352720",
+  "metadata": {}
+}

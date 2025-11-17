@@ -1,0 +1,16 @@
+{
+  "id": "jahfer-jmap-fastmail",
+  "name": "JMAP (Fastmail)",
+  "provider": "Jahfer Husain",
+  "description": "Connects to Fastmail servers via JMAP protocol to enable email reading, searching with advanced filters, and content...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/jahfer-jmap-fastmail",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:09.315552",
+  "metadata": {}
+}

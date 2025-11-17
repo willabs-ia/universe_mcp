@@ -1,0 +1,16 @@
+{
+  "id": "stefanraath3-supabase",
+  "name": "Supabase PostgreSQL",
+  "provider": "Stefan Raath",
+  "description": "Integrates with Supabase PostgreSQL databases, exposing table schemas as resources and providing tools for data...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/stefanraath3-supabase",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:13.024817",
+  "metadata": {}
+}

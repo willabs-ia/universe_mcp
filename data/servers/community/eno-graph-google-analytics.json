@@ -1,0 +1,16 @@
+{
+  "id": "eno-graph-google-analytics",
+  "name": "Google Analytics",
+  "provider": "eno-graph",
+  "description": "Integrates with Google Analytics 4 to enable data retrieval and analysis through configurable metrics, dimensions,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/eno-graph-google-analytics",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:52.906626",
+  "metadata": {}
+}

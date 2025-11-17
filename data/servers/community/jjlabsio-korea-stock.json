@@ -1,0 +1,19 @@
+{
+  "id": "jjlabsio-korea-stock",
+  "name": "Korean Stock Market (DART & KRX)",
+  "provider": "jjlabsio",
+  "description": "Integrates with DART and KRX APIs to provide Korean stock market data including company information, trading data,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 3
+  },
+  "release_date": "Oct 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/jjlabsio-korea-stock",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:50.209388",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "lishenxydlgzs-simple-files-vectorstore",
+  "name": "Simple File Vector Store",
+  "provider": "lishenxydlgzs",
+  "description": "Provides semantic search capabilities for local files and directories using vector embeddings and efficient storage...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/lishenxydlgzs-simple-files-vectorstore",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:57.195787",
+  "metadata": {}
+}

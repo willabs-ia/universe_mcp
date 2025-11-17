@@ -1,0 +1,19 @@
+{
+  "id": "fastly-cdn",
+  "name": "Fastly CDN",
+  "provider": "Frank Denis",
+  "description": "Integrates with Fastly CDN to enable direct management of services, domains, cache settings, and security...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "May 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/fastly-cdn",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:56.900221",
+  "metadata": {}
+}

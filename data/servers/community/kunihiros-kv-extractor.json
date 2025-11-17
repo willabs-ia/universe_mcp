@@ -1,0 +1,19 @@
+{
+  "id": "kunihiros-kv-extractor",
+  "name": "Key-Value Extractor",
+  "provider": "Kunihiro Setogawa",
+  "description": "Extracts structured key-value pairs from unstructured text using a multi-step pipeline that performs language...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 32
+  },
+  "release_date": "May 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/kunihiros-kv-extractor",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:21.354030",
+  "metadata": {}
+}

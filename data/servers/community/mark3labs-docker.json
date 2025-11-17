@@ -1,0 +1,16 @@
+{
+  "id": "mark3labs-docker",
+  "name": "Docker",
+  "provider": "Mark3Labs",
+  "description": "Bridges Docker infrastructure management by providing a JSON API for container, image, and command operations through...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/mark3labs-docker",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:57.145030",
+  "metadata": {}
+}

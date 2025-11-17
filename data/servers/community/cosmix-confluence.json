@@ -1,0 +1,16 @@
+{
+  "id": "cosmix-confluence",
+  "name": "Confluence",
+  "provider": "Dimosthenis Kaponis",
+  "description": "Integrates with Atlassian Confluence to enable direct retrieval, searching, creation, and updating of wiki pages...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/cosmix-confluence",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:46.297148",
+  "metadata": {}
+}

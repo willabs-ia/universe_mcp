@@ -1,0 +1,19 @@
+{
+  "id": "mamertofabian-everything-search",
+  "name": "Everything Search",
+  "provider": "Mamerto Fabian",
+  "description": "Integrates with the Everything SDK to enable rapid file searches and metadata retrieval on Windows.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 207
+  },
+  "release_date": "Dec 14, 2024",
+  "url": "https://www.pulsemcp.com/servers/mamertofabian-everything-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:40.203334",
+  "metadata": {}
+}

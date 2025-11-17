@@ -1,0 +1,16 @@
+{
+  "id": "kukapay-tornado-cash",
+  "name": "Tornado Cash",
+  "provider": "kukapay",
+  "description": "Tracks Tornado Cash deposits and withdrawals through The Graph's subgraph to reveal hidden asset trails and wallet...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/kukapay-tornado-cash",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:19.896323",
+  "metadata": {}
+}

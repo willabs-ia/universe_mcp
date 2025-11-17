@@ -1,0 +1,16 @@
+{
+  "id": "josh-mantel-f1",
+  "name": "Formula 1 (FastF1)",
+  "provider": "Josh Mantel",
+  "description": "Integrates with Formula 1 data through the FastF1 Python package to provide race schedules, session results, driver...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/josh-mantel-f1",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:27.159862",
+  "metadata": {}
+}

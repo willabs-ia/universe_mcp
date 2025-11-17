@@ -1,0 +1,16 @@
+{
+  "id": "onewalker-openapi",
+  "name": "OpenAPI",
+  "provider": "Brian, Kun Liu",
+  "description": "Automatically generates callable tools from OpenAPI specifications, parsing Swagger documents to create HTTP request...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/onewalker-openapi",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:47.686815",
+  "metadata": {}
+}

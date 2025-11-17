@@ -1,0 +1,16 @@
+{
+  "id": "intelliglow-smart-lighting",
+  "name": "IntelliGlow Smart Lighting",
+  "provider": "shree-bd",
+  "description": "Provides intelligent smart lighting control through UDP network communication, enabling discovery, connection, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/intelliglow-smart-lighting",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:43.347394",
+  "metadata": {}
+}

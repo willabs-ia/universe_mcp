@@ -1,0 +1,16 @@
+{
+  "id": "augmented-nature-opentargets",
+  "name": "Open Targets",
+  "provider": "Augmented Nature",
+  "description": "Integrates with Open Targets platform to search therapeutic targets and diseases, retrieve detailed gene and disease...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/augmented-nature-opentargets",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:13.535853",
+  "metadata": {}
+}

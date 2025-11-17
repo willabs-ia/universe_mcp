@@ -1,0 +1,19 @@
+{
+  "id": "task-manager",
+  "name": "Task Manager",
+  "provider": "Brian W. Smith",
+  "description": "Provides a structured API for managing projects and tasks with dependencies, enabling hierarchical organization,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Apr 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/task-manager",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:56.889436",
+  "metadata": {}
+}

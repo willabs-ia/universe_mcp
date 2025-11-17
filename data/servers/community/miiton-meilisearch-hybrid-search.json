@@ -1,0 +1,16 @@
+{
+  "id": "miiton-meilisearch-hybrid-search",
+  "name": "Meilisearch Hybrid Search",
+  "provider": "miiton",
+  "description": "Bridges Claude with Meilisearch's hybrid search capabilities, enabling adjustable semantic-to-keyword ratio searches...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/miiton-meilisearch-hybrid-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:07.811623",
+  "metadata": {}
+}

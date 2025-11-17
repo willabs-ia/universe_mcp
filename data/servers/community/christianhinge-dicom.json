@@ -1,0 +1,16 @@
+{
+  "id": "christianhinge-dicom",
+  "name": "DICOM",
+  "provider": "Christian Hinge",
+  "description": "Enables interaction with medical imaging systems through DICOM networking protocols for querying patient information,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/christianhinge-dicom",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:34.837164",
+  "metadata": {}
+}

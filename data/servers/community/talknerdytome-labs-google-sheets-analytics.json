@@ -1,0 +1,16 @@
+{
+  "id": "talknerdytome-labs-google-sheets-analytics",
+  "name": "Google Sheets Analytics",
+  "provider": "Talk Nerdy To Me Labs",
+  "description": "Syncs Google Sheets data to a local SQLite database with intelligent caching and change detection, enabling natural...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/talknerdytome-labs-google-sheets-analytics",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:05.054865",
+  "metadata": {}
+}

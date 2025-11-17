@@ -1,0 +1,19 @@
+{
+  "id": "weidwonder-crawl4ai-google-custom-search",
+  "name": "Google Custom Search",
+  "provider": "WeiDwonder",
+  "description": "Integrates with Google Custom Search Engine to enable automated web crawling, content extraction, and search result...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Feb 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/weidwonder-crawl4ai-google-custom-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:46.625766",
+  "metadata": {}
+}

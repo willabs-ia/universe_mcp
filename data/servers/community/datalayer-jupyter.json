@@ -1,0 +1,16 @@
+{
+  "id": "datalayer-jupyter",
+  "name": "Jupyter Notebook",
+  "provider": "Datalayer",
+  "description": "Integrates Jupyter notebooks with MCP to enable code execution, content manipulation, and interactive data...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/datalayer-jupyter",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:03.329241",
+  "metadata": {}
+}

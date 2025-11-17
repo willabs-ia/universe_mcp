@@ -1,0 +1,16 @@
+{
+  "id": "corymhall-pulumi-example-generator",
+  "name": "Pulumi Resource Example Generator",
+  "provider": "corymhall",
+  "description": "Generates complete constructor examples with placeholder values for any Pulumi resource across TypeScript, Python,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/corymhall-pulumi-example-generator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:09.326955",
+  "metadata": {}
+}

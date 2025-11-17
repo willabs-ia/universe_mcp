@@ -1,0 +1,19 @@
+{
+  "id": "feiskyer-kubernetes",
+  "name": "Kubernetes",
+  "provider": "Pengfei Ni",
+  "description": "Enables direct Kubernetes cluster management through kubectl command execution, providing a bridge for real-time...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 209
+  },
+  "release_date": "Mar 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/feiskyer-kubernetes",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:40.197432",
+  "metadata": {}
+}

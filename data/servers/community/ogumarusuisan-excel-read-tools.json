@@ -1,0 +1,16 @@
+{
+  "id": "ogumarusuisan-excel-read-tools",
+  "name": "Excel Read Tools",
+  "provider": "OgumaruSuisan",
+  "description": "Provides read-only Excel workbook analysis with tools for extracting metadata, reading sheet content with range...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/ogumarusuisan-excel-read-tools",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:37.540107",
+  "metadata": {}
+}

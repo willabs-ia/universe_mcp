@@ -1,0 +1,16 @@
+{
+  "id": "mikhael-abdallah-azure-revisor",
+  "name": "Azure Revisor",
+  "provider": "Mikhael Abdallah",
+  "description": "Enables automated code review workflows in Azure DevOps by retrieving pull request diffs and creating inline comments...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/mikhael-abdallah-azure-revisor",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:59.259288",
+  "metadata": {}
+}

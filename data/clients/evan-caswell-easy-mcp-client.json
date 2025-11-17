@@ -1,0 +1,11 @@
+{
+  "id": "evan-caswell-easy-mcp-client",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Containerized conversational assistant that combines FastAPI backend with Streamlit chat interface, connecting LLMs to external tools like Tavily search through Docker-orchestrated infrastructure.",
+  "url": "https://www.pulsemcp.com/clients/evan-caswell-easy-mcp-client",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.543136"
+}

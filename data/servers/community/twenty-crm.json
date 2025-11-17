@@ -1,0 +1,19 @@
+{
+  "id": "twenty-crm",
+  "name": "Twenty CRM",
+  "provider": "mhenry3164",
+  "description": "Integrates with Twenty CRM's REST API to enable complete customer relationship management through natural language...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "Aug 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/twenty-crm",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:38.005640",
+  "metadata": {}
+}

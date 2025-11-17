@@ -1,0 +1,19 @@
+{
+  "id": "qgis-geographic-information-system",
+  "name": "QGIS Geographic Information System",
+  "provider": "Syauqi Uqi",
+  "description": "Enables remote control of QGIS geographic information system for spatial analysis, map creation, and geographic data...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Apr 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/qgis-geographic-information-system",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:55.290046",
+  "metadata": {}
+}

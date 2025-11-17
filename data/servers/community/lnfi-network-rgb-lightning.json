@@ -1,0 +1,16 @@
+{
+  "id": "lnfi-network-rgb-lightning",
+  "name": "RGB Lightning Node",
+  "provider": "lnfi-network",
+  "description": "Integrates with RGB Lightning Node APIs to provide Bitcoin Layer 2 asset management, Lightning Network operations,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/lnfi-network-rgb-lightning",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:26.680680",
+  "metadata": {}
+}

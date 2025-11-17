@@ -1,0 +1,16 @@
+{
+  "id": "datalayer-earthdata",
+  "name": "NASA Earthdata",
+  "provider": "Datalayer",
+  "description": "Provides a bridge to NASA's Earthdata platform for searching and retrieving Earth science datasets and data granules...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/datalayer-earthdata",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:16.452312",
+  "metadata": {}
+}

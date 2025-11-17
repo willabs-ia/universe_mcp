@@ -1,0 +1,16 @@
+{
+  "id": "gitcarrot-aws-cognito",
+  "name": "AWS Cognito",
+  "provider": "gitCarrot",
+  "description": "Integrates with AWS Cognito to provide user authentication flows including sign-up, sign-in, password management,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/gitcarrot-aws-cognito",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:48.415437",
+  "metadata": {}
+}

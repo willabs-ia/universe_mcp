@@ -1,0 +1,16 @@
+{
+  "id": "trafflux-pdf-reader",
+  "name": "PDF Reader",
+  "provider": "Philip Van de Walker",
+  "description": "Integrates with PyPDF2 to enable efficient text extraction and information retrieval from PDF documents for various...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/trafflux-pdf-reader",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:01.600162",
+  "metadata": {}
+}

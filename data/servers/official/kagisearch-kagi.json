@@ -1,0 +1,19 @@
+{
+  "id": "kagisearch-kagi",
+  "name": "Kagi Search",
+  "provider": "Kagi Search",
+  "description": "Integrates Kagi's advanced search capabilities into workflows, enabling high-quality, privacy-focused web information...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 415
+  },
+  "release_date": "Jan 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/kagisearch-kagi",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:26.722978",
+  "metadata": {}
+}

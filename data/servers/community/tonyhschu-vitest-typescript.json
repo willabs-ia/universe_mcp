@@ -1,0 +1,16 @@
+{
+  "id": "tonyhschu-vitest-typescript",
+  "name": "Vitest & Type Checking",
+  "provider": "Tony Chu",
+  "description": "Integrates Vitest and TypeScript for automated test execution and type checking in development workflows.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 22, 2024",
+  "url": "https://www.pulsemcp.com/servers/tonyhschu-vitest-typescript",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:59.119134",
+  "metadata": {}
+}

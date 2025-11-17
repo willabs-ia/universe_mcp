@@ -1,0 +1,16 @@
+{
+  "id": "merterbak-grok",
+  "name": "Grok",
+  "provider": "Mert Erbak",
+  "description": "Integrates with xAI's Grok API to provide text generation, image creation, vision analysis, web search with...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/merterbak-grok",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:33.221085",
+  "metadata": {}
+}

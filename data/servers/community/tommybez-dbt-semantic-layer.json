@@ -1,0 +1,16 @@
+{
+  "id": "tommybez-dbt-semantic-layer",
+  "name": "DBT Semantic Layer",
+  "provider": "Tommaso",
+  "description": "Integrates with the DBT Semantic Layer API to enable querying and analysis of data models defined in DBT, supporting...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/tommybez-dbt-semantic-layer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:08.582327",
+  "metadata": {}
+}

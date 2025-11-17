@@ -1,0 +1,16 @@
+{
+  "id": "shawyeok-dingding-bot",
+  "name": "DingDing Bot",
+  "provider": "Yike Xiao",
+  "description": "Integrates with DingDing (Dingtalk) to enable sending text and markdown messages to group chats through custom robot...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/shawyeok-dingding-bot",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:21.467578",
+  "metadata": {}
+}

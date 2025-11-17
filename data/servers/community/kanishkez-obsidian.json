@@ -1,0 +1,16 @@
+{
+  "id": "kanishkez-obsidian",
+  "name": "Obsidian",
+  "provider": "kanishkez",
+  "description": "Integrates with Obsidian vaults through REST API to enable reading, writing, creating, and deleting markdown files...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/kanishkez-obsidian",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:26.636685",
+  "metadata": {}
+}

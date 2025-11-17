@@ -1,0 +1,19 @@
+{
+  "id": "adityak74-scholarly-arxiv",
+  "name": "Scholarly (arXiv)",
+  "provider": "Aditya Karnam",
+  "description": "Integrates with arXiv to enable keyword-based searching and retrieval of academic articles for research assistance...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jan 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/adityak74-scholarly-arxiv",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:44.489320",
+  "metadata": {}
+}

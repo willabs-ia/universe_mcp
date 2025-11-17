@@ -1,0 +1,11 @@
+{
+  "id": "nicozumarraga-light-mcp-agents",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Python-based framework for building AI agents that connect to MCP servers, discover available tools, and orchestrate conversations with LLM providers like Groq.",
+  "url": "https://www.pulsemcp.com/clients/nicozumarraga-light-mcp-agents",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.447720"
+}

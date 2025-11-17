@@ -1,0 +1,19 @@
+{
+  "id": "wildcard-deepcontext",
+  "name": "DeepContext (Semantic Code Search)",
+  "provider": "Wildcard AI, Inc",
+  "description": "Symbol-aware semantic search for large codebases",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 37
+  },
+  "release_date": "Sep 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/wildcard-deepcontext",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:19.248325",
+  "metadata": {}
+}

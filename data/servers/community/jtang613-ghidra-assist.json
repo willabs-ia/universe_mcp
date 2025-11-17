@@ -1,0 +1,19 @@
+{
+  "id": "jtang613-ghidra-assist",
+  "name": "GhidrAssist (Ghidra)",
+  "provider": "Jason Tang",
+  "description": "Integrates with Ghidra's analysis framework to provide binary reverse engineering capabilities including function...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 553
+  },
+  "release_date": "Jul 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/jtang613-ghidra-assist",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:24.644225",
+  "metadata": {}
+}

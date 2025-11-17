@@ -1,0 +1,16 @@
+{
+  "id": "aaronsb-jira-insights",
+  "name": "Jira Insights",
+  "provider": "Aaron Bockover",
+  "description": "Enables programmatic management of Jira Insights asset schemas through CRUD operations on object types and AQL...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/aaronsb-jira-insights",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:32.697859",
+  "metadata": {}
+}

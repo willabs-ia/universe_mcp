@@ -1,0 +1,16 @@
+{
+  "id": "warashi-pipecd",
+  "name": "PipeCD",
+  "provider": "Warashi",
+  "description": "Connects Claude to PipeCD's continuous delivery platform, enabling monitoring of Kubernetes application deployments,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/warashi-pipecd",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:32.691453",
+  "metadata": {}
+}

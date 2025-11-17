@@ -1,0 +1,19 @@
+{
+  "id": "noahlozevski-idb",
+  "name": "iOS Development Bridge (idb)",
+  "provider": "Noah Lozevski",
+  "description": "Integrates with Facebook's iOS Development Bridge (idb) to enable automated iOS device management, test execution, UI...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 3
+  },
+  "release_date": "Mar 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/noahlozevski-idb",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:48.021824",
+  "metadata": {}
+}

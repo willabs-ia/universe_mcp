@@ -1,0 +1,11 @@
+{
+  "id": "houseworthe-mcp-manager",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Universal CLI tool for managing MCP servers across multiple AI coding agents that solves token consumption problems by providing quick enable/disable functionality, interactive checkbox management, profile saving/loading, and token usage estimates to help developers optimize their context budget.",
+  "url": "https://www.pulsemcp.com/clients/houseworthe-mcp-manager",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.491805"
+}

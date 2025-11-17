@@ -1,0 +1,16 @@
+{
+  "id": "overstarry-qweather",
+  "name": "QWeather",
+  "provider": "overstarry",
+  "description": "Integrates with QWeather API to provide current weather conditions, multi-day forecasts, and location-based...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/overstarry-qweather",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:28.797948",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "benborla-mysql-readonly",
+  "name": "MySQL Read-Only",
+  "provider": "Ben Borla",
+  "description": "Provides read-only access to MySQL databases for inspecting schemas and executing SQL queries without modifying...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/benborla-mysql-readonly",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:25.735800",
+  "metadata": {}
+}

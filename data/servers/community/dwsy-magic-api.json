@@ -1,0 +1,19 @@
+{
+  "id": "dwsy-magic-api",
+  "name": "Magic-API",
+  "provider": "Dwsy",
+  "description": "Integrates with Magic-API development environments to provide API management, debugging with breakpoints and step...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 121
+  },
+  "release_date": "Sep 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/dwsy-magic-api",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:06.214683",
+  "metadata": {}
+}

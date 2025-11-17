@@ -1,0 +1,16 @@
+{
+  "id": "figma-pro",
+  "name": "Figma Pro",
+  "provider": "Artem Svitelskyi",
+  "description": "Integrates with Figma's API to extract design data, download assets, and process designer comments for generating...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/figma-pro",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:27.132653",
+  "metadata": {}
+}

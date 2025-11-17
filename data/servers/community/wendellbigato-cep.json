@@ -1,0 +1,16 @@
+{
+  "id": "wendellbigato-cep",
+  "name": "CEP (Brazilian Postal Code)",
+  "provider": "Wendell Barreto",
+  "description": "Provides a simple interface for querying Brazilian postal codes (CEPs) via the ViaCEP API, enabling address...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/wendellbigato-cep",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:32.239106",
+  "metadata": {}
+}

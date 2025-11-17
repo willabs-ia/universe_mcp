@@ -1,0 +1,19 @@
+{
+  "id": "lemaiwo-sap-odata-btp",
+  "name": "SAP OData (BTP)",
+  "provider": "Wouter",
+  "description": "Integrates with SAP OData services on Business Technology Platform to enable CRUD operations on SAP business data...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Sep 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/lemaiwo-sap-odata-btp",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:01.899776",
+  "metadata": {}
+}

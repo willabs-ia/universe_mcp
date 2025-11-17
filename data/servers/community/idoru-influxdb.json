@@ -1,0 +1,19 @@
+{
+  "id": "idoru-influxdb",
+  "name": "InfluxDB",
+  "provider": "Sam Coward",
+  "description": "Connects to InfluxDB time-series databases for querying measurements, writing data, and managing buckets through a...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 19
+  },
+  "release_date": "Mar 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/idoru-influxdb",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:25.891877",
+  "metadata": {}
+}

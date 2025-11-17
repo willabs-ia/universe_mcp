@@ -1,0 +1,16 @@
+{
+  "id": "jfrog",
+  "name": "JFrog",
+  "provider": "JFrog",
+  "description": "Bridges to the JFrog Platform, enabling interaction with Artifactory repositories, builds, security scanning, and...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Apr 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/jfrog",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:05.665955",
+  "metadata": {}
+}

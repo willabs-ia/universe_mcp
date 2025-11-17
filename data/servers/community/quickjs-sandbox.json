@@ -1,0 +1,16 @@
+{
+  "id": "quickjs-sandbox",
+  "name": "QuickJS Sandbox",
+  "provider": "jlucaso",
+  "description": "Provides a secure JavaScript execution environment using QuickJS in WebAssembly, enabling safe execution of arbitrary...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/quickjs-sandbox",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:10.297716",
+  "metadata": {}
+}

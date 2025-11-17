@@ -1,0 +1,16 @@
+{
+  "id": "chenningling-apple-reminders",
+  "name": "Apple Reminders",
+  "provider": "Chen Ningling",
+  "description": "Integrates with Apple's Reminders app to create, read, and manage tasks with specified parameters like titles, notes,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/chenningling-apple-reminders",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:39.027161",
+  "metadata": {}
+}

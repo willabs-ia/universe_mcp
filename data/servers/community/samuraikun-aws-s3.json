@@ -1,0 +1,19 @@
+{
+  "id": "samuraikun-aws-s3",
+  "name": "AWS S3",
+  "provider": "Yuichi Kojima",
+  "description": "Provides direct access to Amazon S3 storage for listing buckets, browsing objects, and retrieving file contents with...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 2
+  },
+  "release_date": "Mar 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/samuraikun-aws-s3",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:52.281390",
+  "metadata": {}
+}

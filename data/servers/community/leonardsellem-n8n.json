@@ -1,0 +1,19 @@
+{
+  "id": "leonardsellem-n8n",
+  "name": "n8n",
+  "provider": "Leonard Sellem",
+  "description": "Integrates with n8n workflow automation platform to enable workflow management, execution monitoring, and task...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 49
+  },
+  "release_date": "Mar 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/leonardsellem-n8n",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:14.972974",
+  "metadata": {}
+}

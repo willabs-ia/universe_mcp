@@ -1,0 +1,11 @@
+{
+  "id": "markdown-processor",
+  "name": "Unknown",
+  "provider": null,
+  "description": "CLI tool for interacting with markdown processing tools through an OpenAI-powered conversational interface, enabling file reading and writing with configurable server connections.",
+  "url": "https://www.pulsemcp.com/clients/markdown-processor",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.395608"
+}

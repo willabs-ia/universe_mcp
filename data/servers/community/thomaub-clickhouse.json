@@ -1,0 +1,16 @@
+{
+  "id": "thomaub-clickhouse",
+  "name": "ClickHouse",
+  "provider": "Thomas",
+  "description": "Integrates with ClickHouse databases to enable data analysis, querying, and exploration for large-scale analytical...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 15, 2024",
+  "url": "https://www.pulsemcp.com/servers/thomaub-clickhouse",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:35.756708",
+  "metadata": {}
+}

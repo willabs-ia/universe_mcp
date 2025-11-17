@@ -1,0 +1,16 @@
+{
+  "id": "social-media-sync",
+  "name": "Social Media Sync",
+  "provider": "Tayler Ramsay",
+  "description": "Enables cross-platform social media content creation by integrating Twitter, Mastodon, and LinkedIn through a unified...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/social-media-sync",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:57.102641",
+  "metadata": {}
+}

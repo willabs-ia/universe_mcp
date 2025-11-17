@@ -1,0 +1,16 @@
+{
+  "id": "amotivv-protonmail",
+  "name": "Protonmail",
+  "provider": "Amotivv",
+  "description": "Enables sending emails through Protonmail's SMTP service with support for multiple recipients, CC/BCC functionality,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/amotivv-protonmail",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:34.875137",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "nahmanmate-postgresql-database-manager",
+  "name": "PostgreSQL Database Manager",
+  "provider": "Nahman Mate",
+  "description": "Integrates with PostgreSQL to provide database analysis, optimization, and troubleshooting tools for streamlined...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/nahmanmate-postgresql-database-manager",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:55.053118",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "jikime-naver-search",
+  "name": "Naver Search",
+  "provider": "Anthony Kim",
+  "description": "Provides access to Naver's search APIs across multiple categories including blogs, news, books, images, and shopping...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/jikime-naver-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:27.994940",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "mckinsey-vizro",
+  "name": "Vizro",
+  "provider": "McKinsey",
+  "description": "Enables creation and validation of data visualization dashboards through natural language by generating chart code,...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 123
+  },
+  "release_date": "Sep 4, 2023",
+  "url": "https://www.pulsemcp.com/servers/mckinsey-vizro",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:06.210945",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "abhishekbhakat-code-assist",
+  "name": "Code Assist",
+  "provider": "Abhishek Bhakat",
+  "description": "Enables code modification and generation tasks through file operations, search-and-replace, and version control...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 20
+  },
+  "release_date": "Jan 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/abhishekbhakat-code-assist",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:25.870575",
+  "metadata": {}
+}

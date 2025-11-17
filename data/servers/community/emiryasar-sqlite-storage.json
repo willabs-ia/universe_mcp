@@ -1,0 +1,16 @@
+{
+  "id": "emiryasar-sqlite-storage",
+  "name": "SQLite",
+  "provider": "Emir Yasar",
+  "description": "Provides a lightweight SQLite-based storage solution, supporting basic CRUD operations for small to medium-scale...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 26, 2024",
+  "url": "https://www.pulsemcp.com/servers/emiryasar-sqlite-storage",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:46.425676",
+  "metadata": {}
+}

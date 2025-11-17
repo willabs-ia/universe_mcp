@@ -1,0 +1,16 @@
+{
+  "id": "amateurs-community-search",
+  "name": "Amateurs Community Search",
+  "provider": "prgrms-aibe-devcourse",
+  "description": "Provides AI tools for searching and querying community posts from a MySQL database with paginated searches, keyword...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/amateurs-community-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:09.305943",
+  "metadata": {}
+}

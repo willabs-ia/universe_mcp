@@ -1,0 +1,19 @@
+{
+  "id": "radiumgu-alibaba-cloud-ops",
+  "name": "Alibaba Cloud Operations",
+  "provider": "RadiumGu",
+  "description": "Integrates with Alibaba Cloud services to manage ECS instances, OSS storage buckets, OOS automation workflows, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 387
+  },
+  "release_date": "Jul 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/radiumgu-alibaba-cloud-ops",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:28.856427",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "getweb",
+  "name": "GetWeb",
+  "provider": "Ivan Mezentsev",
+  "description": "Integrates DuckDuckGo, Google Search, Felo AI, and Jina Reader APIs to provide web search, content extraction, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 2
+  },
+  "release_date": "Aug 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/getweb",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:54.711378",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "yumeiriowl-repo-graphrag",
+  "name": "Repository GraphRAG",
+  "provider": "yumeiriowl",
+  "description": "Uses LightRAG and Tree-sitter to build a repository knowledge graph from code and docs, for Q&A and implementation...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/yumeiriowl-repo-graphrag",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:31.093073",
+  "metadata": {}
+}

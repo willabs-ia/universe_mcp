@@ -1,0 +1,16 @@
+{
+  "id": "terry-form-terraform",
+  "name": "Terry-Form (Terraform)",
+  "provider": "aj-geddes",
+  "description": "Provides secure Terraform operations through Docker-containerized environments that isolate infrastructure planning...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/terry-form-terraform",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:45.518029",
+  "metadata": {}
+}

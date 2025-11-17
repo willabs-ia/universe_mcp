@@ -1,0 +1,16 @@
+{
+  "id": "sql-server-natural-lang",
+  "name": "SQL Server Natural Language",
+  "provider": "Aman Panjwani",
+  "description": "Enables natural language querying of Microsoft SQL Server databases by translating conversational input into SQL and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/sql-server-natural-lang",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:52.911736",
+  "metadata": {}
+}

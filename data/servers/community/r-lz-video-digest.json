@@ -1,0 +1,16 @@
+{
+  "id": "r-lz-video-digest",
+  "name": "Video Digest",
+  "provider": "R-lz",
+  "description": "Transcribes and analyzes video content from sources like YouTube using multiple transcription services with automatic...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/r-lz-video-digest",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:07.803988",
+  "metadata": {}
+}

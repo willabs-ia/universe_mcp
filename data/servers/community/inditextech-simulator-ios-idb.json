@@ -1,0 +1,16 @@
+{
+  "id": "inditextech-simulator-ios-idb",
+  "name": "iOS Simulator Automation (IDB)",
+  "provider": "Inditex",
+  "description": "Enables iOS simulator automation via Facebook's IDB tool, allowing control of simulators, app launching, screenshot...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/inditextech-simulator-ios-idb",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:12.743644",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "kasarlabs-starknet-agent",
+  "name": "Starknet Agent Kit",
+  "provider": "Kasar Labs",
+  "description": "Toolkit for creating blockchain agents that interact with the Starknet network, enabling wallet management, DeFi...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/kasarlabs-starknet-agent",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:01.386913",
+  "metadata": {}
+}

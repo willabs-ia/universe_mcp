@@ -1,0 +1,19 @@
+{
+  "id": "aindreyway-neurolora",
+  "name": "Coding File Management",
+  "provider": "aindreyway",
+  "description": "Extract and document code from your local filesystem, enabling automated documentation and codebase analysis.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 16
+  },
+  "release_date": "Dec 20, 2024",
+  "url": "https://www.pulsemcp.com/servers/aindreyway-neurolora",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:28.009785",
+  "metadata": {}
+}

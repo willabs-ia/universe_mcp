@@ -1,0 +1,16 @@
+{
+  "id": "takumiy235-uniprot",
+  "name": "UniProt",
+  "provider": "TakumiY235",
+  "description": "Integrates with UniProt API to provide cached protein information for bioinformatics applications and protein research.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 8, 2024",
+  "url": "https://www.pulsemcp.com/servers/takumiy235-uniprot",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:35.737032",
+  "metadata": {}
+}

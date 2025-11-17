@@ -1,0 +1,19 @@
+{
+  "id": "gleanwork-enterprise-knowledge",
+  "name": "Glean",
+  "provider": "Glean",
+  "description": "Integrates with Glean's enterprise knowledge platform to provide company search, people profile lookup, and AI...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 111
+  },
+  "release_date": "May 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/gleanwork-enterprise-knowledge",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:06.227178",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "the-news-api",
+  "name": "TheNewsAPI",
+  "provider": "Malachi",
+  "description": "Provides a unified interface to TheNewsAPI for retrieving current and historical news articles with advanced...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/the-news-api",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:36.863274",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "husaink52-spotify",
+  "name": "Spotify",
+  "provider": "Husain K",
+  "description": "Enables Claude to search and retrieve Spotify track, artist, and album information through a local Express.js server...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/husaink52-spotify",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:18.560304",
+  "metadata": {}
+}

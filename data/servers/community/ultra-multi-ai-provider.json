@@ -1,0 +1,19 @@
+{
+  "id": "ultra-multi-ai-provider",
+  "name": "Ultra (Multi-AI Provider)",
+  "provider": "Mike Chong",
+  "description": "Unified server providing access to OpenAI O3, Google Gemini 2.5 Pro, and Azure OpenAI models with automatic usage...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 19
+  },
+  "release_date": "Jun 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/ultra-multi-ai-provider",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:25.898357",
+  "metadata": {}
+}

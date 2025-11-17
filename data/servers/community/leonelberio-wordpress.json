@@ -1,0 +1,16 @@
+{
+  "id": "leonelberio-wordpress",
+  "name": "WordPress",
+  "provider": "Leonelberio",
+  "description": "Enables direct interaction with WordPress sites for creating, retrieving, and updating posts through the WordPress...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/leonelberio-wordpress",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:07.840437",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "a2a-bridge",
+  "name": "A2A Bridge",
+  "provider": "gongrzhe",
+  "description": "Bridges Google's Agent-to-Agent protocol with MCP, enabling agent discovery, registration, message sending, and task...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 116
+  },
+  "release_date": "May 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/a2a-bridge",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:06.223431",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "tatn-diff-python",
+  "name": "Text Diff (Python)",
+  "provider": "Tatsu",
+  "description": "Integrates with Python's difflib to generate unified diffs for efficient text comparison and version control tasks.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 75
+  },
+  "release_date": "Jan 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/tatn-diff-python",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:10.539885",
+  "metadata": {}
+}

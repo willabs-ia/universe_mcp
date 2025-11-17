@@ -1,0 +1,16 @@
+{
+  "id": "peggyjv-forge",
+  "name": "Forge (Ethereum Smart Contract Development)",
+  "provider": "PeggyJV",
+  "description": "Rust-based interface for Ethereum smart contract development with Foundry, enabling file management, compilation, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/peggyjv-forge",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:12.203503",
+  "metadata": {}
+}

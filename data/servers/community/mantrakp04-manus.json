@@ -1,0 +1,19 @@
+{
+  "id": "mantrakp04-manus",
+  "name": "Manus",
+  "provider": "mantrakp04",
+  "description": "Orchestrates specialized agents for collaborative task execution with file operations, shell commands, and browser...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/mantrakp04-manus",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:50.915445",
+  "metadata": {}
+}

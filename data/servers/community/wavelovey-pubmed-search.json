@@ -1,0 +1,16 @@
+{
+  "id": "wavelovey-pubmed-search",
+  "name": "PubMed Search",
+  "provider": "wavelovey",
+  "description": "Integrates with PubMed to enable natural language querying and analysis of biomedical literature for research and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/wavelovey-pubmed-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:44.310633",
+  "metadata": {}
+}

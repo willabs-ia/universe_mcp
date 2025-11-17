@@ -1,0 +1,19 @@
+{
+  "id": "lsd-so-internetdata",
+  "name": "LSD Web Data Extraction",
+  "provider": "LSD",
+  "description": "Provides web data extraction and manipulation capabilities through the LSD programming language, enabling structured...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 3
+  },
+  "release_date": "May 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/lsd-so-internetdata",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:50.175019",
+  "metadata": {}
+}

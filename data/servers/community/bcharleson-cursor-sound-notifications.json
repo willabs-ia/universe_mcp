@@ -1,0 +1,16 @@
+{
+  "id": "bcharleson-cursor-sound-notifications",
+  "name": "Cursor Sound Notifications",
+  "provider": "Brandon Charleson",
+  "description": "Plays customizable audio notifications when code generation completes in the Cursor editor, eliminating the need to...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/bcharleson-cursor-sound-notifications",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:46.272972",
+  "metadata": {}
+}

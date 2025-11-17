@@ -1,0 +1,16 @@
+{
+  "id": "wynnd-shortcut",
+  "name": "Shortcut",
+  "provider": "WynnD",
+  "description": "Integrates with Shortcut's ticket management system to enable listing, searching, creating and updating stories,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/wynnd-shortcut",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:18.528274",
+  "metadata": {}
+}

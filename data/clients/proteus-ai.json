@@ -1,0 +1,11 @@
+{
+  "id": "proteus-ai",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Multi-agent workflow platform that combines visual workflow design with autonomous agent execution, supporting browser automation, code execution, file operations, database queries, and API calls across multiple LLM providers with both local and sandboxed execution environments.",
+  "url": "https://www.pulsemcp.com/clients/proteus-ai",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.464243"
+}

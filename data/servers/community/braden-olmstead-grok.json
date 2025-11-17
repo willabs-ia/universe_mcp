@@ -1,0 +1,19 @@
+{
+  "id": "braden-olmstead-grok",
+  "name": "Grok",
+  "provider": "Braden Olmstead",
+  "description": "Provides direct integration with Grok AI's language and vision capabilities, exposing chat completion, image...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 3
+  },
+  "release_date": "Mar 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/braden-olmstead-grok",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:48.040421",
+  "metadata": {}
+}

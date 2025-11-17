@@ -1,0 +1,16 @@
+{
+  "id": "sunwood-ai-labs-command-executor",
+  "name": "Command Executor",
+  "provider": "Sunwood AI Labs",
+  "description": "Enables secure execution of pre-approved system commands for automation tasks, system management, and controlled...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 22, 2024",
+  "url": "https://www.pulsemcp.com/servers/sunwood-ai-labs-command-executor",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:37.889285",
+  "metadata": {}
+}

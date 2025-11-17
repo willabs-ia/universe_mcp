@@ -1,0 +1,19 @@
+{
+  "id": "push-based-angular-toolkit",
+  "name": "Angular Toolkit",
+  "provider": "Push Based",
+  "description": "Provides Angular development teams with component analysis, design system migration support, and automated...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jul 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/push-based-angular-toolkit",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:59.605815",
+  "metadata": {}
+}

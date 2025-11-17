@@ -1,0 +1,11 @@
+{
+  "id": "gnosis23-tiny-openrouter",
+  "name": "Unknown",
+  "provider": null,
+  "description": "OpenAI-powered client that connects to MCP servers, discovers available tools, and enables real-time communication with various language models through OpenRouter integration.",
+  "url": "https://www.pulsemcp.com/clients/gnosis23-tiny-openrouter",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.563092"
+}

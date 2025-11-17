@@ -1,0 +1,16 @@
+{
+  "id": "andrew-beniash-command-security-layer",
+  "name": "Command Security Layer",
+  "provider": "Andrew Beniash",
+  "description": "Implements a robust security layer for command processing, utilizing multi-step verification and auditing to enable...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/andrew-beniash-command-security-layer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:01.246455",
+  "metadata": {}
+}

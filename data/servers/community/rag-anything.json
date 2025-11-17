@@ -1,0 +1,19 @@
+{
+  "id": "rag-anything",
+  "name": "RAG Anything",
+  "provider": "Jesse Merhi",
+  "description": "Provides RAG capabilities for processing and querying document directories using LightRAG with multimodal content...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jul 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/rag-anything",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:59.596409",
+  "metadata": {}
+}

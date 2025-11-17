@@ -1,0 +1,11 @@
+{
+  "id": "leehack-flutter-gemini-chat",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Flutter-based desktop chat application that manages multiple MCP server connections simultaneously while maintaining a single conversation thread with Gemini AI.",
+  "url": "https://www.pulsemcp.com/clients/leehack-flutter-gemini-chat",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.420907"
+}

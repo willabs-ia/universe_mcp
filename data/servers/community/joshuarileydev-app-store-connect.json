@@ -1,0 +1,19 @@
+{
+  "id": "joshuarileydev-app-store-connect",
+  "name": "App Store Connect",
+  "provider": "Joshua Riley",
+  "description": "Manage iOS app distribution and testing workflows.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 415
+  },
+  "release_date": "Dec 13, 2024",
+  "url": "https://www.pulsemcp.com/servers/joshuarileydev-app-store-connect",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:26.720357",
+  "metadata": {}
+}

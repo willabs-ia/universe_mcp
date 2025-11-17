@@ -1,0 +1,16 @@
+{
+  "id": "cosmix-jira",
+  "name": "Jira",
+  "provider": "Dimosthenis Kaponis",
+  "description": "Integrates with Jira's API to enable issue searching, data cleaning, and project management automation using natural...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/cosmix-jira",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:48.529219",
+  "metadata": {}
+}

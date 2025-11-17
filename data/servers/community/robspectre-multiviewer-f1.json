@@ -1,0 +1,16 @@
+{
+  "id": "robspectre-multiviewer-f1",
+  "name": "MultiViewer for F1",
+  "provider": "Rob Spectre",
+  "description": "Integrates with MultiViewer's GraphQL API to control Formula 1 and motorsports viewing experiences, enabling creation...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/robspectre-multiviewer-f1",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:27.154894",
+  "metadata": {}
+}

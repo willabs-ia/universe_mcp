@@ -1,0 +1,19 @@
+{
+  "id": "zealgeo-geo-calculator",
+  "name": "GeoCalculator",
+  "provider": "ZealGeo",
+  "description": "Provides geospatial calculation capabilities for coordinate conversion and spatial analysis, enabling GIS...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 3
+  },
+  "release_date": "Apr 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/zealgeo-geo-calculator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:48.047083",
+  "metadata": {}
+}

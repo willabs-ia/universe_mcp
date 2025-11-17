@@ -1,0 +1,19 @@
+{
+  "id": "titanmind-whatsapp447b",
+  "name": "TitanMind WhatsApp",
+  "provider": "TitanmindAGI",
+  "description": "Integrates with TitanMind's WhatsApp API to enable automated messaging, conversation management, and template-based...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 83
+  },
+  "release_date": "Aug 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/titanmind-whatsapp447b",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:10.512813",
+  "metadata": {}
+}

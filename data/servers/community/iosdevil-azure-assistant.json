@@ -1,0 +1,16 @@
+{
+  "id": "iosdevil-azure-assistant",
+  "name": "Azure Assistant",
+  "provider": "iOSDevil",
+  "description": "Converts natural language questions into Azure Resource Graph KQL queries to discover and analyze Azure resources...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/iosdevil-azure-assistant",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:26.654357",
+  "metadata": {}
+}

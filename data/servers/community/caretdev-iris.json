@@ -1,0 +1,19 @@
+{
+  "id": "caretdev-iris",
+  "name": "InterSystems IRIS",
+  "provider": "CaretDev Corp.",
+  "description": "Provides a bridge to InterSystems IRIS databases for executing SQL queries and managing production items through...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 152
+  },
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/caretdev-iris",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:42.288770",
+  "metadata": {}
+}

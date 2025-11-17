@@ -1,0 +1,11 @@
+{
+  "id": "swairshah-claude-cli",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Enables interaction with multiple MCP-compatible servers, exposing their tools to a Pydantic agent powered by Claude for versatile AI-assisted tasks requiring external tool integration.",
+  "url": "https://www.pulsemcp.com/clients/swairshah-claude-cli",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.519017"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "zukai-frontend-review",
+  "name": "Frontend Review",
+  "provider": "ZukAi",
+  "description": "Provides visual verification for UI edit requests by comparing before/after screenshots and analyzing whether changes...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/zukai-frontend-review",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:30.078754",
+  "metadata": {}
+}

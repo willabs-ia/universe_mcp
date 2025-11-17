@@ -1,0 +1,11 @@
+{
+  "id": "airy10-apple-foundation-models",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Bridges Apple's FoundationModels framework with MCP servers, enabling on-device AI models in macOS 26.0+ to dynamically discover and execute external tools through automatic schema conversion and process management for both HTTP and stdio connections.",
+  "url": "https://www.pulsemcp.com/clients/airy10-apple-foundation-models",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.459281"
+}

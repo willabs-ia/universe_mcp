@@ -1,0 +1,16 @@
+{
+  "id": "the0807-geeknews",
+  "name": "GeekNews",
+  "provider": "Eom, Taehyun",
+  "description": "Retrieves and extracts tech news, articles, and discussions from GeekNews using BeautifulSoup for more informed...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/the0807-geeknews",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:10.314414",
+  "metadata": {}
+}

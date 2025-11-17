@@ -1,0 +1,16 @@
+{
+  "id": "mirecekd-amazon-nova-reel",
+  "name": "Amazon Nova Reel",
+  "provider": "mirecekd",
+  "description": "Integrates with Amazon Nova Reel 1.1 through AWS Bedrock to generate videos from text prompts with configurable...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/mirecekd-amazon-nova-reel",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:52.003046",
+  "metadata": {}
+}

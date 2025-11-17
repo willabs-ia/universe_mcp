@@ -1,0 +1,16 @@
+{
+  "id": "sharansahu-sql-database",
+  "name": "SQL Database Assistant",
+  "provider": "Sharan Sahu",
+  "description": "Provides intelligent SQL querying capabilities across SQLite, MySQL, and Oracle databases with schema introspection,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/sharansahu-sql-database",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:19.919892",
+  "metadata": {}
+}

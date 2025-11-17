@@ -1,0 +1,19 @@
+{
+  "id": "baryhuang-vnc-remote-macos",
+  "name": "VNC Remote Control for macOS",
+  "provider": "Bary Huang",
+  "description": "Provides secure remote control of macOS machines through VNC protocol, enabling screenshot capture and desktop...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/baryhuang-vnc-remote-macos",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:53.176385",
+  "metadata": {}
+}

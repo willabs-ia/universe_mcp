@@ -1,0 +1,19 @@
+{
+  "id": "ee0pdt-godot-script-integration",
+  "name": "Godot Script Integration",
+  "provider": "ee0pdt",
+  "description": "Integrates with Godot to enable AI interaction with scripts, supporting features like reading, listing, and updating...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "Feb 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/ee0pdt-godot-script-integration",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:33.753143",
+  "metadata": {}
+}

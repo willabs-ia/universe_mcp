@@ -1,0 +1,16 @@
+{
+  "id": "archiephan78-ssi-stock",
+  "name": "SSI Stock (Vietnamese Market Data)",
+  "provider": "Chung Phan",
+  "description": "Provides a bridge to the SSI Financial Connector Data API for accessing Vietnamese stock market data, including...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/archiephan78-ssi-stock",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:36.828690",
+  "metadata": {}
+}

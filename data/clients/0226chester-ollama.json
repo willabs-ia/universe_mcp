@@ -1,0 +1,11 @@
+{
+  "id": "0226chester-ollama",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Connects Ollama-hosted LLMs to MCP servers via Python, supporting stdio and SSE transports with tool discovery and execution capabilities.",
+  "url": "https://www.pulsemcp.com/clients/0226chester-ollama",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.506699"
+}

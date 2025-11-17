@@ -1,0 +1,16 @@
+{
+  "id": "desktop-image-manager",
+  "name": "Desktop Image Manager",
+  "provider": "zhixiaoqiang",
+  "description": "Provides tools for managing and manipulating local desktop images with capabilities for file counting, filename...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/desktop-image-manager",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:52.909160",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "dice-thrower",
+  "name": "Dice Thrower",
+  "provider": "atuinturtle",
+  "description": "Simulates dice rolls with configurable number and sides for tabletop gaming and random number generation",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/dice-thrower",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:18.547334",
+  "metadata": {}
+}

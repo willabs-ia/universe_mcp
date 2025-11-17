@@ -1,0 +1,16 @@
+{
+  "id": "kukapay-wallet-inspector",
+  "name": "Wallet Inspector (Dune Analytics)",
+  "provider": "kukapay",
+  "description": "Integrates with Dune Analytics' SIM API to analyze blockchain wallet balances, transaction history, and activity...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/kukapay-wallet-inspector",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:09.316908",
+  "metadata": {}
+}

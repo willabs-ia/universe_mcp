@@ -1,0 +1,19 @@
+{
+  "id": "da-okazaki-neo4j",
+  "name": "Neo4j",
+  "provider": "Daichi Okazaki",
+  "description": "Integrates with Neo4j graph databases to enable natural language querying, node creation, and complex graph...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 15
+  },
+  "release_date": "Jan 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/da-okazaki-neo4j",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:28.031990",
+  "metadata": {}
+}

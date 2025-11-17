@@ -1,0 +1,16 @@
+{
+  "id": "kirill-markin-simple-tool",
+  "name": "Simple Tool (Website Fetcher)",
+  "provider": "Kirill Markin",
+  "description": "Integrates with web servers to fetch and retrieve webpage content for analysis and processing tasks.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/kirill-markin-simple-tool",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:01.577080",
+  "metadata": {}
+}

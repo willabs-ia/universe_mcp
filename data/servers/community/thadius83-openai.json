@@ -1,0 +1,16 @@
+{
+  "id": "thadius83-openai",
+  "name": "OpenAI",
+  "provider": "Pierre Brunelle",
+  "description": "Integrates with OpenAI's API to enable direct querying of various language models, supporting efficient text...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/thadius83-openai",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:01.611671",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "shell-command-runner",
+  "name": "Shell Command Runner",
+  "provider": "OldFangDong",
+  "description": "Enables AI systems to execute shell commands and scripts securely with proper output handling for system automation,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/shell-command-runner",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:32.713139",
+  "metadata": {}
+}

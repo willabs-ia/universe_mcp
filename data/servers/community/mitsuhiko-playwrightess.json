@@ -1,0 +1,19 @@
+{
+  "id": "mitsuhiko-playwrightess",
+  "name": "Playwrightess (Playwright)",
+  "provider": "mitsuhiko",
+  "description": "Provides a persistent Playwright evaluation environment through a single JavaScript execution tool that maintains...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "Aug 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/mitsuhiko-playwrightess",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:38.000329",
+  "metadata": {}
+}

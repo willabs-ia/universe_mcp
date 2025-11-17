@@ -1,0 +1,16 @@
+{
+  "id": "jmagar-docker",
+  "name": "Remote Docker",
+  "provider": "jmagar",
+  "description": "Manages Docker containers and services across multiple remote hosts through SSH connections, enabling container...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/jmagar-docker",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:31.089090",
+  "metadata": {}
+}

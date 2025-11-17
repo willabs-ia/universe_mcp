@@ -1,0 +1,11 @@
+{
+  "id": "akktrsst-airbnb",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Python client for interacting with Airbnb services through a command-line or Gradio web interface, enabling conversational agents to perform Airbnb-related tasks.",
+  "url": "https://www.pulsemcp.com/clients/akktrsst-airbnb",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.472126"
+}

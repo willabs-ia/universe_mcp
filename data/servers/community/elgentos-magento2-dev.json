@@ -1,0 +1,19 @@
+{
+  "id": "elgentos-magento2-dev",
+  "name": "Magento 2 Development",
+  "provider": "Elgentos",
+  "description": "Integrates with Magento 2 through n98-magerun2 to provide cache management, module operations, configuration control,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 4
+  },
+  "release_date": "Sep 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/elgentos-magento2-dev",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:48.000937",
+  "metadata": {}
+}

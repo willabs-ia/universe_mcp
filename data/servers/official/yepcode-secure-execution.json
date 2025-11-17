@@ -1,0 +1,19 @@
+{
+  "id": "yepcode-secure-execution",
+  "name": "YepCode Secure Execution",
+  "provider": "YepCode",
+  "description": "Enables secure execution of LLM-generated scripts and processes in isolated environments with environment variable...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 8
+  },
+  "release_date": "May 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/yepcode-secure-execution",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:39.303333",
+  "metadata": {}
+}

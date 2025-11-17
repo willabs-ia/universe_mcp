@@ -1,0 +1,16 @@
+{
+  "id": "martinbowling-clipboard-to-supabase",
+  "name": "Clipboard to Supabase",
+  "provider": "Martin Bowling",
+  "description": "Monitors your clipboard for images, automatically uploads them to Supabase Storage, and writes the public URL back to...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/martinbowling-clipboard-to-supabase",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:34.370448",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "iqai-discord",
+  "name": "Discord",
+  "provider": "IQAI",
+  "description": "Integrates with Discord through Discord.js to provide comprehensive bot capabilities including message management,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 3
+  },
+  "release_date": "Jul 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/iqai-discord",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:50.187458",
+  "metadata": {}
+}

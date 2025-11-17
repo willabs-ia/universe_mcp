@@ -1,0 +1,16 @@
+{
+  "id": "hackthebox",
+  "name": "HackTheBox",
+  "provider": "noaslr",
+  "description": "Bridges to the HackTheBox API for managing cybersecurity challenges and machines, starting instances, submitting...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/hackthebox",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:02.982468",
+  "metadata": {}
+}

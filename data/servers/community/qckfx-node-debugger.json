@@ -1,0 +1,16 @@
+{
+  "id": "qckfx-node-debugger",
+  "name": "Node.js Debugger",
+  "provider": "qckfx",
+  "description": "Provides Node.js debugging capabilities through Chrome DevTools Protocol, enabling breakpoint management,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/qckfx-node-debugger",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:49.861301",
+  "metadata": {}
+}

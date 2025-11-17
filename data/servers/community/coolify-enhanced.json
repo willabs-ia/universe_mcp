@@ -1,0 +1,19 @@
+{
+  "id": "coolify-enhanced",
+  "name": "Coolify",
+  "provider": "dazeb",
+  "description": "Integrates with Coolify deployment platform to provide server management, application deployment, database...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "Jul 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/coolify-enhanced",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:35.929131",
+  "metadata": {}
+}

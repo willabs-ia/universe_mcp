@@ -1,0 +1,16 @@
+{
+  "id": "crazyrabbitltc-coingecko",
+  "name": "CoinGecko",
+  "provider": "Dennison Bertram",
+  "description": "Integrates with CoinGecko Pro API to retrieve cryptocurrency data, enabling market analysis, portfolio tracking, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 31, 2024",
+  "url": "https://www.pulsemcp.com/servers/crazyrabbitltc-coingecko",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:42.160217",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "arinspunk-claude-talk-to-figma",
+  "name": "Claude Talk to Figma",
+  "provider": "arinspunk",
+  "description": "Enables direct control over Figma designs through WebSocket communication for document inspection, element creation...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 81
+  },
+  "release_date": "Apr 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/arinspunk-claude-talk-to-figma",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:10.522554",
+  "metadata": {}
+}

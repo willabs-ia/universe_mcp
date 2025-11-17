@@ -1,0 +1,19 @@
+{
+  "id": "vishalsachdev-canvas-learning-management-system",
+  "name": "Canvas Learning Management System",
+  "provider": "Vishal Sachdev",
+  "description": "Integrates with the Canvas Learning Management System API to enable course management, assignment tracking, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Feb 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/vishalsachdev-canvas-learning-management-system",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:46.648077",
+  "metadata": {}
+}

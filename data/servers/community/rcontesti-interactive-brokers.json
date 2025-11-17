@@ -1,0 +1,19 @@
+{
+  "id": "rcontesti-interactive-brokers",
+  "name": "Interactive Brokers",
+  "provider": "Ruben Contesti",
+  "description": "Provides complete access to Interactive Brokers' Web API through a containerized FastAPI architecture with session...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 415
+  },
+  "release_date": "Apr 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/rcontesti-interactive-brokers",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:28.844322",
+  "metadata": {}
+}

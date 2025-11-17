@@ -1,0 +1,16 @@
+{
+  "id": "alsoasked",
+  "name": "AlsoAsked",
+  "provider": "Metehan Yesilyurt",
+  "description": "Integrates with Google's AlsoAsked API to retrieve hierarchical \"People Also Ask\" question data for SEO research and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/alsoasked",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:45.516777",
+  "metadata": {}
+}

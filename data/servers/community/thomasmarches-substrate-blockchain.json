@@ -1,0 +1,16 @@
+{
+  "id": "thomasmarches-substrate-blockchain",
+  "name": "Substrate Blockchain",
+  "provider": "Thomas Marches",
+  "description": "Enables direct interaction with Substrate blockchain networks for querying account balances, accessing storage,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/thomasmarches-substrate-blockchain",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:32.228699",
+  "metadata": {}
+}

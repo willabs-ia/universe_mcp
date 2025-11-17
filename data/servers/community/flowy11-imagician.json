@@ -1,0 +1,19 @@
+{
+  "id": "flowy11-imagician",
+  "name": "Imagician",
+  "provider": "Hongyi Wang",
+  "description": "Provides eight core image editing operations including resizing, format conversion, cropping, compression, rotation,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 4
+  },
+  "release_date": "Aug 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/flowy11-imagician",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:45.825944",
+  "metadata": {}
+}

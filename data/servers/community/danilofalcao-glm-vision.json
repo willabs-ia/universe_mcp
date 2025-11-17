@@ -1,0 +1,16 @@
+{
+  "id": "danilofalcao-glm-vision",
+  "name": "GLM Vision",
+  "provider": "danilofalcao",
+  "description": "Integrates Z.AI's GLM-4.5V vision model to analyze images from local files or URLs with configurable parameters...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/danilofalcao-glm-vision",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:28.791781",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "veallym0n-proxy-aggregator",
+  "name": "MCPEz (Proxy Aggregator)",
+  "provider": "Veallym0n",
+  "description": "Python-based proxy server that aggregates multiple MCP-compatible services into a unified endpoint, enabling dynamic...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/veallym0n-proxy-aggregator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:19.239698",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "wealthy-trading",
+  "name": "Wealthy Trading Platform",
+  "provider": "Wealthy",
+  "description": "Integrates with the Wealthy trading platform to enable real-time financial operations including price queries, order...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Apr 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/wealthy-trading",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:30.127050",
+  "metadata": {}
+}

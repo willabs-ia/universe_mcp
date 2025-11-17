@@ -1,0 +1,16 @@
+{
+  "id": "metersphere-api-testing",
+  "name": "MeterSphere API Testing",
+  "provider": "MeterSphere",
+  "description": "Bridges AI systems with MeterSphere's testing platform, enabling natural language control of API testing, debugging,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/metersphere-api-testing",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:32.243459",
+  "metadata": {}
+}

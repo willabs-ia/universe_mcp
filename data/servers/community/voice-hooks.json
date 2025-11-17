@@ -1,0 +1,19 @@
+{
+  "id": "voice-hooks",
+  "name": "Voice Hooks",
+  "provider": "johnmatthewtennant",
+  "description": "Real-time voice interaction system for Claude Code that enables natural speech-based conversations during development...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 336
+  },
+  "release_date": "Aug 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/voice-hooks",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:31.046276",
+  "metadata": {}
+}

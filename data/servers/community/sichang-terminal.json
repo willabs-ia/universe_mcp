@@ -1,0 +1,19 @@
+{
+  "id": "sichang-terminal",
+  "name": "Terminal Control",
+  "provider": "Si Chang",
+  "description": "Provides a cross-platform terminal control server that executes shell commands and retrieves terminal information,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/sichang-terminal",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:48.819644",
+  "metadata": {}
+}

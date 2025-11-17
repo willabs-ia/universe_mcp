@@ -1,0 +1,19 @@
+{
+  "id": "wenb1n-mysql-database-manager",
+  "name": "MySQL Database Manager",
+  "provider": "wenb1n-dev",
+  "description": "Provides direct access to MySQL databases with advanced features like multiple SQL execution, table metadata...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 415
+  },
+  "release_date": "Apr 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/wenb1n-mysql-database-manager",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:26.762700",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "fdionisi-gitingest",
+  "name": "GitIngest",
+  "provider": "Federico Dionisi",
+  "description": "Provides direct access to GitHub and GitLab repositories for code exploration, searching, and analysis with...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/fdionisi-gitingest",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:16.454748",
+  "metadata": {}
+}

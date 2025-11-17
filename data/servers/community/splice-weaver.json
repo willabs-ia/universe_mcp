@@ -1,0 +1,16 @@
+{
+  "id": "splice-weaver",
+  "name": "Splice Weaver",
+  "provider": "micahscopes",
+  "description": "Provides AST-powered semantic code editing capabilities across 20+ programming languages through ast-grep...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/splice-weaver",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:56.242621",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "csv-editor",
+  "name": "CSV Editor",
+  "provider": "Santosh Ray",
+  "description": "Provides pandas-powered CSV file operations including data loading, filtering, transformation, statistical analysis,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/csv-editor",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:01.888988",
+  "metadata": {}
+}

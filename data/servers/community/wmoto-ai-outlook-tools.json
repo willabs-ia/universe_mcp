@@ -1,0 +1,16 @@
+{
+  "id": "wmoto-ai-outlook-tools",
+  "name": "Outlook Tools",
+  "provider": "wmoto-ai",
+  "description": "Integrates with Microsoft Outlook on Windows to search Exchange directories for user information and manage calendar...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/wmoto-ai-outlook-tools",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:52.031543",
+  "metadata": {}
+}

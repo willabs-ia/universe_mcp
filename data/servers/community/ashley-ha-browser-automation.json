@@ -1,0 +1,16 @@
+{
+  "id": "ashley-ha-browser-automation",
+  "name": "Browser Automation",
+  "provider": "Ashley Ha",
+  "description": "Enables Claude to automate browser interactions by detecting elements and executing planned actions for website...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/ashley-ha-browser-automation",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:19.358529",
+  "metadata": {}
+}

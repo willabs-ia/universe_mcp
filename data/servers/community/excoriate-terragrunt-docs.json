@@ -1,0 +1,19 @@
+{
+  "id": "excoriate-terragrunt-docs",
+  "name": "Terragrunt Documentation",
+  "provider": "Excoriate",
+  "description": "Provides direct access to Terragrunt documentation and GitHub issues through a Deno/TypeScript server that fetches...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Apr 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/excoriate-terragrunt-docs",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:55.310823",
+  "metadata": {}
+}

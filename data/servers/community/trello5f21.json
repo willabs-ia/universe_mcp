@@ -1,0 +1,16 @@
+{
+  "id": "trello5f21",
+  "name": "Trello",
+  "provider": "Diego Fornalha",
+  "description": "Integrates with Trello to enable board, list, and card management with automatic rate limiting and input validation...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/trello5f21",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:18.548613",
+  "metadata": {}
+}

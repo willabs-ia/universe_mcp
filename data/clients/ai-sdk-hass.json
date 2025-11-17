@@ -1,0 +1,11 @@
+{
+  "id": "ai-sdk-hass",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Next.js chatbot that connects Home Assistant with conversational control and monitoring of smart home devices through natural language interactions with streaming responses and tool execution feedback.",
+  "url": "https://www.pulsemcp.com/clients/ai-sdk-hass",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.511699"
+}

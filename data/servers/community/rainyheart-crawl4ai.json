@@ -1,0 +1,16 @@
+{
+  "id": "rainyheart-crawl4ai",
+  "name": "Crawl4ai Web Crawler",
+  "provider": "Ken Ye",
+  "description": "Provides a bridge to the Crawl4ai web crawling service, enabling extraction of website content with configurable...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/rainyheart-crawl4ai",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:23.744409",
+  "metadata": {}
+}

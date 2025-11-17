@@ -1,0 +1,19 @@
+{
+  "id": "fish-audio",
+  "name": "Fish Audio",
+  "provider": "Daichi Okazaki",
+  "description": "Integrates with Fish Audio's API to generate high-quality speech from text with configurable voice models, audio...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 7
+  },
+  "release_date": "Jul 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/fish-audio",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:41.443551",
+  "metadata": {}
+}

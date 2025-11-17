@@ -1,0 +1,19 @@
+{
+  "id": "react-analyzer",
+  "name": "React Analyzer",
+  "provider": "Azer",
+  "description": "Enables parsing and analysis of React component structures, props, and state management patterns for code review,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Apr 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/react-analyzer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:55.287257",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "qpd-v-guide",
+  "name": "MCP Guide",
+  "provider": "qpd-v",
+  "description": "Interactive tutorial and tools for understanding, implementing, and exploring MCP concepts and capabilities.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 3
+  },
+  "release_date": "Dec 18, 2024",
+  "url": "https://www.pulsemcp.com/servers/qpd-v-guide",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:48.006407",
+  "metadata": {}
+}

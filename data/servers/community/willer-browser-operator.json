@@ -1,0 +1,16 @@
+{
+  "id": "willer-browser-operator",
+  "name": "Browser Operator",
+  "provider": "willer",
+  "description": "Enables Claude to control web browsers through Playwright for automated navigation, form filling, and element...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/willer-browser-operator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:19.362291",
+  "metadata": {}
+}

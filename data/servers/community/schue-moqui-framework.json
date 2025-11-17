@@ -1,0 +1,16 @@
+{
+  "id": "schue-moqui-framework",
+  "name": "Moqui Framework",
+  "provider": "schue",
+  "description": "Integrates with Moqui Framework business applications to provide entity operations, service execution, and search...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/schue-moqui-framework",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:37.563690",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "deep-research",
+  "name": "DeepResearch",
+  "provider": "Ameer Alns",
+  "description": "Provides a stateful web research system that iteratively explores topics using Firecrawl for searches and GPT-4 for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/deep-research",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:50.780293",
+  "metadata": {}
+}

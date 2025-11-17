@@ -1,0 +1,16 @@
+{
+  "id": "twelve2five-processing",
+  "name": "Processing",
+  "provider": "twelve2five",
+  "description": "Generates and executes Processing sketches by creating timestamped project folders, saving code files, and launching...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/twelve2five-processing",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:43.351310",
+  "metadata": {}
+}

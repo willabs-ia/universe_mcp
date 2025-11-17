@@ -1,0 +1,11 @@
+{
+  "id": "nanobot",
+  "name": "Unknown",
+  "provider": null,
+  "description": "An open source framework for building MCP agents - complete with reasoning, system prompts, tool orchestration, and rich MCP-UI support.",
+  "url": "https://www.pulsemcp.com/clients/nanobot",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.320049"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "seanmichaelmcgee-pytorch-docs",
+  "name": "PyTorch Documentation Search",
+  "provider": "Sean Michael McGee",
+  "description": "Provides semantic search over PyTorch documentation with code-aware results, enabling developers to find relevant...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/seanmichaelmcgee-pytorch-docs",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:23.719621",
+  "metadata": {}
+}

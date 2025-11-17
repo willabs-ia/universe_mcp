@@ -1,0 +1,19 @@
+{
+  "id": "mubarak-alketbi-game-asset-generator",
+  "name": "Game Asset Generator",
+  "provider": "Mubarak H Alketbi",
+  "description": "Connects to Hugging Face Spaces to generate 2D pixel art sprites and 3D game assets from text prompts using...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/mubarak-alketbi-game-asset-generator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:48.804885",
+  "metadata": {}
+}

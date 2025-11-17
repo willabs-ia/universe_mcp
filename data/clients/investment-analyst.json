@@ -1,0 +1,11 @@
+{
+  "id": "investment-analyst",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Automates daily stock research by retrieving worst-performing stocks, conducting fundamental analysis using financial data sources, and generating weighted investment recommendations with detailed scoring across financial metrics.",
+  "url": "https://www.pulsemcp.com/clients/investment-analyst",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.554634"
+}

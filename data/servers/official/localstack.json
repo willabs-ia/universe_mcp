@@ -1,0 +1,19 @@
+{
+  "id": "localstack",
+  "name": "LocalStack",
+  "provider": "LocalStack",
+  "description": "Provides tools to manage your LocalStack container and other assorted related tasks, to simplify local cloud...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 23
+  },
+  "release_date": "Sep 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/localstack",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:23.554967",
+  "metadata": {}
+}

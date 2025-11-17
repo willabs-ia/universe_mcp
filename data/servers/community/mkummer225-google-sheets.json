@@ -1,0 +1,16 @@
+{
+  "id": "mkummer225-google-sheets",
+  "name": "Google Sheets",
+  "provider": "Matt Kummer",
+  "description": "Integrates with Google Sheets API to enable direct creation, reading, and editing of spreadsheets for data analysis...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/mkummer225-google-sheets",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:12.724097",
+  "metadata": {}
+}

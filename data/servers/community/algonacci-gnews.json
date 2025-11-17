@@ -1,0 +1,16 @@
+{
+  "id": "algonacci-gnews",
+  "name": "GNews",
+  "provider": "Eric Julianto",
+  "description": "Integrates with the GNews API to enable news search, headline retrieval, and topic-specific article fetching across...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/algonacci-gnews",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:13.017549",
+  "metadata": {}
+}

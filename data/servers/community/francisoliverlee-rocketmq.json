@@ -1,0 +1,16 @@
+{
+  "id": "francisoliverlee-rocketmq",
+  "name": "RocketMQ",
+  "provider": "Francis Oliver Lee",
+  "description": "Manage RocketMQ message queues.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/francisoliverlee-rocketmq",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:01.359484",
+  "metadata": {}
+}

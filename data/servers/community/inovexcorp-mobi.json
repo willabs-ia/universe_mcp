@@ -1,0 +1,16 @@
+{
+  "id": "inovexcorp-mobi",
+  "name": "Mobi",
+  "provider": "inovexcorp",
+  "description": "Integrates with Mobi knowledge management platform to enable semantic data operations including ontology management,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/inovexcorp-mobi",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:09.304598",
+  "metadata": {}
+}

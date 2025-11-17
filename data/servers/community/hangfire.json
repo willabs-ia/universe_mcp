@@ -1,0 +1,16 @@
+{
+  "id": "hangfire",
+  "name": "Hangfire",
+  "provider": "Oleksii Nikiforov",
+  "description": "Enables AI assistants to enqueue background jobs in Hangfire, a popular .NET job scheduling library, for executing...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/hangfire",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:39.008472",
+  "metadata": {}
+}

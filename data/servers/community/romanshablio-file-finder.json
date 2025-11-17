@@ -1,0 +1,16 @@
+{
+  "id": "romanshablio-file-finder",
+  "name": "File Finder",
+  "provider": "Roman Shablio",
+  "description": "Indexes and searches file systems to provide detailed information about files including name, path, size, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/romanshablio-file-finder",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:10.032884",
+  "metadata": {}
+}

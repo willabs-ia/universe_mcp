@@ -1,0 +1,19 @@
+{
+  "id": "cyanheads-filesystem",
+  "name": "Filesystem",
+  "provider": "cyanheads",
+  "description": "Provides a secure interface for interacting with local filesystems, enabling file reading, writing, updating, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 14
+  },
+  "release_date": "Apr 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/cyanheads-filesystem",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:30.180408",
+  "metadata": {}
+}

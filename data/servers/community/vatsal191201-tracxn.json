@@ -1,0 +1,16 @@
+{
+  "id": "vatsal191201-tracxn",
+  "name": "Tracxn",
+  "provider": "Vatsal",
+  "description": "Integrates with Tracxn's startup and investment data platform, enabling search and analysis of companies, investors,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/vatsal191201-tracxn",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:46.306880",
+  "metadata": {}
+}

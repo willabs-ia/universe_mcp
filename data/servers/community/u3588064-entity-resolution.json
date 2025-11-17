@@ -1,0 +1,16 @@
+{
+  "id": "u3588064-entity-resolution",
+  "name": "Entity Resolution",
+  "provider": "gh-u3588064",
+  "description": "Compares entities using syntactic and semantic methods to determine if differently formatted records refer to the...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/u3588064-entity-resolution",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:25.893937",
+  "metadata": {}
+}

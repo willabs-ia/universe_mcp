@@ -1,0 +1,19 @@
+{
+  "id": "baranwang-trends-hub",
+  "name": "Chinese Trends Hub",
+  "provider": "Baran Wang",
+  "description": "Provides real-time access to trending topics and content from major Chinese platforms including Weibo, Zhihu, Douyin,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 117
+  },
+  "release_date": "Mar 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/baranwang-trends-hub",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:06.222231",
+  "metadata": {}
+}

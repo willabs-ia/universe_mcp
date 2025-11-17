@@ -1,0 +1,19 @@
+{
+  "id": "foundry-toolkit",
+  "name": "Foundry Toolkit",
+  "provider": "Pranesh ASP",
+  "description": "Integrates with Foundry blockchain development toolkit to enable smart contract deployment, testing, bytecode...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 10
+  },
+  "release_date": "Aug 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/foundry-toolkit",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:34.956291",
+  "metadata": {}
+}

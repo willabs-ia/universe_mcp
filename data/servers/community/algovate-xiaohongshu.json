@@ -1,0 +1,19 @@
+{
+  "id": "algovate-xiaohongshu",
+  "name": "XiaoHongShu (Little Red Book)",
+  "provider": "Algovate",
+  "description": "Integrates with XiaoHongShu (Little Red Book) through browser automation to enable authentication, content discovery,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 10
+  },
+  "release_date": "Sep 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/algovate-xiaohongshu",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:37.087147",
+  "metadata": {}
+}

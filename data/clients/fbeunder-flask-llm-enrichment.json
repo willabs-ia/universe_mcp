@@ -1,0 +1,11 @@
+{
+  "id": "fbeunder-flask-llm-enrichment",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Chat with LLMs via web interface, enriching prompts with Brave Search and GitHub context before sending to OpenAI or Anthropic models.",
+  "url": "https://www.pulsemcp.com/clients/fbeunder-flask-llm-enrichment",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.552906"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "sdiamante13-learning-hour",
+  "name": "Learning Hour Generator",
+  "provider": "Steven Diamante",
+  "description": "Generates structured 60-minute technical practice sessions for software development teams using the 4C Learning Model...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/sdiamante13-learning-hour",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:19.918660",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "jean-technologies-writer-blog-search",
+  "name": "Writer Blog Search (Substack & Medium)",
+  "provider": "Jean Technologies",
+  "description": "Connect to your Substack/Medium blogs via their RSS feeds, fetches your posts, and permanently caches them locally....",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/jean-technologies-writer-blog-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:23.753256",
+  "metadata": {}
+}

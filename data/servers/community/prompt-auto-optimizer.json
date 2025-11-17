@@ -1,0 +1,16 @@
+{
+  "id": "prompt-auto-optimizer",
+  "name": "Prompt Auto-Optimizer",
+  "provider": "sloth-wq",
+  "description": "Optimizes prompts through genetic algorithms that automatically evolve and improve prompt performance across multiple...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/prompt-auto-optimizer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:07.232766",
+  "metadata": {}
+}

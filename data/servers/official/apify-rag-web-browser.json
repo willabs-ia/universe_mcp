@@ -1,0 +1,19 @@
+{
+  "id": "apify-rag-web-browser",
+  "name": "Apify RAG Web Browser",
+  "provider": "Apify",
+  "description": "Integrate with Apify's open-source RAG Web Browser Actor to perform web searches, scrape URLs, and return content in...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Dec 6, 2024",
+  "url": "https://www.pulsemcp.com/servers/apify-rag-web-browser",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:42.317801",
+  "metadata": {}
+}

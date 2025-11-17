@@ -1,0 +1,11 @@
+{
+  "id": "studychain01-browser-agent",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Streamlit-based web interface for interacting with browser automation tools through conversational chat powered by GPT-4, eliminating the need for command-line interaction.",
+  "url": "https://www.pulsemcp.com/clients/studychain01-browser-agent",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.535261"
+}

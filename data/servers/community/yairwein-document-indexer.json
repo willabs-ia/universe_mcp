@@ -1,0 +1,19 @@
+{
+  "id": "yairwein-document-indexer",
+  "name": "Document Indexer",
+  "provider": "yairwein",
+  "description": "Monitors local document folders and maintains a searchable vector index using LanceDB and sentence transformers,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 415
+  },
+  "release_date": "Aug 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/yairwein-document-indexer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:28.837655",
+  "metadata": {}
+}

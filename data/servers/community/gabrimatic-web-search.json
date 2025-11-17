@@ -1,0 +1,16 @@
+{
+  "id": "gabrimatic-web-search",
+  "name": "Web Search (Brave)",
+  "provider": "Hossein Yousefpour",
+  "description": "Integrates Brave Search API for real-time web information retrieval, dynamically categorizing queries to proactively...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/gabrimatic-web-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:57.111909",
+  "metadata": {}
+}

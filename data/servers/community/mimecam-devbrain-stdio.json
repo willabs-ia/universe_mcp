@@ -1,0 +1,19 @@
+{
+  "id": "mimecam-devbrain-stdio",
+  "name": "DevBrain",
+  "provider": "Anton",
+  "description": "Integrates with DevBrain's curated developer knowledge base to search coding articles, tutorials, and technical...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 216
+  },
+  "release_date": "Jun 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/mimecam-devbrain-stdio",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:40.191947",
+  "metadata": {}
+}

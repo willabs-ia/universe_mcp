@@ -1,0 +1,19 @@
+{
+  "id": "hugoduncan-clojure-repl",
+  "name": "Clojure REPL",
+  "provider": "Hugo Duncan",
+  "description": "Exposes Clojure REPL functionality over SSE transport, enabling remote code execution and interactive data analysis.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jan 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/hugoduncan-clojure-repl",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:46.610466",
+  "metadata": {}
+}

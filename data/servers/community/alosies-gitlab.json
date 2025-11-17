@@ -1,0 +1,19 @@
+{
+  "id": "alosies-gitlab",
+  "name": "GitLab",
+  "provider": "Alos",
+  "description": "Integrates with GitLab's API to manage projects, issues, merge requests, pipelines, and CI/CD workflows with 22...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 7
+  },
+  "release_date": "Jul 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/alosies-gitlab",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:41.442140",
+  "metadata": {}
+}

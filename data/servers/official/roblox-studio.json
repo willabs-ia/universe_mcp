@@ -1,0 +1,19 @@
+{
+  "id": "roblox-studio",
+  "name": "Roblox Studio",
+  "provider": "Roblox",
+  "description": "Enables Roblox Studio developers to insert marketplace models and execute Luau code through a plugin.",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 553
+  },
+  "release_date": "May 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/roblox-studio",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:24.641587",
+  "metadata": {}
+}

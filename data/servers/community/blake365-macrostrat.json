@@ -1,0 +1,16 @@
+{
+  "id": "blake365-macrostrat",
+  "name": "Macrostrat",
+  "provider": "Blake Morgan",
+  "description": "Integrates the Macrostrat API to enable geological data querying and analysis for earth sciences, resource...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 28, 2024",
+  "url": "https://www.pulsemcp.com/servers/blake365-macrostrat",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:40.053359",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "szcharlesji-coinmarketcap",
+  "name": "CoinMarketCap",
+  "provider": "Charles Ji",
+  "description": "Provides real-time cryptocurrency data from CoinMarketCap's API, enabling market listings, price quotes, ID mappings,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/szcharlesji-coinmarketcap",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:41.629246",
+  "metadata": {}
+}

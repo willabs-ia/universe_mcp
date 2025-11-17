@@ -1,0 +1,19 @@
+{
+  "id": "kurdin-github-repos-manager",
+  "name": "GitHub Repos Manager",
+  "provider": "Sergey Kurdin",
+  "description": "Integrates with GitHub's REST API to provide repository management, issue tracking, pull request handling, file...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 8
+  },
+  "release_date": "Jun 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/kurdin-github-repos-manager",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:39.304564",
+  "metadata": {}
+}

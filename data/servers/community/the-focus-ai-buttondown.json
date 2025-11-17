@@ -1,0 +1,16 @@
+{
+  "id": "the-focus-ai-buttondown",
+  "name": "Buttondown",
+  "provider": "The Focus AI",
+  "description": "Integrates with Buttondown newsletter API for managing email campaigns through tools for listing, creating,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/the-focus-ai-buttondown",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:12.219099",
+  "metadata": {}
+}

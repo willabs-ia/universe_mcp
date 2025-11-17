@@ -1,0 +1,16 @@
+{
+  "id": "rafalwilinski-aws",
+  "name": "AWS",
+  "provider": "Rafal Wilinski",
+  "description": "Bridges AWS services with the AWS SDK v2, enabling secure access and management of AWS resources for cloud...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 18, 2024",
+  "url": "https://www.pulsemcp.com/servers/rafalwilinski-aws",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:40.050456",
+  "metadata": {}
+}

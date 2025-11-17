@@ -1,0 +1,19 @@
+{
+  "id": "baidu-maps",
+  "name": "Baidu Maps",
+  "provider": "Baidu Maps",
+  "description": "Integrates with Baidu Maps API for location-based operations including geocoding, route planning, and location search...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 51
+  },
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/baidu-maps",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:14.957806",
+  "metadata": {}
+}

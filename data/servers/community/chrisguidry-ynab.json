@@ -1,0 +1,16 @@
+{
+  "id": "chrisguidry-ynab",
+  "name": "YNAB",
+  "provider": "Chris Guidry",
+  "description": "Integrates with YNAB's official API to provide read-only access to budget data including accounts, categories, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/chrisguidry-ynab",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:47.670660",
+  "metadata": {}
+}

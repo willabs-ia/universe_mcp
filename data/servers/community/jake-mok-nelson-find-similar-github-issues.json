@@ -1,0 +1,16 @@
+{
+  "id": "jake-mok-nelson-find-similar-github-issues",
+  "name": "GitHub Issue Finder",
+  "provider": "Jake Nelson",
+  "description": "Integrates with GitHub's API to find similar issues using Jaccard similarity, streamlining support workflows and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/jake-mok-nelson-find-similar-github-issues",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:12.997622",
+  "metadata": {}
+}

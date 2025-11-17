@@ -1,0 +1,19 @@
+{
+  "id": "icraft2170-youtube-data",
+  "name": "YouTube Data",
+  "provider": "Hero",
+  "description": "Integrates with YouTube Data API to retrieve and analyze video content, transcripts, channel statistics, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 175
+  },
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/icraft2170-youtube-data",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:40.228269",
+  "metadata": {}
+}

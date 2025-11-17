@@ -1,0 +1,16 @@
+{
+  "id": "wangle201210-dify-retriever",
+  "name": "Dify Dataset Retriever",
+  "provider": "wangle201210",
+  "description": "Integrates with Dify's dataset retrieval capabilities, exposing knowledge base querying as a discoverable tool for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/wangle201210-dify-retriever",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:01.364307",
+  "metadata": {}
+}

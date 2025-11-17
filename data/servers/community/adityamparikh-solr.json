@@ -1,0 +1,16 @@
+{
+  "id": "adityamparikh-solr",
+  "name": "Apache Solr",
+  "provider": "Aditya Parikh",
+  "description": "Integrates with Apache Solr to provide search, indexing, and collection management capabilities including advanced...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/adityamparikh-solr",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:54.104624",
+  "metadata": {}
+}

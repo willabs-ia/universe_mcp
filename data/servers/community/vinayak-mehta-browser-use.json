@@ -1,0 +1,19 @@
+{
+  "id": "vinayak-mehta-browser-use",
+  "name": "Browser Use",
+  "provider": "Vinayak Mehta",
+  "description": "Enables web browsing capabilities for any MCP client through a simple command that leverages your existing LLM...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 291
+  },
+  "release_date": "Mar 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/vinayak-mehta-browser-use",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:31.064378",
+  "metadata": {}
+}

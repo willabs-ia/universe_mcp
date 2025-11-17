@@ -1,0 +1,19 @@
+{
+  "id": "stevenstavrakis-obsidian",
+  "name": "Obsidian",
+  "provider": "Steven Stavrakis",
+  "description": "Integrates with Obsidian to enable natural language-based note creation, editing, and management within vaults.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 66
+  },
+  "release_date": "Jan 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/stevenstavrakis-obsidian",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:12.774746",
+  "metadata": {}
+}

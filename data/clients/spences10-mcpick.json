@@ -1,0 +1,11 @@
+{
+  "id": "spences10-mcpick",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Dynamic configuration manager for Claude Code that simplifies MCP server management through an interactive CLI interface with registry system, backup functionality, and the ability to toggle servers without manual JSON editing.",
+  "url": "https://www.pulsemcp.com/clients/spences10-mcpick",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.430408"
+}

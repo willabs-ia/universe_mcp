@@ -1,0 +1,16 @@
+{
+  "id": "robwilde-obsidian",
+  "name": "Obsidian",
+  "provider": "robwilde",
+  "description": "Automatically captures Claude Code responses and saves them as structured markdown files in your Obsidian vault with...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/robwilde-obsidian",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:02.983723",
+  "metadata": {}
+}

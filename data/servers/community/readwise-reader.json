@@ -1,0 +1,16 @@
+{
+  "id": "readwise-reader",
+  "name": "Readwise Reader",
+  "provider": "edricgsh",
+  "description": "Integrates with Readwise Reader API for saving URLs and HTML content, organizing documents across locations,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/readwise-reader",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:51.994215",
+  "metadata": {}
+}

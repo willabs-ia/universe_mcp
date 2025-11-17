@@ -1,0 +1,16 @@
+{
+  "id": "alxspiker-windows-command-line",
+  "name": "Windows Command Line MCP Server",
+  "provider": "Alex Spiker",
+  "description": "This server creates a secure bridge between Claude and your computer's command-line functionality.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/alxspiker-windows-command-line",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:01.394938",
+  "metadata": {}
+}

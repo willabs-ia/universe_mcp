@@ -1,0 +1,16 @@
+{
+  "id": "ghchen99-musescore",
+  "name": "MuseScore",
+  "provider": "George Chen",
+  "description": "Provides control of MuseScore music notation software through WebSocket communication, enabling composition, editing,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/ghchen99-musescore",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:52.025951",
+  "metadata": {}
+}

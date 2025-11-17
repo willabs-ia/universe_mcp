@@ -1,0 +1,16 @@
+{
+  "id": "mb-dev-macos-ui-automation",
+  "name": "macOS UI Automation",
+  "provider": "mb-dev",
+  "description": "Enables desktop automation on macOS through native accessibility APIs for clicking UI elements, typing text, taking...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/mb-dev-macos-ui-automation",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:09.302010",
+  "metadata": {}
+}

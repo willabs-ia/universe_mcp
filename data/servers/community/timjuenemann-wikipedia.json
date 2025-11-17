@@ -1,0 +1,19 @@
+{
+  "id": "timjuenemann-wikipedia",
+  "name": "Wikipedia",
+  "provider": "Tim Jünemann",
+  "description": "Provides a structured interface for searching and retrieving Wikipedia articles in clean Markdown format, enabling...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 43
+  },
+  "release_date": "Apr 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/timjuenemann-wikipedia",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:17.095928",
+  "metadata": {}
+}

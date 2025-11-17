@@ -1,0 +1,19 @@
+{
+  "id": "nottelabs-browser",
+  "name": "Notte Browser",
+  "provider": "Notte",
+  "description": "Provides a bridge between AI and Notte's cloud browser technology, enabling web automation, scraping, and autonomous...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 415
+  },
+  "release_date": "Apr 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/nottelabs-browser",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:26.765473",
+  "metadata": {}
+}

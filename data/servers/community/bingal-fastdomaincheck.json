@@ -1,0 +1,19 @@
+{
+  "id": "bingal-fastdomaincheck",
+  "name": "FastDomainCheck",
+  "provider": "Bingal",
+  "description": "Provides bulk domain registration status checking through WHOIS and DNS queries, supporting up to 50 domains...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/bingal-fastdomaincheck",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:50.914223",
+  "metadata": {}
+}

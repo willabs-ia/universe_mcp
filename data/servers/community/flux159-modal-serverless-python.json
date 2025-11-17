@@ -1,0 +1,16 @@
+{
+  "id": "flux159-modal-serverless-python",
+  "name": "Modal (Serverless Python)",
+  "provider": "Flux159",
+  "description": "Integrates with Modal's serverless platform to deploy and execute Python scripts in the cloud, enabling efficient...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 11, 2024",
+  "url": "https://www.pulsemcp.com/servers/flux159-modal-serverless-python",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:35.722192",
+  "metadata": {}
+}

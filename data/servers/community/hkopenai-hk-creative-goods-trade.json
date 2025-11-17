@@ -1,0 +1,16 @@
+{
+  "id": "hkopenai-hk-creative-goods-trade",
+  "name": "Hong Kong Creative Goods Trade",
+  "provider": "Neo Chow",
+  "description": "Provides access to Hong Kong's creative goods trade statistics from the Culture, Sports and Tourism Bureau, enabling...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/hkopenai-hk-creative-goods-trade",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:27.137963",
+  "metadata": {}
+}

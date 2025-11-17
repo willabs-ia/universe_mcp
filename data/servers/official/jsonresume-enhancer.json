@@ -1,0 +1,16 @@
+{
+  "id": "jsonresume-enhancer",
+  "name": "JSON Resume Enhancer",
+  "provider": "JSON Resume",
+  "description": "Enhances JSON Resumes with GitHub project information by analyzing codebases, fetching existing resumes, and...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Mar 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/jsonresume-enhancer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:10.875350",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "djeknet-firelinks",
+  "name": "Firelinks",
+  "provider": "djeknet",
+  "description": "Integrates with Firelinks URL shortening platform to create and manage branded short links, configure custom domains...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/djeknet-firelinks",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:37.533240",
+  "metadata": {}
+}

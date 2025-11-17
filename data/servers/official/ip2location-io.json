@@ -1,0 +1,16 @@
+{
+  "id": "ip2location-io",
+  "name": "IP2Location.io",
+  "provider": "IP2Location.io",
+  "description": "Integrates with IP2Location.io API to retrieve geographic location, network details, security insights, and metadata...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Jun 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/ip2location-io",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:52.001739",
+  "metadata": {}
+}

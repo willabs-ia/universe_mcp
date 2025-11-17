@@ -1,0 +1,16 @@
+{
+  "id": "aourpallynikhil-photoroom",
+  "name": "Photoroom",
+  "provider": "Nikhil Aourpally",
+  "description": "Provides a bridge to the Photoroom API for removing image backgrounds with configurable output formats and scaling...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/aourpallynikhil-photoroom",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:18.554102",
+  "metadata": {}
+}

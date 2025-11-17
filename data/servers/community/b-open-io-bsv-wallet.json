@@ -1,0 +1,16 @@
+{
+  "id": "b-open-io-bsv-wallet",
+  "name": "Bitcoin SV Wallet",
+  "provider": "satchmo",
+  "description": "Integrates with Bitcoin SV blockchain to enable wallet operations, transaction management, and NFT interactions while...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/b-open-io-bsv-wallet",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:21.346453",
+  "metadata": {}
+}

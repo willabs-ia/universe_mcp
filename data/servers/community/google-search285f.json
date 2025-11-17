@@ -1,0 +1,16 @@
+{
+  "id": "google-search285f",
+  "name": "Google Search",
+  "provider": "demondehellis",
+  "description": "Provides web search capabilities and webpage content extraction through Google Custom Search API, enabling access to...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/google-search285f",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:17.098688",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "google-forms",
+  "name": "Google Forms",
+  "provider": "Masatoshi",
+  "description": "Enables programmatic interaction with Google Forms by generating refresh tokens and establishing OAuth authentication...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/google-forms",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:54.991914",
+  "metadata": {}
+}

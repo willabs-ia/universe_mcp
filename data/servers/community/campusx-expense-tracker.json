@@ -1,0 +1,19 @@
+{
+  "id": "campusx-expense-tracker",
+  "name": "Expense Tracker",
+  "provider": "CampusX",
+  "description": "Tracks personal expenses through SQLite database with 20 predefined categories, enabling expense recording,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Sep 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/campusx-expense-tracker",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:04.042817",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "justaname-ens",
+  "name": "Ethereum Name Service (ENS)",
+  "provider": "JustaName",
+  "description": "Integrates with the Ethereum Name Service to resolve ENS names to addresses, perform lookups, retrieve records, check...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 2
+  },
+  "release_date": "Mar 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/justaname-ens",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:52.274473",
+  "metadata": {}
+}

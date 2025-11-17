@@ -1,0 +1,16 @@
+{
+  "id": "cloudwerx-diffugen",
+  "name": "DiffuGen",
+  "provider": "CloudWerx",
+  "description": "CloudWerx's DiffuGen provides a flexible image generation server that supports multiple stable diffusion models with...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/cloudwerx-diffugen",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:59.246530",
+  "metadata": {}
+}

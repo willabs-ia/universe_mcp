@@ -1,0 +1,16 @@
+{
+  "id": "inspektor-gadget",
+  "name": "Inspektor Gadget",
+  "provider": "Inspektor Gadget",
+  "description": "Integrates with Kubernetes clusters using Inspektor Gadget to provide intelligent troubleshooting, network...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Aug 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/inspektor-gadget",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:09.314174",
+  "metadata": {}
+}

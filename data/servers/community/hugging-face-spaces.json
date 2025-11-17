@@ -1,0 +1,16 @@
+{
+  "id": "hugging-face-spaces",
+  "name": "Hugging Face Spaces",
+  "provider": "Shaun Smith",
+  "description": "Connects Claude Desktop to Hugging Face Spaces by automatically discovering and exposing Gradio endpoints as tools,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/hugging-face-spaces",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:10.016284",
+  "metadata": {}
+}

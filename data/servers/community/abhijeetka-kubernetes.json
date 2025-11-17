@@ -1,0 +1,16 @@
+{
+  "id": "abhijeetka-kubernetes",
+  "name": "Kubernetes",
+  "provider": "Abhijeet Kamble",
+  "description": "Bridges natural language interactions with Kubernetes clusters by wrapping kubectl commands, enabling conversational...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/abhijeetka-kubernetes",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:19.350508",
+  "metadata": {}
+}

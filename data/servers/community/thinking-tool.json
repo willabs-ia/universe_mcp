@@ -1,0 +1,16 @@
+{
+  "id": "thinking-tool",
+  "name": "Thinking Tool",
+  "provider": "Piotr Palek",
+  "description": "Provides a dedicated 'think' tool for externalizing complex reasoning processes without performing any actual...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/thinking-tool",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:19.234606",
+  "metadata": {}
+}

@@ -14,7 +14,7 @@
       "description": "Use case title"
     },
     "description": {
-      "type": "string",
+      "type": ["string", "null"],
       "description": "Detailed description of the use case"
     },
     "url": {

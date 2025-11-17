@@ -1,0 +1,19 @@
+{
+  "id": "skyworkai-mureka-music-generation",
+  "name": "Mureka.ai Music Generation",
+  "provider": "Mureka.ai",
+  "description": "Provides a bridge to Mureka.ai's music generation capabilities, enabling on-demand creation of lyrics, complete...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 22
+  },
+  "release_date": "Apr 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/skyworkai-mureka-music-generation",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:23.562295",
+  "metadata": {}
+}

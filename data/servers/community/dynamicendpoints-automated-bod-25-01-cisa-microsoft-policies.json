@@ -1,0 +1,19 @@
+{
+  "id": "dynamicendpoints-automated-bod-25-01-cisa-microsoft-policies",
+  "name": "BOD 25-01 CISA Microsoft Policies",
+  "provider": "Dynamic Endpoints",
+  "description": "Integrates with Microsoft Graph API to enforce CISA Directive 25-01 security controls for Microsoft 365, enabling...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Dec 17, 2024",
+  "url": "https://www.pulsemcp.com/servers/dynamicendpoints-automated-bod-25-01-cisa-microsoft-policies",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:42.328860",
+  "metadata": {}
+}

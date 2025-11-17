@@ -1,0 +1,19 @@
+{
+  "id": "feiskyer-ai-hub",
+  "name": "AI Hub",
+  "provider": "Pengfei Ni",
+  "description": "Provides unified access to 100+ AI providers through LiteLLM integration, enabling seamless switching between OpenAI,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 49
+  },
+  "release_date": "Sep 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/feiskyer-ai-hub",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:14.974274",
+  "metadata": {}
+}

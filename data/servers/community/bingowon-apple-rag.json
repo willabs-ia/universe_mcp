@@ -1,0 +1,19 @@
+{
+  "id": "bingowon-apple-rag",
+  "name": "Apple Developer Documentation (RAG)",
+  "provider": "BingoWon",
+  "description": "Provides semantic search and retrieval for Apple Developer Documentation using vector similarity search, keyword...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jul 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/bingowon-apple-rag",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:04.035521",
+  "metadata": {}
+}

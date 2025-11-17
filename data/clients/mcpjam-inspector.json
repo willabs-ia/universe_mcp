@@ -1,0 +1,11 @@
+{
+  "id": "mcpjam-inspector",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Development tool for debugging and testing MCP servers with React-based interface, real-time connection management, tool execution, resource browsing, and chat capabilities across multiple AI providers.",
+  "url": "https://www.pulsemcp.com/clients/mcpjam-inspector",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.318477"
+}

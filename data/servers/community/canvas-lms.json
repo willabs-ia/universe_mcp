@@ -1,0 +1,16 @@
+{
+  "id": "canvas-lms",
+  "name": "Canvas LMS",
+  "provider": "R.Huijts",
+  "description": "Integrates with Canvas LMS to enable course management, student data analysis, and administrative task automation...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/canvas-lms",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:39.489324",
+  "metadata": {}
+}

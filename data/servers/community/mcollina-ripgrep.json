@@ -1,0 +1,19 @@
+{
+  "id": "mcollina-ripgrep",
+  "name": "Ripgrep",
+  "provider": "Matteo Collina",
+  "description": "Provides high-performance text search capabilities by wrapping ripgrep, enabling powerful file exploration, pattern...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 105
+  },
+  "release_date": "Mar 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/mcollina-ripgrep",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:06.245792",
+  "metadata": {}
+}

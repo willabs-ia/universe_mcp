@@ -1,0 +1,16 @@
+{
+  "id": "alexgarabt-bizangafest-penetration-testing",
+  "name": "Bizangafest Penetration Testing",
+  "provider": "alexgarabt",
+  "description": "Autonomous penetration testing server that performs network reconnaissance with nmap scanning and vulnerability...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/alexgarabt-bizangafest-penetration-testing",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:37.566286",
+  "metadata": {}
+}

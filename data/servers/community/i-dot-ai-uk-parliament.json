@@ -1,0 +1,16 @@
+{
+  "id": "i-dot-ai-uk-parliament",
+  "name": "UK Parliament",
+  "provider": "i.AI",
+  "description": "Integrates with UK Parliament's API and Hansard debates to provide constituency searches, member information,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/i-dot-ai-uk-parliament",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:54.092830",
+  "metadata": {}
+}

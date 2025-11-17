@@ -1,0 +1,19 @@
+{
+  "id": "ryudg-sql",
+  "name": "SQL Database Bridge",
+  "provider": "Donggyun Ryu",
+  "description": "Provides a bridge to SQL databases (MSSQL, MySQL, PostgreSQL) for executing queries, exploring schemas, monitoring...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "May 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/ryudg-sql",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:56.908528",
+  "metadata": {}
+}

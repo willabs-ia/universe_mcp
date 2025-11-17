@@ -1,0 +1,16 @@
+{
+  "id": "deanward-hal-http-api-layer",
+  "name": "HAL (HTTP API Layer)",
+  "provider": "Dean Ward",
+  "description": "Transforms OpenAPI/Swagger specifications into dynamic HTTP tools with secret management and URL restrictions,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/deanward-hal-http-api-layer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:52.012100",
+  "metadata": {}
+}

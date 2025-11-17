@@ -1,0 +1,19 @@
+{
+  "id": "ssh-manager",
+  "name": "SSH Manager",
+  "provider": "bvisible",
+  "description": "Enables secure SSH command execution, file transfers, and automated deployments across multiple remote servers with...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Aug 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/ssh-manager",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:01.871315",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "marcelmarais-obsidian-notes",
+  "name": "Obsidian Notes",
+  "provider": "Marcel Marais",
+  "description": "Enables direct filesystem access to Obsidian vaults for retrieving file lists, reading content, managing todos, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/marcelmarais-obsidian-notes",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:50.773622",
+  "metadata": {}
+}

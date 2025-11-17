@@ -1,0 +1,16 @@
+{
+  "id": "odos",
+  "name": "Odos",
+  "provider": "Odos",
+  "description": "Integrates with Odos API and Zerion platform to provide DeFi trading capabilities including swap quotes, zap...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Sep 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/odos",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:26.649340",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "lipdog-excel-master",
+  "name": "Excel Master",
+  "provider": "Lipdog",
+  "description": "Integrates with Excel using XLwings to enable automated data manipulation, analysis, and reporting for business...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/lipdog-excel-master",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:57.210044",
+  "metadata": {}
+}

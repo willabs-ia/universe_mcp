@@ -1,0 +1,16 @@
+{
+  "id": "alc6-mig2schema",
+  "name": "mig2schema",
+  "provider": "alexiscl",
+  "description": "Extracts database schema from PostgreSQL migration files by running them in temporary containers and outputting...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/alc6-mig2schema",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:56.237758",
+  "metadata": {}
+}

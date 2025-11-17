@@ -1,0 +1,11 @@
+{
+  "id": "copilotkit-spreadsheet-editor",
+  "name": "Unknown",
+  "provider": null,
+  "description": "React-based chat interface for interacting with MCP servers, featuring a spreadsheet editor and natural language data manipulation with support for both stdio and SSE transport methods.",
+  "url": "https://www.pulsemcp.com/clients/copilotkit-spreadsheet-editor",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.461065"
+}

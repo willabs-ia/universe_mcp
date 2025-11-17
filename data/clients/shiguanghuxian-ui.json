@@ -1,0 +1,11 @@
+{
+  "id": "shiguanghuxian-ui",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Cross-platform desktop application that provides a graphical interface for testing and interacting with MCP servers through command-line and SSE connections with tool discovery, parameter validation, and real-time result viewing.",
+  "url": "https://www.pulsemcp.com/clients/shiguanghuxian-ui",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.547985"
+}

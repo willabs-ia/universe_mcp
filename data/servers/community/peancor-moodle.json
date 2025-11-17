@@ -1,0 +1,19 @@
+{
+  "id": "peancor-moodle",
+  "name": "Moodle",
+  "provider": "peancor",
+  "description": "Streamlines Moodle educational workflows by providing automated tools for retrieving student information, managing...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 415
+  },
+  "release_date": "Mar 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/peancor-moodle",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:26.750983",
+  "metadata": {}
+}

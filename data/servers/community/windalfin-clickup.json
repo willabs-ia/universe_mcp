@@ -1,0 +1,16 @@
+{
+  "id": "windalfin-clickup",
+  "name": "ClickUp",
+  "provider": "Talib Kareem",
+  "description": "Integrates with ClickUp task management to enable task creation, updating, moving, and bulk operations with...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/windalfin-clickup",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:25.725855",
+  "metadata": {}
+}

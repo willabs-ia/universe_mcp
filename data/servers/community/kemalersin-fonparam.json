@@ -1,0 +1,19 @@
+{
+  "id": "kemalersin-fonparam",
+  "name": "FonParam",
+  "provider": "Kemal Ersin YILMAZ",
+  "description": "Integrates with FonParam's Turkish mutual funds API to provide real-time fund data, performance metrics, and market...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 4
+  },
+  "release_date": "Jul 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/kemalersin-fonparam",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:47.999617",
+  "metadata": {}
+}

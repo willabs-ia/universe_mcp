@@ -1,0 +1,19 @@
+{
+  "id": "ref-mcp-ui-widgets",
+  "name": "MCP-UI Widgets",
+  "provider": "ref-tools",
+  "description": "Demo: Provides MCP-UI components including timers, stopwatches, fact displays, and unit converters through templated...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 3
+  },
+  "release_date": "Aug 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/ref-mcp-ui-widgets",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:50.205299",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "jelasin-ida-pro",
+  "name": "IDA Pro",
+  "provider": "jelasin",
+  "description": "Bridges IDA Pro disassembler with external tools through a proxy architecture that enables remote access to binary...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Aug 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/jelasin-ida-pro",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:01.875948",
+  "metadata": {}
+}

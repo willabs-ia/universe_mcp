@@ -1,0 +1,16 @@
+{
+  "id": "plyght-studentvue",
+  "name": "StudentVue",
+  "provider": "plyght",
+  "description": "Integrates with StudentVue information systems to provide access to grades, attendance, schedules, messages, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/plyght-studentvue",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:39.795450",
+  "metadata": {}
+}

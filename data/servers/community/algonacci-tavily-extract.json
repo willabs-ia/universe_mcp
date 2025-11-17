@@ -1,0 +1,16 @@
+{
+  "id": "algonacci-tavily-extract",
+  "name": "Tavily Extract",
+  "provider": "Eric Julianto",
+  "description": "Integrates with the Tavily API to extract web page content, enabling efficient web scraping capabilities for projects...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/algonacci-tavily-extract",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:05.778170",
+  "metadata": {}
+}

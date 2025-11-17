@@ -1,0 +1,19 @@
+{
+  "id": "jhacksman-openscad",
+  "name": "OpenSCAD 3D Model Generator",
+  "provider": "J Hacksman",
+  "description": "Transforms natural language descriptions into parametric 3D models through a pipeline of image generation, object...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 553
+  },
+  "release_date": "Mar 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/jhacksman-openscad",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:24.625174",
+  "metadata": {}
+}

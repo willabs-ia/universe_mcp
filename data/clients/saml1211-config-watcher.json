@@ -1,0 +1,11 @@
+{
+  "id": "saml1211-config-watcher",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Automatically generates documentation for Claude's MCP configuration by monitoring file changes through CLI, web, or system tray interfaces.",
+  "url": "https://www.pulsemcp.com/clients/saml1211-config-watcher",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.524437"
+}

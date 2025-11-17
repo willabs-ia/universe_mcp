@@ -1,0 +1,16 @@
+{
+  "id": "bnm",
+  "name": "Bank Negara Malaysia",
+  "provider": "meisin",
+  "description": "Integrates with Bank Negara Malaysia's public APIs to provide direct access to Malaysian financial and economic data...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/bnm",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:54.131104",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "tencent-cloudbase-ai-toolkit",
+  "name": "CloudBase AI ToolKit",
+  "provider": "Tencent CloudBase",
+  "description": "Integrates with Tencent CloudBase's serverless platform to provide cloud functions, databases, static hosting, CDN...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Jul 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/tencent-cloudbase-ai-toolkit",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:24.999424",
+  "metadata": {}
+}

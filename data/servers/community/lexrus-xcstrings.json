@@ -1,0 +1,19 @@
+{
+  "id": "lexrus-xcstrings",
+  "name": "Xcode Localizable.xcstrings",
+  "provider": "lexrus",
+  "description": "Provides translation management for Xcode's Localizable.xcstrings files with CRUD operations, plural variations,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Sep 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/lexrus-xcstrings",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:04.039313",
+  "metadata": {}
+}

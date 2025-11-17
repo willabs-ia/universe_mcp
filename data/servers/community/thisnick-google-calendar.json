@@ -1,0 +1,16 @@
+{
+  "id": "thisnick-google-calendar",
+  "name": "Google Calendar",
+  "provider": "Nick",
+  "description": "Integrates with Google Calendar to enable natural language-based event management, scheduling, and productivity...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/thisnick-google-calendar",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:44.324194",
+  "metadata": {}
+}

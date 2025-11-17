@@ -1,0 +1,16 @@
+{
+  "id": "lowlyocean-duckduckgo-search",
+  "name": "DuckDuckGo Search",
+  "provider": "lowlyocean",
+  "description": "Integrates with DuckDuckGo to enable web search functionality, returning results as structured data for easy...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/lowlyocean-duckduckgo-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:03.334233",
+  "metadata": {}
+}

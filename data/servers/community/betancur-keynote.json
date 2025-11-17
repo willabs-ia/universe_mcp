@@ -1,0 +1,19 @@
+{
+  "id": "betancur-keynote",
+  "name": "Keynote",
+  "provider": "betancur",
+  "description": "Provides direct control over Apple Keynote presentations through AppleScript automation on macOS, enabling slide...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jul 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/betancur-keynote",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:59.588934",
+  "metadata": {}
+}

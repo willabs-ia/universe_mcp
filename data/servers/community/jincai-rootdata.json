@@ -1,0 +1,16 @@
+{
+  "id": "jincai-rootdata",
+  "name": "RootData",
+  "provider": "Jin Cai",
+  "description": "Provides a bridge to the RootData API for searching and retrieving detailed information about blockchain projects,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/jincai-rootdata",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:01.412782",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "zilongxue-email-manager",
+  "name": "Email Manager",
+  "provider": "Zilong Xue",
+  "description": "Integrates with email systems through IMAP and SMTP protocols to enable searching, retrieving, analyzing, and sending...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/zilongxue-email-manager",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:25.716961",
+  "metadata": {}
+}

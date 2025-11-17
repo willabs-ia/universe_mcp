@@ -1,0 +1,19 @@
+{
+  "id": "sap-notes",
+  "name": "SAP Notes",
+  "provider": "marianfoo",
+  "description": "Integrates with SAP's knowledge base using certificate authentication and browser automation to search and retrieve...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "Jul 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/sap-notes",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:37.995043",
+  "metadata": {}
+}

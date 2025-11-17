@@ -1,0 +1,19 @@
+{
+  "id": "mackenly-fathom-analytics",
+  "name": "Fathom Analytics",
+  "provider": "Mackenly Jones",
+  "description": "Integrates with Fathom Analytics to retrieve account information, manage sites, track events, generate reports, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 2
+  },
+  "release_date": "Mar 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/mackenly-fathom-analytics",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:52.273256",
+  "metadata": {}
+}

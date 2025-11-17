@@ -1,0 +1,11 @@
+{
+  "id": "ilyaev-chat-ui",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Full-stack web application for conversational AI interactions with real-time WebSocket communication, chart generation, Google authentication, and mathematical calculation tools built with React/TypeScript frontend and Express/Node.js backend.",
+  "url": "https://www.pulsemcp.com/clients/ilyaev-chat-ui",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.454941"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "letchupkt-kali-linux-tools",
+  "name": "Kali Linux Tools",
+  "provider": "LAKSHMIKANTHAN K",
+  "description": "Provides remote access to penetration testing tools like nmap, gobuster, sqlmap, metasploit, hydra, and nuclei...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Oct 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/letchupkt-kali-linux-tools",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:04.068749",
+  "metadata": {}
+}

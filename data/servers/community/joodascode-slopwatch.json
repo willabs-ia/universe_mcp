@@ -1,0 +1,19 @@
+{
+  "id": "joodascode-slopwatch",
+  "name": "SlopWatch",
+  "provider": "JoodasCode",
+  "description": "Tracks implementation claims versus actual delivery by monitoring file content changes, verifying code modifications...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 6
+  },
+  "release_date": "Jul 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/joodascode-slopwatch",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:41.482360",
+  "metadata": {}
+}

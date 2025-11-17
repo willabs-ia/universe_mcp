@@ -1,0 +1,19 @@
+{
+  "id": "nicholmikey-chrome-tools",
+  "name": "Chrome Tools",
+  "provider": "nicholmikey",
+  "description": "Integrates with Chrome's DevTools Protocol to enable remote control of browser tabs, including JavaScript execution,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 28
+  },
+  "release_date": "Feb 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/nicholmikey-chrome-tools",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:21.375350",
+  "metadata": {}
+}

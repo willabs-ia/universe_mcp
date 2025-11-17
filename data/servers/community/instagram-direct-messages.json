@@ -1,0 +1,19 @@
+{
+  "id": "instagram-direct-messages",
+  "name": "Instagram Direct Messages",
+  "provider": "Eyal Toledano",
+  "description": "Enables reading and sending Instagram direct messages through a Python server that authenticates with Instagram...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 3
+  },
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/instagram-direct-messages",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:48.026875",
+  "metadata": {}
+}

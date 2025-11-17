@@ -1,0 +1,11 @@
+{
+  "id": "imnmv-claude-r",
+  "name": "Unknown",
+  "provider": null,
+  "description": "R package for interactive coding sessions with Claude, establishing a local HTTP server for secure code execution, output capture, and interaction logging.",
+  "url": "https://www.pulsemcp.com/clients/imnmv-claude-r",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.324945"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "mineru98-mysql",
+  "name": "MySQL",
+  "provider": "iamiks",
+  "description": "Connects to MySQL databases to enable querying, analyzing, and manipulating data directly within conversation...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/mineru98-mysql",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:21.505818",
+  "metadata": {}
+}

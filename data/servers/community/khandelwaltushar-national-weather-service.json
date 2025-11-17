@@ -1,0 +1,16 @@
+{
+  "id": "khandelwaltushar-national-weather-service",
+  "name": "National Weather Service",
+  "provider": "Tushar Khandelwal",
+  "description": "Integrates with the National Weather Service API to provide current weather data and alerts for US locations without...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/khandelwaltushar-national-weather-service",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:05.805778",
+  "metadata": {}
+}

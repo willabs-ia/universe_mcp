@@ -1,0 +1,16 @@
+{
+  "id": "liuscraft-superset",
+  "name": "Apache Superset",
+  "provider": "LiusCraft",
+  "description": "Bridges Apache Superset with TypeScript to enable direct interaction with data visualization dashboards, allowing...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/liuscraft-superset",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:46.275814",
+  "metadata": {}
+}

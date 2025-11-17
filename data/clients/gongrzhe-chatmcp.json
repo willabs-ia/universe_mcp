@@ -1,0 +1,11 @@
+{
+  "id": "gongrzhe-chatmcp",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Python-based client for interacting with multiple LLM providers via CLI or web API, supporting external tool integration with robust error handling and reconnection capabilities.",
+  "url": "https://www.pulsemcp.com/clients/gongrzhe-chatmcp",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.447188"
+}

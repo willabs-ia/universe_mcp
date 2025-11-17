@@ -1,0 +1,16 @@
+{
+  "id": "kvas-it-file-system",
+  "name": "Filesystem",
+  "provider": "kvas-it",
+  "description": "Implements an extensive list of filesystem operations for navigating, reading, writing, and analyzing files, enabling...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/kvas-it-file-system",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:55.077647",
+  "metadata": {}
+}

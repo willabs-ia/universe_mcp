@@ -1,0 +1,19 @@
+{
+  "id": "yshalsager-4get",
+  "name": "4get",
+  "provider": "yshalsager",
+  "description": "Integrates with the 4get meta search engine to provide privacy-focused web, image, and news searches through a search...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 32
+  },
+  "release_date": "Sep 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/yshalsager-4get",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:21.357683",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "paulsmith-tailscale-network-monitor",
+  "name": "Tailscale Network Monitor",
+  "provider": "Paul Smith",
+  "description": "Provides read-only access to your Tailscale network for monitoring connected devices, checking network status,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/paulsmith-tailscale-network-monitor",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:14.961271",
+  "metadata": {}
+}

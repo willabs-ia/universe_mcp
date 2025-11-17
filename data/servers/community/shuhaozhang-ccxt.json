@@ -1,0 +1,16 @@
+{
+  "id": "shuhaozhang-ccxt",
+  "name": "CCXT (Cryptocurrency Exchange)",
+  "provider": "Shuhao Zhang",
+  "description": "Connects language models to cryptocurrency exchanges through a unified API for market data access and trading...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/shuhaozhang-ccxt",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:20.720625",
+  "metadata": {}
+}

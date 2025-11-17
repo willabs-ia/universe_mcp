@@ -1,0 +1,16 @@
+{
+  "id": "sammcj-data-extractor",
+  "name": "Data Extractor",
+  "provider": "Sam McLeod",
+  "description": "Extracts data from TypeScript/JavaScript code into JSON configuration files, facilitating code refactoring and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/sammcj-data-extractor",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:04.155129",
+  "metadata": {}
+}

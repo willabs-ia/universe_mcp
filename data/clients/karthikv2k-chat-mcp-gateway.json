@@ -1,0 +1,11 @@
+{
+  "id": "karthikv2k-chat-mcp-gateway",
+  "name": "Unknown",
+  "provider": null,
+  "description": "FastAPI-based server that manages multiple MCP servers through a JSON database, providing endpoints for server discovery, tool exploration, and invocation with support for local and cloud deployment.",
+  "url": "https://www.pulsemcp.com/clients/karthikv2k-chat-mcp-gateway",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.484327"
+}

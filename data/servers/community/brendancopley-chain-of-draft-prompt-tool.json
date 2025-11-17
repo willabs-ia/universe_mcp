@@ -1,0 +1,16 @@
+{
+  "id": "brendancopley-chain-of-draft-prompt-tool",
+  "name": "Chain of Draft Prompt Tool",
+  "provider": "Brendan Copley",
+  "description": "Organizes prompts into structured, multi-step workflows through a chain execution system where outputs from one step...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/brendancopley-chain-of-draft-prompt-tool",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:32.733265",
+  "metadata": {}
+}

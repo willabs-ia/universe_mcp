@@ -1,0 +1,19 @@
+{
+  "id": "ratheesh-aot-clockify",
+  "name": "Clockify",
+  "provider": "Ratheesh Kumar",
+  "description": "Integrates with Clockify's API to provide complete time tracking and project management capabilities including time...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/ratheesh-aot-clockify",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:59.077290",
+  "metadata": {}
+}

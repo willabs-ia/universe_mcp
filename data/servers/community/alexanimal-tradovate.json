@@ -1,0 +1,16 @@
+{
+  "id": "alexanimal-tradovate",
+  "name": "Tradovate",
+  "provider": "David Alexander",
+  "description": "Integrates with the Tradovate trading platform API to enable futures contract management, position monitoring, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/alexanimal-tradovate",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:23.619375",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "megagrindstone-gopls",
+  "name": "gopls",
+  "provider": "Gerard Adam",
+  "description": "Integrates with gopls to provide Go language server capabilities including go-to-definition, find references, hover...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/megagrindstone-gopls",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:54.102963",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "n0safe-directus",
+  "name": "Directus",
+  "provider": "N0SAFE",
+  "description": "Integrates with Directus CMS to enable CRUD operations on collections through the REST API, allowing seamless...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/n0safe-directus",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:28.235377",
+  "metadata": {}
+}

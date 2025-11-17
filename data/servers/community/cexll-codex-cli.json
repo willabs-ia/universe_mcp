@@ -1,0 +1,19 @@
+{
+  "id": "cexll-codex-cli",
+  "name": "Codex CLI",
+  "provider": "cexll",
+  "description": "Bridges OpenAI's Codex CLI with structured command execution, brainstorming sessions, and chunked response delivery...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 70
+  },
+  "release_date": "Oct 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/cexll-codex-cli",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:10.562187",
+  "metadata": {}
+}

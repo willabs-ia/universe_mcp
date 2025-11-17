@@ -1,0 +1,16 @@
+{
+  "id": "cheerlights",
+  "name": "CheerLights",
+  "provider": "Hans Scharler",
+  "description": "Connects Claude to the CheerLights IoT ecosystem, enabling retrieval of current colors and history from the global...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/cheerlights",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:28.234011",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "chrome-browser-control",
+  "name": "Chrome Browser Control",
+  "provider": "Aleksey Smolenchuk",
+  "description": "Enables fine-grained control over Chrome browser instances through the Chrome DevTools Protocol, allowing web...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/chrome-browser-control",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:50.939219",
+  "metadata": {}
+}

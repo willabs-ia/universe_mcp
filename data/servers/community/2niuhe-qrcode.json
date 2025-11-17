@@ -1,0 +1,16 @@
+{
+  "id": "2niuhe-qrcode",
+  "name": "QR Code Generator",
+  "provider": "niu_he",
+  "description": "Generates QR codes from any text including Chinese characters with customizable styling options like colors, box...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/2niuhe-qrcode",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:54.090224",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "aashari-atlassian-bitbucket",
+  "name": "Bitbucket",
+  "provider": "Andi Ashari",
+  "description": "Integrates with Bitbucket's REST APIs to enable repository management, pull request handling, and workspace...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 347
+  },
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/aashari-atlassian-bitbucket",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:28.864018",
+  "metadata": {}
+}

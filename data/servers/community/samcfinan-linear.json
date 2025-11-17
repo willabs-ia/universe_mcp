@@ -1,0 +1,16 @@
+{
+  "id": "samcfinan-linear",
+  "name": "Linear",
+  "provider": "Sam Finan",
+  "description": "Integrates with Linear's project management API to enable creation, viewing, updating, and management of projects,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/samcfinan-linear",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:59.331258",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "zcaceres-google-tasks",
+  "name": "Google Tasks",
+  "provider": "Zach Caceres",
+  "description": "Integrates with Google Tasks API to enable task management capabilities like listing, creating, and updating tasks.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Dec 21, 2024",
+  "url": "https://www.pulsemcp.com/servers/zcaceres-google-tasks",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:44.479890",
+  "metadata": {}
+}

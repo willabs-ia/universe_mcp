@@ -1,0 +1,19 @@
+{
+  "id": "triplewhale",
+  "name": "Triple Whale",
+  "provider": "Triple Whale",
+  "description": "Integrates with Triple Whale's API to enable querying and analysis of e-commerce performance metrics for sales...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 4
+  },
+  "release_date": "Feb 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/triplewhale",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:45.779399",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cockroachdb",
+  "name": "CockroachDB",
+  "provider": "Amine El Kouhen",
+  "description": "Provides natural language access to CockroachDB clusters through cluster monitoring for health checks and performance...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/cockroachdb",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:27.128328",
+  "metadata": {}
+}

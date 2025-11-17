@@ -1,0 +1,16 @@
+{
+  "id": "tusharshahi-jira",
+  "name": "Jira",
+  "provider": "Tushar Shahi",
+  "description": "Provides a bridge between Jira and conversational interfaces, enabling updating Jira dashboards, ticket creation,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/tusharshahi-jira",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:27.962490",
+  "metadata": {}
+}

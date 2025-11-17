@@ -1,0 +1,16 @@
+{
+  "id": "jmtanguy-french-legal-research",
+  "name": "French Legal Research",
+  "provider": "Jean-Michel Tanguy",
+  "description": "Integrates with Légifrance and Judilibre APIs to provide unified access to French legal documents, case law, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/jmtanguy-french-legal-research",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:35.357640",
+  "metadata": {}
+}

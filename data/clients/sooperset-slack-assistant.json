@@ -1,0 +1,11 @@
+{
+  "id": "sooperset-slack-assistant",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Slack bot that leverages multiple language models to process messages, dynamically discover and execute tools from configured servers, and provide intelligent responses across channels and direct messages.",
+  "url": "https://www.pulsemcp.com/clients/sooperset-slack-assistant",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.324347"
+}

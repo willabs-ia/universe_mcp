@@ -1,0 +1,19 @@
+{
+  "id": "lzsheng-yapi",
+  "name": "YApi",
+  "provider": "lzsheng",
+  "description": "Integrates with YApi for API management, enabling seamless access to API documentation for tasks like code...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/lzsheng-yapi",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:48.762829",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "jprealini-cypress-test-generator",
+  "name": "Cypress Test Generator",
+  "provider": "Juan P. Realini",
+  "description": "Automates Cypress test generation by analyzing web pages with Puppeteer to extract DOM elements and generate...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 5
+  },
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/jprealini-cypress-test-generator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:43.645780",
+  "metadata": {}
+}

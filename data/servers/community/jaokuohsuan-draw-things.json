@@ -1,0 +1,16 @@
+{
+  "id": "jaokuohsuan-draw-things",
+  "name": "Draw Things",
+  "provider": "James Jao",
+  "description": "Integrates with the Draw Things API to convert text prompts or JSON inputs into JSON-RPC requests, enabling AI image...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/jaokuohsuan-draw-things",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:13.001584",
+  "metadata": {}
+}

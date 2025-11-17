@@ -1,0 +1,16 @@
+{
+  "id": "kubesphere-ks",
+  "name": "KubeSphere",
+  "provider": "KubeSphere",
+  "description": "Integrates with KubeSphere APIs to enable management of Kubernetes clusters, workspaces, users, and extensions...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Apr 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/kubesphere-ks",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:27.986643",
+  "metadata": {}
+}

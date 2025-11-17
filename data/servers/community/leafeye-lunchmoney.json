@@ -1,0 +1,19 @@
+{
+  "id": "leafeye-lunchmoney",
+  "name": "Lunchmoney",
+  "provider": "leafeye",
+  "description": "Integrates with the Lunchmoney personal finance API to enable transaction retrieval, spending analysis, and budget...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 5
+  },
+  "release_date": "Feb 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/leafeye-lunchmoney",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:43.604396",
+  "metadata": {}
+}

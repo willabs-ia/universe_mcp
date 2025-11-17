@@ -1,0 +1,16 @@
+{
+  "id": "thesethrose-alexa-shopping-list",
+  "name": "Alexa Shopping List",
+  "provider": "Seth Rose",
+  "description": "Connects to Amazon's Alexa shopping list backend, enabling viewing, adding, deleting, and marking items as complete...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/thesethrose-alexa-shopping-list",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:19.254855",
+  "metadata": {}
+}

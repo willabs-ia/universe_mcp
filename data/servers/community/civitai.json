@@ -1,0 +1,16 @@
+{
+  "id": "civitai",
+  "name": "Civitai",
+  "provider": "Cicatriiz",
+  "description": "Integrates with Civitai's model repository to provide model search, image browsing, creator discovery, and download...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/civitai",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:17.791930",
+  "metadata": {}
+}

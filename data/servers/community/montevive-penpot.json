@@ -1,0 +1,19 @@
+{
+  "id": "montevive-penpot",
+  "name": "Penpot",
+  "provider": "Montevive AI Team",
+  "description": "Integrates with Penpot's API to enable project browsing, file retrieval, object searching, and visual component...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 145
+  },
+  "release_date": "May 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/montevive-penpot",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:42.293146",
+  "metadata": {}
+}

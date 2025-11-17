@@ -1,0 +1,19 @@
+{
+  "id": "putio",
+  "name": "Put.io",
+  "provider": "put.io",
+  "description": "Enables AI to manage put.io file transfers by listing, adding, canceling, and retrieving browser links for downloads...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 57
+  },
+  "release_date": "Apr 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/putio",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:12.822276",
+  "metadata": {}
+}

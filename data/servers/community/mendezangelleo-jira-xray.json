@@ -1,0 +1,16 @@
+{
+  "id": "mendezangelleo-jira-xray",
+  "name": "Jira Xray",
+  "provider": "mendezangelleo",
+  "description": "Integrates with Jira and Xray to automatically generate Gherkin test scenarios from user stories and comments using...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/mendezangelleo-jira-xray",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:39.801669",
+  "metadata": {}
+}

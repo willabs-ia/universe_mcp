@@ -1,0 +1,11 @@
+{
+  "id": "danieloh30-quarkus-agentic",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Quarkus-based agentic application that leverages LangChain4j to integrate Brave Search, Google Maps, Slack, and filesystem operations for performing complex tasks like finding restaurants, providing directions, and managing calendars.",
+  "url": "https://www.pulsemcp.com/clients/danieloh30-quarkus-agentic",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.522562"
+}

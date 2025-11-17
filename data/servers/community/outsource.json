@@ -1,0 +1,16 @@
+{
+  "id": "outsource",
+  "name": "Outsource",
+  "provider": "Garrett Bischof",
+  "description": "Delegates text generation and image creation tasks to external AI models including OpenAI, Anthropic, Google, Groq,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/outsource",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:41.151682",
+  "metadata": {}
+}

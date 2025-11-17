@@ -1,0 +1,16 @@
+{
+  "id": "wycats-mcpify",
+  "name": "MCPify (OpenAPI)",
+  "provider": "Yehuda Katz",
+  "description": "Transforms OpenAPI/Swagger specifications into dynamic MCP tools on the fly, enabling interaction with any REST API...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/wycats-mcpify",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:25.911482",
+  "metadata": {}
+}

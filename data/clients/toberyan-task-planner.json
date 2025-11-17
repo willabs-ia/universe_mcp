@@ -1,0 +1,11 @@
+{
+  "id": "toberyan-task-planner",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Task planning system that breaks down complex natural language requests into sequential tasks, enabling users to execute workflows across multiple server types like bash, file, and weather using language models.",
+  "url": "https://www.pulsemcp.com/clients/toberyan-task-planner",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.497156"
+}

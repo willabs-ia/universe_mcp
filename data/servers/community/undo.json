@@ -1,0 +1,16 @@
+{
+  "id": "undo",
+  "name": "Undo",
+  "provider": "khalilbalaree",
+  "description": "Provides checkpoint-based version control with intelligent undo functionality that tracks file changes, creates...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/undo",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:15.711354",
+  "metadata": {}
+}

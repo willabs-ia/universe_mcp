@@ -1,0 +1,16 @@
+{
+  "id": "wave-accounting",
+  "name": "Wave Accounting",
+  "provider": "Vincent Cadoret",
+  "description": "Integrates with Wave Accounting's GraphQL API to automatically create expense and income transactions from receipt...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/wave-accounting",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:47.680287",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "tght1211-http-bridge",
+  "name": "HTTP Bridge",
+  "provider": "Tght1211",
+  "description": "Middleware server that enables secure interaction with HTTP APIs through a configurable bridge, allowing dynamic...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/tght1211-http-bridge",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:03.531765",
+  "metadata": {}
+}

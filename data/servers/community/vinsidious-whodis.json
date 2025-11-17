@@ -1,0 +1,19 @@
+{
+  "id": "vinsidious-whodis",
+  "name": "Whodis (Domain Availability Checker)",
+  "provider": "Vince Coppola",
+  "description": "Provides domain availability checking through WHOIS lookups, enabling users to verify multiple domain names...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 3
+  },
+  "release_date": "May 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/vinsidious-whodis",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:50.172450",
+  "metadata": {}
+}

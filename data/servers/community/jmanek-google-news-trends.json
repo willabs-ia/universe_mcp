@@ -1,0 +1,19 @@
+{
+  "id": "jmanek-google-news-trends",
+  "name": "Google News & Trends",
+  "provider": "Jesse Manek",
+  "description": "Integrates with Google News RSS feeds and Google Trends to provide news article search, trending topic retrieval, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 321
+  },
+  "release_date": "Aug 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/jmanek-google-news-trends",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:31.053083",
+  "metadata": {}
+}

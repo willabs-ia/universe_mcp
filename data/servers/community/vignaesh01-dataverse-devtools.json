@@ -1,0 +1,16 @@
+{
+  "id": "vignaesh01-dataverse-devtools",
+  "name": "Dataverse DevTools",
+  "provider": "vignaesh01",
+  "description": "Integrates with Microsoft Power Platform Dataverse environments to provide user administration, security role...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/vignaesh01-dataverse-devtools",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:35.316368",
+  "metadata": {}
+}

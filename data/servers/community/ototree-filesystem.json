@@ -1,0 +1,16 @@
+{
+  "id": "ototree-filesystem",
+  "name": "Filesystem",
+  "provider": "otoTree",
+  "description": "Enables local file and document operations through asynchronous processing, supporting reading, writing, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/ototree-filesystem",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:12.220380",
+  "metadata": {}
+}

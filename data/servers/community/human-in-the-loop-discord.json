@@ -1,0 +1,16 @@
+{
+  "id": "human-in-the-loop-discord",
+  "name": "Human-in-the-Loop (Discord)",
+  "provider": "KOBA789",
+  "description": "Enables human-in-the-loop interactions by creating Discord threads where assistants can request information from...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/human-in-the-loop-discord",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:49.850213",
+  "metadata": {}
+}

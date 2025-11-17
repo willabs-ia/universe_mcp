@@ -1,0 +1,19 @@
+{
+  "id": "oxplot-clipboard",
+  "name": "Clipboard Image",
+  "provider": "oxplot",
+  "description": "Enables access to macOS clipboard images for quick visual analysis without manual file uploads",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/oxplot-clipboard",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:33.762070",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "etoxin-untappd",
+  "name": "Untappd",
+  "provider": "Adam Lusted",
+  "description": "Provides a bridge to the Untappd beer tracking API, enabling search and retrieval of detailed beer and brewery...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/etoxin-untappd",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:20.701051",
+  "metadata": {}
+}

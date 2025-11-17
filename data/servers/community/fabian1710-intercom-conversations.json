@@ -1,0 +1,16 @@
+{
+  "id": "fabian1710-intercom-conversations",
+  "name": "Intercom",
+  "provider": "Fabian",
+  "description": "Integrates with Intercom to provide filtered access to conversations and chats, enabling detailed analysis of...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 26, 2024",
+  "url": "https://www.pulsemcp.com/servers/fabian1710-intercom-conversations",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:46.411247",
+  "metadata": {}
+}

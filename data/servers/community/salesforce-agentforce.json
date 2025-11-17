@@ -1,0 +1,16 @@
+{
+  "id": "salesforce-agentforce",
+  "name": "Agentforce (Salesforce)",
+  "provider": "Xavier Lengelle",
+  "description": "Provides a bridge to Salesforce's Agentforce API, enabling authentication, session management, and message exchange...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/salesforce-agentforce",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:14.965446",
+  "metadata": {}
+}

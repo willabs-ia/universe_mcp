@@ -1,0 +1,16 @@
+{
+  "id": "okx",
+  "name": "OKX",
+  "provider": "Max Barinov",
+  "description": "Integrates with OKX cryptocurrency exchange to provide read-only access to account portfolios, trading positions,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/okx",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:13.582159",
+  "metadata": {}
+}

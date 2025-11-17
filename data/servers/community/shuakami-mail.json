@@ -1,0 +1,19 @@
+{
+  "id": "shuakami-mail",
+  "name": "Mail",
+  "provider": "shuakami",
+  "description": "Enables AI assistants to send and receive emails directly through IMAP and SMTP protocols, bridging email services...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/shuakami-mail",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:50.926064",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "yunaga224-obsidian-memory",
+  "name": "Obsidian Memory",
+  "provider": "YuNaga224",
+  "description": "Stores conversation memories as Obsidian-compatible Markdown files with YAML frontmatter and [[link]] syntax,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jul 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/yunaga224-obsidian-memory",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:59.597613",
+  "metadata": {}
+}

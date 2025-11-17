@@ -1,0 +1,19 @@
+{
+  "id": "xxczaki-local-history",
+  "name": "Local History",
+  "provider": "Antoni Kepinski",
+  "description": "Provides direct access to Cursor/VS Code Local History data with tools for listing files with history, retrieving...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 4
+  },
+  "release_date": "Aug 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/xxczaki-local-history",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:47.995130",
+  "metadata": {}
+}

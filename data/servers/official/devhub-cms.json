@@ -1,0 +1,19 @@
+{
+  "id": "devhub-cms",
+  "name": "DevHub CMS",
+  "provider": "DevHub",
+  "description": "Manage and utilize content within DevHub CMS (blog posts, hours of operation and other content).",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 47
+  },
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/devhub-cms",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:17.073564",
+  "metadata": {}
+}

@@ -1,0 +1,11 @@
+{
+  "id": "kamrul1157024-claude-sse-client",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Python client for connecting to MCP servers via SSE, enabling Claude to discover and execute tools through an interactive chat interface.",
+  "url": "https://www.pulsemcp.com/clients/kamrul1157024-claude-sse-client",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.556279"
+}

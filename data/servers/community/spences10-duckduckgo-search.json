@@ -1,0 +1,16 @@
+{
+  "id": "spences10-duckduckgo-search",
+  "name": "DuckDuckGo Search",
+  "provider": "Scott Spence",
+  "description": "Integrates DuckDuckGo search capabilities with customizable parameters for web-based information retrieval.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/spences10-duckduckgo-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:50.827055",
+  "metadata": {}
+}

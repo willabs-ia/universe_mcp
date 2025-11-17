@@ -1,0 +1,16 @@
+{
+  "id": "dumplingai",
+  "name": "Dumpling AI",
+  "provider": "Dumpling AI",
+  "description": "Integrates with Dumpling AI's platform to provide web scraping, search, document conversion, multimedia processing,...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Sep 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/dumplingai",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:29.269861",
+  "metadata": {}
+}

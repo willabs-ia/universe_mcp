@@ -1,0 +1,16 @@
+{
+  "id": "twolven-puppeteer",
+  "name": "Puppeteer Browser Automation",
+  "provider": "Todd Wolven",
+  "description": "Integrates with Puppeteer to provide browser automation capabilities for web navigation, interaction, and data...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 3, 2024",
+  "url": "https://www.pulsemcp.com/servers/twolven-puppeteer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:33.656338",
+  "metadata": {}
+}

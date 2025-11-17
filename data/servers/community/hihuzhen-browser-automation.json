@@ -1,0 +1,19 @@
+{
+  "id": "hihuzhen-browser-automation",
+  "name": "Browser Automation",
+  "provider": "hihuzhen",
+  "description": "Provides browser automation through a Chrome extension and WebSocket server, enabling navigation, element...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 35
+  },
+  "release_date": "Sep 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/hihuzhen-browser-automation",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:19.272993",
+  "metadata": {}
+}

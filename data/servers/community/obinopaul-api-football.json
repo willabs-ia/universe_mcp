@@ -1,0 +1,16 @@
+{
+  "id": "obinopaul-api-football",
+  "name": "API-Football",
+  "provider": "Obino Paul",
+  "description": "Provides a bridge to API-Football for accessing soccer data including league standings, team fixtures, player...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/obinopaul-api-football",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:32.706968",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "paybyrd-payment-processing",
+  "name": "Paybyrd Payment Processing",
+  "provider": "Paybyrd",
+  "description": "Integrates with Paybyrd's payment processing API to enable creating payment links, processing refunds, and retrieving...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Mar 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/paybyrd-payment-processing",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:37.029173",
+  "metadata": {}
+}

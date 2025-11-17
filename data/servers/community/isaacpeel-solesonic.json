@@ -1,0 +1,16 @@
+{
+  "id": "isaacpeel-solesonic",
+  "name": "Solesonic",
+  "provider": "Isaac Peel",
+  "description": "Spring Boot-based MCP server implementation with OAuth2 JWT authentication through AWS Cognito that provides a simple...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/isaacpeel-solesonic",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:11.483284",
+  "metadata": {}
+}

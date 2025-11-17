@@ -1,0 +1,19 @@
+{
+  "id": "wiremcp-network-traffic-analysis",
+  "name": "WireMCP (Wireshark)",
+  "provider": "0xKoda",
+  "description": "Empowers network analysis with real-time traffic monitoring capabilities through Wireshark's tshark utility,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 553
+  },
+  "release_date": "Mar 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/wiremcp-network-traffic-analysis",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:24.630644",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "sirosuzume-ts-morph",
+  "name": "TypeScript Refactoring",
+  "provider": "SiroSuzume",
+  "description": "Enables AI to perform complex TypeScript/JavaScript refactoring operations like renaming symbols, moving code between...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/sirosuzume-ts-morph",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:36.813413",
+  "metadata": {}
+}

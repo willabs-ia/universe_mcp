@@ -1,0 +1,16 @@
+{
+  "id": "wireshark-network-analysis",
+  "name": "Wireshark Network Analysis",
+  "provider": "kriztalz",
+  "description": "Integrates with Wireshark's tshark tool to capture and analyze network packets with configurable filters, SSL...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/wireshark-network-analysis",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:47.696699",
+  "metadata": {}
+}

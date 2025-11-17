@@ -1,0 +1,16 @@
+{
+  "id": "tbosak-specbridge",
+  "name": "Specbridge",
+  "provider": "Tim Barani",
+  "description": "Automatically converts OpenAPI specifications into executable tools by scanning folders for spec files and generating...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/tbosak-specbridge",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:56.227095",
+  "metadata": {}
+}

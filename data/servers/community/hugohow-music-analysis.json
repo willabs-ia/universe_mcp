@@ -1,0 +1,16 @@
+{
+  "id": "hugohow-music-analysis",
+  "name": "Music Analysis",
+  "provider": "Hugo How-Choong",
+  "description": "Integrates librosa's audio processing capabilities to provide detailed music and audio analysis tools for extracting...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/hugohow-music-analysis",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:21.461662",
+  "metadata": {}
+}

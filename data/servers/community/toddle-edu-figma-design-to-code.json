@@ -1,0 +1,19 @@
+{
+  "id": "toddle-edu-figma-design-to-code",
+  "name": "Figma Design to Code",
+  "provider": "toddle-edu",
+  "description": "Converts Figma designs into pseudo-code by fetching node images and generating JSX/CSS components with semantic...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 2
+  },
+  "release_date": "Jul 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/toddle-edu-figma-design-to-code",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:52.313268",
+  "metadata": {}
+}

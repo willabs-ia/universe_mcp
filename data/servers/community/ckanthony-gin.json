@@ -1,0 +1,16 @@
+{
+  "id": "ckanthony-gin",
+  "name": "Gin-MCP",
+  "provider": "Anthony WK Chan",
+  "description": "Automatically exposes existing Gin API endpoints as tools with zero configuration, requiring just a single line of...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/ckanthony-gin",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:21.366044",
+  "metadata": {}
+}

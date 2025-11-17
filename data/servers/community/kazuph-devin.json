@@ -1,0 +1,16 @@
+{
+  "id": "kazuph-devin",
+  "name": "Devin",
+  "provider": "kazuph",
+  "description": "Integrates with Slack to enable seamless team collaboration through automated session management, thread context...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/kazuph-devin",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:52.878570",
+  "metadata": {}
+}

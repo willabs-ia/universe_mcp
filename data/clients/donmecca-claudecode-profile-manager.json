@@ -1,0 +1,11 @@
+{
+  "id": "donmecca-claudecode-profile-manager",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Terminal-based MCP manager that provides profile isolation and configuration management for Claude Code's MCP servers across multiple development contexts with automatic backup, restore functionality, and a Bubble Tea-powered interface for toggling servers and switching profiles.",
+  "url": "https://www.pulsemcp.com/clients/donmecca-claudecode-profile-manager",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.515063"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cdgaete-token-scope",
+  "name": "TokenScope",
+  "provider": "Carlos Gaete",
+  "description": "Scans codebases to intelligently extract and prioritize files for LLMs while respecting token limits and .gitignore...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 29
+  },
+  "release_date": "Apr 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/cdgaete-token-scope",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:21.372904",
+  "metadata": {}
+}

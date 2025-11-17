@@ -1,0 +1,16 @@
+{
+  "id": "tomsiwik-experts",
+  "name": "Code Expert Review",
+  "provider": "Tom Siwik",
+  "description": "Provides expert-level code review through simulated personas like Martin Fowler and Uncle Bob, offering refactoring...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/tomsiwik-experts",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:23.620683",
+  "metadata": {}
+}

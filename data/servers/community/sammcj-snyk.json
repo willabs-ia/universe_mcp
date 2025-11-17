@@ -1,0 +1,16 @@
+{
+  "id": "sammcj-snyk",
+  "name": "Snyk",
+  "provider": "Sam McLeod",
+  "description": "Integrates with Snyk CLI to scan GitHub repositories and Snyk projects for security vulnerabilities directly within...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/sammcj-snyk",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:34.858864",
+  "metadata": {}
+}

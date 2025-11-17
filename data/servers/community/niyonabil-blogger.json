@@ -1,0 +1,16 @@
+{
+  "id": "niyonabil-blogger",
+  "name": "Blogger",
+  "provider": "Nabil",
+  "description": "Connects to Google's Blogger API for creating, updating, and managing blog posts through TypeScript-based Node.js...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/niyonabil-blogger",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:44.154096",
+  "metadata": {}
+}

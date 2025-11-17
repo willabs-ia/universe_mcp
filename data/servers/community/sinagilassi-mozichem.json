@@ -1,0 +1,19 @@
+{
+  "id": "sinagilassi-mozichem",
+  "name": "MoziChem",
+  "provider": "Sina Gilassi",
+  "description": "Provides thermodynamic and chemical engineering calculations through the MoziChem framework, offering equation of...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 15
+  },
+  "release_date": "Aug 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/sinagilassi-mozichem",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:30.161423",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "neerajadhav-stock-market-yfinance",
+  "name": "Stock Market (yfinance)",
+  "provider": "Neeraj Adhav",
+  "description": "Integrates with yfinance to provide real-time stock quotes, historical price data, market indices tracking, technical...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/neerajadhav-stock-market-yfinance",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:07.238128",
+  "metadata": {}
+}

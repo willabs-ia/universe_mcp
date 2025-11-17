@@ -1,0 +1,19 @@
+{
+  "id": "mikeyny-image-generation-replicate-flux-schnell",
+  "name": "Image Generation (Flux-Schnell)",
+  "provider": "mikeyny",
+  "description": "Enables text-to-image generation using Replicate's flux-schnell model, offering configurable parameters for on-demand...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Feb 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/mikeyny-image-generation-replicate-flux-schnell",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:46.620448",
+  "metadata": {}
+}

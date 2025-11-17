@@ -1,0 +1,16 @@
+{
+  "id": "samuelrizzo-jira",
+  "name": "Jira",
+  "provider": "Samuel Rizzo",
+  "description": "Integrates with Atlassian Jira to enable listing projects, retrieving issue details, searching by project and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/samuelrizzo-jira",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:37.019952",
+  "metadata": {}
+}

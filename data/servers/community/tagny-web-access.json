@@ -1,0 +1,19 @@
+{
+  "id": "tagny-web-access",
+  "name": "Tagny Web Access",
+  "provider": "tagny ngompe",
+  "description": "Provides web access tools for fetching URL text content and extracting page links using BeautifulSoup for HTML...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 32
+  },
+  "release_date": "Aug 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/tagny-web-access",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:21.356486",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "bitscorp-ffmpeg-video-processor",
+  "name": "FFmpeg Video Processor",
+  "provider": "Bits Corp",
+  "description": "Enables video manipulation through FFmpeg, offering capabilities to resize videos to different resolutions and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/bitscorp-ffmpeg-video-processor",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:21.485706",
+  "metadata": {}
+}

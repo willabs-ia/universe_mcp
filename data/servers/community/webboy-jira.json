@@ -1,0 +1,16 @@
+{
+  "id": "webboy-jira",
+  "name": "Jira",
+  "provider": "webboy",
+  "description": "Integrates with Jira Cloud API to provide comprehensive issue management including creation, searching, workflow...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/webboy-jira",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:37.521089",
+  "metadata": {}
+}

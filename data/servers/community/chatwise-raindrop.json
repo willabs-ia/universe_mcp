@@ -1,0 +1,19 @@
+{
+  "id": "chatwise-raindrop",
+  "name": "Raindrop.io",
+  "provider": "EGOIST",
+  "description": "Integrates with Raindrop.io bookmarking service to enable searching, creating, and retrieving bookmarks and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 7
+  },
+  "release_date": "Apr 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/chatwise-raindrop",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:39.346731",
+  "metadata": {}
+}

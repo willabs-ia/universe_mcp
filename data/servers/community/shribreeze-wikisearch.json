@@ -1,0 +1,16 @@
+{
+  "id": "shribreeze-wikisearch",
+  "name": "Wikipedia",
+  "provider": "shribreeze",
+  "description": "Provides a bridge to Wikipedia's REST API for retrieving article summaries and factual information through concise...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/shribreeze-wikisearch",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:18.541164",
+  "metadata": {}
+}

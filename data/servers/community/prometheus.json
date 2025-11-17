@@ -1,0 +1,19 @@
+{
+  "id": "prometheus",
+  "name": "Prometheus",
+  "provider": "Idan Fishman",
+  "description": "Integrates with Prometheus monitoring systems to provide direct access to time-series metrics through specialized...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 18
+  },
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/prometheus",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:27.989011",
+  "metadata": {}
+}

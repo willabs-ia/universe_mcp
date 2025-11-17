@@ -1,0 +1,16 @@
+{
+  "id": "kuvanov-jira",
+  "name": "JIRA",
+  "provider": "kuvanov-2",
+  "description": "Provides a bridge to Atlassian JIRA for retrieving issue details by key using TypeScript and JSON-RPC requests over...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/kuvanov-jira",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:16.455961",
+  "metadata": {}
+}

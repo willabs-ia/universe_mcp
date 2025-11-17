@@ -1,0 +1,16 @@
+{
+  "id": "microsoft-word",
+  "name": "Microsoft Word",
+  "provider": "Microsoft",
+  "description": "Interact with Microsoft Word.",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Feb 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/microsoft-word",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:03.345381",
+  "metadata": {}
+}

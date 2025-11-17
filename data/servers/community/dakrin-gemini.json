@@ -1,0 +1,16 @@
+{
+  "id": "dakrin-gemini",
+  "name": "Gemini 2.5 Pro",
+  "provider": "dakrin",
+  "description": "Enables Claude Desktop to interact with Google's Gemini 2.5 Pro model through a TypeScript server with Google Search...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/dakrin-gemini",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:01.378439",
+  "metadata": {}
+}

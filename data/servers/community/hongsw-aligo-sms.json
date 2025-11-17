@@ -1,0 +1,16 @@
+{
+  "id": "hongsw-aligo-sms",
+  "name": "Aligo SMS",
+  "provider": "Seungwon Hong",
+  "description": "Integrates with the Aligo SMS API to enable direct text message sending through the platform, supporting both test...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/hongsw-aligo-sms",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:14.310252",
+  "metadata": {}
+}

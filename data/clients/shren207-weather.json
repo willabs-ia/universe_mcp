@@ -1,0 +1,11 @@
+{
+  "id": "shren207-weather",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Integrates with weather data APIs to provide current conditions and forecasts for trip planning and outdoor event scheduling.",
+  "url": "https://www.pulsemcp.com/clients/shren207-weather",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.520145"
+}

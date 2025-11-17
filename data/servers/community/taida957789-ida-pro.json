@@ -1,0 +1,19 @@
+{
+  "id": "taida957789-ida-pro",
+  "name": "IDA Pro",
+  "provider": "taida957789",
+  "description": "Enables direct interaction with IDA Pro for binary analysis tasks including disassembly, decompilation, and function...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/taida957789-ida-pro",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:35.872042",
+  "metadata": {}
+}

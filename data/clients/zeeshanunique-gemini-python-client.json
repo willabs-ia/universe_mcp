@@ -1,0 +1,11 @@
+{
+  "id": "zeeshanunique-gemini-python-client",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Python client for connecting to MCP servers with Gemini-compatible function declarations, supporting both Streamlit and Chainlit interfaces for web application integration.",
+  "url": "https://www.pulsemcp.com/clients/zeeshanunique-gemini-python-client",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.496665"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cdpath-chatgpt-app",
+  "name": "ChatGPT macOS App",
+  "provider": "cdpath",
+  "description": "Enables interaction with the ChatGPT macOS app through AppleScript automation, allowing tools to send prompts via...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 60
+  },
+  "release_date": "Apr 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/cdpath-chatgpt-app",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:12.807982",
+  "metadata": {}
+}

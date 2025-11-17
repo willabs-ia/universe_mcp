@@ -1,0 +1,19 @@
+{
+  "id": "bright8192-esxi",
+  "name": "VMware ESXi",
+  "provider": "Bright8192",
+  "description": "Provides a RESTful API for complete VMware ESXi/vCenter environment management including VM lifecycle operations and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 415
+  },
+  "release_date": "Mar 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/bright8192-esxi",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:26.732587",
+  "metadata": {}
+}

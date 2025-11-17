@@ -1,0 +1,19 @@
+{
+  "id": "allenporter-home-assistant",
+  "name": "Home Assistant",
+  "provider": "Allen Porter",
+  "description": "Interact with Home Assistant for querying and controlling smart home devices.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 14
+  },
+  "release_date": "Nov 27, 2024",
+  "url": "https://www.pulsemcp.com/servers/allenporter-home-assistant",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:30.162801",
+  "metadata": {}
+}

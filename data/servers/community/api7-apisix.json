@@ -1,0 +1,19 @@
+{
+  "id": "api7-apisix",
+  "name": "Apache APISIX",
+  "provider": "API7.ai",
+  "description": "Bridge LLMs with the APISIX Admin API to manage and analyze API gateway information.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 6
+  },
+  "release_date": "Mar 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/api7-apisix",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:41.465826",
+  "metadata": {}
+}

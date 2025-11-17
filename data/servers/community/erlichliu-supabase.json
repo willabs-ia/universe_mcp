@@ -1,0 +1,16 @@
+{
+  "id": "erlichliu-supabase",
+  "name": "Supabase",
+  "provider": "ErlichLiu",
+  "description": "Integrates with Supabase's PostgreSQL database service to enable persistent data storage, user management, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/erlichliu-supabase",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:49.853964",
+  "metadata": {}
+}

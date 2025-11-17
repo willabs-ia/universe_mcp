@@ -1,0 +1,19 @@
+{
+  "id": "zenml-io-zenml",
+  "name": "ZenML",
+  "provider": "ZenML",
+  "description": "Integrates with ZenML to enable querying pipeline metadata, triggering new runs, and analyzing ML workflow history...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/zenml-io-zenml",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:48.789295",
+  "metadata": {}
+}

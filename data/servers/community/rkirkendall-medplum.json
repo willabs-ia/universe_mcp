@@ -1,0 +1,16 @@
+{
+  "id": "rkirkendall-medplum",
+  "name": "Medplum",
+  "provider": "rkirkendall",
+  "description": "Integrates with Medplum's FHIR healthcare platform to enable creating, reading, updating, and searching healthcare...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/rkirkendall-medplum",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:00.610809",
+  "metadata": {}
+}

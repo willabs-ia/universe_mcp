@@ -1,0 +1,16 @@
+{
+  "id": "mwhesse-dataverse",
+  "name": "Dataverse",
+  "provider": "mwhesse",
+  "description": "Integrates with Microsoft Dataverse to enable schema operations, data management, and configuration tasks across...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/mwhesse-dataverse",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:02.960926",
+  "metadata": {}
+}

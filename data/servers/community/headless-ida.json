@@ -1,0 +1,16 @@
+{
+  "id": "headless-ida",
+  "name": "Headless IDA Pro",
+  "provider": "cnitlrt",
+  "description": "Enables reverse engineering of binary files through IDA Pro's headless mode, providing tools for function analysis,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/headless-ida",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:01.404604",
+  "metadata": {}
+}

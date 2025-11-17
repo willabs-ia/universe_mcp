@@ -1,0 +1,16 @@
+{
+  "id": "justcall",
+  "name": "JustCall",
+  "provider": "SaaS Labs US Inc.",
+  "description": "Integrates with JustCall's voice communication platform to retrieve and analyze call data with filtering options for...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Oct 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/justcall",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:33.239433",
+  "metadata": {}
+}

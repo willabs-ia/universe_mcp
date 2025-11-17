@@ -1,0 +1,11 @@
+{
+  "id": "fully-ai-rag",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Next.js chatbot leveraging GPT-4o-mini and GroundX search to provide conversational interactions with retrieval-augmented generation and integrated tool calling capabilities.",
+  "url": "https://www.pulsemcp.com/clients/fully-ai-rag",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.558939"
+}

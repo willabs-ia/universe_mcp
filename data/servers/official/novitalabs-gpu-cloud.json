@@ -1,0 +1,19 @@
+{
+  "id": "novitalabs-gpu-cloud",
+  "name": "Novita AI GPU Cloud",
+  "provider": "Novita AI",
+  "description": "Provides direct access to Novita AI's GPU cloud infrastructure for deploying, monitoring, and managing...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 2
+  },
+  "release_date": "May 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/novitalabs-gpu-cloud",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:52.296871",
+  "metadata": {}
+}

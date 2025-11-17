@@ -1,0 +1,11 @@
+{
+  "id": "ravitemer-mcphub-nvim",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Neovim plugin for managing multiple MCP servers directly within your editor, enabling seamless AI-assisted development workflows.",
+  "url": "https://www.pulsemcp.com/clients/ravitemer-mcphub-nvim",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.383961"
+}

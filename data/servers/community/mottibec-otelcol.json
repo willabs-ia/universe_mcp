@@ -1,0 +1,19 @@
+{
+  "id": "mottibec-otelcol",
+  "name": "OpenTelemetry Collector",
+  "provider": "Motti Bechhofer",
+  "description": "Provides a configuration interface for OpenTelemetry Collectors, enabling dynamic management of telemetry components...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Apr 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/mottibec-otelcol",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:55.267422",
+  "metadata": {}
+}

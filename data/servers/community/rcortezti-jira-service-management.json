@@ -1,0 +1,16 @@
+{
+  "id": "rcortezti-jira-service-management",
+  "name": "JIRA Service Management",
+  "provider": "rcortezti",
+  "description": "Integrates with Atlassian JIRA through REST API to provide issue creation, customer request management, comment...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/rcortezti-jira-service-management",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:28.795065",
+  "metadata": {}
+}

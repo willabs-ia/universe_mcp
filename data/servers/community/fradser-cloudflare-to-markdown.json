@@ -1,0 +1,19 @@
+{
+  "id": "fradser-cloudflare-to-markdown",
+  "name": "Cloudflare AI to Markdown",
+  "provider": "Frad Lee",
+  "description": "Bridges Claude with Cloudflare's AI services to convert PDFs, images, HTML, and Office documents into structured...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Mar 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/fradser-cloudflare-to-markdown",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:54.755221",
+  "metadata": {}
+}

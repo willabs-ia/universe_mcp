@@ -1,0 +1,16 @@
+{
+  "id": "jeanibarz-knowledge-base-retrieval",
+  "name": "Knowledge Base Retrieval",
+  "provider": "Jean Ibarz",
+  "description": "Integrates with knowledge bases to enable efficient content retrieval and vectorization for question answering and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/jeanibarz-knowledge-base-retrieval",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:57.222226",
+  "metadata": {}
+}

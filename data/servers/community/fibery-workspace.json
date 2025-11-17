@@ -1,0 +1,19 @@
+{
+  "id": "fibery-workspace",
+  "name": "Fibery",
+  "provider": "Fibery Inc",
+  "description": "Provides a flexible integration with the Fibery API, enabling querying, creating, and updating entities across...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 103
+  },
+  "release_date": "Mar 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/fibery-workspace",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:06.252672",
+  "metadata": {}
+}

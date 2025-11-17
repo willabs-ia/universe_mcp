@@ -1,0 +1,16 @@
+{
+  "id": "datscix-lumenx-legal-spend-intelligence",
+  "name": "LumenX Legal Spend Intelligence",
+  "provider": "DatSciX",
+  "description": "Aggregates legal spend data from LegalTracker APIs, SAP/Oracle ERP systems, PostgreSQL databases, and CSV/Excel files...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/datscix-lumenx-legal-spend-intelligence",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:49.876645",
+  "metadata": {}
+}

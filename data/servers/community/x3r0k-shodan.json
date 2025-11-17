@@ -1,0 +1,16 @@
+{
+  "id": "x3r0k-shodan",
+  "name": "Shodan",
+  "provider": "X3r0K",
+  "description": "Integrates with Shodan's database to enable host information lookup, vulnerability scanning, and DNS resolution for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/x3r0k-shodan",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:52.903701",
+  "metadata": {}
+}

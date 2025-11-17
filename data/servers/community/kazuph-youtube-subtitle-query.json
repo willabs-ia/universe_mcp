@@ -1,0 +1,19 @@
+{
+  "id": "kazuph-youtube-subtitle-query",
+  "name": "YouTube Subtitles",
+  "provider": "kazuph",
+  "description": "Integrates YouTube subtitle retrieval for natural language queries about video content.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 12
+  },
+  "release_date": "Jan 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/kazuph-youtube-subtitle-query",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:32.743482",
+  "metadata": {}
+}

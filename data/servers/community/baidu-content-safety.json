@@ -1,0 +1,16 @@
+{
+  "id": "baidu-content-safety",
+  "name": "Baidu Content Safety",
+  "provider": "Liang Junyu",
+  "description": "Integrates with Baidu Cloud's content safety APIs to screen text and other content for potentially harmful,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/baidu-content-safety",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:36.850965",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "nacgarg-bazel",
+  "name": "Bazel",
+  "provider": "nacgarg",
+  "description": "Bridges AI with Bazel build system, enabling target building, dependency querying, test running, and workspace...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/nacgarg-bazel",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:48.780184",
+  "metadata": {}
+}

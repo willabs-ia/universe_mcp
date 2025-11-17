@@ -1,0 +1,16 @@
+{
+  "id": "stass-exif-metadata",
+  "name": "EXIF Metadata",
+  "provider": "Stass",
+  "description": "Extracts and analyzes image metadata offline from JPEG, PNG, TIFF, and HEIC formats, providing tools for reading...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/stass-exif-metadata",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:30.095892",
+  "metadata": {}
+}

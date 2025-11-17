@@ -1,0 +1,19 @@
+{
+  "id": "getfounded-unified-tool-kit",
+  "name": "Unified Tool Kit",
+  "provider": "getfounded",
+  "description": "Provides a unified Docker-based server with over 100 integrated tools spanning file operations, web search, browser...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 46
+  },
+  "release_date": "Mar 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/getfounded-unified-tool-kit",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:17.078995",
+  "metadata": {}
+}

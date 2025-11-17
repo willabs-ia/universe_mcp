@@ -1,0 +1,16 @@
+{
+  "id": "paymanai-documentation",
+  "name": "PaymanAI",
+  "provider": "PaymanAI",
+  "description": "Provides a bridge to PaymanAI's documentation and SDK, enabling dynamic retrieval, caching, and problem-solving...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Mar 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/paymanai-documentation",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:20.697154",
+  "metadata": {}
+}

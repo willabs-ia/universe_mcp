@@ -1,0 +1,16 @@
+{
+  "id": "azure-api-management-gateway-with-entra-id-authentication",
+  "name": "Azure API Management Gateway with Entra ID Authentication",
+  "provider": "Microsoft",
+  "description": "Secures remote AI servers using Azure API Management as a gateway with Microsoft Entra ID authentication, enabling...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Apr 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/azure-api-management-gateway-with-entra-id-authentication",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:14.977681",
+  "metadata": {}
+}

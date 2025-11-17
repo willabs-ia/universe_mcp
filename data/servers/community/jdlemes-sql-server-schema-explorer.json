@@ -1,0 +1,16 @@
+{
+  "id": "jdlemes-sql-server-schema-explorer",
+  "name": "SQL Server Schema Explorer",
+  "provider": "jdlemes",
+  "description": "Provides SQL Server database schema exploration tools for retrieving tables, columns, and relationships through...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/jdlemes-sql-server-schema-explorer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:23.732649",
+  "metadata": {}
+}

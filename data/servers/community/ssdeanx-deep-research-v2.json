@@ -1,0 +1,19 @@
+{
+  "id": "ssdeanx-deep-research-v2",
+  "name": "Deep Research",
+  "provider": "ssdeanx",
+  "description": "Integrates search engines, web scraping, and Gemini models to perform iterative, deep research on any topic,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "Feb 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/ssdeanx-deep-research-v2",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:33.748733",
+  "metadata": {}
+}

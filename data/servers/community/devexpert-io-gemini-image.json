@@ -1,0 +1,16 @@
+{
+  "id": "devexpert-io-gemini-image",
+  "name": "Gemini Image",
+  "provider": "Antonio",
+  "description": "Integrates with Google's Gemini 2.5 Flash Image Preview model to generate images from text descriptions and edit...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/devexpert-io-gemini-image",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:26.684715",
+  "metadata": {}
+}

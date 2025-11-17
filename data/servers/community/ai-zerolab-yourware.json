@@ -1,0 +1,19 @@
+{
+  "id": "ai-zerolab-yourware",
+  "name": "Yourware",
+  "provider": "Wh1isper",
+  "description": "Enables direct uploading of web projects to yourware.so hosting platform without leaving your development environment",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 15
+  },
+  "release_date": "Apr 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/ai-zerolab-yourware",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:30.153991",
+  "metadata": {}
+}

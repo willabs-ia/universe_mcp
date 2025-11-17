@@ -1,0 +1,16 @@
+{
+  "id": "tadasant-ssh-rails-runner",
+  "name": "SSH Rails Runner",
+  "provider": "Tadas Antanavicius",
+  "description": "Enables safe remote execution of Rails console commands via SSH for efficient data operations and administrative...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/tadasant-ssh-rails-runner",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:55.081558",
+  "metadata": {}
+}

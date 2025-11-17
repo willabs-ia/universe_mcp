@@ -1,0 +1,11 @@
+{
+  "id": "danieliser-code-mode",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Provides secure sandboxed execution across multiple runtimes (TypeScript, Python, JavaScript, Bash) with automatic MCP tool binding for code orchestration and workflow automation.",
+  "url": "https://www.pulsemcp.com/clients/danieliser-code-mode",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.502497"
+}

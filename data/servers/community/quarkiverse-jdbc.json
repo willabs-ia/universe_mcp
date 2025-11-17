@@ -1,0 +1,19 @@
+{
+  "id": "quarkiverse-jdbc",
+  "name": "JDBC Database Explorer",
+  "provider": "Quarkiverse",
+  "description": "Enables interaction with databases via JDBC connections, supporting querying, modification, and exploration of...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 69
+  },
+  "release_date": "Jan 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/quarkiverse-jdbc",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:10.564595",
+  "metadata": {}
+}

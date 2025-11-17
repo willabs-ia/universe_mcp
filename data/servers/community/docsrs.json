@@ -1,0 +1,16 @@
+{
+  "id": "docsrs",
+  "name": "docs.rs",
+  "provider": "Marius Modlich",
+  "description": "Provides access to Rust crate documentation from docs.rs by fetching and parsing rustdoc JSON data with caching...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/docsrs",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:47.716825",
+  "metadata": {}
+}

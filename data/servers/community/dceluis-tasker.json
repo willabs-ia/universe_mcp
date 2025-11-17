@@ -1,0 +1,16 @@
+{
+  "id": "dceluis-tasker",
+  "name": "Tasker",
+  "provider": "Luis Sanchez",
+  "description": "Bridges Android's Tasker automation platform with conversational interfaces through HTTP API integration, enabling...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/dceluis-tasker",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:17.796138",
+  "metadata": {}
+}

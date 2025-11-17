@@ -1,0 +1,16 @@
+{
+  "id": "sarthaksiddha-wireshark",
+  "name": "Wireshark",
+  "provider": "Sarthak Siddha",
+  "description": "Extracts, structures, and transmits network packet data from Wireshark for security analysis, anomaly detection, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/sarthaksiddha-wireshark",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:32.214555",
+  "metadata": {}
+}

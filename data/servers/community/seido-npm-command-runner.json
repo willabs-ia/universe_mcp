@@ -1,0 +1,16 @@
+{
+  "id": "seido-npm-command-runner",
+  "name": "NPM Command Runner",
+  "provider": "seido",
+  "description": "Execute npm and npx commands.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/seido-npm-command-runner",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:46.431000",
+  "metadata": {}
+}

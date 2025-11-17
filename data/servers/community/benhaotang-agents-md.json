@@ -1,0 +1,19 @@
+{
+  "id": "benhaotang-agents-md",
+  "name": "AGENTS.md",
+  "provider": "Benhao Tang",
+  "description": "Provide agents with a virtualized AGENTS.md and Kanban system. Can also spawn subagents for solving focused tasks.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Sep 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/benhaotang-agents-md",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:01.901109",
+  "metadata": {}
+}

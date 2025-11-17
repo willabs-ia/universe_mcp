@@ -1,0 +1,19 @@
+{
+  "id": "geli2001-reddit",
+  "name": "Reddit",
+  "provider": "GeLi2001",
+  "description": "Integrates with Reddit's API to provide read-only access for searching posts, retrieving post details, fetching hot...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 118
+  },
+  "release_date": "Aug 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/geli2001-reddit",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:06.219707",
+  "metadata": {}
+}

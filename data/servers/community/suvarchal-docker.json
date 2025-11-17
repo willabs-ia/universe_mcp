@@ -1,0 +1,16 @@
+{
+  "id": "suvarchal-docker",
+  "name": "Docker",
+  "provider": "Suvarchal",
+  "description": "Enables Docker container management with tools for listing, running, stopping, removing containers and pulling images...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/suvarchal-docker",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:17.240506",
+  "metadata": {}
+}

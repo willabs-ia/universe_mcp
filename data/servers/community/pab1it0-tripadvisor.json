@@ -1,0 +1,16 @@
+{
+  "id": "pab1it0-tripadvisor",
+  "name": "Tripadvisor",
+  "provider": "pab1it0",
+  "description": "Integrates with Tripadvisor Content API to enable location searches, detailed information retrieval, reviews access,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/pab1it0-tripadvisor",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:01.371244",
+  "metadata": {}
+}

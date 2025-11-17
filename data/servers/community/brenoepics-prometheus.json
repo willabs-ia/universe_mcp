@@ -1,0 +1,16 @@
+{
+  "id": "brenoepics-prometheus",
+  "name": "Prometheus",
+  "provider": "Breno A.",
+  "description": "Connects to Prometheus monitoring systems for instant and range queries, metric discovery, and metadata retrieval...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/brenoepics-prometheus",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:31.105641",
+  "metadata": {}
+}

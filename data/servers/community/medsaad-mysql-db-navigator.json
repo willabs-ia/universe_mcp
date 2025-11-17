@@ -1,0 +1,19 @@
+{
+  "id": "medsaad-mysql-db-navigator",
+  "name": "MySQL/MariaDB Database Navigator",
+  "provider": "Ahmed S. Said-ahmed",
+  "description": "Enables direct access to MySQL/MariaDB databases for querying, schema exploration, and database management with...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 40
+  },
+  "release_date": "May 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/medsaad-mysql-db-navigator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:19.227621",
+  "metadata": {}
+}

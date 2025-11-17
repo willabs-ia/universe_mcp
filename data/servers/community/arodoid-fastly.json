@@ -1,0 +1,16 @@
+{
+  "id": "arodoid-fastly",
+  "name": "Fastly CDN",
+  "provider": "Arodoid",
+  "description": "Enables management of Fastly CDN services through authenticated API requests and CLI commands for DevOps teams using...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/arodoid-fastly",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:21.358798",
+  "metadata": {}
+}

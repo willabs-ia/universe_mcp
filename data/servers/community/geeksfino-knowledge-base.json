@@ -1,0 +1,16 @@
+{
+  "id": "geeksfino-knowledge-base",
+  "name": "Knowledge Base",
+  "provider": "Geeksfino",
+  "description": "Integrates with knowledge bases to enable searching, retrieving, and potentially updating information from structured...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/geeksfino-knowledge-base",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:17.219164",
+  "metadata": {}
+}

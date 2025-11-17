@@ -1,0 +1,16 @@
+{
+  "id": "ronalddegsa-everything",
+  "name": "Everything Local Commands",
+  "provider": "Ronald Degsa",
+  "description": "Provides system-level operations for file handling, information retrieval, HTTP requests, and command execution,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/ronalddegsa-everything",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:55.058290",
+  "metadata": {}
+}

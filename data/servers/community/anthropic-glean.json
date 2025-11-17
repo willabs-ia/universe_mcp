@@ -1,0 +1,16 @@
+{
+  "id": "anthropic-glean",
+  "name": "Glean",
+  "provider": "longyi1207",
+  "description": "Integrates Glean's search and chat APIs to enable natural language interactions with organizational knowledge bases...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/anthropic-glean",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:44.291167",
+  "metadata": {}
+}

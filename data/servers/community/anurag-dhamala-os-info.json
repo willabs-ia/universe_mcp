@@ -1,0 +1,19 @@
+{
+  "id": "anurag-dhamala-os-info",
+  "name": "OS Info",
+  "provider": "Anurag Dhamala",
+  "description": "Provides real-time system information about the host computer, including CPU, memory, operating system, disk,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 4
+  },
+  "release_date": "Apr 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/anurag-dhamala-os-info",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:45.812166",
+  "metadata": {}
+}

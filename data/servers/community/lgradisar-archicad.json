@@ -1,0 +1,16 @@
+{
+  "id": "lgradisar-archicad",
+  "name": "ArchiCAD",
+  "provider": "Luka Gradisar",
+  "description": "Integrates with ArchiCAD's Tapir command system to enable architectural modeling operations, element manipulation,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/lgradisar-archicad",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:19.933596",
+  "metadata": {}
+}

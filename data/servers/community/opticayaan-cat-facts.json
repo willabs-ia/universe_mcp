@@ -1,0 +1,16 @@
+{
+  "id": "opticayaan-cat-facts",
+  "name": "Cat Facts",
+  "provider": "Ayaan Gill",
+  "description": "Connects to the Layer API service to provide cat facts through a stdio transport server built with the MCP SDK.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/opticayaan-cat-facts",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:37.015221",
+  "metadata": {}
+}

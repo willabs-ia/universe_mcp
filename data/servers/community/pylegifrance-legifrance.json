@@ -1,0 +1,19 @@
+{
+  "id": "pylegifrance-legifrance",
+  "name": "Legifrance",
+  "provider": "PyLegifrance",
+  "description": "Provides access to French legal documents and legislation from the Legifrance database for legal research, compliance...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "May 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/pylegifrance-legifrance",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:57.422011",
+  "metadata": {}
+}

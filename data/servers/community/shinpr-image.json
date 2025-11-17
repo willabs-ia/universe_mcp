@@ -1,0 +1,19 @@
+{
+  "id": "shinpr-image",
+  "name": "Gemini Image Generator",
+  "provider": "Shinsuke Kagawa",
+  "description": "Integrates with Google's Gemini 2.5 Flash model to generate images with automatic prompt enhancement and file-based...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 22
+  },
+  "release_date": "Aug 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/shinpr-image",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:25.852188",
+  "metadata": {}
+}

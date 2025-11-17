@@ -1,0 +1,16 @@
+{
+  "id": "national-weather-service",
+  "name": "National Weather Service",
+  "provider": "Jack Kuo",
+  "description": "Integrates with the National Weather Service API to provide real-time weather alerts and detailed forecasts for US...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/national-weather-service",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:10.000019",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "bargainer",
+  "name": "Bargainer",
+  "provider": "Karthik Sivaram M",
+  "description": "Aggregates deals from multiple sources including Slickdeals API, RapidAPI marketplace, and web scraping providers to...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/bargainer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:09.307311",
+  "metadata": {}
+}

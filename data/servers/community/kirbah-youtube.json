@@ -1,0 +1,16 @@
+{
+  "id": "kirbah-youtube",
+  "name": "YouTube Data API",
+  "provider": "Kiryl Bahdanau",
+  "description": "Integrates with YouTube Data API v3 to provide video search, channel statistics, trending content analysis,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/kirbah-youtube",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:17.813735",
+  "metadata": {}
+}

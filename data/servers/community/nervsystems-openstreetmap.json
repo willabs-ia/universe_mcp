@@ -1,0 +1,19 @@
+{
+  "id": "nervsystems-openstreetmap",
+  "name": "OpenStreetMap",
+  "provider": "NERV Systems",
+  "description": "Integrates with OpenStreetMap to provide location-based services including geocoding, points of interest search,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "May 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/nervsystems-openstreetmap",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:57.419237",
+  "metadata": {}
+}

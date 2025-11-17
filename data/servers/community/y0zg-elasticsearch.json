@@ -1,0 +1,16 @@
+{
+  "id": "y0zg-elasticsearch",
+  "name": "Elasticsearch",
+  "provider": "Oleksandr Kulbida",
+  "description": "Connects to Elasticsearch clusters for natural language log querying, error pattern analysis with root cause...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/y0zg-elasticsearch",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:24.523599",
+  "metadata": {}
+}

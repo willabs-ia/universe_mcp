@@ -1,0 +1,19 @@
+{
+  "id": "win4r-browser-use",
+  "name": "Browser Use",
+  "provider": "win4r",
+  "description": "Lightweight TypeScript-based server implementation for Node.js that provides a standards-compliant, type-safe...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 132
+  },
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/win4r-browser-use",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:04.083270",
+  "metadata": {}
+}

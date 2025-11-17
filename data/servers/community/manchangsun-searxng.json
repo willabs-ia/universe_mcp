@@ -1,0 +1,16 @@
+{
+  "id": "manchangsun-searxng",
+  "name": "SearXNG",
+  "provider": "manchangsun",
+  "description": "Provides privacy-focused web search through the SearXNG metasearch engine, enabling search queries across multiple...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/manchangsun-searxng",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:29.268616",
+  "metadata": {}
+}

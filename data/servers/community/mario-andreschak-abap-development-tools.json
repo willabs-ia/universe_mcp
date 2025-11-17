@@ -1,0 +1,19 @@
+{
+  "id": "mario-andreschak-abap-development-tools",
+  "name": "SAP ABAP Development Tools",
+  "provider": "Mario Andreschak",
+  "description": "Integrates ABAP Development Tools API to enable automated code reviews, intelligent transport management, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jan 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/mario-andreschak-abap-development-tools",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:46.614577",
+  "metadata": {}
+}

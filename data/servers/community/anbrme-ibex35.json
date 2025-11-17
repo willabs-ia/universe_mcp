@@ -1,0 +1,16 @@
+{
+  "id": "anbrme-ibex35",
+  "name": "IBEX 35",
+  "provider": "Alessandro Nurnberg",
+  "description": "Integrates with Spanish stock market data sources to provide real-time IBEX 35 market data, corporate governance...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/anbrme-ibex35",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:27.140835",
+  "metadata": {}
+}

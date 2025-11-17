@@ -1,0 +1,19 @@
+{
+  "id": "hanzo-platform",
+  "name": "Hanzo",
+  "provider": "Hanzo",
+  "description": "Enables secure interaction with codebases through tools for file operations, command execution, project analysis, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/hanzo-platform",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:33.778122",
+  "metadata": {}
+}

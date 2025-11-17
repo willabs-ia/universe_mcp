@@ -1,0 +1,16 @@
+{
+  "id": "itsuzef-ableton",
+  "name": "Ableton Live",
+  "provider": "Youssef Hemimy",
+  "description": "Integrates with Ableton Live to enable music production control including session management, track creation, MIDI...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/itsuzef-ableton",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:32.211758",
+  "metadata": {}
+}

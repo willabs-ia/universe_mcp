@@ -1,0 +1,19 @@
+{
+  "id": "random-robbie-web-browser",
+  "name": "Web Browser (Playwright)",
+  "provider": "Robbie",
+  "description": "Integrates with Playwright to enable cross-browser web automation for tasks like scraping, testing, and content...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jan 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/random-robbie-web-browser",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:44.514613",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "abhiphile-fermat",
+  "name": "Fermat (Mathematical Computing)",
+  "provider": "abhiphile",
+  "description": "Provides mathematical computation and plotting capabilities through matplotlib for data visualization, NumPy for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/abhiphile-fermat",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:58.362393",
+  "metadata": {}
+}

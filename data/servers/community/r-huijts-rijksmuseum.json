@@ -1,0 +1,16 @@
+{
+  "id": "r-huijts-rijksmuseum",
+  "name": "Rijksmuseum Amsterdam",
+  "provider": "R Huijts",
+  "description": "Integrates with the Rijksmuseum API to enable artwork search, detailed information retrieval, and high-resolution...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 23, 2024",
+  "url": "https://www.pulsemcp.com/servers/r-huijts-rijksmuseum",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:37.905578",
+  "metadata": {}
+}

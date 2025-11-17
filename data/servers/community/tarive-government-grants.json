@@ -1,0 +1,19 @@
+{
+  "id": "tarive-government-grants",
+  "name": "Government Grants",
+  "provider": "Tar-ive",
+  "description": "Integrates with the Simpler Grants API to enable keyword-based searching and retrieval of government grant...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Dec 22, 2024",
+  "url": "https://www.pulsemcp.com/servers/tarive-government-grants",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:44.481425",
+  "metadata": {}
+}

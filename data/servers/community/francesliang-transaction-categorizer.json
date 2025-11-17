@@ -1,0 +1,16 @@
+{
+  "id": "francesliang-transaction-categorizer",
+  "name": "Transaction Categorizer",
+  "provider": "Frances Liang",
+  "description": "Processes and categorizes financial transaction data into predefined expense and income categories, outputting...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/francesliang-transaction-categorizer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:07.893895",
+  "metadata": {}
+}

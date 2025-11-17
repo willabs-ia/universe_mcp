@@ -1,0 +1,11 @@
+{
+  "id": "geli2001-terminal",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Command-line tool for managing multiple MCP server connections simultaneously, enabling interactive chat sessions with AI models that can leverage tools from any connected server.",
+  "url": "https://www.pulsemcp.com/clients/geli2001-terminal",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.444582"
+}

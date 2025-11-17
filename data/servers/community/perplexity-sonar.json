@@ -1,0 +1,16 @@
+{
+  "id": "perplexity-sonar",
+  "name": "Perplexity Sonar",
+  "provider": "Rohit Seelam",
+  "description": "Integrates with Perplexity's Sonar API to provide three-tiered web search and reasoning capabilities, from quick...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/perplexity-sonar",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:56.245087",
+  "metadata": {}
+}

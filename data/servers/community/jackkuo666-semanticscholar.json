@@ -1,0 +1,19 @@
+{
+  "id": "jackkuo666-semanticscholar",
+  "name": "Semantic Scholar",
+  "provider": "Jack Kuo",
+  "description": "Provides a bridge to Semantic Scholar for searching and analyzing academic papers with tools for keyword searches,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/jackkuo666-semanticscholar",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:53.146384",
+  "metadata": {}
+}

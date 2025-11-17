@@ -1,0 +1,19 @@
+{
+  "id": "tosin2013-github-pages-docs",
+  "name": "GitHub Pages Documentation",
+  "provider": "Tosin Akinosho",
+  "description": "Automates GitHub Pages documentation deployment by analyzing repositories, recommending static site generators like...",
+  "classification": null,
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 2
+  },
+  "release_date": "Aug 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/tosin2013-github-pages-docs",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:54.710048",
+  "metadata": {}
+}

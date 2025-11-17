@@ -1,0 +1,16 @@
+{
+  "id": "mixelpixx-edit",
+  "name": "Microsoft Edit",
+  "provider": "mixelpixx",
+  "description": "Provides file editing capabilities through Microsoft Edit integration, combining direct file system operations for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/mixelpixx-edit",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:45.478459",
+  "metadata": {}
+}

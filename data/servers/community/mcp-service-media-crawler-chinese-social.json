@@ -1,0 +1,19 @@
+{
+  "id": "mcp-service-media-crawler-chinese-social",
+  "name": "Media Crawler (Chinese Social Platforms)",
+  "provider": "mcp-service",
+  "description": "Integrates multiple Chinese social media platforms including Xiaohongshu, Douyin, Kuaishou, Bilibili, Weibo, Tieba,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 553
+  },
+  "release_date": "Oct 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/mcp-service-media-crawler-chinese-social",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:24.650731",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kazuph-gmail-gas",
+  "name": "Gmail",
+  "provider": "kazuph",
+  "description": "Integrates Gmail functionality, enabling email search, message retrieval, and attachment downloads via Google Apps...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 8
+  },
+  "release_date": "Jan 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/kazuph-gmail-gas",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:37.123766",
+  "metadata": {}
+}

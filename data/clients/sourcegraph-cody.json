@@ -1,0 +1,11 @@
+{
+  "id": "sourcegraph-cody",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Coding assistant plugin for VSCode and JetBrains.",
+  "url": "https://www.pulsemcp.com/clients/sourcegraph-cody",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.327116"
+}

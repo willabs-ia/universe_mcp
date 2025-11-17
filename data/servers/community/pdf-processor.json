@@ -1,0 +1,16 @@
+{
+  "id": "pdf-processor",
+  "name": "PDF Processor",
+  "provider": "Michael Levinson",
+  "description": "Extracts text content and mathematical equations from PDF documents using PyMuPDF for text processing and pix2tex for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/pdf-processor",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:45.501723",
+  "metadata": {}
+}

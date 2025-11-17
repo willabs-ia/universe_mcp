@@ -1,0 +1,16 @@
+{
+  "id": "spotify",
+  "name": "Spotify",
+  "provider": "Naunau75",
+  "description": "Integrates with Spotify to control music playback, search content, manage queues, and retrieve detailed information...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/spotify",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:30.526161",
+  "metadata": {}
+}

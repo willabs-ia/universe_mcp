@@ -1,0 +1,19 @@
+{
+  "id": "josefdc-uniprot",
+  "name": "UniProt",
+  "provider": "Jose Duarte",
+  "description": "Integrates with UniProtKB protein database to provide complete protein entries, sequences, filtered searches, and ID...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 44
+  },
+  "release_date": "Oct 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/josefdc-uniprot",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:17.094644",
+  "metadata": {}
+}

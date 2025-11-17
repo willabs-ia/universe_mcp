@@ -1,0 +1,19 @@
+{
+  "id": "overseer66-comfyui",
+  "name": "ComfyUI",
+  "provider": "Overseer66",
+  "description": "Provides a bridge between AI systems and ComfyUI's image generation capabilities, enabling text-to-image creation...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Apr 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/overseer66-comfyui",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:55.319859",
+  "metadata": {}
+}

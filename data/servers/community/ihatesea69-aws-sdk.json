@@ -1,0 +1,19 @@
+{
+  "id": "ihatesea69-aws-sdk",
+  "name": "AWS SDK",
+  "provider": "ihatesea69",
+  "description": "Enables direct interaction with AWS services through the AWS SDK v2, allowing users to query environments, manage...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/ihatesea69-aws-sdk",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:50.961047",
+  "metadata": {}
+}

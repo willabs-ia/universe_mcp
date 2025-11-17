@@ -1,0 +1,16 @@
+{
+  "id": "hosakakeigo-spreadsheet",
+  "name": "Google Spreadsheets",
+  "provider": "Keigo Hosaka",
+  "description": "Integrates with Google Spreadsheets to enable retrieval and manipulation of spreadsheet data for analysis, reporting,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/hosakakeigo-spreadsheet",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:07.839214",
+  "metadata": {}
+}

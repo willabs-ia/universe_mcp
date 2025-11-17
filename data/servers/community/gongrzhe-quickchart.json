@@ -1,0 +1,16 @@
+{
+  "id": "gongrzhe-quickchart",
+  "name": "QuickChart",
+  "provider": "gongrzhe",
+  "description": "Integrates with QuickChart to enable dynamic generation of charts and graphs for data visualization tasks.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/gongrzhe-quickchart",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:04.153917",
+  "metadata": {}
+}

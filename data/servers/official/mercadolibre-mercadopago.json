@@ -1,0 +1,16 @@
+{
+  "id": "mercadolibre-mercadopago",
+  "name": "MercadoPago",
+  "provider": "MercadoLibre",
+  "description": "Integrates with MercadoPago's developer documentation API to provide searchable access to payment integration guides...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/mercadolibre-mercadopago",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:19.905149",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cyanty-arcs-multi-platform-article-publisher",
+  "name": "Arcs Multi-Platform Article Publisher",
+  "provider": "Cyanty",
+  "description": "Automates article publishing across Chinese tech platforms including CSDN, JueJin, Zhihu, WeChat, Halo, and CNBlogs...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/cyanty-arcs-multi-platform-article-publisher",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:00.588039",
+  "metadata": {}
+}

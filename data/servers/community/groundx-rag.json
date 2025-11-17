@@ -1,0 +1,16 @@
+{
+  "id": "groundx-rag",
+  "name": "GroundX RAG",
+  "provider": "PRIXYY",
+  "description": "Integrates with GroundX to provide document search and ingestion capabilities, enabling domain-specific knowledge...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/groundx-rag",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:17.136412",
+  "metadata": {}
+}

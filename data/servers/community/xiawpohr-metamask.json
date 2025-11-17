@@ -1,0 +1,19 @@
+{
+  "id": "xiawpohr-metamask",
+  "name": "MetaMask",
+  "provider": "Xiawpohr",
+  "description": "Integrates with MetaMask wallet to enable secure blockchain operations including transaction sending, smart contract...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Jul 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/xiawpohr-metamask",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:59.063755",
+  "metadata": {}
+}

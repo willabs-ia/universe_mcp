@@ -1,0 +1,16 @@
+{
+  "id": "japanese-text-analyzer",
+  "name": "Japanese Text Analyzer",
+  "provider": "Mistizz",
+  "description": "Enables detailed Japanese text analysis through morphological parsing with Kuromoji, breaking down sentences into...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/japanese-text-analyzer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:44.162862",
+  "metadata": {}
+}

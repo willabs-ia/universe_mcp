@@ -1,0 +1,16 @@
+{
+  "id": "n0119566-store",
+  "name": "Store (E-Commerce)",
+  "provider": "n0119566",
+  "description": "Provides a bridge to e-commerce data for retrieving customer information, looking up orders by customer ID, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/n0119566-store",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:50.793950",
+  "metadata": {}
+}

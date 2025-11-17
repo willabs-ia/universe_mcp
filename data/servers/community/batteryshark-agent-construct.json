@@ -1,0 +1,16 @@
+{
+  "id": "batteryshark-agent-construct",
+  "name": "Agent Construct",
+  "provider": "BatteryShark",
+  "description": "Lightweight server enabling dynamic tool extension with JavaScript web scraping, Gemini search, and flexible...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/batteryshark-agent-construct",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:59.233514",
+  "metadata": {}
+}

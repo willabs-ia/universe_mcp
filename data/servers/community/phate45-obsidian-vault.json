@@ -1,0 +1,16 @@
+{
+  "id": "phate45-obsidian-vault",
+  "name": "Obsidian Vault",
+  "provider": "phate45",
+  "description": "Integrates with Obsidian vaults through filesystem access and Local REST API plugin to enable file moving/renaming...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/phate45-obsidian-vault",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:35.320471",
+  "metadata": {}
+}

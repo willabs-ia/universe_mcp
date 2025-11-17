@@ -1,0 +1,11 @@
+{
+  "id": "raycast-ai",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Raycast extension that enables seamless integration of Model Context Protocol servers into the Raycast AI environment, providing automatic client creation and detection with minimal configuration.",
+  "url": "https://www.pulsemcp.com/clients/raycast-ai",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.466081"
+}

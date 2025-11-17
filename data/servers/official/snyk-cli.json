@@ -1,0 +1,16 @@
+{
+  "id": "snyk-cli",
+  "name": "Snyk",
+  "provider": "Snyk",
+  "description": "Security scanner that tests applications and infrastructure for vulnerabilities, generates SBOMs, and monitors...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Aug 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/snyk-cli",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:27.127108",
+  "metadata": {}
+}

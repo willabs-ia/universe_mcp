@@ -1,0 +1,11 @@
+{
+  "id": "control-lite",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Desktop GUI application for managing MCP servers across multiple AI applications with unified discovery, installation, configuration, and monitoring through a cross-platform interface that eliminates manual configuration file editing.",
+  "url": "https://www.pulsemcp.com/clients/control-lite",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.501968"
+}

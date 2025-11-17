@@ -1,0 +1,16 @@
+{
+  "id": "pbandreddy-blazemeter",
+  "name": "BlazeMeter",
+  "provider": "pbandreddy",
+  "description": "Integrates with BlazeMeter's performance testing platform to manage test runs, analyze performance data, and monitor...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/pbandreddy-blazemeter",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:25.045125",
+  "metadata": {}
+}

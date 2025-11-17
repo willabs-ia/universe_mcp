@@ -1,0 +1,16 @@
+{
+  "id": "bibliomantic-oracle",
+  "name": "Bibliomantic Oracle",
+  "provider": "Daniel Shields",
+  "description": "Integrates traditional I Ching divination with cryptographically secure three-coin method simulation, providing...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/bibliomantic-oracle",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:05.076312",
+  "metadata": {}
+}

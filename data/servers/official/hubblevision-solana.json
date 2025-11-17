@@ -1,0 +1,19 @@
+{
+  "id": "hubblevision-solana",
+  "name": "Hubble AI (Solana)",
+  "provider": "HubbleVision",
+  "description": "Provides a bridge to Solana blockchain data through natural language queries, enabling analytics searches, chart...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Mar 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/hubblevision-solana",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:54.758956",
+  "metadata": {}
+}

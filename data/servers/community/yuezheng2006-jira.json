@@ -1,0 +1,19 @@
+{
+  "id": "yuezheng2006-jira",
+  "name": "JIRA",
+  "provider": "Yue Zheng",
+  "description": "Bridges AI assistants with JIRA issue tracking systems, enabling users to query and manipulate JIRA data without...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 20
+  },
+  "release_date": "May 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/yuezheng2006-jira",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:25.879911",
+  "metadata": {}
+}

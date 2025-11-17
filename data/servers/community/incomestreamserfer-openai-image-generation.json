@@ -1,0 +1,19 @@
+{
+  "id": "incomestreamserfer-openai-image-generation",
+  "name": "OpenAI Image Generation",
+  "provider": "IncomeStreamSurfer",
+  "description": "Provides tools for generating and editing images using OpenAI's gpt-image-1 model, handling API interactions, error...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Apr 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/incomestreamserfer-openai-image-generation",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:57.400434",
+  "metadata": {}
+}

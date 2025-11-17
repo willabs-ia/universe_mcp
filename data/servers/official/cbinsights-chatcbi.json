@@ -1,0 +1,16 @@
+{
+  "id": "cbinsights-chatcbi",
+  "name": "CB Insights",
+  "provider": "CB Insights",
+  "description": "Integrates with CB Insights' ChatCBI platform to provide direct access to market intelligence, company research,...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "May 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/cbinsights-chatcbi",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:41.150212",
+  "metadata": {}
+}

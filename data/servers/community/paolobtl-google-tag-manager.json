@@ -1,0 +1,19 @@
+{
+  "id": "paolobtl-google-tag-manager",
+  "name": "Google Tag Manager",
+  "provider": "Paolo Bietolini",
+  "description": "Integrates with Google Tag Manager to automate container management, tag creation, trigger configuration, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 35
+  },
+  "release_date": "Oct 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/paolobtl-google-tag-manager",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:19.274187",
+  "metadata": {}
+}

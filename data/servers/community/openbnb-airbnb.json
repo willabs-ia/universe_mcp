@@ -1,0 +1,16 @@
+{
+  "id": "openbnb-airbnb",
+  "name": "Airbnb",
+  "provider": "OpenBnB",
+  "description": "Integrates with Airbnb to enable vacation rental search and detailed property information retrieval without requiring...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/openbnb-airbnb",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:17.211227",
+  "metadata": {}
+}

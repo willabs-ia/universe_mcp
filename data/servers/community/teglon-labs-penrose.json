@@ -1,0 +1,16 @@
+{
+  "id": "teglon-labs-penrose",
+  "name": "Penrose",
+  "provider": "Barton Rhodes",
+  "description": "Integrates with Penrose's domain-specific languages to generate mathematical diagrams from natural language inputs.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/teglon-labs-penrose",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:50.795636",
+  "metadata": {}
+}

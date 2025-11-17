@@ -1,0 +1,16 @@
+{
+  "id": "rifqi96-gitlab",
+  "name": "GitLab",
+  "provider": "Rifqi Fadhlillah",
+  "description": "Integrates with GitLab to enable repository management, code review, CI/CD operations, and project administration...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/rifqi96-gitlab",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:50.802279",
+  "metadata": {}
+}

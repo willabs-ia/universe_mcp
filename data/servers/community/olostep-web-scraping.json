@@ -1,0 +1,19 @@
+{
+  "id": "olostep-web-scraping",
+  "name": "Olostep",
+  "provider": "olostep",
+  "description": "Integrates with Olostep's web scraping API to extract webpage content in markdown format, discover website URLs...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 13
+  },
+  "release_date": "Mar 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/olostep-web-scraping",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:32.729812",
+  "metadata": {}
+}

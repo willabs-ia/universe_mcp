@@ -1,0 +1,19 @@
+{
+  "id": "garc33-js-sandbox",
+  "name": "JavaScript Sandbox",
+  "provider": "garc33",
+  "description": "Provides a secure JavaScript sandbox for executing code with configurable time and memory limits, enabling safe...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 4
+  },
+  "release_date": "Jan 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/garc33-js-sandbox",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:45.774760",
+  "metadata": {}
+}

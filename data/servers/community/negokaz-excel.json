@@ -1,0 +1,19 @@
+{
+  "id": "negokaz-excel",
+  "name": "Excel",
+  "provider": "Kazuki Negoro",
+  "description": "Integrates with Microsoft Excel to enable reading and writing of text data in xlsx files for spreadsheet manipulation...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 22
+  },
+  "release_date": "Feb 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/negokaz-excel",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:23.559794",
+  "metadata": {}
+}

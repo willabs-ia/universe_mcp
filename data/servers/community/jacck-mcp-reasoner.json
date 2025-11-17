@@ -1,0 +1,19 @@
+{
+  "id": "jacck-mcp-reasoner",
+  "name": "MCP Reasoner",
+  "provider": "Jacck",
+  "description": "Implements beam search and thought evaluation for structured problem-solving, enabling exploration of multiple...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "Dec 20, 2024",
+  "url": "https://www.pulsemcp.com/servers/jacck-mcp-reasoner",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:31.084719",
+  "metadata": {}
+}

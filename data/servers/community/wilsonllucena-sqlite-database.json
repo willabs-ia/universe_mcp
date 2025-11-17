@@ -1,0 +1,16 @@
+{
+  "id": "wilsonllucena-sqlite-database",
+  "name": "SQLite Database",
+  "provider": "wilsonllucena",
+  "description": "Provides database connectivity through SQLite integration with pre-seeded sample data, enabling query execution and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/wilsonllucena-sqlite-database",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:13.533083",
+  "metadata": {}
+}

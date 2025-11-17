@@ -1,0 +1,16 @@
+{
+  "id": "bivex-kanboard",
+  "name": "Kanboard",
+  "provider": "bivex",
+  "description": "Integrates with Kanboard project management systems via JSON-RPC API to provide complete project lifecycle management...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/bivex-kanboard",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:58.339502",
+  "metadata": {}
+}

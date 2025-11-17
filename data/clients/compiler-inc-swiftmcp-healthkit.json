@@ -1,0 +1,11 @@
+{
+  "id": "compiler-inc-swiftmcp-healthkit",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Swift package for iOS and macOS that enables native API integration with built-in HealthKit support, allowing applications to expose capabilities like step counting to AI assistants.",
+  "url": "https://www.pulsemcp.com/clients/compiler-inc-swiftmcp-healthkit",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.417857"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "patrice-truong-cosmosdb",
+  "name": "Azure Cosmos DB",
+  "provider": "Patrice Truong",
+  "description": "Bridges Azure Cosmos DB with language models, enabling database operations like product search, order retrieval, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/patrice-truong-cosmosdb",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:05.648464",
+  "metadata": {}
+}

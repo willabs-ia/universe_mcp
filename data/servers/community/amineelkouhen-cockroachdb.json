@@ -1,0 +1,19 @@
+{
+  "id": "amineelkouhen-cockroachdb",
+  "name": "CockroachDB",
+  "provider": "Amine El Kouhen",
+  "description": "Integrates with CockroachDB to provide cluster monitoring, database operations, table management, and SQL query...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 85
+  },
+  "release_date": "Jul 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/amineelkouhen-cockroachdb",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:08.426712",
+  "metadata": {}
+}

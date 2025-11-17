@@ -1,0 +1,16 @@
+{
+  "id": "scopiousdigital-hubspot",
+  "name": "HubSpot",
+  "provider": "Scopious Digital",
+  "description": "Enables detailed interactions with HubSpot CRM data by providing comprehensive tools for searching contacts, managing...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/scopiousdigital-hubspot",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:59.249549",
+  "metadata": {}
+}

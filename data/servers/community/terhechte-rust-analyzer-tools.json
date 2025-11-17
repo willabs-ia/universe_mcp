@@ -1,0 +1,16 @@
+{
+  "id": "terhechte-rust-analyzer-tools",
+  "name": "Rust Analyzer Tools",
+  "provider": "Benedikt Terhechte",
+  "description": "Integrates with Rust Analyzer to provide type information, documentation, references, implementations, and Cargo...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/terhechte-rust-analyzer-tools",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:12.749376",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "benhaotang-mathematica-documentation",
+  "name": "Mathematica Docs",
+  "provider": "Benhao Tang",
+  "description": "Integrates with Wolfram Mathematica's documentation to provide access to function details, package symbols, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/benhaotang-mathematica-documentation",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:50.776533",
+  "metadata": {}
+}

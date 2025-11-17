@@ -1,0 +1,19 @@
+{
+  "id": "surferdot-svg-converter",
+  "name": "SVG Converter",
+  "provider": "surferdot",
+  "description": "Converts SVG files to PNG and JPG formats with customizable parameters like scale factor, quality, and background...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 3
+  },
+  "release_date": "Mar 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/surferdot-svg-converter",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:48.034264",
+  "metadata": {}
+}

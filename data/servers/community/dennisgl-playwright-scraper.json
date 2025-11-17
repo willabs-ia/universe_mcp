@@ -1,0 +1,19 @@
+{
+  "id": "dennisgl-playwright-scraper",
+  "name": "Playwright Scraper",
+  "provider": "Dennis Lin",
+  "description": "Leverages Playwright and BeautifulSoup to enable robust web scraping and content extraction, converting complex...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 30
+  },
+  "release_date": "Mar 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/dennisgl-playwright-scraper",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:21.365542",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "xiaolaa2-midi-file",
+  "name": "MIDI Files",
+  "provider": "xiaolaa2",
+  "description": "Parse and manipulate MIDI files based on Tone.js",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/xiaolaa2-midi-file",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:05.671233",
+  "metadata": {}
+}

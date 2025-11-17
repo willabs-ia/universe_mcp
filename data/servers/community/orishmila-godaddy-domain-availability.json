@@ -1,0 +1,16 @@
+{
+  "id": "orishmila-godaddy-domain-availability",
+  "name": "GoDaddy Domain Availability",
+  "provider": "OriShmila",
+  "description": "Integrates with GoDaddy's domain API to provide real-time domain availability checking, bulk domain searches with...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/orishmila-godaddy-domain-availability",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:56.211408",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "dxheroes-jira-linear",
+  "name": "Jira & Linear",
+  "provider": "DX Heroes",
+  "description": "Integrates with Jira and Linear issue tracking systems to enable retrieval and interaction with tickets directly...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 110
+  },
+  "release_date": "Mar 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/dxheroes-jira-linear",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:06.228468",
+  "metadata": {}
+}

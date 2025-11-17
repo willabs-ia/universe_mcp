@@ -1,0 +1,16 @@
+{
+  "id": "a01110946-rhino3d",
+  "name": "Rhino3D",
+  "provider": "Fernando Maytorena",
+  "description": "Connects Rhino3D to Claude through a WebSocket bridge, enabling AI-assisted 3D modeling capabilities for creating and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/a01110946-rhino3d",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:39.479024",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "domoteek-airbnb",
+  "name": "Airbnb",
+  "provider": "Domoteek",
+  "description": "Integrates with Airbnb's search and listing details functionality to enable vacation rental discovery and analysis...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/domoteek-airbnb",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:18.549891",
+  "metadata": {}
+}

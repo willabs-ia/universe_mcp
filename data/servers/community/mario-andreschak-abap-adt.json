@@ -1,0 +1,19 @@
+{
+  "id": "mario-andreschak-abap-adt",
+  "name": "SAP ABAP ADT",
+  "provider": "Mario Andreschak",
+  "description": "Integrates with SAP ABAP systems via ADT, enabling AI models to perform ABAP development tasks like code generation...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 415
+  },
+  "release_date": "Jan 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/mario-andreschak-abap-adt",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:26.725995",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "non-dirty-claude-desktop-restart",
+  "name": "Claude Desktop Restart",
+  "provider": "Matthew Smith",
+  "description": "Enables automated restarts of Claude Desktop on macOS by leveraging psutil to safely terminate and relaunch the...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 26
+  },
+  "release_date": "Nov 30, 2024",
+  "url": "https://www.pulsemcp.com/servers/non-dirty-claude-desktop-restart",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:21.395681",
+  "metadata": {}
+}

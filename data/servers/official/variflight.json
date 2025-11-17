@@ -1,0 +1,16 @@
+{
+  "id": "variflight",
+  "name": "Variflight",
+  "provider": "Variflight",
+  "description": "Integrates with Variflight API to provide real-time flight information, schedules, aircraft tracking, airport weather...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Apr 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/variflight",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:19.271470",
+  "metadata": {}
+}

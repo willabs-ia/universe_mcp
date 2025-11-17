@@ -1,0 +1,16 @@
+{
+  "id": "takiaa-twitter-scraper",
+  "name": "X (Twitter) Scraper",
+  "provider": "takiAA",
+  "description": "Integrates with X using the agent-twitter-client library, enabling tweet retrieval and posting within Docker...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/takiaa-twitter-scraper",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:13.004164",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "phialsbasement-pagespeed-insights",
+  "name": "PageSpeed Insights",
+  "provider": "PhialsBasement",
+  "description": "Integrates Google's PageSpeed Insights API to provide detailed web performance metrics and optimization...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 24, 2024",
+  "url": "https://www.pulsemcp.com/servers/phialsbasement-pagespeed-insights",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:37.901668",
+  "metadata": {}
+}

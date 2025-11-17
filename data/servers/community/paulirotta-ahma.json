@@ -1,0 +1,16 @@
+{
+  "id": "paulirotta-ahma",
+  "name": "Ahma (Universal CLI Tool Adapter)",
+  "provider": "Paul Houghton",
+  "description": "Automatically discovers and exposes command-line tools as unified interfaces with asynchronous execution, enabling...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/paulirotta-ahma",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:24.494553",
+  "metadata": {}
+}

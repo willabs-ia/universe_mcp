@@ -1,0 +1,19 @@
+{
+  "id": "awkoy-replicate-flux",
+  "name": "Replicate Flux",
+  "provider": "Yaroslav Boiko",
+  "description": "Integrates with Replicate's Flux image generation model, enabling image creation capabilities within conversation...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 52
+  },
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/awkoy-replicate-flux",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:14.954072",
+  "metadata": {}
+}

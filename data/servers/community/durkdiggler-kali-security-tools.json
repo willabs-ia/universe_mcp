@@ -1,0 +1,16 @@
+{
+  "id": "durkdiggler-kali-security-tools",
+  "name": "Kali Linux Security Tools",
+  "provider": "DurkDiggler",
+  "description": "Provides secure access to penetration testing and security analysis tools through a curated whitelist of Kali Linux...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/durkdiggler-kali-security-tools",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:26.670510",
+  "metadata": {}
+}

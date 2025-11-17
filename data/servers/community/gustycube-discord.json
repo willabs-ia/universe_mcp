@@ -1,0 +1,16 @@
+{
+  "id": "gustycube-discord",
+  "name": "Discord",
+  "provider": "GustyCube",
+  "description": "Integrates with Discord's API and Gateway to provide comprehensive bot capabilities including messaging, role...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/gustycube-discord",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:11.482064",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "anthropic-puppeteer-scrape-copilot",
+  "name": "Puppeteer",
+  "provider": "J Waldor",
+  "description": "Integrates Puppeteer-based browser automation for web scraping, testing, and AI model interaction with live web content.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/anthropic-puppeteer-scrape-copilot",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:42.212065",
+  "metadata": {}
+}

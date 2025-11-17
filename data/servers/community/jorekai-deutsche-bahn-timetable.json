@@ -1,0 +1,16 @@
+{
+  "id": "jorekai-deutsche-bahn-timetable",
+  "name": "Deutsche Bahn Timetable",
+  "provider": "Nils Jorek",
+  "description": "Connects to Deutsche Bahn timetable API for retrieving real-time railway information, planned schedules, recent...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/jorekai-deutsche-bahn-timetable",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:48.393283",
+  "metadata": {}
+}

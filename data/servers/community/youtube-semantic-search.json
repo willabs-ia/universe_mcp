@@ -1,0 +1,16 @@
+{
+  "id": "youtube-semantic-search",
+  "name": "YouTube Semantic Search",
+  "provider": "FarhaParveen919",
+  "description": "Leverages LanceDB for vector storage to enable semantic search and multilingual transcript retrieval from YouTube...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/youtube-semantic-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:57.148975",
+  "metadata": {}
+}

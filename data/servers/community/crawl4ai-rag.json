@@ -1,0 +1,16 @@
+{
+  "id": "crawl4ai-rag",
+  "name": "Crawl4AI RAG",
+  "provider": "Jason Guo",
+  "description": "Combines web crawling with vector search to enable content extraction, semantic indexing, and retrieval-augmented...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/crawl4ai-rag",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:05.080089",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "openvision",
+  "name": "OpenRouter Vision",
+  "provider": "Nazruden",
+  "description": "Integrates with OpenRouter's vision models to analyze images from file paths, URLs, or base64 data using configurable...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/openvision",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:05.070918",
+  "metadata": {}
+}

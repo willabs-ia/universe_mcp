@@ -1,0 +1,16 @@
+{
+  "id": "r-huijts-portkey-admin",
+  "name": "Portkey",
+  "provider": "R Huijts",
+  "description": "Provides a comprehensive administrative interface for managing Portkey AI platform users, workspaces, configurations,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/r-huijts-portkey-admin",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:52.922384",
+  "metadata": {}
+}

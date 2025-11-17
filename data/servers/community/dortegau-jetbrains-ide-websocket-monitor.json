@@ -1,0 +1,19 @@
+{
+  "id": "dortegau-jetbrains-ide-websocket-monitor",
+  "name": "JetBrains IDE WebSocket Monitor",
+  "provider": "Daniel Ortega",
+  "description": "JetBrains MCP Server fork that broadcasts real-time WebSocket monitoring of all tool calls between clients and IDEs...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Mar 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/dortegau-jetbrains-ide-websocket-monitor",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:54.761478",
+  "metadata": {}
+}

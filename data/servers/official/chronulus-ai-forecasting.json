@@ -1,0 +1,19 @@
+{
+  "id": "chronulus-ai-forecasting",
+  "name": "Chronulus AI Forecasting",
+  "provider": "Chronulus AI",
+  "description": "Integrates with Chronulus AI's forecasting API to enable time series analysis, prediction generation, and...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 49
+  },
+  "release_date": "Mar 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/chronulus-ai-forecasting",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:14.971682",
+  "metadata": {}
+}

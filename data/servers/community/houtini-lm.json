@@ -1,0 +1,19 @@
+{
+  "id": "houtini-lm",
+  "name": "Houtini LM",
+  "provider": "Richard Baxter",
+  "description": "Provides expert prompt engineering capabilities through LM Studio integration, featuring 35+ specialized functions...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Sep 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/houtini-lm",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:59.084236",
+  "metadata": {}
+}

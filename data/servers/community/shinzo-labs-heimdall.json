@@ -1,0 +1,19 @@
+{
+  "id": "shinzo-labs-heimdall",
+  "name": "Heimdall",
+  "provider": "Shinzo Labs",
+  "description": "Manage your agent tools and MCP server configs with ease.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Apr 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/shinzo-labs-heimdall",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:55.263770",
+  "metadata": {}
+}

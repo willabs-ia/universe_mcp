@@ -1,0 +1,19 @@
+{
+  "id": "rootly-ai-labs-rootly",
+  "name": "Rootly",
+  "provider": "Rootly AI Labs",
+  "description": "Integrates with Rootly's incident management API to enable real-time production incident resolution directly within...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 275
+  },
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/rootly-ai-labs-rootly",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:38.055664",
+  "metadata": {}
+}

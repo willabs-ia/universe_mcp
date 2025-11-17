@@ -1,0 +1,16 @@
+{
+  "id": "typescript-refactoring",
+  "name": "TypeScript Refactoring",
+  "provider": "mizchi",
+  "description": "Provides TypeScript/JavaScript code analysis and refactoring capabilities using ts-morph, enabling intelligent code...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/typescript-refactoring",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:45.496449",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "prompt-template-server-go",
+  "name": "Prompt Template Server (Go)",
+  "provider": "smallnest",
+  "description": "Lightweight Go server that loads and serves YAML-formatted prompt templates from a file system for easy organization...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/prompt-template-server-go",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:36.847330",
+  "metadata": {}
+}

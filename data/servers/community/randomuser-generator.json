@@ -1,0 +1,16 @@
+{
+  "id": "randomuser-generator",
+  "name": "RandomUser",
+  "provider": "rycid",
+  "description": "Provides a bridge to the randomuser.me API with enhanced features for generating realistic synthetic user profiles,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/randomuser-generator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:18.578664",
+  "metadata": {}
+}

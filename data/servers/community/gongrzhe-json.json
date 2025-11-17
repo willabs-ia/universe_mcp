@@ -1,0 +1,19 @@
+{
+  "id": "gongrzhe-json",
+  "name": "JSON Manipulation",
+  "provider": "gongrzhe",
+  "description": "Provides a JSON manipulation interface using JSONPath syntax for querying, transforming, and analyzing structured...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 35
+  },
+  "release_date": "Dec 24, 2024",
+  "url": "https://www.pulsemcp.com/servers/gongrzhe-json",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:19.264332",
+  "metadata": {}
+}

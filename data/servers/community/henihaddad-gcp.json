@@ -1,0 +1,19 @@
+{
+  "id": "henihaddad-gcp",
+  "name": "Google Cloud Platform",
+  "provider": "Heni Haddad",
+  "description": "Integrates with Google Cloud Platform to enable natural language management of cloud resources including compute,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 14
+  },
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/henihaddad-gcp",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:30.172344",
+  "metadata": {}
+}

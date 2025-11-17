@@ -1,0 +1,19 @@
+{
+  "id": "steipete-claude-code",
+  "name": "Claude Code",
+  "provider": "Peter Steinberger",
+  "description": "Provides a streamlined interface for executing complex coding tasks including file operations, Git commands, and web...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 77
+  },
+  "release_date": "May 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/steipete-claude-code",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:10.535805",
+  "metadata": {}
+}

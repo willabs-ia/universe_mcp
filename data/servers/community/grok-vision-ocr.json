@@ -1,0 +1,16 @@
+{
+  "id": "grok-vision-ocr",
+  "name": "Grok Vision OCR",
+  "provider": "7etsuo",
+  "description": "Integrates xAI's Grok vision model with Tesseract OCR to provide image analysis and text extraction from URLs or...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/grok-vision-ocr",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:26.678291",
+  "metadata": {}
+}

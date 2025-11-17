@@ -1,0 +1,19 @@
+{
+  "id": "thebatashev-document-generator",
+  "name": "Document Generator",
+  "provider": "TheBatashev",
+  "description": "Generates professional DOCX and PDF documents with styled paragraphs, structured tables, and customizable formatting...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Aug 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/thebatashev-document-generator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:04.049063",
+  "metadata": {}
+}

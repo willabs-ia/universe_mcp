@@ -1,0 +1,16 @@
+{
+  "id": "bjesus-begagnad",
+  "name": "Begagnad (Swedish Second-Hand Marketplaces)",
+  "provider": "bjesus",
+  "description": "Provides search capabilities across Sweden's largest second-hand marketplaces, Blocket and Tradera, enabling unified...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/bjesus-begagnad",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:33.216676",
+  "metadata": {}
+}

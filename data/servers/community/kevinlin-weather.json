@@ -1,0 +1,16 @@
+{
+  "id": "kevinlin-weather",
+  "name": "Weather Alerts & Forecasts",
+  "provider": "Kevin Lin",
+  "description": "Integrates with OpenWeather to retrieve and provide weather data.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/kevinlin-weather",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:01.229983",
+  "metadata": {}
+}

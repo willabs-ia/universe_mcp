@@ -1,0 +1,16 @@
+{
+  "id": "mammothgrowth-dbt-cli",
+  "name": "dbt CLI",
+  "provider": "Mammoth Growth",
+  "description": "Bridges Claude with dbt Core CLI, enabling direct execution of data transformation workflows, model management, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/mammothgrowth-dbt-cli",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:34.841727",
+  "metadata": {}
+}

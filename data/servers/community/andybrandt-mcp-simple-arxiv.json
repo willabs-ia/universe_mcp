@@ -1,0 +1,19 @@
+{
+  "id": "andybrandt-mcp-simple-arxiv",
+  "name": "arXiv Research",
+  "provider": "Andy Brandt",
+  "description": "Search and analyze scientific papers from arXiv.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 356
+  },
+  "release_date": "Dec 7, 2024",
+  "url": "https://www.pulsemcp.com/servers/andybrandt-mcp-simple-arxiv",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:28.861452",
+  "metadata": {}
+}

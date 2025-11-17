@@ -1,0 +1,19 @@
+{
+  "id": "makeplane-plane",
+  "name": "Plane Project Management",
+  "provider": "Plane",
+  "description": "Integrates with Plane's project management APIs to enable creation and management of projects, issues, cycles,...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 137
+  },
+  "release_date": "Apr 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/makeplane-plane",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:04.075493",
+  "metadata": {}
+}

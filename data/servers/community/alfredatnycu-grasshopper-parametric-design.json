@@ -1,0 +1,19 @@
+{
+  "id": "alfredatnycu-grasshopper-parametric-design",
+  "name": "Grasshopper Parametric Design",
+  "provider": "Alfred at NYCU",
+  "description": "Connects Grasshopper parametric design software with Claude through a bidirectional TCP server and Python bridge,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 24
+  },
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/alfredatnycu-grasshopper-parametric-design",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:23.531415",
+  "metadata": {}
+}

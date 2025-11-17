@@ -1,0 +1,16 @@
+{
+  "id": "rodcar-bcrp-peru-central-bank",
+  "name": "BCRP (Peru Central Reserve Bank)",
+  "provider": "rodcar",
+  "description": "Integrates with Peru's Central Reserve Bank (BCRP) API to retrieve macroeconomic indicators, financial statistics,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/rodcar-bcrp-peru-central-bank",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:54.082525",
+  "metadata": {}
+}

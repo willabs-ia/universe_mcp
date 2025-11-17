@@ -1,0 +1,19 @@
+{
+  "id": "jingcheng-chen-rhino-8",
+  "name": "Rhino 8",
+  "provider": "Jingcheng Chen",
+  "description": "Enables direct control of Rhino 8's 3D modeling environment through a C# SDK-based server that exposes modeling...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 553
+  },
+  "release_date": "Mar 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/jingcheng-chen-rhino-8",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:24.626547",
+  "metadata": {}
+}

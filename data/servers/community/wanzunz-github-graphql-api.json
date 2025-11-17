@@ -1,0 +1,16 @@
+{
+  "id": "wanzunz-github-graphql-api",
+  "name": "GitHub GraphQL API",
+  "provider": "wanzunz",
+  "description": "Provides direct access to GitHub's GraphQL API for querying repositories, issues, pull requests, and schema...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/wanzunz-github-graphql-api",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:32.208881",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "instructa-youtube-music",
+  "name": "YouTube Music",
+  "provider": "Instructa",
+  "description": "Enables searching and playing music tracks through YouTube Music with automatic browser launching for seamless...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/instructa-youtube-music",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:14.981461",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "dynamicendpoints-huntress",
+  "name": "Huntress",
+  "provider": "Dynamic Endpoints",
+  "description": "Integrates with Huntress endpoint protection services to manage cybersecurity operations, threat analysis, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 18, 2024",
+  "url": "https://www.pulsemcp.com/servers/dynamicendpoints-huntress",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:33.647704",
+  "metadata": {}
+}

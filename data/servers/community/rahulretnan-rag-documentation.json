@@ -1,0 +1,19 @@
+{
+  "id": "rahulretnan-rag-documentation",
+  "name": "RAG Documentation",
+  "provider": "Rahul Retnan",
+  "description": "Integrates Qdrant vector search with documentation retrieval to enable context-aware responses and semantic querying...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jan 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/rahulretnan-rag-documentation",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:46.611868",
+  "metadata": {}
+}

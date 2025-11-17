@@ -1,0 +1,16 @@
+{
+  "id": "supercorp-firecrawl",
+  "name": "Firecrawl",
+  "provider": "Supercorp",
+  "description": "Integrates with Firecrawl API to provide web scraping and search capabilities, enabling extraction of markdown...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/supercorp-firecrawl",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:19.938727",
+  "metadata": {}
+}

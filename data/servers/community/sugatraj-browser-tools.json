@@ -1,0 +1,16 @@
+{
+  "id": "sugatraj-browser-tools",
+  "name": "Browser Tools",
+  "provider": "Sugatraj",
+  "description": "Integrates with Chrome DevTools to provide browser debugging capabilities including console logs, network requests,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/sugatraj-browser-tools",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:16.438678",
+  "metadata": {}
+}

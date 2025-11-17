@@ -1,0 +1,16 @@
+{
+  "id": "hrmeetsingh-browser-automation",
+  "name": "Browser Automation",
+  "provider": "Harmeet Singh",
+  "description": "Integrates Playwright with MCP to enable automated web interactions, scraping, and testing across browsers.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 28, 2024",
+  "url": "https://www.pulsemcp.com/servers/hrmeetsingh-browser-automation",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:40.051640",
+  "metadata": {}
+}

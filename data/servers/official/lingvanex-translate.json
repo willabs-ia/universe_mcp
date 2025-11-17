@@ -1,0 +1,16 @@
+{
+  "id": "lingvanex-translate",
+  "name": "Lingvanex Translate",
+  "provider": "lingvanex-mt",
+  "description": "Provides multilingual text translation using the Lingvanex API, allowing translation between more than 100 languages.",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Oct 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/lingvanex-translate",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:29.278928",
+  "metadata": {}
+}

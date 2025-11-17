@@ -1,0 +1,16 @@
+{
+  "id": "0xkoda-ethereum-rpc",
+  "name": "Ethereum RPC",
+  "provider": "0xKoda",
+  "description": "Provides a bridge to the Ethereum blockchain for querying contract bytecode, gas prices, and account balances through...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/0xkoda-ethereum-rpc",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:15.090201",
+  "metadata": {}
+}

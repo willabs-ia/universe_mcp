@@ -1,0 +1,16 @@
+{
+  "id": "plyght-canvas-lms",
+  "name": "Canvas LMS",
+  "provider": "plyght",
+  "description": "Integrates with Canvas Learning Management System to provide comprehensive course management, assignment submission,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/plyght-canvas-lms",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:39.796768",
+  "metadata": {}
+}

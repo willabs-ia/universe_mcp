@@ -1,0 +1,19 @@
+{
+  "id": "mikah13-clickup",
+  "name": "ClickUp",
+  "provider": "mikah13",
+  "description": "Integrates with ClickUp's API to enable task management, team collaboration, and workflow automation for AI-driven...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 10
+  },
+  "release_date": "Feb 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/mikah13-clickup",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:34.938739",
+  "metadata": {}
+}

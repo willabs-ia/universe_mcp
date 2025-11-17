@@ -1,0 +1,16 @@
+{
+  "id": "swissspidy-wordpress",
+  "name": "WordPress REST API",
+  "provider": "Pascal Birchler",
+  "description": "Enables AI interaction with WordPress sites for content management through REST API endpoints that provide access to...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/swissspidy-wordpress",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:07.809159",
+  "metadata": {}
+}

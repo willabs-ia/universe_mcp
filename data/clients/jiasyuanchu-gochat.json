@@ -1,0 +1,11 @@
+{
+  "id": "jiasyuanchu-gochat",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Chat with LLMs via a clean web interface built with Golang and Gin framework, featuring conversation history tracking and customizable model parameters.",
+  "url": "https://www.pulsemcp.com/clients/jiasyuanchu-gochat",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.529194"
+}

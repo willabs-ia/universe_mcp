@@ -1,0 +1,19 @@
+{
+  "id": "kashuncheng-dap",
+  "name": "Debug Adapter Protocol (DAP)",
+  "provider": "Kashun Cheng",
+  "description": "Bridges debugging tools with AI systems through the Debug Adapter Protocol, enabling debugger control, breakpoint...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 67
+  },
+  "release_date": "Mar 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/kashuncheng-dap",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:12.771863",
+  "metadata": {}
+}

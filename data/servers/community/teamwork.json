@@ -1,0 +1,16 @@
+{
+  "id": "teamwork",
+  "name": "Teamwork",
+  "provider": "Vizioz",
+  "description": "Integrates with Teamwork API to manage projects, tasks, team members, and generate utilization reports for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/teamwork",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:23.594672",
+  "metadata": {}
+}

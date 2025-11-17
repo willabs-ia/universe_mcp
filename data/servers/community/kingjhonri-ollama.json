@@ -1,0 +1,16 @@
+{
+  "id": "kingjhonri-ollama",
+  "name": "Ollama",
+  "provider": "KingJhonRi",
+  "description": "Integrates with Ollama for local LLM inference, enabling direct access to self-hosted language models with streaming...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/kingjhonri-ollama",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:26.646641",
+  "metadata": {}
+}

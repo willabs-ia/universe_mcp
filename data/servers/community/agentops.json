@@ -1,0 +1,16 @@
+{
+  "id": "agentops",
+  "name": "AgentOps",
+  "provider": "AgentOps AI",
+  "description": "Integrates with AgentOps observability platform to provide access to trace data, span metrics, and debugging...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/agentops",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:25.004908",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "philogicae-ygg-torrent",
+  "name": "YggTorrent",
+  "provider": "philogicae",
+  "description": "Provides secure access to YggTorrent through an unofficial API wrapper, enabling torrent searching with category...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 38
+  },
+  "release_date": "Jun 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/philogicae-ygg-torrent",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:19.240968",
+  "metadata": {}
+}

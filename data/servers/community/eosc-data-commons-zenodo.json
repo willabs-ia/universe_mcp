@@ -1,0 +1,16 @@
+{
+  "id": "eosc-data-commons-zenodo",
+  "name": "EOSC Data Commons (Zenodo)",
+  "provider": "Vincent Emonet",
+  "description": "Integrates with Zenodo's API to enable natural language queries for scientific datasets, combining search...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/eosc-data-commons-zenodo",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:05.062388",
+  "metadata": {}
+}

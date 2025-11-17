@@ -1,0 +1,19 @@
+{
+  "id": "sinco-lab-youtube-transcript",
+  "name": "YouTube Transcript",
+  "provider": "sinco",
+  "description": "Extracts and formats YouTube video transcripts with language selection, paragraph formatting, and metadata enrichment...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 102
+  },
+  "release_date": "Mar 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/sinco-lab-youtube-transcript",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:08.377048",
+  "metadata": {}
+}

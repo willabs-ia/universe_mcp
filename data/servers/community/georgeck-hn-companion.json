@@ -1,0 +1,16 @@
+{
+  "id": "georgeck-hn-companion",
+  "name": "Hacker News Companion",
+  "provider": "George CK",
+  "description": "Analyzes and processes Hacker News discussions, extracting key insights from comment hierarchies based on engagement...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/georgeck-hn-companion",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:16.420959",
+  "metadata": {}
+}

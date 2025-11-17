@@ -1,0 +1,19 @@
+{
+  "id": "wangshunnn-bilibili",
+  "name": "Bilibili",
+  "provider": "Soon Wang",
+  "description": "Integrates with Bilibili video platform to retrieve user information, video details, and perform searches without...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 6
+  },
+  "release_date": "May 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/wangshunnn-bilibili",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:41.474344",
+  "metadata": {}
+}

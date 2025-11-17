@@ -1,0 +1,19 @@
+{
+  "id": "modelcontextprotocol-sentry",
+  "name": "Sentry",
+  "provider": "Anthropic",
+  "description": "Retrieve and analyze application error reports for debugging support.",
+  "classification": "reference",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 180
+  },
+  "release_date": "Nov 19, 2024",
+  "url": "https://www.pulsemcp.com/servers/modelcontextprotocol-sentry",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:40.220125",
+  "metadata": {}
+}

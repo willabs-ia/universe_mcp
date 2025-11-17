@@ -1,0 +1,19 @@
+{
+  "id": "dumpling-ai",
+  "name": "Dumpling AI",
+  "provider": "Dumpling AI",
+  "description": "Provides a bridge to Dumpling AI's data extraction API for performing web searches, scraping content, extracting...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 17
+  },
+  "release_date": "Mar 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/dumpling-ai",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:27.997852",
+  "metadata": {}
+}

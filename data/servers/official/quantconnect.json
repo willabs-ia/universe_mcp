@@ -1,0 +1,19 @@
+{
+  "id": "quantconnect",
+  "name": "QuantConnect",
+  "provider": "QuantConnect",
+  "description": "Integrates with QuantConnect's algorithmic trading platform to enable complete trading algorithm development...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Aug 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/quantconnect",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:01.879571",
+  "metadata": {}
+}

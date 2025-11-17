@@ -1,0 +1,16 @@
+{
+  "id": "mylxsw-voice-gen-minimax",
+  "name": "Voice Gen (Minimax AI)",
+  "provider": "mylxsw",
+  "description": "Converts text to high-quality speech audio using Minimax AI API with automatic S3 storage, organized directory...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/mylxsw-voice-gen-minimax",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:24.528405",
+  "metadata": {}
+}

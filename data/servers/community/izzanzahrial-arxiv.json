@@ -1,0 +1,16 @@
+{
+  "id": "izzanzahrial-arxiv",
+  "name": "arXiv",
+  "provider": "Izzan Zahrial",
+  "description": "Integrates with arXiv to enable searching and retrieving academic papers with structured data about scientific...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/izzanzahrial-arxiv",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:22.825742",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "norbinsh-trivy-security-scanner",
+  "name": "Trivy Security Scanner",
+  "provider": "Shay Elmualem",
+  "description": "Integrates with Trivy to provide vulnerability scanning and automated remediation for projects across multiple...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/norbinsh-trivy-security-scanner",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:01.595999",
+  "metadata": {}
+}

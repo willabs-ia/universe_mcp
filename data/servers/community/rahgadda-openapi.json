@@ -1,0 +1,16 @@
+{
+  "id": "rahgadda-openapi",
+  "name": "OpenAPI",
+  "provider": "Rahul Kiran Gaddam",
+  "description": "Enables LLMs to interact with REST APIs by dynamically generating tools from OpenAPI specifications, allowing models...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/rahgadda-openapi",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:14.290766",
+  "metadata": {}
+}

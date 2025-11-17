@@ -1,0 +1,16 @@
+{
+  "id": "egorpavlikhin-roslyn-analyzer",
+  "name": "Roslyn C# Analyzer",
+  "provider": "Egor Pavlikhin",
+  "description": "Provides C# code analysis capabilities by leveraging the Microsoft Roslyn compiler platform to validate syntax, find...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/egorpavlikhin-roslyn-analyzer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:36.816389",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "jpbullalayao-pokemon-vgc-damage-calculator",
+  "name": "Pokemon VGC Damage Calculator",
+  "provider": "jpbullalayao",
+  "description": "Provides Pokemon VGC damage calculation capabilities using the Smogon calc library, computing battle damage ranges,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/jpbullalayao-pokemon-vgc-damage-calculator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:45.509331",
+  "metadata": {}
+}

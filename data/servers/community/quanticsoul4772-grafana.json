@@ -1,0 +1,16 @@
+{
+  "id": "quanticsoul4772-grafana",
+  "name": "Grafana",
+  "provider": "Quantic Soul AI Research",
+  "description": "Integrates with Grafana instances to provide dashboard management, data source operations, Prometheus/Loki querying,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/quanticsoul4772-grafana",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:24.519483",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cdata-sap-businessobjects-bi",
+  "name": "SAP BusinessObjects BI",
+  "provider": "CData Software",
+  "description": "Connects to SAP BusinessObjects BI databases through JDBC drivers, enabling natural language queries of business...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Jul 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/cdata-sap-businessobjects-bi",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:05.088431",
+  "metadata": {}
+}

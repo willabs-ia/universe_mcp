@@ -1,0 +1,16 @@
+{
+  "id": "vishwajeetdabholkar-markdown-web-extractor",
+  "name": "Markdown Web Extractor",
+  "provider": "Vishwajeet Dabholkar",
+  "description": "Extracts clean markdown content from web pages using headless Chrome browser, filtering out navigation and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/vishwajeetdabholkar-markdown-web-extractor",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:33.213994",
+  "metadata": {}
+}

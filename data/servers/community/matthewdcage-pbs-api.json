@@ -1,0 +1,16 @@
+{
+  "id": "matthewdcage-pbs-api",
+  "name": "PBS API",
+  "provider": "Matthew Cage",
+  "description": "Provides access to the Australian Pharmaceutical Benefits Scheme (PBS) API for querying medicine listings, pricing,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/matthewdcage-pbs-api",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:30.527440",
+  "metadata": {}
+}

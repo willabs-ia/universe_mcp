@@ -1,0 +1,16 @@
+{
+  "id": "krishnapramodparupudi-kaggle",
+  "name": "Kaggle",
+  "provider": "KrishnaPramod",
+  "description": "Integrates with Kaggle's API to provide access to competition lists, leaderboards, dataset searches, model browsing,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/krishnapramodparupudi-kaggle",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:24.524764",
+  "metadata": {}
+}

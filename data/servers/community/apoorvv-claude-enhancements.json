@@ -1,0 +1,16 @@
+{
+  "id": "apoorvv-claude-enhancements",
+  "name": "Claude Enhancements",
+  "provider": "Apoorv Vishnoi",
+  "description": "Extends Claude's capabilities with modular utility servers for greeting users, counting files, saving conversations,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/apoorvv-claude-enhancements",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:48.400666",
+  "metadata": {}
+}

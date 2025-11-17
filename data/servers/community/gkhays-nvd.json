@@ -1,0 +1,16 @@
+{
+  "id": "gkhays-nvd",
+  "name": "NVD (National Vulnerability Database)",
+  "provider": "Garve Hays",
+  "description": "Provides direct access to the National Vulnerability Database (NVD) for retrieving detailed CVE information including...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/gkhays-nvd",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:30.097122",
+  "metadata": {}
+}

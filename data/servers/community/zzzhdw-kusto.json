@@ -1,0 +1,16 @@
+{
+  "id": "zzzhdw-kusto",
+  "name": "Kusto (Azure Data Explorer)",
+  "provider": "ZZZHDW",
+  "description": "Integrates with Azure Data Explorer to enable read-only querying, table listing, and schema retrieval for large-scale...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 12, 2024",
+  "url": "https://www.pulsemcp.com/servers/zzzhdw-kusto",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:35.743356",
+  "metadata": {}
+}

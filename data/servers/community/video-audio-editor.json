@@ -1,0 +1,19 @@
+{
+  "id": "video-audio-editor",
+  "name": "Video & Audio Editor",
+  "provider": "Misbah Sy",
+  "description": "Provides comprehensive video and audio editing capabilities through FFmpeg, enabling operations like format...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 415
+  },
+  "release_date": "May 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/video-audio-editor",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:28.819883",
+  "metadata": {}
+}

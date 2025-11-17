@@ -1,0 +1,19 @@
+{
+  "id": "lamaalrajih-kicad",
+  "name": "KiCad",
+  "provider": "Lama Alrajih",
+  "description": "Enables Claude to analyze and validate KiCad electronic design projects through PCB visualization, design rule...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/lamaalrajih-kicad",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:33.764957",
+  "metadata": {}
+}

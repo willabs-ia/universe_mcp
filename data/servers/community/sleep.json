@@ -1,0 +1,19 @@
+{
+  "id": "sleep",
+  "name": "Sleep",
+  "provider": "StylusFrost",
+  "description": "Enables AI systems to introduce timed pauses in execution flow, supporting both stdio and SSE transport methods with...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 54
+  },
+  "release_date": "Mar 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/sleep",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:14.938713",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cc-meta-prompt-evaluator",
+  "name": "CC-Meta (Prompt Evaluator)",
+  "provider": "areznik23",
+  "description": "Evaluates prompt quality and effectiveness using OpenAI or Anthropic models, providing numerical scores, strengths...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/cc-meta-prompt-evaluator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:58.351590",
+  "metadata": {}
+}

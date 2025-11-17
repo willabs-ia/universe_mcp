@@ -1,0 +1,16 @@
+{
+  "id": "canva-dev",
+  "name": "Canva Dev",
+  "provider": "Canva",
+  "description": "Integrates with Canva's development platform to provide contextual documentation, SDK references, and specialized...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Aug 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/canva-dev",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:25.042598",
+  "metadata": {}
+}

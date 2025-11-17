@@ -1,0 +1,19 @@
+{
+  "id": "shinshin86-aivisspeech",
+  "name": "AivisSpeech",
+  "provider": "shinshin86",
+  "description": "Integrates with AivisSpeech engine to provide Japanese text-to-speech synthesis with customizable voice parameters...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 12
+  },
+  "release_date": "Jun 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/shinshin86-aivisspeech",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:32.778614",
+  "metadata": {}
+}

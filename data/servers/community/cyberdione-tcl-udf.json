@@ -1,0 +1,16 @@
+{
+  "id": "cyberdione-tcl-udf",
+  "name": "TCL UDF",
+  "provider": "Erica Windisch",
+  "description": "Provides a complete TCL scripting environment with dynamic tool management, enabling creation and execution of custom...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/cyberdione-tcl-udf",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:56.247448",
+  "metadata": {}
+}

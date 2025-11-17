@@ -1,0 +1,16 @@
+{
+  "id": "fortnightly-devs-timelooker",
+  "name": "TimeLooker",
+  "provider": "fortnightly-devs",
+  "description": "Automated web monitoring system that executes paid search tasks at scheduled intervals, detects genuine changes using...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/fortnightly-devs-timelooker",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:52.006035",
+  "metadata": {}
+}

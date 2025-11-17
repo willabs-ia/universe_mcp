@@ -1,0 +1,11 @@
+{
+  "id": "mihirrd-ollama",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Connects Ollama-hosted LLMs to MCP servers, enabling Git operations, shell commands, and external tool usage through an interactive command-line interface.",
+  "url": "https://www.pulsemcp.com/clients/mihirrd-ollama",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.409493"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "prasanthmj-primitive-go",
+  "name": "DALL-E Image Generation",
+  "provider": "Prasanth Janardhanan",
+  "description": "Integrates with OpenAI's DALL-E API to generate and save images from text descriptions.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/prasanthmj-primitive-go",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:42.180313",
+  "metadata": {}
+}

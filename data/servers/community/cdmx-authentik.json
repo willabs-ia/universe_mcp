@@ -1,0 +1,19 @@
+{
+  "id": "cdmx-authentik",
+  "name": "Authentik",
+  "provider": "cdmx-in",
+  "description": "Integrates with Authentik's identity and access management platform to provide user, group, and application...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Jul 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/cdmx-authentik",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:56.932171",
+  "metadata": {}
+}

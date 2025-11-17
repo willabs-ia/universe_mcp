@@ -1,0 +1,19 @@
+{
+  "id": "egoist-exa-search",
+  "name": "Exa Search",
+  "provider": "EGOIST",
+  "description": "Integrates with Exa Search API to enable web searches with customizable parameters for search type, content...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 3
+  },
+  "release_date": "Apr 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/egoist-exa-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:48.041633",
+  "metadata": {}
+}

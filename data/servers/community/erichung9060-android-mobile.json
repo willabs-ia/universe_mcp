@@ -1,0 +1,19 @@
+{
+  "id": "erichung9060-android-mobile",
+  "name": "Android Mobile",
+  "provider": "erichung0906",
+  "description": "Enable AI agents to control Android devices",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 243
+  },
+  "release_date": "Sep 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/erichung9060-android-mobile",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:38.066941",
+  "metadata": {}
+}

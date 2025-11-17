@@ -1,0 +1,16 @@
+{
+  "id": "tmstack-text-to-sql-mysql",
+  "name": "Text-to-SQL (MySQL)",
+  "provider": "tmstack",
+  "description": "Converts natural language queries into SQL operations for MySQL databases, enabling conversational database...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/tmstack-text-to-sql-mysql",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:07.218951",
+  "metadata": {}
+}

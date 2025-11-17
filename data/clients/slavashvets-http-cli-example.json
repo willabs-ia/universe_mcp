@@ -1,0 +1,11 @@
+{
+  "id": "slavashvets-http-cli-example",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Demo implementation. Connects to MCP servers using SSE transport.",
+  "url": "https://www.pulsemcp.com/clients/slavashvets-http-cli-example",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.437612"
+}

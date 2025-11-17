@@ -1,0 +1,16 @@
+{
+  "id": "azure-samples-weather",
+  "name": "National Weather Service",
+  "provider": "Microsoft",
+  "description": "Integrates with the National Weather Service API to provide active weather alerts for US states and detailed...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/azure-samples-weather",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:43.348637",
+  "metadata": {}
+}

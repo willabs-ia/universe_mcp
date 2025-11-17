@@ -1,0 +1,11 @@
+{
+  "id": "hicoder-agents-mcp-cloud",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Full-stack platform for creating, configuring, and managing multiple AI agents with centralized control through a Vue.js frontend and FastAPI backend.",
+  "url": "https://www.pulsemcp.com/clients/hicoder-agents-mcp-cloud",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.497652"
+}

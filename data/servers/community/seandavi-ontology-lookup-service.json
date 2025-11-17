@@ -1,0 +1,16 @@
+{
+  "id": "seandavi-ontology-lookup-service",
+  "name": "Ontology Lookup Service",
+  "provider": "Sean Davis",
+  "description": "Integrates with the Ontology Lookup Service API to search biomedical ontology terms, retrieve detailed ontology...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/seandavi-ontology-lookup-service",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:58.343078",
+  "metadata": {}
+}

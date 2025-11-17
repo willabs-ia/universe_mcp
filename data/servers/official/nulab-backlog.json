@@ -1,0 +1,19 @@
+{
+  "id": "nulab-backlog",
+  "name": "Backlog",
+  "provider": "Nulab",
+  "description": "Integrates with Backlog project management platform to enable direct management of projects, issues, wikis, git...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 415
+  },
+  "release_date": "May 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/nulab-backlog",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:28.813864",
+  "metadata": {}
+}

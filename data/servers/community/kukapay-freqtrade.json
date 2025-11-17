@@ -1,0 +1,16 @@
+{
+  "id": "kukapay-freqtrade",
+  "name": "Freqtrade",
+  "provider": "kukapay",
+  "description": "Provides a bridge to Freqtrade's REST API for monitoring market data, managing trades, configuring bot behavior, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/kukapay-freqtrade",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:50.804920",
+  "metadata": {}
+}

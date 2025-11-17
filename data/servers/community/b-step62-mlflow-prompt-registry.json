@@ -1,0 +1,16 @@
+{
+  "id": "b-step62-mlflow-prompt-registry",
+  "name": "MLflow Prompt Registry",
+  "provider": "B-Step62",
+  "description": "Bridges MLflow's Prompt Registry with Claude Desktop, enabling direct discovery and use of managed prompt templates...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/b-step62-mlflow-prompt-registry",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:05.634954",
+  "metadata": {}
+}

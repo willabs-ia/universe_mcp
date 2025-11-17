@@ -1,0 +1,16 @@
+{
+  "id": "futureunreal-pdf2md",
+  "name": "PDF to Markdown Converter",
+  "provider": "FutureUnreal",
+  "description": "Converts PDF documents to Markdown format while preserving document structure, enabling content migration and making...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/futureunreal-pdf2md",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:41.613948",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "dexwritescode-rust-analyzer",
+  "name": "Rust Analyzer",
+  "provider": "Dex",
+  "description": "Integrates with rust-analyzer via LSP to provide intelligent Rust code analysis, generation, refactoring, and project...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jul 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/dexwritescode-rust-analyzer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:59.602396",
+  "metadata": {}
+}

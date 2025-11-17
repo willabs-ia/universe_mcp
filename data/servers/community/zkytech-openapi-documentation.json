@@ -1,0 +1,19 @@
+{
+  "id": "zkytech-openapi-documentation",
+  "name": "OpenAPI Documentation",
+  "provider": "zkytech",
+  "description": "Transforms OpenAPI specifications into dynamic tools for interacting with external services, handling authentication,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Mar 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/zkytech-openapi-documentation",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:54.765648",
+  "metadata": {}
+}

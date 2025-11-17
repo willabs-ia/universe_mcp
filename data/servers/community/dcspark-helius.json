@@ -1,0 +1,16 @@
+{
+  "id": "dcspark-helius",
+  "name": "Helius (Solana Blockchain)",
+  "provider": "dcSpark",
+  "description": "Integrates with the Helius API to provide real-time Solana blockchain data access, enabling wallet balance checks and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/dcspark-helius",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:06.422486",
+  "metadata": {}
+}

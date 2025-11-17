@@ -1,0 +1,16 @@
+{
+  "id": "respawn-app-tool-filter",
+  "name": "Tool Filter",
+  "provider": "respawn-app",
+  "description": "Proxy server that filters tools from upstream MCP servers using configurable regex patterns to control which tools...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/respawn-app-tool-filter",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:31.117182",
+  "metadata": {}
+}

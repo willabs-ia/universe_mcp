@@ -1,0 +1,11 @@
+{
+  "id": "truffle-ai-saiki",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Command center for controlling computers and services with natural language, connecting to multiple LLM providers and MCP servers through both CLI and web interfaces for tasks from file operations to web browsing.",
+  "url": "https://www.pulsemcp.com/clients/truffle-ai-saiki",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.389258"
+}

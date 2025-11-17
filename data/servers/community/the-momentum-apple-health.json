@@ -1,0 +1,19 @@
+{
+  "id": "the-momentum-apple-health",
+  "name": "Apple Health",
+  "provider": "Momentum",
+  "description": "Query Apple Health data with natural language using ElasticSearch under the hood.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "Jul 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/the-momentum-apple-health",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:37.992217",
+  "metadata": {}
+}

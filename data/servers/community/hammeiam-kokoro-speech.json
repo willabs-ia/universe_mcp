@@ -1,0 +1,19 @@
+{
+  "id": "hammeiam-kokoro-speech",
+  "name": "Kokoro Speech",
+  "provider": "hammeiam",
+  "description": "Provides text-to-speech capabilities using the Kokoro TTS model, enabling natural-sounding voice output with...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Mar 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/hammeiam-kokoro-speech",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:54.757704",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "torukmaktoalpha-indian-stocks",
+  "name": "Indian Stocks",
+  "provider": "torukmaktoalpha",
+  "description": "Integrates with the Indian stock market API to provide financial data including trending stocks, IPO information,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/torukmaktoalpha-indian-stocks",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:39.025928",
+  "metadata": {}
+}

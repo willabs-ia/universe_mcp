@@ -1,0 +1,16 @@
+{
+  "id": "headcrab-clickhouse",
+  "name": "ClickHouse",
+  "provider": "Alex Novikov",
+  "description": "Connects Claude to ClickHouse databases for direct query execution and data retrieval from time-series data,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/headcrab-clickhouse",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:12.188795",
+  "metadata": {}
+}

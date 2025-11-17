@@ -1,0 +1,11 @@
+{
+  "id": "dive-mcp-host",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Unified language model host service that standardizes interactions with various AI providers while offering conversation management, persistent storage, and multi-threaded capabilities through HTTP API and WebSocket support.",
+  "url": "https://www.pulsemcp.com/clients/dive-mcp-host",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.413672"
+}

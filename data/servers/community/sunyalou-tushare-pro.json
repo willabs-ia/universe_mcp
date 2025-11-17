@@ -1,0 +1,16 @@
+{
+  "id": "sunyalou-tushare-pro",
+  "name": "Tushare Pro",
+  "provider": "sunyalou",
+  "description": "Integrates with Tushare Pro API to provide Chinese stock market data including daily/weekly/monthly prices, index...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/sunyalou-tushare-pro",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:24.520697",
+  "metadata": {}
+}

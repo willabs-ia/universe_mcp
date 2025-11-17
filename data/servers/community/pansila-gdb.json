@@ -1,0 +1,16 @@
+{
+  "id": "pansila-gdb",
+  "name": "GDB",
+  "provider": "pansila",
+  "description": "GDB/MI protocol integration providing remote application debugging capabilities.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/pansila-gdb",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:39.472855",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "krzemienski-shannon",
+  "name": "Shannon (Claude Code CLI)",
+  "provider": "krzemienski",
+  "description": "Multi-agent collaborative system where 26 specialized agents implement Claude Code CLI integration with automatic...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/krzemienski-shannon",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:05.100508",
+  "metadata": {}
+}

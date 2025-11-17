@@ -1,0 +1,16 @@
+{
+  "id": "lpigeon-unitree-go2",
+  "name": "Unitree Go2",
+  "provider": "Jungsoo Lee",
+  "description": "Enables control of the Unitree Go2 quadruped robot through natural language commands, translating conversational...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/lpigeon-unitree-go2",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:34.351344",
+  "metadata": {}
+}

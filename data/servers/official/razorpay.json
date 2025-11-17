@@ -1,0 +1,16 @@
+{
+  "id": "razorpay",
+  "name": "Razorpay",
+  "provider": "Razorpay",
+  "description": "Provides a bridge between natural language commands and Razorpay's payment processing APIs, enabling seamless...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Apr 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/razorpay",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:25.907784",
+  "metadata": {}
+}

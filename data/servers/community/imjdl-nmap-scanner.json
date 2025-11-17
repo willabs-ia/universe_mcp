@@ -1,0 +1,19 @@
+{
+  "id": "imjdl-nmap-scanner",
+  "name": "Nmap Scanner",
+  "provider": "imjdl",
+  "description": "Provides a secure, controlled interface for network administrators and security researchers to perform targeted...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/imjdl-nmap-scanner",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:53.165958",
+  "metadata": {}
+}

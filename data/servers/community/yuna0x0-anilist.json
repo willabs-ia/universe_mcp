@@ -1,0 +1,16 @@
+{
+  "id": "yuna0x0-anilist",
+  "name": "AniList",
+  "provider": "yuna0x0",
+  "description": "Integrates with Anilist's anime/manga database through GraphQL queries, enabling search, retrieval, and analysis of...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/yuna0x0-anilist",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:34.840410",
+  "metadata": {}
+}

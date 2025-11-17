@@ -1,0 +1,16 @@
+{
+  "id": "patrickkalkman-encoding",
+  "name": "Encoding",
+  "provider": "Patrick Kalkman",
+  "description": "Integrates with an encoding API to enable encoding-related operations like data compression and format conversion,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/patrickkalkman-encoding",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:01.583987",
+  "metadata": {}
+}

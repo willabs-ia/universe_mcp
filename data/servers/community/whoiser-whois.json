@@ -1,0 +1,19 @@
+{
+  "id": "whoiser-whois",
+  "name": "Whoiser",
+  "provider": "GitHub Community",
+  "description": "Provides a lightweight server for performing WHOIS lookups using the whoiser library, enabling retrieval of domain...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 6
+  },
+  "release_date": "Mar 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/whoiser-whois",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:41.463166",
+  "metadata": {}
+}

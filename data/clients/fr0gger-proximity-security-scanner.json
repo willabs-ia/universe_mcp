@@ -1,0 +1,11 @@
+{
+  "id": "fr0gger-proximity-security-scanner",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Security scanner that discovers and analyzes MCP servers across multiple transport protocols, evaluating tools, prompts, and resources for potential vulnerabilities and malicious content using customizable NOVA security rules and LLM-based semantic analysis.",
+  "url": "https://www.pulsemcp.com/clients/fr0gger-proximity-security-scanner",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.395027"
+}

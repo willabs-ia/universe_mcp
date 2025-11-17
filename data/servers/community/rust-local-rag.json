@@ -1,0 +1,19 @@
+{
+  "id": "rust-local-rag",
+  "name": "Rust Local RAG",
+  "provider": "Mehmet Koray Sariteke",
+  "description": "Provides local document search and retrieval using Rust for high-performance PDF processing and semantic search with...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jun 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/rust-local-rag",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:59.566614",
+  "metadata": {}
+}

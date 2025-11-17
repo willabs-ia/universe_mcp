@@ -1,0 +1,11 @@
+{
+  "id": "starbased-mcpnest-cli",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Unofficial CLI tool for managing MCP server configurations on mcpnest.dev via WebSocket connections, enabling automated configuration backups, batch updates, and deployment pipeline integration without manual web interface interaction.",
+  "url": "https://www.pulsemcp.com/clients/starbased-mcpnest-cli",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.541459"
+}

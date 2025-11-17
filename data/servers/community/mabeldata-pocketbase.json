@@ -1,0 +1,16 @@
+{
+  "id": "mabeldata-pocketbase",
+  "name": "PocketBase",
+  "provider": "Mabel Data",
+  "description": "Interact with a PocketBase instance. Allows you to fetch, list, create, update, and manage records and files in your...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/mabeldata-pocketbase",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:12.720361",
+  "metadata": {}
+}

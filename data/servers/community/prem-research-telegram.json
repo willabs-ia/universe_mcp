@@ -1,0 +1,16 @@
+{
+  "id": "prem-research-telegram",
+  "name": "Telegram",
+  "provider": "Prem Research",
+  "description": "Provides a bridge between Telegram messaging platform and conversational interfaces, enabling message retrieval, chat...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/prem-research-telegram",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:27.965294",
+  "metadata": {}
+}

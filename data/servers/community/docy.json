@@ -1,0 +1,19 @@
+{
+  "id": "docy",
+  "name": "Docy (Documentation Access)",
+  "provider": "Oliver Borchers",
+  "description": "Provides direct access to technical documentation from configured sources, enabling real-time search, retrieval, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 51
+  },
+  "release_date": "May 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/docy",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:14.960619",
+  "metadata": {}
+}

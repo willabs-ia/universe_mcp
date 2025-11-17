@@ -1,0 +1,16 @@
+{
+  "id": "razorback16-git-repo-browser",
+  "name": "Git Repo Browser",
+  "provider": "Razorback16",
+  "description": "Integrates with Git repositories to provide efficient, deterministic access for retrieving directory structures and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/razorback16-git-repo-browser",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:01.575578",
+  "metadata": {}
+}

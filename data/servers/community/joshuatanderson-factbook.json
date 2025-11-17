@@ -1,0 +1,16 @@
+{
+  "id": "joshuatanderson-factbook",
+  "name": "CIA World Factbook",
+  "provider": "Joshua Anderson",
+  "description": "Fetch information about a country from the CIA World Factbook",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 28, 2024",
+  "url": "https://www.pulsemcp.com/servers/joshuatanderson-factbook",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:01.205752",
+  "metadata": {}
+}

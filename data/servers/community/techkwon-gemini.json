@@ -1,0 +1,16 @@
+{
+  "id": "techkwon-gemini",
+  "name": "Gemini with Web Search",
+  "provider": "techkwon",
+  "description": "Integrates Google's Gemini model with real-time web search and YouTube data to enhance AI responses with up-to-date...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/techkwon-gemini",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:03.529184",
+  "metadata": {}
+}

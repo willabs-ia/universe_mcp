@@ -1,0 +1,16 @@
+{
+  "id": "cdata-myob-accountright",
+  "name": "MYOB AccountRight",
+  "provider": "CData Software",
+  "description": "Transforms MYOB AccountRight accounting data into SQL-queryable format using JDBC connectivity, enabling...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/cdata-myob-accountright",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:17.788045",
+  "metadata": {}
+}

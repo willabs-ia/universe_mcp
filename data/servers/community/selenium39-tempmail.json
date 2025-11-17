@@ -1,0 +1,19 @@
+{
+  "id": "selenium39-tempmail",
+  "name": "ChatTempMail",
+  "provider": "Selenium39",
+  "description": "Integrates with ChatTempMail API to create temporary email addresses, retrieve messages, and manage disposable email...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 8
+  },
+  "release_date": "Sep 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/selenium39-tempmail",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:39.317610",
+  "metadata": {}
+}

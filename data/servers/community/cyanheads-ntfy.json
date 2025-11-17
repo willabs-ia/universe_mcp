@@ -1,0 +1,16 @@
+{
+  "id": "cyanheads-ntfy",
+  "name": "ntfy.sh",
+  "provider": "cyanheads",
+  "description": "Bridges Claude with ntfy.sh notification service, enabling direct push notifications with support for priorities,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/cyanheads-ntfy",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:37.008439",
+  "metadata": {}
+}

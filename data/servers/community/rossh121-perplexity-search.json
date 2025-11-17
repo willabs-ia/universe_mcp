@@ -1,0 +1,16 @@
+{
+  "id": "rossh121-perplexity-search",
+  "name": "Perplexity Search",
+  "provider": "Ross H",
+  "description": "Enhances Claude with intelligent web search capabilities through Perplexity API, automatically selecting optimal...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/rossh121-perplexity-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:15.095356",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "chatmcp-flomo",
+  "name": "Flomo",
+  "provider": "chatmcp",
+  "description": "Enables direct note-taking in Flomo by capturing Markdown content from conversations and posting it to your knowledge...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/chatmcp-flomo",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:32.252996",
+  "metadata": {}
+}

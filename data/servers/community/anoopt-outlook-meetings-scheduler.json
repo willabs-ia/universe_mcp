@@ -1,0 +1,19 @@
+{
+  "id": "anoopt-outlook-meetings-scheduler",
+  "name": "Outlook Meetings Scheduler",
+  "provider": "Anoop T",
+  "description": "Integrates with Microsoft Outlook to create, read, update, and delete calendar events, find people, and schedule...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 8
+  },
+  "release_date": "Apr 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/anoopt-outlook-meetings-scheduler",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:39.300577",
+  "metadata": {}
+}

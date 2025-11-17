@@ -1,0 +1,16 @@
+{
+  "id": "archimdescrypto-excel-reader",
+  "name": "Excel Reader",
+  "provider": "Archimedes Crypto",
+  "description": "Integrates with Excel files to enable efficient processing and analysis of large spreadsheet datasets through...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/archimdescrypto-excel-reader",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:59.304515",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "gentoro",
+  "name": "Gentoro",
+  "provider": "Gentoro",
+  "description": "Connect agentic systems to enterprise systems with Gentoro.",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 2
+  },
+  "release_date": "Dec 17, 2024",
+  "url": "https://www.pulsemcp.com/servers/gentoro",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:52.277186",
+  "metadata": {}
+}

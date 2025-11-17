@@ -1,0 +1,19 @@
+{
+  "id": "surajadsul-salesforce",
+  "name": "Salesforce",
+  "provider": "Suraj Adsul",
+  "description": "Integrates Claude with Salesforce, enabling natural language interactions for object management, schema exploration,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 9
+  },
+  "release_date": "Mar 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/surajadsul-salesforce",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:37.091480",
+  "metadata": {}
+}

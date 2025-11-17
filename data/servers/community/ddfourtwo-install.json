@@ -1,0 +1,16 @@
+{
+  "id": "ddfourtwo-install",
+  "name": "Install MCP",
+  "provider": "ddfourtwo",
+  "description": "Centralized management system for installing, configuring, and managing multiple MCP servers across different clients...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/ddfourtwo-install",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:56.200301",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "zzzccs123-baidu-baike",
+  "name": "Baidu Baike",
+  "provider": "Zzzccs123",
+  "description": "Retrieves and renders Baidu Baike encyclopedia entries directly within conversations, providing access to...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/zzzccs123-baidu-baike",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:32.701779",
+  "metadata": {}
+}

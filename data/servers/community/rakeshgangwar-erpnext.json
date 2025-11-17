@@ -1,0 +1,19 @@
+{
+  "id": "rakeshgangwar-erpnext",
+  "name": "ERPNext",
+  "provider": "Rakesh Gangwar",
+  "description": "Integrates with ERPNext/Frappe API to enable document operations, report generation, and metadata discovery for...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/rakeshgangwar-erpnext",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:55.288605",
+  "metadata": {}
+}

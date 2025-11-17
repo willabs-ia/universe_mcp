@@ -1,0 +1,16 @@
+{
+  "id": "food-data-central",
+  "name": "FoodData Central",
+  "provider": "Jamie Wong",
+  "description": "Provides access to the USDA's FoodData Central database for searching foods and retrieving detailed nutritional...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/food-data-central",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:12.712267",
+  "metadata": {}
+}

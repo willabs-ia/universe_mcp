@@ -1,0 +1,19 @@
+{
+  "id": "ahnlabio-bicscan",
+  "name": "BICScan",
+  "provider": "AhnLab Blockchain Company",
+  "description": "Provides a bridge to the BICScan API for assessing blockchain risk and analyzing digital assets through risk scoring...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/ahnlabio-bicscan",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:53.140878",
+  "metadata": {}
+}

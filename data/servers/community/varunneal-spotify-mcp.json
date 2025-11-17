@@ -1,0 +1,19 @@
+{
+  "id": "varunneal-spotify-mcp",
+  "name": "Spotify",
+  "provider": "Varun Neal",
+  "description": "Control music playback and access Spotify's music data.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 415
+  },
+  "release_date": "Dec 1, 2024",
+  "url": "https://www.pulsemcp.com/servers/varunneal-spotify-mcp",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:26.719109",
+  "metadata": {}
+}

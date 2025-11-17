@@ -1,0 +1,19 @@
+{
+  "id": "kalendis",
+  "name": "Kalendis",
+  "provider": "Kalendis",
+  "description": "Kalendis is a scheduling backend API that provides an MCP server for generating TypeScript clients and...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 14
+  },
+  "release_date": "Oct 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/kalendis",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:30.194733",
+  "metadata": {}
+}

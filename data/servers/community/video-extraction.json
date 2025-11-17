@@ -1,0 +1,19 @@
+{
+  "id": "video-extraction",
+  "name": "Video & Audio Text Extraction",
+  "provider": "Seazhang",
+  "description": "Extracts text from videos and audio files across platforms like YouTube, Bilibili, TikTok, Instagram, Twitter/X,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 57
+  },
+  "release_date": "Jul 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/video-extraction",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:14.926194",
+  "metadata": {}
+}

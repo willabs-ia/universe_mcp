@@ -1,0 +1,16 @@
+{
+  "id": "drfranko0-linkedin-profile-scraper",
+  "name": "LinkedIn Profile Scraper",
+  "provider": "DrFranko0",
+  "description": "Integrates with LinkedIn Profile Scraper API to asynchronously retrieve profile data including skills,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/drfranko0-linkedin-profile-scraper",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:07.896357",
+  "metadata": {}
+}

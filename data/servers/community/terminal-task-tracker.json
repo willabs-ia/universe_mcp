@@ -1,0 +1,16 @@
+{
+  "id": "terminal-task-tracker",
+  "name": "Terminal Task Tracker",
+  "provider": "MrYanMYN",
+  "description": "Terminal-based task management system that enables creating, updating, and organizing tasks by priority and status...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/terminal-task-tracker",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:14.959522",
+  "metadata": {}
+}

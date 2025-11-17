@@ -1,0 +1,19 @@
+{
+  "id": "bacoco-ai-expert-workflow",
+  "name": "AI Expert Workflow",
+  "provider": "bacoco",
+  "description": "Facilitates structured product development through specialized AI roles (Product Manager, UX Designer, Software...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 9
+  },
+  "release_date": "Apr 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/bacoco-ai-expert-workflow",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:37.110961",
+  "metadata": {}
+}

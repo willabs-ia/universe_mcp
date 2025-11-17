@@ -1,0 +1,16 @@
+{
+  "id": "amoldericksoans-ffmpeg",
+  "name": "FFmpeg",
+  "provider": "Amol Soans",
+  "description": "Enables multimedia processing operations using FFmpeg, allowing direct manipulation of audio and video files for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/amoldericksoans-ffmpeg",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:23.606677",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "anjor-coinmarket-mcp-server",
+  "name": "Coinmarket",
+  "provider": "anjor",
+  "description": "Access real-time cryptocurrency data from CoinMarketCap.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Nov 29, 2024",
+  "url": "https://www.pulsemcp.com/servers/anjor-coinmarket-mcp-server",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:42.307704",
+  "metadata": {}
+}

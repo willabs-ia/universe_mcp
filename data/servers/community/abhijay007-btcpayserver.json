@@ -1,0 +1,19 @@
+{
+  "id": "abhijay007-btcpayserver",
+  "name": "BTCPayServer",
+  "provider": "Abhijay007",
+  "description": "Integrates with BTCPayServer's API to provide complete Bitcoin payment processing, store management, and Lightning...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Oct 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/abhijay007-btcpayserver",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:59.095386",
+  "metadata": {}
+}

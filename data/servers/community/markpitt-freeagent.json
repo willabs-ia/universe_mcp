@@ -1,0 +1,16 @@
+{
+  "id": "markpitt-freeagent",
+  "name": "FreeAgent",
+  "provider": "Mark Pitt",
+  "description": "Integrates with FreeAgent API to enable time tracking management, including timeslip and timer operations for project...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/markpitt-freeagent",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:12.987237",
+  "metadata": {}
+}

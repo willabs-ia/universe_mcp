@@ -1,0 +1,16 @@
+{
+  "id": "cgoolsby-prometheus",
+  "name": "Prometheus",
+  "provider": "Curtis Goolsby",
+  "description": "Enables querying and analyzing Prometheus metrics data with tools for executing PromQL queries, retrieving series...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/cgoolsby-prometheus",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:32.251603",
+  "metadata": {}
+}

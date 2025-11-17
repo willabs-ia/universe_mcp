@@ -1,0 +1,16 @@
+{
+  "id": "alexandru2882-url-text-fetcher",
+  "name": "URL Text Fetcher",
+  "provider": "alexandru2882",
+  "description": "Extracts visible text content and hyperlinks from web pages using requests and BeautifulSoup4 for web scraping,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/alexandru2882-url-text-fetcher",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:11.476780",
+  "metadata": {}
+}

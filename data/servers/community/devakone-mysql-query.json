@@ -1,0 +1,19 @@
+{
+  "id": "devakone-mysql-query",
+  "name": "MySQL Query",
+  "provider": "Devakone",
+  "description": "Provides a secure, read-only bridge to MySQL databases, enabling natural language querying across multiple...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 15
+  },
+  "release_date": "Apr 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/devakone-mysql-query",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:30.158794",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "pluggo",
+  "name": "Pluggo",
+  "provider": "Pluggo AI",
+  "description": "Real-time social media data extraction with LinkedIn email discovery, Twitter, and Reddit intelligence",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/pluggo",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:27.146953",
+  "metadata": {}
+}

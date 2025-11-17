@@ -1,0 +1,16 @@
+{
+  "id": "f4ww4z-mcp-mysql-server",
+  "name": "MySQL Database",
+  "provider": "f4ww4z",
+  "description": "Interact with MySQL databases to execute queries and manage connections.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 13, 2024",
+  "url": "https://www.pulsemcp.com/servers/f4ww4z-mcp-mysql-server",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:31.522380",
+  "metadata": {}
+}

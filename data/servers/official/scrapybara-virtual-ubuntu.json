@@ -1,0 +1,16 @@
+{
+  "id": "scrapybara-virtual-ubuntu",
+  "name": "Scrapybara (Virtual Ubuntu)",
+  "provider": "Scrapybara",
+  "description": "Provides a bridge to virtual Ubuntu desktops for browsing the web, running code, and automating tasks through a...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/scrapybara-virtual-ubuntu",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:25.757153",
+  "metadata": {}
+}

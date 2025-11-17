@@ -1,0 +1,16 @@
+{
+  "id": "kehvinbehvin-json-schema-filter",
+  "name": "JSON Schema Generator & Filter",
+  "provider": "Kevin",
+  "description": "Generates TypeScript schemas from JSON data and filters large JSON files with automatic chunking, supporting both...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/kehvinbehvin-json-schema-filter",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:17.828757",
+  "metadata": {}
+}

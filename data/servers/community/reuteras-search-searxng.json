@@ -1,0 +1,16 @@
+{
+  "id": "reuteras-search-searxng",
+  "name": "SearxNG",
+  "provider": "reuteras",
+  "description": "Enables web search capabilities through a configurable SearxNG instance, providing privacy-focused information...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/reuteras-search-searxng",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:14.292001",
+  "metadata": {}
+}

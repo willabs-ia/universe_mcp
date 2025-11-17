@@ -1,0 +1,16 @@
+{
+  "id": "buryhuang-aws-resources-python",
+  "name": "AWS Resources",
+  "provider": "Bary Huang",
+  "description": "Provides a Python-based interface for executing AWS queries across services like S3 and CodePipeline, enabling DevOps...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/buryhuang-aws-resources-python",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:48.562148",
+  "metadata": {}
+}

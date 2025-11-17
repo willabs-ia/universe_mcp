@@ -1,0 +1,16 @@
+{
+  "id": "openconstruct-llama-cpp-bridge",
+  "name": "Llama.cpp Bridge",
+  "provider": "Jerry",
+  "description": "Bridges local llama-server instances with MCP clients, providing chat interface, health monitoring, and configurable...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/openconstruct-llama-cpp-bridge",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:15.689713",
+  "metadata": {}
+}

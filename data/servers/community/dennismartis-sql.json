@@ -1,0 +1,16 @@
+{
+  "id": "dennismartis-sql",
+  "name": "SQL Server",
+  "provider": "Dennis Martis",
+  "description": "Provides a bridge to Microsoft SQL Server databases for executing queries, exploring schemas, and managing data...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/dennismartis-sql",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:18.537411",
+  "metadata": {}
+}

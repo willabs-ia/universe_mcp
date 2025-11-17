@@ -1,0 +1,19 @@
+{
+  "id": "auto-browse-unbundle-openapi",
+  "name": "OpenAPI Unbundler",
+  "provider": "Auto Browse",
+  "description": "Splits and extracts portions of OpenAPI specification files into smaller, more focused files while preserving...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 3
+  },
+  "release_date": "May 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/auto-browse-unbundle-openapi",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:50.176269",
+  "metadata": {}
+}

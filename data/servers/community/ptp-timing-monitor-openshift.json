@@ -1,0 +1,16 @@
+{
+  "id": "ptp-timing-monitor-openshift",
+  "name": "PTP Timing Monitor (OpenShift)",
+  "provider": "aneeshkp",
+  "description": "Monitors PTP timing infrastructure in OpenShift clusters through Kubernetes API integration, providing configuration...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/ptp-timing-monitor-openshift",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:00.574904",
+  "metadata": {}
+}

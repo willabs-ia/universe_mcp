@@ -1,0 +1,16 @@
+{
+  "id": "benborla-mysql",
+  "name": "Read MySQL",
+  "provider": "Ben Borla",
+  "description": "Secure read-only MySQL database access to execute queries and analyze data patterns.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 9, 2024",
+  "url": "https://www.pulsemcp.com/servers/benborla-mysql",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:31.514578",
+  "metadata": {}
+}

@@ -1,0 +1,11 @@
+{
+  "id": "extopico-llama-server-proxy",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Bridges llama-server with MCP-compatible tool servers, enabling local LLMs to access external tools like web search, filesystem, and web browsing while maintaining streaming support.",
+  "url": "https://www.pulsemcp.com/clients/extopico-llama-server-proxy",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.445389"
+}

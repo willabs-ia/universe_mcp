@@ -1,0 +1,16 @@
+{
+  "id": "prims",
+  "name": "PRIMS (Python Runtime)",
+  "provider": "Hileamlak Mulugeta Yitayew",
+  "description": "Provides secure Python code execution in isolated Docker containers with session-persistent workspaces, configurable...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/prims",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:17.806083",
+  "metadata": {}
+}

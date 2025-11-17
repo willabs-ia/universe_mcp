@@ -1,0 +1,19 @@
+{
+  "id": "zueai-screenshot-capture",
+  "name": "Screenshot Capture",
+  "provider": "zueai",
+  "description": "Enables AI to capture screenshots from multiple displays on macOS, Windows, and Linux for analyzing visual content,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 12
+  },
+  "release_date": "Apr 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/zueai-screenshot-capture",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:32.763312",
+  "metadata": {}
+}

@@ -1,0 +1,11 @@
+{
+  "id": "par-inspector-tui",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Terminal-based interface for inspecting and interacting with MCP servers via STDIO, TCP, or HTTP transports with dynamic form generation, real-time notifications, and comprehensive debugging capabilities.",
+  "url": "https://www.pulsemcp.com/clients/par-inspector-tui",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.434820"
+}

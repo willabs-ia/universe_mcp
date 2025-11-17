@@ -1,0 +1,16 @@
+{
+  "id": "taha-ghadirian-ftp-manager",
+  "name": "FTP Manager",
+  "provider": "Taha Ghadirian",
+  "description": "Enables remote file management operations on FTP servers including listing, downloading, uploading, and deleting...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/taha-ghadirian-ftp-manager",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:22.792499",
+  "metadata": {}
+}

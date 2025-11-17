@@ -1,0 +1,16 @@
+{
+  "id": "diegofornalha-secure-shell",
+  "name": "Secure Shell Executor",
+  "provider": "Diego Fornalha",
+  "description": "Provides a secure way to execute shell commands with robust validation, whitelisting, and timeout handling through an...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/diegofornalha-secure-shell",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:10.011135",
+  "metadata": {}
+}

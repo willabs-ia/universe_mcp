@@ -1,0 +1,16 @@
+{
+  "id": "chenxilol-perplexity-search",
+  "name": "Perplexity Search",
+  "provider": "chenxilol",
+  "description": "Integrates with Perplexity AI search API to enable real-time web searches with customizable parameters for recency...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/chenxilol-perplexity-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:01.402135",
+  "metadata": {}
+}

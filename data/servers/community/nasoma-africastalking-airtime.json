@@ -1,0 +1,16 @@
+{
+  "id": "nasoma-africastalking-airtime",
+  "name": "Africa's Talking Airtime",
+  "provider": "Ana Guy",
+  "description": "Integrates with Africa’s Talking Airtime API, enabling clients to send airtime top-ups to one or more mobile numbers.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/nasoma-africastalking-airtime",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:32.246493",
+  "metadata": {}
+}

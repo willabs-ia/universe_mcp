@@ -1,0 +1,16 @@
+{
+  "id": "doobidoo-memory-dashboard",
+  "name": "Memory Usage Dashboard",
+  "provider": "doobidoo",
+  "description": "Provides a React-based dashboard for real-time monitoring and visualization of memory usage in MCP implementations,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/doobidoo-memory-dashboard",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:42.200894",
+  "metadata": {}
+}

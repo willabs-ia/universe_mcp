@@ -1,0 +1,16 @@
+{
+  "id": "liu-creators-postgresql",
+  "name": "PostgreSQL",
+  "provider": "Liu-creators",
+  "description": "Enables natural language interactions with PostgreSQL databases for query execution, schema exploration, and data...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/liu-creators-postgresql",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:21.349198",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "carlmontanari-scrapli",
+  "name": "Scrapli Network Automation",
+  "provider": "Carl Montanari",
+  "description": "Integrates the Scrapli network automation library to enable SSH command execution on Cisco IOS XE devices for network...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/carlmontanari-scrapli",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:17.094672",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "joehaddad2000-claude-todo-emulator",
+  "name": "Claude Todo Emulator",
+  "provider": "Joe Haddad",
+  "description": "Emulates Claude Code's task management system with persistent todo functionality, providing workspace-local storage...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 159
+  },
+  "release_date": "Jun 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/joehaddad2000-claude-todo-emulator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:42.277362",
+  "metadata": {}
+}

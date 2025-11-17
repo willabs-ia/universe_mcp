@@ -1,0 +1,16 @@
+{
+  "id": "lyarwood-kubevirt",
+  "name": "KubeVirt",
+  "provider": "Lee Yarwood",
+  "description": "Enables natural language management of virtual machines in Kubernetes environments through KubeVirt API, allowing...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/lyarwood-kubevirt",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:05.682328",
+  "metadata": {}
+}

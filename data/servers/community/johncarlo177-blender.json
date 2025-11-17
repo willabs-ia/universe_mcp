@@ -1,0 +1,19 @@
+{
+  "id": "johncarlo177-blender",
+  "name": "Blender",
+  "provider": "johncarlo177",
+  "description": "Integrates with Blender through socket-based communication to enable real-time 3D scene manipulation, asset...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Sep 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/johncarlo177-blender",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:04.030507",
+  "metadata": {}
+}

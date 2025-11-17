@@ -1,0 +1,16 @@
+{
+  "id": "kamel-irzouni-deepseek-r1",
+  "name": "Deepseek R1",
+  "provider": "Julien Martin",
+  "description": "Integrates with Deepseek R1 model for text generation and analysis tasks, enabling content creation and AI-assisted...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/kamel-irzouni-deepseek-r1",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:57.193226",
+  "metadata": {}
+}

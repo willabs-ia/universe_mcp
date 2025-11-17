@@ -1,0 +1,16 @@
+{
+  "id": "ethereumdegen-rust",
+  "name": "Ethereal Rust",
+  "provider": "ethereumdegen",
+  "description": "Provides a flexible, type-safe Rust foundation for building applications with tool management, authentication...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/ethereumdegen-rust",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:10.862247",
+  "metadata": {}
+}

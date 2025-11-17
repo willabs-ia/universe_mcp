@@ -1,0 +1,19 @@
+{
+  "id": "lalanikarim-comfy-ui",
+  "name": "ComfyUI",
+  "provider": "Karim Lalani",
+  "description": "Integrates with ComfyUI to enable natural language-driven image generation using customizable Stable Diffusion workflows",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Feb 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/lalanikarim-comfy-ui",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:46.637024",
+  "metadata": {}
+}

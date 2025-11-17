@@ -1,0 +1,11 @@
+{
+  "id": "better-client",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Zero-dependency TypeScript client implementation that provides runtime-agnostic MCP connectivity with modular transport adapters, stateless/stateful operation separation, and comprehensive session management across browser and Node.js environments.",
+  "url": "https://www.pulsemcp.com/clients/better-client",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.537468"
+}

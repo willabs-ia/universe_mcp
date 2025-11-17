@@ -1,0 +1,16 @@
+{
+  "id": "recallnet-trading-simulator",
+  "name": "Trading Simulator",
+  "provider": "RecallNet",
+  "description": "Enables AI models to interact with a multi-chain trading simulator API for executing trades, checking balances,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/recallnet-trading-simulator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:14.277759",
+  "metadata": {}
+}

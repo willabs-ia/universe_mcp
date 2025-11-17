@@ -1,0 +1,16 @@
+{
+  "id": "codebywagas-gitlab-mr-confluence-linker",
+  "name": "GitLab MR Confluence Linker",
+  "provider": "Waqas",
+  "description": "Bridges GitLab merge requests with Confluence documentation, enabling automatic retrieval, analysis, and structured...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/codebywagas-gitlab-mr-confluence-linker",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:14.308959",
+  "metadata": {}
+}

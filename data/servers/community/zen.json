@@ -1,0 +1,16 @@
+{
+  "id": "zen",
+  "name": "Zen",
+  "provider": "Fahad Gilani",
+  "description": "Provides 15 specialized development tools through multi-provider architecture supporting Gemini, OpenAI, xAI,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/zen",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:22.148665",
+  "metadata": {}
+}

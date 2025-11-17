@@ -1,0 +1,16 @@
+{
+  "id": "arnavsurve-soundcloud-downloader",
+  "name": "SoundCloud Downloader",
+  "provider": "Arnav Surve",
+  "description": "Enables downloading tracks, playlists, and user content from SoundCloud with granular control over output location,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/arnavsurve-soundcloud-downloader",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:19.311311",
+  "metadata": {}
+}

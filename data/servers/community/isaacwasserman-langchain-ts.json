@@ -1,0 +1,19 @@
+{
+  "id": "isaacwasserman-langchain-ts",
+  "name": "LangChain (TypeScript)",
+  "provider": "Isaac Wasserman",
+  "description": "Enable LangChain workflows for your MCP client.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 12
+  },
+  "release_date": "Dec 16, 2024",
+  "url": "https://www.pulsemcp.com/servers/isaacwasserman-langchain-ts",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:32.732495",
+  "metadata": {}
+}

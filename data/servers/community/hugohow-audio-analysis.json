@@ -1,0 +1,16 @@
+{
+  "id": "hugohow-audio-analysis",
+  "name": "Audio Analysis",
+  "provider": "Hugo How-Choong",
+  "description": "Analyzes audio files from local sources, YouTube, or URLs using librosa to extract musical features like tempo,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/hugohow-audio-analysis",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:10.006259",
+  "metadata": {}
+}

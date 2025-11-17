@@ -1,0 +1,16 @@
+{
+  "id": "d6e-rust-docs",
+  "name": "CrateDocs",
+  "provider": "Claude",
+  "description": "Dynamically retrieves and converts Rust crate documentation from docs.rs and crates.io, enabling instant library...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/d6e-rust-docs",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:59.227056",
+  "metadata": {}
+}

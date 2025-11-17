@@ -1,0 +1,16 @@
+{
+  "id": "n8n-workflow",
+  "name": "n8n Workflow",
+  "provider": "mito001",
+  "description": "Enables AI assistants to execute n8n workflows directly via WebSocket, creating a bridge between conversation context...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/n8n-workflow",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:16.445980",
+  "metadata": {}
+}

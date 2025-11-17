@@ -1,0 +1,19 @@
+{
+  "id": "jhgaylor-hirebase",
+  "name": "HireBase Job Search",
+  "provider": "Jake Gaylor",
+  "description": "Integrates with HireBase Job API to enable job searching with extensive filtering options and detailed job...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 79
+  },
+  "release_date": "Apr 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/jhgaylor-hirebase",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:10.530040",
+  "metadata": {}
+}

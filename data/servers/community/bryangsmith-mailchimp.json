@@ -1,0 +1,16 @@
+{
+  "id": "bryangsmith-mailchimp",
+  "name": "Mailchimp",
+  "provider": "Bryan G Smith",
+  "description": "Integrates with Mailchimp's marketing platform API to enable email campaign management, creation, sending, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/bryangsmith-mailchimp",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:17.230703",
+  "metadata": {}
+}

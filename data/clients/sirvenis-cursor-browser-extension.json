@@ -1,0 +1,11 @@
+{
+  "id": "sirvenis-cursor-browser-extension",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Chrome extension that captures browser context like console logs, network requests, and DOM elements to enhance developer workflows in Cursor IDE through a messaging protocol.",
+  "url": "https://www.pulsemcp.com/clients/sirvenis-cursor-browser-extension",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.477689"
+}

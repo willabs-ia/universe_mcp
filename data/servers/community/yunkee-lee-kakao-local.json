@@ -1,0 +1,16 @@
+{
+  "id": "yunkee-lee-kakao-local",
+  "name": "Kakao Local",
+  "provider": "Yunkee Lee",
+  "description": "Integrates with Kakao's mapping APIs to provide location information within South Korea, enabling address geocoding,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/yunkee-lee-kakao-local",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:22.816641",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "yahoo-fantasy-football",
+  "name": "Yahoo Fantasy Football",
+  "provider": "Derek Breese",
+  "description": "Integrates with Yahoo Fantasy Sports API to provide lineup optimization, draft assistance, and league management...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/yahoo-fantasy-football",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:11.475476",
+  "metadata": {}
+}

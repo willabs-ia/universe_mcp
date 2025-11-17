@@ -1,0 +1,19 @@
+{
+  "id": "mk965-asset-price",
+  "name": "Asset Price",
+  "provider": "mk965",
+  "description": "Provides real-time financial data for precious metals, cryptocurrencies, and other assets, enabling market price...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 2
+  },
+  "release_date": "Mar 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/mk965-asset-price",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:52.285290",
+  "metadata": {}
+}

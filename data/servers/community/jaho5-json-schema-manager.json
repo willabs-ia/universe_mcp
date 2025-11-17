@@ -1,0 +1,16 @@
+{
+  "id": "jaho5-json-schema-manager",
+  "name": "JSON Schema Manager",
+  "provider": "jaho5",
+  "description": "Manages JSON schemas and generates instances with custom properties, enabling applications to maintain consistent...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/jaho5-json-schema-manager",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:15.134167",
+  "metadata": {}
+}

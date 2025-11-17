@@ -1,0 +1,19 @@
+{
+  "id": "yiyang-li-twilio-sms",
+  "name": "Twilio SMS",
+  "provider": "Yiyang Li",
+  "description": "Enables Claude and other assistants to send SMS and MMS messages through Twilio's API with phone number validation...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 16
+  },
+  "release_date": "Feb 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/yiyang-li-twilio-sms",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:28.013705",
+  "metadata": {}
+}

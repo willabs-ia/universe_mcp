@@ -1,0 +1,16 @@
+{
+  "id": "linked-api",
+  "name": "Linked API",
+  "provider": "Linked API",
+  "description": "Lets AI assistants control LinkedIn accounts and retrieve real-time data.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/linked-api",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:17.809989",
+  "metadata": {}
+}

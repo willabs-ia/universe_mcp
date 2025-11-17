@@ -1,0 +1,16 @@
+{
+  "id": "snowfort-choreograph",
+  "name": "Choreograph (Playwright Browser & Electron Automation)",
+  "provider": "Snowfort LLC",
+  "description": "Automates web browsers and Electron desktop applications using Playwright with support for Chromium, Firefox, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/snowfort-choreograph",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:51.989131",
+  "metadata": {}
+}

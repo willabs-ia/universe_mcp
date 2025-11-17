@@ -1,0 +1,19 @@
+{
+  "id": "rafalwilinski-apple-notes",
+  "name": "Apple Notes",
+  "provider": "Rafal Wilinski",
+  "description": "Search and reference Apple Notes from your local machine using on-device embeddings.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 415
+  },
+  "release_date": "Dec 16, 2024",
+  "url": "https://www.pulsemcp.com/servers/rafalwilinski-apple-notes",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:26.721763",
+  "metadata": {}
+}

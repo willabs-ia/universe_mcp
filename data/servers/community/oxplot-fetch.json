@@ -1,0 +1,16 @@
+{
+  "id": "oxplot-fetch",
+  "name": "Fetch",
+  "provider": "oxplot",
+  "description": "Enables web content retrieval through a Go-based server that fetches text and images from URLs with customizable HTTP...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/oxplot-fetch",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:10.018863",
+  "metadata": {}
+}

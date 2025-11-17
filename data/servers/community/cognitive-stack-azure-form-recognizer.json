@@ -1,0 +1,19 @@
+{
+  "id": "cognitive-stack-azure-form-recognizer",
+  "name": "Orion Vision (Azure Form Recognizer)",
+  "provider": "Cognitive Stack",
+  "description": "Integrates with Azure Form Recognizer to extract structured data from documents including receipts, invoices, ID...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Apr 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/cognitive-stack-azure-form-recognizer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:56.894499",
+  "metadata": {}
+}

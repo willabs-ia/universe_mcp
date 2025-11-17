@@ -1,0 +1,19 @@
+{
+  "id": "filipkrayem-ai-consultant",
+  "name": "AI Consultant (OpenRouter)",
+  "provider": "Filip Krayem",
+  "description": "Integrates with OpenRouter's API to provide AI consultation capabilities across multiple models with intelligent...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Oct 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/filipkrayem-ai-consultant",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:59.094091",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "bsahane-proxmox",
+  "name": "Proxmox VE",
+  "provider": "bsahane",
+  "description": "Integrates with Proxmox VE API to provide complete virtualization management including VM and container lifecycle...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/bsahane-proxmox",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:11.470330",
+  "metadata": {}
+}

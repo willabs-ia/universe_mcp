@@ -1,0 +1,16 @@
+{
+  "id": "layerzero-oft",
+  "name": "LayerZero OFT",
+  "provider": "thomasfevre",
+  "description": "Deploys and manages LayerZero OFT tokens across multiple blockchain networks with automated cross-chain bridging,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/layerzero-oft",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:45.492682",
+  "metadata": {}
+}

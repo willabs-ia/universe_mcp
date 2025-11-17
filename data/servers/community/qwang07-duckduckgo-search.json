@@ -1,0 +1,19 @@
+{
+  "id": "qwang07-duckduckgo-search",
+  "name": "DuckDuckGo Search",
+  "provider": "qwang07",
+  "description": "Integrates with DuckDuckGo's search engine to enable web searches for up-to-date information retrieval and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 12
+  },
+  "release_date": "Jan 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/qwang07-duckduckgo-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:32.744790",
+  "metadata": {}
+}

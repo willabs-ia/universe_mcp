@@ -1,0 +1,16 @@
+{
+  "id": "vincentf305-deepseek",
+  "name": "Deepseek",
+  "provider": "Vincent F",
+  "description": "Integrates with Deepseek models via a simple API bridge.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/vincentf305-deepseek",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:52.965200",
+  "metadata": {}
+}

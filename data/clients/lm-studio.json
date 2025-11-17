@@ -1,0 +1,11 @@
+{
+  "id": "lm-studio",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Desktop application for running local LLMs with tool call confirmation dialogs that connects to both local and remote MCP servers through configurable JSON settings.",
+  "url": "https://www.pulsemcp.com/clients/lm-studio",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.372199"
+}

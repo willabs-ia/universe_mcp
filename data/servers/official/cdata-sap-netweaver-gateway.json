@@ -1,0 +1,16 @@
+{
+  "id": "cdata-sap-netweaver-gateway",
+  "name": "SAP NetWeaver Gateway",
+  "provider": "CData Software",
+  "description": "Bridges SAP NetWeaver Gateway systems through JDBC connectivity, enabling natural language queries of SAP business...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Jul 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/cdata-sap-netweaver-gateway",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:02.949673",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "taylorwilsdon-quantconnect",
+  "name": "QuantConnect",
+  "provider": "Taylor Wilsdon",
+  "description": "Integrates with QuantConnect's quantitative finance platform to provide historical data retrieval, statistical...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 133
+  },
+  "release_date": "Jun 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/taylorwilsdon-quantconnect",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:04.081798",
+  "metadata": {}
+}

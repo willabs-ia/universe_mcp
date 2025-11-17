@@ -1,0 +1,16 @@
+{
+  "id": "dstreefkerk-ms-sentinel",
+  "name": "Microsoft Sentinel",
+  "provider": "Daniel Streefkerk",
+  "description": "Integrates with Microsoft Sentinel to enable security analysts to execute KQL queries, manage analytics rules,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/dstreefkerk-ms-sentinel",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:30.088330",
+  "metadata": {}
+}

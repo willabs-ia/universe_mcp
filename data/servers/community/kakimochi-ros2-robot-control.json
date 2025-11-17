@@ -1,0 +1,16 @@
+{
+  "id": "kakimochi-ros2-robot-control",
+  "name": "ROS 2 Robot Control",
+  "provider": "kakimochi",
+  "description": "Integrates ROS 2 with natural language processing to enable robot control through commands like 'move forward at 0.2...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/kakimochi-ros2-robot-control",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:30.124592",
+  "metadata": {}
+}

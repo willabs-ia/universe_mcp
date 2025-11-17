@@ -1,0 +1,16 @@
+{
+  "id": "cursor-conversations",
+  "name": "Cursor Conversations",
+  "provider": "vltansky",
+  "description": "Provides direct access to Cursor's local conversation database for analyzing coding patterns, extracting personalized...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/cursor-conversations",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:27.156167",
+  "metadata": {}
+}

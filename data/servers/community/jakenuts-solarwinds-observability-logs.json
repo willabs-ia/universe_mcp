@@ -1,0 +1,19 @@
+{
+  "id": "jakenuts-solarwinds-observability-logs",
+  "name": "SolarWinds Observability Logs",
+  "provider": "Jake Nuts",
+  "description": "Integrates with SolarWinds Observability logs, providing tools for searching, visualizing, and analyzing log data...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 10
+  },
+  "release_date": "Mar 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/jakenuts-solarwinds-observability-logs",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:34.940093",
+  "metadata": {}
+}

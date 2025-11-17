@@ -1,0 +1,16 @@
+{
+  "id": "ananddtyagi-copy-paste-line-extractor",
+  "name": "Copy-Paste Line Extractor",
+  "provider": "Anand Tyagi",
+  "description": "Extracts specific line ranges from text content while preserving exact formatting and newlines, ideal for working...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/ananddtyagi-copy-paste-line-extractor",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:34.366526",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ks0318-p-sound-notification",
+  "name": "Sound Notification",
+  "provider": "ks0318-p",
+  "description": "Plays customizable audio notifications for key interaction points in development environments, alerting users when AI...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/ks0318-p-sound-notification",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:41.619781",
+  "metadata": {}
+}

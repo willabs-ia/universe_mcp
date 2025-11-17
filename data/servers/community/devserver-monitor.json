@@ -1,0 +1,16 @@
+{
+  "id": "devserver-monitor",
+  "name": "DevServer Monitor",
+  "provider": "Tristan Brotherton",
+  "description": "Monitors development server processes and provides intelligent error categorization with file change correlation to...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/devserver-monitor",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:24.511771",
+  "metadata": {}
+}

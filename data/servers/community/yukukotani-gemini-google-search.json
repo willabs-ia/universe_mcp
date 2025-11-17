@@ -1,0 +1,19 @@
+{
+  "id": "yukukotani-gemini-google-search",
+  "name": "Google Search (Gemini)",
+  "provider": "yukukotani",
+  "description": "Provides Google Search functionality through Gemini's native grounding capabilities, delivering search results with...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 2
+  },
+  "release_date": "Jun 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/yukukotani-gemini-google-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:52.309302",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "captain-blue210-anki-leech-cards",
+  "name": "Anki Leech Cards",
+  "provider": "Aoki Hayato",
+  "description": "Connects Claude Desktop to Anki via AnkiConnect API, enabling retrieval and analysis of 'leech' cards to improve...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/captain-blue210-anki-leech-cards",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:14.306536",
+  "metadata": {}
+}

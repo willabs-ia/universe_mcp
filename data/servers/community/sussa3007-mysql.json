@@ -1,0 +1,19 @@
+{
+  "id": "sussa3007-mysql",
+  "name": "MySQL",
+  "provider": "sussa3007",
+  "description": "Enables AI models to interact with MySQL databases through a structured interface.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/sussa3007-mysql",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:50.944455",
+  "metadata": {}
+}

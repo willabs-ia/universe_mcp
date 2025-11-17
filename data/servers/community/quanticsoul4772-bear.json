@@ -1,0 +1,16 @@
+{
+  "id": "quanticsoul4772-bear",
+  "name": "Bear",
+  "provider": "Quantic Soul AI Research",
+  "description": "Connects to Bear's local SQLite database to provide read-only access for searching notes by text or tags, retrieving...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/quanticsoul4772-bear",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:37.526474",
+  "metadata": {}
+}

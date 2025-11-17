@@ -1,0 +1,11 @@
+{
+  "id": "stormlrd-kiro-mcp-manager",
+  "name": "Unknown",
+  "provider": null,
+  "description": "VS Code extension that provides centralized management of AWS MCP servers through grouped templates, individual server control, and workspace-specific environment variable configuration.",
+  "url": "https://www.pulsemcp.com/clients/stormlrd-kiro-mcp-manager",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.544936"
+}

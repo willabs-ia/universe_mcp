@@ -1,0 +1,19 @@
+{
+  "id": "shenghaiwan-xcodebuild",
+  "name": "Xcodebuild",
+  "provider": "Tim Wang",
+  "description": "Integrates with Xcode to enable iOS project building, testing, and error handling for efficient development workflows...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Mar 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/shenghaiwan-xcodebuild",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:54.743457",
+  "metadata": {}
+}

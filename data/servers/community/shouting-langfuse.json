@@ -1,0 +1,16 @@
+{
+  "id": "shouting-langfuse",
+  "name": "Langfuse",
+  "provider": "Shouting Hsiao",
+  "description": "Connects AI models to Langfuse analytics workspaces, enabling access to LLM performance metrics by time range for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/shouting-langfuse",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:39.481639",
+  "metadata": {}
+}

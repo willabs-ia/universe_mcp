@@ -1,0 +1,16 @@
+{
+  "id": "cam10001110101-outlook-email",
+  "name": "Outlook Email Processor",
+  "provider": "Cameron Rohn",
+  "description": "Integrates with Outlook to provide email processing, semantic search, and metadata storage capabilities using MongoDB...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/cam10001110101-outlook-email",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:08.600269",
+  "metadata": {}
+}

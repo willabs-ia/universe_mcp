@@ -1,0 +1,16 @@
+{
+  "id": "dynamicendpoints-pocketbase",
+  "name": "PocketBase",
+  "provider": "Dynamic Endpoints",
+  "description": "Integrates with PocketBase to enable dynamic schema management, advanced querying, and scalable user authentication...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 20, 2024",
+  "url": "https://www.pulsemcp.com/servers/dynamicendpoints-pocketbase",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:37.868804",
+  "metadata": {}
+}

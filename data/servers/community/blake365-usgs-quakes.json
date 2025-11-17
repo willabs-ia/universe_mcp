@@ -1,0 +1,16 @@
+{
+  "id": "blake365-usgs-quakes",
+  "name": "USGS Earthquake Data",
+  "provider": "Blake Morgan",
+  "description": "Integrates with USGS earthquake data to provide real-time access for querying and analyzing seismic events, enabling...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 29, 2024",
+  "url": "https://www.pulsemcp.com/servers/blake365-usgs-quakes",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:40.065761",
+  "metadata": {}
+}

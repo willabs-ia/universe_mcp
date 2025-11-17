@@ -1,0 +1,16 @@
+{
+  "id": "flyanima-open-search",
+  "name": "Open Search",
+  "provider": "flyanima",
+  "description": "Aggregates multiple search engines, academic databases, and content sources with intelligent load balancing and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/flyanima-open-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:58.316499",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "willianmarcel-github-pr-reviewer-notion",
+  "name": "GitHub PR Reviewer (Notion)",
+  "provider": "Willian Marcel",
+  "description": "Integrates with GitHub's API to fetch, analyze, and document pull request changes, enabling automated code reviews...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/willianmarcel-github-pr-reviewer-notion",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:10.295278",
+  "metadata": {}
+}

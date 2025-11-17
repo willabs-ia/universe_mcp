@@ -1,0 +1,16 @@
+{
+  "id": "13rac1-videocapture",
+  "name": "VideoCapture",
+  "provider": "13rac1",
+  "description": "Provides webcam access for capturing still images with camera control features including brightness adjustment,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/13rac1-videocapture",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:01.374306",
+  "metadata": {}
+}

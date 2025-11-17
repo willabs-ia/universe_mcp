@@ -1,0 +1,16 @@
+{
+  "id": "infinitimeless-claude-lmstudio-bridge",
+  "name": "Claude-LMStudio Bridge",
+  "provider": "infinitimeless",
+  "description": "Bridges Claude with local LLMs running in LM Studio, enabling direct access to local model capabilities for text...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/infinitimeless-claude-lmstudio-bridge",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:37.027539",
+  "metadata": {}
+}

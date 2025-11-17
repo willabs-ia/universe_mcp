@@ -1,0 +1,16 @@
+{
+  "id": "leobuskin-jetbrains-ide",
+  "name": "JetBrains IDE",
+  "provider": "Leonard Buskin",
+  "description": "Bridges Large Language Models with JetBrains IDEs to enable intelligent code completion, automated refactoring, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 20, 2024",
+  "url": "https://www.pulsemcp.com/servers/leobuskin-jetbrains-ide",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:59.117813",
+  "metadata": {}
+}

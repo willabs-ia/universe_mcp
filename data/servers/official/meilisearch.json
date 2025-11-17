@@ -1,0 +1,16 @@
+{
+  "id": "meilisearch",
+  "name": "Meilisearch",
+  "provider": "Meilisearch",
+  "description": "Integrates Meilisearch's search capabilities for fast, typo-tolerant indexing and querying of documents in AI-powered...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Dec 23, 2024",
+  "url": "https://www.pulsemcp.com/servers/meilisearch",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:37.906781",
+  "metadata": {}
+}

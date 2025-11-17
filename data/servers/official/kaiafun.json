@@ -1,0 +1,16 @@
+{
+  "id": "kaiafun",
+  "name": "KaiaFun",
+  "provider": "KaiaFun",
+  "description": "Enables interaction with the KaiaFun memecoin platform for listing, buying, selling, and managing tokens on the Kaia...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Apr 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/kaiafun",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:12.703756",
+  "metadata": {}
+}

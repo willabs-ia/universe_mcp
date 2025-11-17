@@ -1,0 +1,16 @@
+{
+  "id": "ukenn2112-bangumi-tv",
+  "name": "Bangumi TV",
+  "provider": "Ukenn2112",
+  "description": "Integrates with Bangumi TV API to retrieve anime information, user data, and media details for tracking and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/ukenn2112-bangumi-tv",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:21.381782",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "shreyaskarnik-huggingface",
+  "name": "Hugging Face",
+  "provider": "Shreyas Karnik",
+  "description": "Provides direct access to thousands of Hugging Face models and resources with optional authentication, enabling...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/shreyaskarnik-huggingface",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:30.550414",
+  "metadata": {}
+}

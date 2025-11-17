@@ -1,0 +1,16 @@
+{
+  "id": "theletterf-vale",
+  "name": "Vale",
+  "provider": "Fabrizio Ferri Benedetti",
+  "description": "Integrates with Vale prose linting tool to check installation status, sync style configurations, and analyze...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/theletterf-vale",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:35.317693",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "publish-registry-helper",
+  "name": "Publish Registry Helper",
+  "provider": "Marlene Zwaig",
+  "description": "Provides automated guidance for publishing MCP servers to the registry through specialized prompts that evaluate...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 73
+  },
+  "release_date": "Sep 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/publish-registry-helper",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:10.551394",
+  "metadata": {}
+}

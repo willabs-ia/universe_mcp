@@ -1,0 +1,19 @@
+{
+  "id": "hmk-box",
+  "name": "Box",
+  "provider": "hmk",
+  "description": "Integrates with Box cloud storage to enable searching, reading, and processing of PDF and Word documents for...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 3
+  },
+  "release_date": "Dec 31, 2024",
+  "url": "https://www.pulsemcp.com/servers/hmk-box",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:48.008987",
+  "metadata": {}
+}

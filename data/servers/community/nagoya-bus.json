@@ -1,0 +1,19 @@
+{
+  "id": "nagoya-bus",
+  "name": "Nagoya Bus",
+  "provider": "Yusuke Miyazaki",
+  "description": "Integrates with Nagoya City's transportation API to retrieve bus station information and timetable data for travel...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 89
+  },
+  "release_date": "Aug 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/nagoya-bus",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:08.413005",
+  "metadata": {}
+}

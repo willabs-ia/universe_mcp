@@ -1,0 +1,16 @@
+{
+  "id": "timeslope",
+  "name": "TimeSlope",
+  "provider": "TimeSlope",
+  "description": "Automated economic analysis over FRED data",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Aug 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/timeslope",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:27.143349",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "tumalevich-didlogic-voip",
+  "name": "DIDLogic VoIP",
+  "provider": "Konstantin Tumalevich",
+  "description": "Provides a natural language interface to DIDLogic telecommunications API for managing SIP accounts, phone numbers,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/tumalevich-didlogic-voip",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:20.717994",
+  "metadata": {}
+}

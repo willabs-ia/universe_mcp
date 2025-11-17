@@ -1,0 +1,19 @@
+{
+  "id": "zilliz-milvus",
+  "name": "Milvus Vector Database",
+  "provider": "Zilliz",
+  "description": "Integrates with Milvus vector database to enable vector search, full-text search, and hybrid queries for semantic...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/zilliz-milvus",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:48.815793",
+  "metadata": {}
+}

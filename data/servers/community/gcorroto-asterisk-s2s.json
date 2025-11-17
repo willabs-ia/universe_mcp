@@ -1,0 +1,19 @@
+{
+  "id": "gcorroto-asterisk-s2s",
+  "name": "Asterisk Phone System",
+  "provider": "gcorroto",
+  "description": "Integrates with Asterisk phone systems to enable outbound call operations, conversation monitoring, call history...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Jun 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/gcorroto-asterisk-s2s",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:56.926381",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "academic-author-network",
+  "name": "Academic Author Network",
+  "provider": "alperenkocyigit",
+  "description": "Aggregates academic data from Semantic Scholar, OpenAlex, Crossref, and Google Scholar to discover research...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/academic-author-network",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:43.346038",
+  "metadata": {}
+}

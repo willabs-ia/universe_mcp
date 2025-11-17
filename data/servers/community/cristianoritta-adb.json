@@ -1,0 +1,16 @@
+{
+  "id": "cristianoritta-adb",
+  "name": "Android Debug Bridge (ADB)",
+  "provider": "cristianoritta",
+  "description": "Integrates with Android Debug Bridge (ADB) to enable device management, app installation, file operations, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/cristianoritta-adb",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:00.613786",
+  "metadata": {}
+}

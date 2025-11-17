@@ -1,0 +1,16 @@
+{
+  "id": "pyscout-webscout",
+  "name": "WebScout",
+  "provider": "pyscout",
+  "description": "Automates reverse engineering of chat interfaces through browser automation and network traffic analysis, capturing...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/pyscout-webscout",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:31.125937",
+  "metadata": {}
+}

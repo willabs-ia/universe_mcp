@@ -1,0 +1,16 @@
+{
+  "id": "steffensbola-salesforce",
+  "name": "Salesforce",
+  "provider": "Cristiano Rafael Steffens",
+  "description": "Integrates with Salesforce CRM through TypeScript to enable SOQL queries, SOSL searches, record CRUD operations,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/steffensbola-salesforce",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:49.867581",
+  "metadata": {}
+}

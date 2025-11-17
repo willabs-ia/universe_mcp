@@ -1,0 +1,16 @@
+{
+  "id": "mariyafilippova-strava",
+  "name": "Strava",
+  "provider": "Mariya Filippova",
+  "description": "Integrates with Strava's API to retrieve and analyze fitness data, enabling workout planning, progress tracking, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/mariyafilippova-strava",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:55.082688",
+  "metadata": {}
+}

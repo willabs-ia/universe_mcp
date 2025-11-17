@@ -1,0 +1,11 @@
+{
+  "id": "apify-tester-client",
+  "name": "Unknown",
+  "provider": null,
+  "description": "An open-source customizable MCP client for testing remote MCP servers.",
+  "url": "https://www.pulsemcp.com/clients/apify-tester-client",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.325460"
+}

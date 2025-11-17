@@ -1,0 +1,16 @@
+{
+  "id": "hushaudio-puppeteer",
+  "name": "Puppeteer",
+  "provider": "hushaudio",
+  "description": "Captures full-page screenshots at multiple viewport breakpoints using Puppeteer with error monitoring, responsive...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/hushaudio-puppeteer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:43.381192",
+  "metadata": {}
+}

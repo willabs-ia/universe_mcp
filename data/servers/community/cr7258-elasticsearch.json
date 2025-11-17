@@ -1,0 +1,19 @@
+{
+  "id": "cr7258-elasticsearch",
+  "name": "Elasticsearch",
+  "provider": "cr7258",
+  "description": "Enables natural language interaction with Elasticsearch clusters for querying, indexing, and management operations...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "Jan 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/cr7258-elasticsearch",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:31.096726",
+  "metadata": {}
+}

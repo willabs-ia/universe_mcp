@@ -1,0 +1,19 @@
+{
+  "id": "group-protection",
+  "name": "Group Protection",
+  "provider": "Wayne",
+  "description": "Provides access to insurance policy and claims data with tools for monitoring policy changes, premium payments,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 32
+  },
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/group-protection",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:21.352793",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "bralca-context-engineering",
+  "name": "Context Engineering",
+  "provider": "bralca",
+  "description": "Keeps AI coding agents aligned by generating PRDs, specs, and plans that prevent context loss and random rewrites.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/bralca-context-engineering",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:24.522381",
+  "metadata": {}
+}

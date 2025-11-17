@@ -1,0 +1,19 @@
+{
+  "id": "calebl-ynab",
+  "name": "YNAB",
+  "provider": "Caleb LeNoir",
+  "description": "Provides a bridge to the YNAB personal finance API for listing budgets, retrieving detailed budget information, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 553
+  },
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/calebl-ynab",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:24.629297",
+  "metadata": {}
+}

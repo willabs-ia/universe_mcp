@@ -1,0 +1,16 @@
+{
+  "id": "adamwattis-resource-hub",
+  "name": "Resource Hub",
+  "provider": "Adam Wattis",
+  "description": "Centralizes shared tools and configurations for MCP environments, enabling consistent resource access across teams...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 28, 2024",
+  "url": "https://www.pulsemcp.com/servers/adamwattis-resource-hub",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:40.055824",
+  "metadata": {}
+}

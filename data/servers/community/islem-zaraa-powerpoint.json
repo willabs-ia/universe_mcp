@@ -1,0 +1,19 @@
+{
+  "id": "islem-zaraa-powerpoint",
+  "name": "PowerPoint",
+  "provider": "islem-zaraa",
+  "description": "Enables creation and manipulation of PowerPoint presentations with functions for adding slides, formatting content,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 4
+  },
+  "release_date": "Mar 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/islem-zaraa-powerpoint",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:45.793898",
+  "metadata": {}
+}

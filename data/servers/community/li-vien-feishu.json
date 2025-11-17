@@ -1,0 +1,16 @@
+{
+  "id": "li-vien-feishu",
+  "name": "Feishu",
+  "provider": "Li-vien",
+  "description": "Integrates with Feishu (Lark) to retrieve document content from collaborative workspaces, enabling direct access to...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/li-vien-feishu",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:28.247791",
+  "metadata": {}
+}

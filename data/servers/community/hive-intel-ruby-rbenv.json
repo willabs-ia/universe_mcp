@@ -1,0 +1,16 @@
+{
+  "id": "hive-intel-ruby-rbenv",
+  "name": "Hive Crypto",
+  "provider": "hive-intel",
+  "description": "Unified access to crypto, DeFi, and Web3 analytics",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/hive-intel-ruby-rbenv",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:24.540584",
+  "metadata": {}
+}

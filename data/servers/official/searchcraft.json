@@ -1,0 +1,16 @@
+{
+  "id": "searchcraft",
+  "name": "Searchcraft",
+  "provider": "Searchcraft Inc.",
+  "description": "Integrates with Searchcraft's search API to provide advanced document retrieval with fuzzy and exact matching, facet...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Jun 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/searchcraft",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:45.473609",
+  "metadata": {}
+}

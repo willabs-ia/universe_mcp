@@ -1,0 +1,16 @@
+{
+  "id": "wysh3-perplexity",
+  "name": "Perplexity",
+  "provider": "wysh3",
+  "description": "Use Perplexity without any API keys",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/wysh3-perplexity",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:59.313211",
+  "metadata": {}
+}

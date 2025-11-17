@@ -1,0 +1,16 @@
+{
+  "id": "wrldrelief-etherscan",
+  "name": "Etherscan",
+  "provider": "WrldRelief",
+  "description": "Integrates with Etherscan's API V2 to provide blockchain data access across 50+ chains, enabling account balance...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/wrldrelief-etherscan",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:54.095534",
+  "metadata": {}
+}

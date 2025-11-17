@@ -1,0 +1,16 @@
+{
+  "id": "ktabori-dixa",
+  "name": "Dixa",
+  "provider": "Krisztian Tabori",
+  "description": "Provides a bridge to the Dixa customer support API, enabling conversation management, tagging, and retrieval...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/ktabori-dixa",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:20.711403",
+  "metadata": {}
+}

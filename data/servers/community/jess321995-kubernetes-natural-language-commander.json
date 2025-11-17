@@ -1,0 +1,16 @@
+{
+  "id": "jess321995-kubernetes-natural-language-commander",
+  "name": "Kubernetes Natural Language Commander",
+  "provider": "Jess321995",
+  "description": "Converts natural language requests into valid kubectl commands for Kubernetes cluster management, enabling...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/jess321995-kubernetes-natural-language-commander",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:34.371792",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "aliyun-hologres",
+  "name": "Hologres",
+  "provider": "Alibaba Cloud",
+  "description": "Connects AI systems to Alibaba Cloud's Hologres databases for SQL execution, metadata retrieval, and statistics...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 36
+  },
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/aliyun-hologres",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:19.254519",
+  "metadata": {}
+}

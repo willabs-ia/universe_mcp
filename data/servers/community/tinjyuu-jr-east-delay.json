@@ -1,0 +1,16 @@
+{
+  "id": "tinjyuu-jr-east-delay",
+  "name": "JR East Train Delay",
+  "provider": "Shouta Yoshikai",
+  "description": "Provides real-time train delay information for JR East lines by scraping the official website and extracting...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/tinjyuu-jr-east-delay",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:25.901482",
+  "metadata": {}
+}

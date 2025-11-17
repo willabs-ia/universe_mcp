@@ -1,0 +1,16 @@
+{
+  "id": "galoishllee-sagemath",
+  "name": "SageMath",
+  "provider": "GaloisHLee",
+  "description": "Integrates with local SageMath installations to execute mathematical computations and check version information with...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/galoishllee-sagemath",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:39.792614",
+  "metadata": {}
+}

@@ -1,0 +1,11 @@
+{
+  "id": "byeblack-wasi",
+  "name": "Unknown",
+  "provider": null,
+  "description": "WASI-based client for executing WebAssembly components with sandboxed capabilities via Wasmtime and JSON-RPC transport.",
+  "url": "https://www.pulsemcp.com/clients/byeblack-wasi",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.530969"
+}

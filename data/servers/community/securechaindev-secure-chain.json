@@ -1,0 +1,16 @@
+{
+  "id": "securechaindev-secure-chain",
+  "name": "Secure Chain",
+  "provider": "Secure Chain Team",
+  "description": "Integrates with vulnerability databases and dependency graphs to provide software supply chain security assessment...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/securechaindev-secure-chain",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:24.501518",
+  "metadata": {}
+}

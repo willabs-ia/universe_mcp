@@ -1,0 +1,16 @@
+{
+  "id": "aamir-gmail-python-sandbox",
+  "name": "Python Sandbox",
+  "provider": "aamir-gmail",
+  "description": "Provides secure Python code execution in containerized sandboxes with automatic matplotlib figure persistence and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/aamir-gmail-python-sandbox",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:31.112085",
+  "metadata": {}
+}

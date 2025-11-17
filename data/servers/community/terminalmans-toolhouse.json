@@ -1,0 +1,19 @@
+{
+  "id": "terminalmans-toolhouse",
+  "name": "Toolhouse",
+  "provider": "SecretiveShell",
+  "description": "Integrates with Toolhouse platform to provide access to diverse utilities for developers and teams incorporating...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 8
+  },
+  "release_date": "Feb 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/terminalmans-toolhouse",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:37.125375",
+  "metadata": {}
+}

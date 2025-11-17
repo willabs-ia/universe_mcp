@@ -1,0 +1,19 @@
+{
+  "id": "farhankaz-redis",
+  "name": "Redis",
+  "provider": "Farhan Kaz",
+  "description": "Bridge to Redis databases, enabling fast in-memory data operations for AI workflows.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 23
+  },
+  "release_date": "Jan 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/farhankaz-redis",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:23.544007",
+  "metadata": {}
+}

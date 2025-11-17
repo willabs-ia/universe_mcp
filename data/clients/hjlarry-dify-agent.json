@@ -1,0 +1,11 @@
+{
+  "id": "hjlarry-dify-agent",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Integrates Dify's AI application development platform with MCP function call capabilities, enabling seamless connection to single or multiple MCP servers with configurable connection parameters.",
+  "url": "https://www.pulsemcp.com/clients/hjlarry-dify-agent",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.442294"
+}

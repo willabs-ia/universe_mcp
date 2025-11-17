@@ -1,0 +1,11 @@
+{
+  "id": "fkesheh-ai-agent-toolkit",
+  "name": "Unknown",
+  "provider": null,
+  "description": "TypeScript library that connects AI agents to multiple MCP servers, automatically discovers and uses tools, and integrates with AI SDK for text generation with tool usage.",
+  "url": "https://www.pulsemcp.com/clients/fkesheh-ai-agent-toolkit",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.433144"
+}

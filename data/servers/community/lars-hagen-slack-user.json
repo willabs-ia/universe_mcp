@@ -1,0 +1,16 @@
+{
+  "id": "lars-hagen-slack-user",
+  "name": "Slack",
+  "provider": "Lars Hagen",
+  "description": "Integrates with Slack workspaces to enable user-level interactions like messaging, reactions, and channel management...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/lars-hagen-slack-user",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:55.047680",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "scipenai-aminer",
+  "name": "AMiner",
+  "provider": "Scipen AI",
+  "description": "Integrates with AMiner's academic database to provide paper search by keyword, venue, author, or advanced...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Sep 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/scipenai-aminer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:59.090147",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "theailanguage-terminal",
+  "name": "Terminal",
+  "provider": "theailanguage",
+  "description": "Enables execution of shell commands within a designated workspace directory, capturing both standard output and error...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/theailanguage-terminal",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:48.785579",
+  "metadata": {}
+}

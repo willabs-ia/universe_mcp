@@ -1,0 +1,16 @@
+{
+  "id": "ctvidic-whoop",
+  "name": "Whoop",
+  "provider": "Christopher Vidic",
+  "description": "Integrates with the Whoop API to retrieve and process fitness data, enabling applications to incorporate health...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/ctvidic-whoop",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:12.979402",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "thehive",
+  "name": "TheHive",
+  "provider": "Gianluca Brigandi",
+  "description": "Integrates with TheHive incident response platform to retrieve alerts and cases, promote alerts to cases, and create...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/thehive",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:39.043876",
+  "metadata": {}
+}

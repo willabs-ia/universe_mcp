@@ -1,0 +1,16 @@
+{
+  "id": "keijiro-yamu-unity",
+  "name": "Yamu (Unity Editor)",
+  "provider": "Keijiro Takahashi",
+  "description": "Enables Unity Editor compilation feedback through HTTP server integration, providing tools to trigger compilation,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/keijiro-yamu-unity",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:52.021914",
+  "metadata": {}
+}

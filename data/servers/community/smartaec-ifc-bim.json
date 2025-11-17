@@ -1,0 +1,19 @@
+{
+  "id": "smartaec-ifc-bim",
+  "name": "IFC Building Information Modeling",
+  "provider": "Jia-Rui Lin",
+  "description": "Integrates with IFC (Industry Foundation Classes) building information modeling files to extract entities,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 415
+  },
+  "release_date": "Jun 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/smartaec-ifc-bim",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:28.822651",
+  "metadata": {}
+}

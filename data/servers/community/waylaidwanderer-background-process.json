@@ -1,0 +1,19 @@
+{
+  "id": "waylaidwanderer-background-process",
+  "name": "Background Process Manager",
+  "provider": "Joel",
+  "description": "Provides background process management capabilities, enabling LLMs to start, stop, and monitor long-running...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 10
+  },
+  "release_date": "Sep 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/waylaidwanderer-background-process",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:37.085431",
+  "metadata": {}
+}

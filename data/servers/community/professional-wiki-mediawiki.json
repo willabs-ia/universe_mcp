@@ -1,0 +1,19 @@
+{
+  "id": "professional-wiki-mediawiki",
+  "name": "MediaWiki",
+  "provider": "Professional Wiki",
+  "description": "Integrates with MediaWiki instances through REST API to enable searching pages, retrieving content in multiple...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 64
+  },
+  "release_date": "Jun 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/professional-wiki-mediawiki",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:12.792389",
+  "metadata": {}
+}

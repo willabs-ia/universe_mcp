@@ -1,0 +1,16 @@
+{
+  "id": "zhaokang555-guozaoke",
+  "name": "GuoZaoKe",
+  "provider": "zhaokang555",
+  "description": "Integrates with GuoZaoKe (果早客) Chinese technology news platform using web scraping to provide access to news feeds,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/zhaokang555-guozaoke",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:22.138122",
+  "metadata": {}
+}

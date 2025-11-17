@@ -1,0 +1,16 @@
+{
+  "id": "wait-timer",
+  "name": "Wait Timer",
+  "provider": "Boris Djordjevic",
+  "description": "Introduces deliberate pauses into workflows, ensuring time-dependent operations like web page rendering, background...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/wait-timer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:03.486961",
+  "metadata": {}
+}

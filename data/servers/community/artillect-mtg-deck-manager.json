@@ -1,0 +1,19 @@
+{
+  "id": "artillect-mtg-deck-manager",
+  "name": "MTG Deck Manager",
+  "provider": "artillect",
+  "description": "Integrates with Magic: The Gathering resources to enable deck management, card drawing, hand manipulation, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/artillect-mtg-deck-manager",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:48.801215",
+  "metadata": {}
+}

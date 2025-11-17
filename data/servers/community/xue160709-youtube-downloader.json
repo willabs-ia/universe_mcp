@@ -1,0 +1,16 @@
+{
+  "id": "xue160709-youtube-downloader",
+  "name": "YouTube Downloader",
+  "provider": "xue160709",
+  "description": "Bridges AI systems with YouTube content through yt-dlp, enabling video information extraction and downloading...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/xue160709-youtube-downloader",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:16.414643",
+  "metadata": {}
+}

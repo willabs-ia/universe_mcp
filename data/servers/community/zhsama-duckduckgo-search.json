@@ -1,0 +1,19 @@
+{
+  "id": "zhsama-duckduckgo-search",
+  "name": "DuckDuckGo Search",
+  "provider": "zhsama",
+  "description": "Lightweight TypeScript-based DuckDuckGo search server that enables developers to retrieve search results...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/zhsama-duckduckgo-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:53.167181",
+  "metadata": {}
+}

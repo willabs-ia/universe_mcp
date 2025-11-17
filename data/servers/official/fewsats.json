@@ -1,0 +1,19 @@
+{
+  "id": "fewsats",
+  "name": "Fewsats",
+  "provider": "Fewsats",
+  "description": "Integrates with the Fewsats payment platform to enable secure financial transactions through L402 protocol, allowing...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 106
+  },
+  "release_date": "Mar 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/fewsats",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:06.239291",
+  "metadata": {}
+}

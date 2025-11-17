@@ -1,0 +1,19 @@
+{
+  "id": "ccnn2509-seo-ai",
+  "name": "SEO AI (Google Ads Keyword Planner)",
+  "provider": "ccnn2509",
+  "description": "Integrates with Google Ads Keyword Planner API to enable SEO research, SERP analysis, and competitor analysis through...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 415
+  },
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/ccnn2509-seo-ai",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:26.737988",
+  "metadata": {}
+}

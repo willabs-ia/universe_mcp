@@ -1,0 +1,19 @@
+{
+  "id": "openverse",
+  "name": "Openverse",
+  "provider": "neno-is-ooo",
+  "description": "Integrates with Openverse's Creative Commons image collection to search and retrieve openly-licensed images with...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 8
+  },
+  "release_date": "Jun 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/openverse",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:39.307120",
+  "metadata": {}
+}

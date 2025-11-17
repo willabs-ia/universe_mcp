@@ -1,0 +1,11 @@
+{
+  "id": "kirintea-multi-provider-llm",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Modular client for interacting with multiple LLM providers including OpenAI, Claude, DeepSeek, SiliconFlow, Ollama, and OpenRouter through a consistent interface.",
+  "url": "https://www.pulsemcp.com/clients/kirintea-multi-provider-llm",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.532058"
+}

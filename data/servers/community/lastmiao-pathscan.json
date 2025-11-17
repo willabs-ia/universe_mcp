@@ -1,0 +1,16 @@
+{
+  "id": "lastmiao-pathscan",
+  "name": "PathScan (Dirsearch + Firecrawl)",
+  "provider": "lastmiao",
+  "description": "Integrates dirsearch directory brute-forcing tool with Firecrawl web crawling services to enable automated discovery...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/lastmiao-pathscan",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:24.534209",
+  "metadata": {}
+}

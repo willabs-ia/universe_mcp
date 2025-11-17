@@ -1,0 +1,16 @@
+{
+  "id": "damms005-devdb",
+  "name": "DevDB",
+  "provider": "Damilola Emmanuel Olowookere",
+  "description": "Exposes database tables and schemas via HTTP endpoints, allowing tools to query database structure without direct...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/damms005-devdb",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:22.811196",
+  "metadata": {}
+}

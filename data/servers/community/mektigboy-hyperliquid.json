@@ -1,0 +1,19 @@
+{
+  "id": "mektigboy-hyperliquid",
+  "name": "Hyperliquid",
+  "provider": "mektigboy",
+  "description": "Integrates with the Hyperliquid SDK to provide real-time cryptocurrency market data, including mid prices, historical...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 9
+  },
+  "release_date": "Mar 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/mektigboy-hyperliquid",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:37.094058",
+  "metadata": {}
+}

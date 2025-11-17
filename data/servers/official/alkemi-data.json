@@ -1,0 +1,19 @@
+{
+  "id": "alkemi-data",
+  "name": "Alkemi",
+  "provider": "Alkemi.ai",
+  "description": "Connects to Alkemi's cloud service for natural language database querying across Snowflake, Google BigQuery, and...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 2
+  },
+  "release_date": "Oct 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/alkemi-data",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:54.726958",
+  "metadata": {}
+}

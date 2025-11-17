@@ -1,0 +1,19 @@
+{
+  "id": "jake-peterson-tradovate",
+  "name": "Tradovate",
+  "provider": "Jake Peterson",
+  "description": "Provides a robust trading API integration for Tradovate, enabling algorithmic traders to access market data, manage...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/jake-peterson-tradovate",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:53.159250",
+  "metadata": {}
+}

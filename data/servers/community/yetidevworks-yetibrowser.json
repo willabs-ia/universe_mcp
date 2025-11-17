@@ -1,0 +1,19 @@
+{
+  "id": "yetidevworks-yetibrowser",
+  "name": "YetiBrowser",
+  "provider": "YetiDevWorks",
+  "description": "Provides direct browser control through a Chrome/Firefox extension and WebSocket bridge, enabling real-time web...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Sep 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/yetidevworks-yetibrowser",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:59.091507",
+  "metadata": {}
+}

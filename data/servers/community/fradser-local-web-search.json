@@ -1,0 +1,16 @@
+{
+  "id": "fradser-local-web-search",
+  "name": "Local Web Search",
+  "provider": "Frad Lee",
+  "description": "Integrates with a headless browser to perform Google searches and extract web content, enabling local web search...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/fradser-local-web-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:59.340921",
+  "metadata": {}
+}

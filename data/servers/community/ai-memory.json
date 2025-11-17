@@ -1,0 +1,19 @@
+{
+  "id": "ai-memory",
+  "name": "AI Memory",
+  "provider": "scanadi",
+  "description": "Production-ready semantic memory management server that stores, retrieves, and manages contextual knowledge across...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Sep 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/ai-memory",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:59.082781",
+  "metadata": {}
+}

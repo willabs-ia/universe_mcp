@@ -1,0 +1,19 @@
+{
+  "id": "mouhamadalmounayar-confluence",
+  "name": "Confluence",
+  "provider": "Mouhamad Al Mounayar",
+  "description": "Integrates Atlassian Confluence content for retrieving page and blog post data, enabling knowledge base querying and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 12
+  },
+  "release_date": "Jan 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/mouhamadalmounayar-confluence",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:32.748376",
+  "metadata": {}
+}

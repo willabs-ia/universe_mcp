@@ -1,0 +1,16 @@
+{
+  "id": "jxnl-apple-native-applications",
+  "name": "Apple macOS Native Applications",
+  "provider": "Jason Liu",
+  "description": "Enables AI interaction with macOS native applications through AppleScript for tasks like managing contacts, notes,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/jxnl-apple-native-applications",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:07.820803",
+  "metadata": {}
+}

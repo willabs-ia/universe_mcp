@@ -1,0 +1,11 @@
+{
+  "id": "cv-cat-lark-message-recorder",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Captures and records Lark (Feishu) messaging platform conversations through WebSocket connections, decrypting protobuf messages and storing them in MySQL with OpenAI-compatible API integration.",
+  "url": "https://www.pulsemcp.com/clients/cv-cat-lark-message-recorder",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.402434"
+}

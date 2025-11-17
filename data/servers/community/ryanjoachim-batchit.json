@@ -1,0 +1,19 @@
+{
+  "id": "ryanjoachim-batchit",
+  "name": "BatchIt",
+  "provider": "Ryan Joachim",
+  "description": "Combine tool calls into a single batch_execute call.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jan 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/ryanjoachim-batchit",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:46.613265",
+  "metadata": {}
+}

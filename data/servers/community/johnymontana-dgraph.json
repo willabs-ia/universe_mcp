@@ -1,0 +1,16 @@
+{
+  "id": "johnymontana-dgraph",
+  "name": "Dgraph",
+  "provider": "William Lyon",
+  "description": "Connects language models to Dgraph graph databases, enabling DQL queries, mutations, and schema management for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/johnymontana-dgraph",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:05.647319",
+  "metadata": {}
+}

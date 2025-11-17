@@ -1,0 +1,16 @@
+{
+  "id": "python51888-pysqlit",
+  "name": "PySqlit",
+  "provider": "Python51888",
+  "description": "Provides complete SQLite database operations including table creation, data manipulation, querying, and schema...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/python51888-pysqlit",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:26.671707",
+  "metadata": {}
+}

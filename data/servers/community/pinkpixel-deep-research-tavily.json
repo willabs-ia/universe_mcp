@@ -1,0 +1,19 @@
+{
+  "id": "pinkpixel-deep-research-tavily",
+  "name": "Deep Research (Tavily)",
+  "provider": "Pink Pixel",
+  "description": "Enables comprehensive web research by leveraging Tavily's Search and Crawl APIs to aggregate information from...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 28
+  },
+  "release_date": "May 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/pinkpixel-deep-research-tavily",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:21.383332",
+  "metadata": {}
+}

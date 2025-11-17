@@ -1,0 +1,19 @@
+{
+  "id": "jbr-cargo",
+  "name": "Cargo",
+  "provider": "Jacob Rothstein",
+  "description": "Provides safe access to Rust development workflows through whitelisted Cargo commands including check, clippy, test,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/jbr-cargo",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:38.004400",
+  "metadata": {}
+}

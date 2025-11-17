@@ -1,0 +1,16 @@
+{
+  "id": "felixwu1110-pubmed-medical-literature",
+  "name": "PubMed Medical Literature Research",
+  "provider": "Felix Wu",
+  "description": "Enables search, retrieval, and analysis of academic medical literature through the NCBI PubMed database with...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/felixwu1110-pubmed-medical-literature",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:23.765100",
+  "metadata": {}
+}

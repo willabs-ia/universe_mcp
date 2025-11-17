@@ -1,0 +1,19 @@
+{
+  "id": "v-3-discord",
+  "name": "Discord",
+  "provider": "v-3",
+  "description": "Integrates with the Discord API to enable direct interaction with channels, supporting automated messaging and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jan 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/v-3-discord",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:44.524591",
+  "metadata": {}
+}

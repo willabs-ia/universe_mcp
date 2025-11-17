@@ -1,0 +1,11 @@
+{
+  "id": "lstm-kirigaya-openmcp",
+  "name": "Unknown",
+  "provider": null,
+  "description": "VSCode extension that connects to MCP-compatible language models, providing a user interface for managing connections, sending prompts, and visualizing responses with full context sharing and tool usage support.",
+  "url": "https://www.pulsemcp.com/clients/lstm-kirigaya-openmcp",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.388746"
+}

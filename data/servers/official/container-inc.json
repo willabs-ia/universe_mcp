@@ -1,0 +1,19 @@
+{
+  "id": "container-inc",
+  "name": "Container Inc.",
+  "provider": "Founders Inc.",
+  "description": "Enables seamless deployment of containerized applications directly from code editors through a three-step workflow of...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 9
+  },
+  "release_date": "Apr 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/container-inc",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:37.107058",
+  "metadata": {}
+}

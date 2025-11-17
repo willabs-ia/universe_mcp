@@ -1,0 +1,16 @@
+{
+  "id": "cloudbet-sports",
+  "name": "Cloudbet Sports",
+  "provider": "Cloudbet",
+  "description": "Integrates with Cloudbet's sports betting API to provide live sports data, betting markets, and odds across multiple...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Jul 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/cloudbet-sports",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:54.126540",
+  "metadata": {}
+}

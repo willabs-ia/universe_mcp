@@ -1,0 +1,16 @@
+{
+  "id": "dragonkhoi-mixpanel",
+  "name": "Mixpanel",
+  "provider": "Khoi Le",
+  "description": "Integrates with Mixpanel's API to enable querying of events data, retention, and funnels for on-demand analytics and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/dragonkhoi-mixpanel",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:08.593650",
+  "metadata": {}
+}

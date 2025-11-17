@@ -1,0 +1,16 @@
+{
+  "id": "devpilot",
+  "name": "DevPilot",
+  "provider": "oxy-Op",
+  "description": "Automates VPS initialization and deployment workflows through SSH connections, providing tools for system setup,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/devpilot",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:11.479452",
+  "metadata": {}
+}

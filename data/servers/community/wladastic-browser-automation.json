@@ -1,0 +1,16 @@
+{
+  "id": "wladastic-browser-automation",
+  "name": "Browser Automation (Playwright)",
+  "provider": "Wladislav Cugunov",
+  "description": "Provides browser automation capabilities using Playwright, enabling web page navigation, element interaction,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/wladastic-browser-automation",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:43.355090",
+  "metadata": {}
+}

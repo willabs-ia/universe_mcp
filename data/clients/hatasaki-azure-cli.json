@@ -1,0 +1,11 @@
+{
+  "id": "hatasaki-azure-cli",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Command-line tool for interacting with multiple MCP servers via stdio, HTTP, and SSE transports with configurable JSON settings and PyInstaller support for standalone executables.",
+  "url": "https://www.pulsemcp.com/clients/hatasaki-azure-cli",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.500861"
+}

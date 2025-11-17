@@ -1,0 +1,16 @@
+{
+  "id": "lars-hagen-playwright-cdp",
+  "name": "Playwright CDP",
+  "provider": "Lars Hagen",
+  "description": "Integrates Playwright and Chrome DevTools Protocol to enable advanced web automation, testing, and analysis through...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/lars-hagen-playwright-cdp",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:59.293023",
+  "metadata": {}
+}

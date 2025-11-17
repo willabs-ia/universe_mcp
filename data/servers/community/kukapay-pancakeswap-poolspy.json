@@ -1,0 +1,16 @@
+{
+  "id": "kukapay-pancakeswap-poolspy",
+  "name": "PancakeSwap PoolSpy",
+  "provider": "kukapay",
+  "description": "Tracks newly created PancakeSwap liquidity pools in real-time, providing detailed metrics like token pairs,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/kukapay-pancakeswap-poolspy",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:19.363740",
+  "metadata": {}
+}

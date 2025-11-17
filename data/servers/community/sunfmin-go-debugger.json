@@ -1,0 +1,16 @@
+{
+  "id": "sunfmin-go-debugger",
+  "name": "Go Debugger (Delve)",
+  "provider": "Felix Sun",
+  "description": "Provides a bridge to the Delve debugger for Go applications, enabling runtime debugging capabilities including...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/sunfmin-go-debugger",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:44.157659",
+  "metadata": {}
+}

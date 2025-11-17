@@ -1,0 +1,16 @@
+{
+  "id": "caue397-google-calendar",
+  "name": "Google Calendar",
+  "provider": "Caue397",
+  "description": "Provides a robust bridge to the Google Calendar API, enabling calendar management tasks like listing calendars,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/caue397-google-calendar",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:54.962856",
+  "metadata": {}
+}

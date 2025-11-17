@@ -1,0 +1,16 @@
+{
+  "id": "bengineer19-digikey",
+  "name": "DigiKey",
+  "provider": "bengineer19",
+  "description": "Integrates with DigiKey's Product Search API to enable electronic component discovery, detailed specifications...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/bengineer19-digikey",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:51.991650",
+  "metadata": {}
+}

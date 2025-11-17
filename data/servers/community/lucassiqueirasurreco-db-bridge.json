@@ -1,0 +1,19 @@
+{
+  "id": "lucassiqueirasurreco-db-bridge",
+  "name": "DB Bridge",
+  "provider": "Lucas Siqueira Surreco",
+  "description": "Provides secure SQL query execution across MySQL, PostgreSQL, and SQLite databases with granular permission controls,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 3
+  },
+  "release_date": "Oct 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/lucassiqueirasurreco-db-bridge",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:50.210589",
+  "metadata": {}
+}

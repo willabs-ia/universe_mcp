@@ -1,0 +1,16 @@
+{
+  "id": "vlei-wiki",
+  "name": "vLEI.wiki",
+  "provider": "Key State Capital",
+  "description": "Provides direct access to the vLEI.wiki knowledge base containing 420+ KERI and vLEI concepts from 3,588+ source...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Oct 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/vlei-wiki",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:29.280282",
+  "metadata": {}
+}

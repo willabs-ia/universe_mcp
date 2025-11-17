@@ -1,0 +1,16 @@
+{
+  "id": "lmorg-web-scraper",
+  "name": "Web Scraper",
+  "provider": "Laurence Morgan",
+  "description": "Provides web scraping capabilities using Chrome's headless browser with automatic HTTP fallback, handling...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/lmorg-web-scraper",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:58.334614",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "imlewc-elasticsearch7",
+  "name": "Elasticsearch 7.x",
+  "provider": "Lewis Chung",
+  "description": "Integrates with Elasticsearch 7.x, providing efficient data management and search capabilities for projects requiring...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/imlewc-elasticsearch7",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:13.029834",
+  "metadata": {}
+}

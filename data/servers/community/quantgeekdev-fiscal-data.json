@@ -1,0 +1,19 @@
+{
+  "id": "quantgeekdev-fiscal-data",
+  "name": "US Fiscal Data",
+  "provider": "QuantGeekDev",
+  "description": "Integrates with the US Treasury's Fiscal Data API to fetch, analyze, and generate reports on treasury statements and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 6
+  },
+  "release_date": "Dec 26, 2024",
+  "url": "https://www.pulsemcp.com/servers/quantgeekdev-fiscal-data",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:41.454410",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "hendrickcastro-mcpql",
+  "name": "MCPQL (SQL Server)",
+  "provider": "Hendrick Castro",
+  "description": "Connects to SQL Server databases through 10 specialized tools for table analysis, stored procedure inspection, data...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/hendrickcastro-mcpql",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:56.215109",
+  "metadata": {}
+}

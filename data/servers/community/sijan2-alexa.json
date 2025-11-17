@@ -1,0 +1,16 @@
+{
+  "id": "sijan2-alexa",
+  "name": "Amazon Alexa",
+  "provider": "sijan2",
+  "description": "Integrates with Amazon Alexa smart home devices and Echo functionality through reverse-engineered web APIs, enabling...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/sijan2-alexa",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:31.106899",
+  "metadata": {}
+}

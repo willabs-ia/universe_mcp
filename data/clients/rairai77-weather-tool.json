@@ -1,0 +1,11 @@
+{
+  "id": "rairai77-weather-tool",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Integrates with weatherapi.com to provide real-time weather conditions for any city through intelligent query detection using the FastMCP framework and Llama 3.1 model.",
+  "url": "https://www.pulsemcp.com/clients/rairai77-weather-tool",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.525863"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "sionic-ai-serverless-rag",
+  "name": "Storm",
+  "provider": "Sionic AI",
+  "description": "Serverless RAG implementation using FastAPI that provides flexible file upload, processing, and tool integration...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/sionic-ai-serverless-rag",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:59.244773",
+  "metadata": {}
+}

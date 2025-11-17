@@ -1,0 +1,19 @@
+{
+  "id": "yannick-docu-rag",
+  "name": "DocuMCP (RAG Documentation Server)",
+  "provider": "Yannick",
+  "description": "RAG-enabled documentation server that integrates with vector databases to provide semantic search capabilities for...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "May 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/yannick-docu-rag",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:56.904057",
+  "metadata": {}
+}

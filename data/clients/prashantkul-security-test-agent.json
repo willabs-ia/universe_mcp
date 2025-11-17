@@ -1,0 +1,11 @@
+{
+  "id": "prashantkul-security-test-agent",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Educational security testing framework that provides hands-on experience exploiting MCP server vulnerabilities through 10 progressive challenges ranging from basic prompt injection to multi-vector attacks.",
+  "url": "https://www.pulsemcp.com/clients/prashantkul-security-test-agent",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.542025"
+}

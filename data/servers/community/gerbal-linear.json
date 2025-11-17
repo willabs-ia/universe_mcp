@@ -1,0 +1,16 @@
+{
+  "id": "gerbal-linear",
+  "name": "Linear",
+  "provider": "Grant Rettke",
+  "description": "Integrates with Linear project management API to enable issue creation, updating, searching, commenting, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/gerbal-linear",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:07.919695",
+  "metadata": {}
+}

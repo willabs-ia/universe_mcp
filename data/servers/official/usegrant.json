@@ -1,0 +1,19 @@
+{
+  "id": "usegrant",
+  "name": "UseGrant",
+  "provider": "UseGrant",
+  "description": "Integrates with the UseGrant API to enable secure authentication, resource management, and structured access control...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 9
+  },
+  "release_date": "Mar 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/usegrant",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:37.097779",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "4regab-agent-rules",
+  "name": "Agent Rules",
+  "provider": "4regab",
+  "description": "Fetches coding rules and best practices on-demand from GitHub repositories, providing remote access to development...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/4regab-agent-rules",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:24.495875",
+  "metadata": {}
+}

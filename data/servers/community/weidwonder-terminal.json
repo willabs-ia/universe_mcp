@@ -1,0 +1,16 @@
+{
+  "id": "weidwonder-terminal",
+  "name": "Terminal",
+  "provider": "WeiDwonder",
+  "description": "Enables AI systems to execute terminal commands in local or remote environments through a TypeScript-based server...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/weidwonder-terminal",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:37.017166",
+  "metadata": {}
+}

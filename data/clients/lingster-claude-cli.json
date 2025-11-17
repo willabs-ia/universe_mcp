@@ -1,0 +1,11 @@
+{
+  "id": "lingster-claude-cli",
+  "name": "Unknown",
+  "provider": null,
+  "description": "CLI tool for interacting with Claude via multiple MCP servers, supporting real-time response streaming and rich terminal output with clear formatting.",
+  "url": "https://www.pulsemcp.com/clients/lingster-claude-cli",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.507215"
+}

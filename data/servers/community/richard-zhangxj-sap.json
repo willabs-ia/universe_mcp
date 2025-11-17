@@ -1,0 +1,16 @@
+{
+  "id": "richard-zhangxj-sap",
+  "name": "SAP",
+  "provider": "Richard-Zhangxj",
+  "description": "Integrates with SAP systems through RESTful API calls to execute business functions like financial reporting, user...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/richard-zhangxj-sap",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:13.579770",
+  "metadata": {}
+}

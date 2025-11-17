@@ -1,0 +1,16 @@
+{
+  "id": "umputun-local-docs",
+  "name": "Local Docs",
+  "provider": "Eugene Umputun",
+  "description": "Provides seamless access to local markdown documentation from multiple sources with smart fuzzy search, file caching,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/umputun-local-docs",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:37.548159",
+  "metadata": {}
+}

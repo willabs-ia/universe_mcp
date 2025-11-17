@@ -1,0 +1,11 @@
+{
+  "id": "kuwa72-echo",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Cross-platform Deno-based client for communicating with MCP servers via compiled binaries for macOS and Windows.",
+  "url": "https://www.pulsemcp.com/clients/kuwa72-echo",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.561218"
+}

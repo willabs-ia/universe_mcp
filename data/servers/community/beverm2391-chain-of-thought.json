@@ -1,0 +1,16 @@
+{
+  "id": "beverm2391-chain-of-thought",
+  "name": "Chain of Thought",
+  "provider": "Ben Everman",
+  "description": "Exposes raw reasoning tokens from language models through Groq's API, allowing users to see the step-by-step thinking...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/beverm2391-chain-of-thought",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:41.604498",
+  "metadata": {}
+}

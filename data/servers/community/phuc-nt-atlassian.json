@@ -1,0 +1,19 @@
+{
+  "id": "phuc-nt-atlassian",
+  "name": "Atlassian (Jira & Confluence)",
+  "provider": "Phuc Nguyen",
+  "description": "Integrates with Atlassian's Jira and Confluence to enable natural language interaction with project management tools,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "May 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/phuc-nt-atlassian",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:35.900097",
+  "metadata": {}
+}

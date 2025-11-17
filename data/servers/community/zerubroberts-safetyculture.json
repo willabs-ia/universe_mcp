@@ -1,0 +1,16 @@
+{
+  "id": "zerubroberts-safetyculture",
+  "name": "SafetyCulture",
+  "provider": "Zeru Roberts",
+  "description": "Provides a bridge to the SafetyCulture API, enabling querying and analysis of workplace safety inspection data for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/zerubroberts-safetyculture",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:20.690392",
+  "metadata": {}
+}

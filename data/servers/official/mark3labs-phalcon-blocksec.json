@@ -1,0 +1,16 @@
+{
+  "id": "mark3labs-phalcon-blocksec",
+  "name": "Phalcon (BlockSec Transaction Analysis)",
+  "provider": "Mark III Labs",
+  "description": "Integrates with BlockSec's blockchain analysis platform to provide detailed transaction insights across multiple...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Apr 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/mark3labs-phalcon-blocksec",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:19.249988",
+  "metadata": {}
+}

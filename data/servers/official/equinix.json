@@ -1,0 +1,16 @@
+{
+  "id": "equinix",
+  "name": "Equinix",
+  "provider": "Equinix",
+  "description": "Hundreds of network, communication, security, and cloud providers - all from a single location",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Sep 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/equinix",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:27.172145",
+  "metadata": {}
+}

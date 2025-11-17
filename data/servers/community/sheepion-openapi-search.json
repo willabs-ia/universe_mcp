@@ -1,0 +1,16 @@
+{
+  "id": "sheepion-openapi-search",
+  "name": "OpenAPI Search",
+  "provider": "Sheepion",
+  "description": "Loads OpenAPI specifications from URLs and provides tools for searching endpoints, exploring schemas, and extracting...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/sheepion-openapi-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:35.338708",
+  "metadata": {}
+}

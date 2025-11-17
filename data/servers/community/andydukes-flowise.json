@@ -1,0 +1,16 @@
+{
+  "id": "andydukes-flowise",
+  "name": "Flowise",
+  "provider": "Andy Dukes",
+  "description": "Integrates with Flowise API to enable interaction with chatflows and assistants through dynamic tool registration or...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/andydukes-flowise",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:07.908288",
+  "metadata": {}
+}

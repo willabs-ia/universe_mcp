@@ -1,0 +1,19 @@
+{
+  "id": "angiejones-selenium",
+  "name": "Selenium",
+  "provider": "Angie Jones",
+  "description": "Automates web browser actions with Selenium WebDriver.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 159
+  },
+  "release_date": "Feb 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/angiejones-selenium",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:42.275579",
+  "metadata": {}
+}

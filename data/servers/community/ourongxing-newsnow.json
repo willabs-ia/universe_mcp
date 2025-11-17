@@ -1,0 +1,19 @@
+{
+  "id": "ourongxing-newsnow",
+  "name": "NewsNow",
+  "provider": "Ou RongXing",
+  "description": "Provides a bridge to the NewsNow platform for retrieving trending and latest news from various sources with...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 53
+  },
+  "release_date": "Apr 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/ourongxing-newsnow",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:14.950465",
+  "metadata": {}
+}

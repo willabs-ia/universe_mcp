@@ -1,0 +1,19 @@
+{
+  "id": "postal",
+  "name": "Postal",
+  "provider": "Tim Kellogg",
+  "description": "Creates a persistent mailbox system enabling asynchronous message passing between agents through send_to_agent and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 14
+  },
+  "release_date": "Jun 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/postal",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:30.184670",
+  "metadata": {}
+}

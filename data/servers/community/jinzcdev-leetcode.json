@@ -1,0 +1,16 @@
+{
+  "id": "jinzcdev-leetcode",
+  "name": "LeetCode",
+  "provider": "jinzcdev",
+  "description": "Connects to LeetCode's programming platform for accessing problem descriptions, searching by tags and difficulty,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/jinzcdev-leetcode",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:19.256306",
+  "metadata": {}
+}

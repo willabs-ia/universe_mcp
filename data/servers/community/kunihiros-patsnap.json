@@ -1,0 +1,19 @@
+{
+  "id": "kunihiros-patsnap",
+  "name": "PatSnap (Patent Analytics)",
+  "provider": "Kunihiro Setogawa",
+  "description": "Integrates with PatSnap's patent analytics API to provide structured access to patent trends, competitive...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 7
+  },
+  "release_date": "Apr 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/kunihiros-patsnap",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:39.348014",
+  "metadata": {}
+}

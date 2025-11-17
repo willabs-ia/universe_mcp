@@ -1,0 +1,16 @@
+{
+  "id": "zine",
+  "name": "Zine",
+  "provider": "Graphlit",
+  "description": "Curated memory you can publish to humans or agents via MCP",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Aug 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/zine",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:27.139395",
+  "metadata": {}
+}

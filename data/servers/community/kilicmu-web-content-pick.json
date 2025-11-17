@@ -1,0 +1,19 @@
+{
+  "id": "kilicmu-web-content-pick",
+  "name": "Web Content Pick",
+  "provider": "kilicmu",
+  "description": "Extracts structured content from web pages using customizable selectors for crawling, parsing, and analyzing HTML...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 6
+  },
+  "release_date": "Mar 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/kilicmu-web-content-pick",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:41.461779",
+  "metadata": {}
+}

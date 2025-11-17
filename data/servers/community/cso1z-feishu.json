@@ -1,0 +1,16 @@
+{
+  "id": "cso1z-feishu",
+  "name": "Feishu (Lark)",
+  "provider": "cso1z",
+  "description": "Integrates with Feishu (Lark) to enable document retrieval, messaging, and collaborative features directly within...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/cso1z-feishu",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:25.752195",
+  "metadata": {}
+}

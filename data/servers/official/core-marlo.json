@@ -1,0 +1,19 @@
+{
+  "id": "core-marlo",
+  "name": "Marlo",
+  "provider": "Marlo",
+  "description": "Provides integration with Marlo platform services for finance and operations platform designed for maritime and...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 226
+  },
+  "release_date": "Jul 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/core-marlo",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:38.076727",
+  "metadata": {}
+}

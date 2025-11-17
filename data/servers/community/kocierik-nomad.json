@@ -1,0 +1,16 @@
+{
+  "id": "kocierik-nomad",
+  "name": "Nomad",
+  "provider": "Erik Koci",
+  "description": "Provides a bridge to HashiCorp Nomad's cluster management capabilities, enabling job management, deployment tracking,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/kocierik-nomad",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:23.740207",
+  "metadata": {}
+}

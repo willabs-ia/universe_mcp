@@ -1,0 +1,16 @@
+{
+  "id": "bro3886-memory-custom",
+  "name": "Memory Custom",
+  "provider": "Siddhartha Varma",
+  "description": "Provides a knowledge graph-based memory system for creating, managing, and querying structured information with...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/bro3886-memory-custom",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:08.607618",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "eddydpyl-sketchfab",
+  "name": "Sketchfab",
+  "provider": "Eduardo del Palacio Lirola",
+  "description": "Provides a streamlined interface to the Sketchfab API for searching and downloading 3D models with filtering options...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 17
+  },
+  "release_date": "Mar 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/eddydpyl-sketchfab",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:27.994069",
+  "metadata": {}
+}

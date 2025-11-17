@@ -1,0 +1,19 @@
+{
+  "id": "z80-cryo-blockchain",
+  "name": "Cryo",
+  "provider": "z80",
+  "description": "Provides a powerful Ethereum blockchain data extraction and analysis interface using Cryo and DuckDB, enabling...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 74
+  },
+  "release_date": "Mar 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/z80-cryo-blockchain",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:10.544209",
+  "metadata": {}
+}

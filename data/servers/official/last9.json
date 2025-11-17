@@ -1,0 +1,16 @@
+{
+  "id": "last9",
+  "name": "Last9",
+  "provider": "Last9",
+  "description": "Seamlessly bring real-time production context - logs, metrics, and traces - into your local environment to auto-fix...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Apr 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/last9",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:20.730727",
+  "metadata": {}
+}

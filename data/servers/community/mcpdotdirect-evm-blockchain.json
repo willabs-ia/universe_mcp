@@ -1,0 +1,19 @@
+{
+  "id": "mcpdotdirect-evm-blockchain",
+  "name": "EVM Blockchain",
+  "provider": "Etheral",
+  "description": "Integrates with EVM-compatible blockchains to enable querying data, transferring tokens, reading smart contracts, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 56
+  },
+  "release_date": "Mar 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/mcpdotdirect-evm-blockchain",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:14.930832",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ibproduct-charly-memory-cache",
+  "name": "Charly Memory Cache",
+  "provider": "ibproduct",
+  "description": "Caches data between language model queries to optimize token consumption and reduce costs in AI interactions.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/ibproduct-charly-memory-cache",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:42.177733",
+  "metadata": {}
+}

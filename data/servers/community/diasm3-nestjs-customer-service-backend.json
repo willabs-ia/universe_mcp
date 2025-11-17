@@ -1,0 +1,16 @@
+{
+  "id": "diasm3-nestjs-customer-service-backend",
+  "name": "NestJS Customer Service Backend",
+  "provider": "diasm3",
+  "description": "Integrates with NestJS customer service backend to manage complaint workflows, user data, employee assignments, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/diasm3-nestjs-customer-service-backend",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:33.235551",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "kakehashi-mattermost-fetch",
+  "name": "Mattermost Fetch",
+  "provider": "Kakehashi Inc",
+  "description": "Web scraping server that fetches and processes web content with robust features like robots.txt compliance, LRU...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/kakehashi-mattermost-fetch",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:57.152690",
+  "metadata": {}
+}

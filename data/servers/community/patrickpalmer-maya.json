@@ -1,0 +1,16 @@
+{
+  "id": "patrickpalmer-maya",
+  "name": "Maya",
+  "provider": "Patrick Palmer",
+  "description": "Provides a bridge between natural language commands and Autodesk Maya, enabling scene management, object creation,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/patrickpalmer-maya",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:25.888348",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "shibayu36-mysql-schema-explorer",
+  "name": "MySQL Schema Explorer",
+  "provider": "shibayu36",
+  "description": "Enables AI to explore and interact with MySQL database schemas for documentation, query building, and schema analysis...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/shibayu36-mysql-schema-explorer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:23.749392",
+  "metadata": {}
+}

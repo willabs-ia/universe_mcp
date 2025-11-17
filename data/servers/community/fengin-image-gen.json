@@ -1,0 +1,16 @@
+{
+  "id": "fengin-image-gen",
+  "name": "Image Gen (Jimeng AI)",
+  "provider": "fengin",
+  "description": "Accepts text descriptions, generates corresponding images, and offers image download and save functions.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/fengin-image-gen",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:57.208664",
+  "metadata": {}
+}

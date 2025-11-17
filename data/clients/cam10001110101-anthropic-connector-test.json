@@ -1,0 +1,11 @@
+{
+  "id": "cam10001110101-anthropic-connector-test",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Test scripts demonstrating the Anthropic MCP Connector feature, which enables direct connection to remote MCP servers from the Messages API without a separate MCP client",
+  "url": "https://www.pulsemcp.com/clients/cam10001110101-anthropic-connector-test",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.568484"
+}

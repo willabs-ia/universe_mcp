@@ -1,0 +1,16 @@
+{
+  "id": "christophersutton-instantdb",
+  "name": "InstantDB",
+  "provider": "Christopher Sutton",
+  "description": "Provides a robust InstantDB server for executing database queries, retrieving results, and serving code examples...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/christophersutton-instantdb",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:57.104040",
+  "metadata": {}
+}

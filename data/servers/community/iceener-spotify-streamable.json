@@ -1,0 +1,16 @@
+{
+  "id": "iceener-spotify-streamable",
+  "name": "Spotify",
+  "provider": "iceener",
+  "description": "Integrates with Spotify's Web API through OAuth 2.1 authentication to provide music control and discovery...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/iceener-spotify-streamable",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:11.465874",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "jazelly-next-api-scanner",
+  "name": "Next.js API Scanner",
+  "provider": "jazelly",
+  "description": "Scans Next.js project directories to extract API route information, validation schemas, and type definitions for...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 4
+  },
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/jazelly-next-api-scanner",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:45.799437",
+  "metadata": {}
+}

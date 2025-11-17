@@ -1,0 +1,11 @@
+{
+  "id": "blacsheep-amap",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Connects LLMs to Amap mapping services for address parsing, geocoding, and location-based capabilities through a FastAPI server component.",
+  "url": "https://www.pulsemcp.com/clients/blacsheep-amap",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.488709"
+}

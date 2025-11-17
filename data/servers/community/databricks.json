@@ -1,0 +1,16 @@
+{
+  "id": "databricks",
+  "name": "Databricks",
+  "provider": "JustTryAI",
+  "description": "Integrates with Databricks services to enable interaction with clusters, jobs, notebooks, DBFS, and SQL workspaces...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/databricks",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:34.871109",
+  "metadata": {}
+}

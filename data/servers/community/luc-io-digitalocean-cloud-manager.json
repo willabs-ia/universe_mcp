@@ -1,0 +1,16 @@
+{
+  "id": "luc-io-digitalocean-cloud-manager",
+  "name": "DigitalOcean",
+  "provider": "Lucio",
+  "description": "Integrates with DigitalOcean's API to provide a secure, rate-limited interface for automating cloud resource...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/luc-io-digitalocean-cloud-manager",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:01.249128",
+  "metadata": {}
+}

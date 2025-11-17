@@ -1,0 +1,16 @@
+{
+  "id": "milescool-binance-bitcoin",
+  "name": "Binance Bitcoin Market Data",
+  "provider": "MilesCool",
+  "description": "Provides real-time and historical Bitcoin market data from Binance including ticker data, order books, trades, price...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/milescool-binance-bitcoin",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:14.949749",
+  "metadata": {}
+}

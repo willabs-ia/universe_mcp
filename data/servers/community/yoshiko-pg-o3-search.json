@@ -1,0 +1,19 @@
+{
+  "id": "yoshiko-pg-o3-search",
+  "name": "OpenAI o3 Search",
+  "provider": "yoshiko-pg",
+  "description": "Provides web search capabilities using OpenAI's o3 model with configurable reasoning effort levels for finding...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 79
+  },
+  "release_date": "Jun 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/yoshiko-pg-o3-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:10.531644",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "mindpilot",
+  "name": "Mindpilot (Mermaid Diagrams)",
+  "provider": "Alex Brinsmead",
+  "description": "Enables creation and rendering of Mermaid diagrams with real-time visualization through a local web interface,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 10
+  },
+  "release_date": "Jul 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/mindpilot",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:34.954562",
+  "metadata": {}
+}

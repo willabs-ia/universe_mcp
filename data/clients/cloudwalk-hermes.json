@@ -1,0 +1,11 @@
+{
+  "id": "cloudwalk-hermes",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Elixir-based MCP client with multiple transport options, built-in connection supervision, and progress notification support for high-performance, fault-tolerant model interactions.",
+  "url": "https://www.pulsemcp.com/clients/cloudwalk-hermes",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.392286"
+}

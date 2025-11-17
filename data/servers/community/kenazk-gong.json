@@ -1,0 +1,16 @@
+{
+  "id": "kenazk-gong",
+  "name": "Gong",
+  "provider": "Kenaz Kwa",
+  "description": "Integrates with Gong's API to access call recordings and transcripts, enabling analysis of sales conversations and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/kenazk-gong",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:07.802801",
+  "metadata": {}
+}

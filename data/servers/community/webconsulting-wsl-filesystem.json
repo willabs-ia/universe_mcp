@@ -1,0 +1,16 @@
+{
+  "id": "webconsulting-wsl-filesystem",
+  "name": "WSL Filesystem",
+  "provider": "Web-C",
+  "description": "Provides a bridge between Windows and Linux environments by enabling access to WSL filesystem operations, allowing...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/webconsulting-wsl-filesystem",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:23.735193",
+  "metadata": {}
+}

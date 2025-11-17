@@ -1,0 +1,19 @@
+{
+  "id": "dnakov-frida",
+  "name": "Frida",
+  "provider": "dnakov",
+  "description": "Enables dynamic instrumentation of mobile and desktop applications through Frida toolkit, providing capabilities for...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 54
+  },
+  "release_date": "Mar 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/dnakov-frida",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:14.939974",
+  "metadata": {}
+}

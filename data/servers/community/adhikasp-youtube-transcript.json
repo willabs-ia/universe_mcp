@@ -1,0 +1,19 @@
+{
+  "id": "adhikasp-youtube-transcript",
+  "name": "YouTube Transcript",
+  "provider": "Adhika Setya Pramudita",
+  "description": "Fetch and analyze YouTube video transcripts.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Nov 30, 2024",
+  "url": "https://www.pulsemcp.com/servers/adhikasp-youtube-transcript",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:42.322007",
+  "metadata": {}
+}

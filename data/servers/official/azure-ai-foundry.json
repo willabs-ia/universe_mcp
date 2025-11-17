@@ -1,0 +1,19 @@
+{
+  "id": "azure-ai-foundry",
+  "name": "Azure AI Foundry",
+  "provider": "Microsoft",
+  "description": "Integrates with Microsoft Azure AI Foundry to enable model deployment, experiment tracking, dataset management, and...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 415
+  },
+  "release_date": "Mar 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/azure-ai-foundry",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:28.845896",
+  "metadata": {}
+}

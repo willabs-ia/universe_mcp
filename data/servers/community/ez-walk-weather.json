@@ -1,0 +1,16 @@
+{
+  "id": "ez-walk-weather",
+  "name": "National Weather Service",
+  "provider": "EZ-Walk",
+  "description": "Integrates with National Weather Service APIs to provide current weather alerts by state code and detailed forecasts...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/ez-walk-weather",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:07.890690",
+  "metadata": {}
+}

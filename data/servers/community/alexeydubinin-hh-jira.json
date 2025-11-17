@@ -1,0 +1,19 @@
+{
+  "id": "alexeydubinin-hh-jira",
+  "name": "Jira",
+  "provider": "Alexey Dubinin",
+  "description": "Integrates with the Jira API to enable querying, creating, and modifying issues and projects, simplifying project...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 12
+  },
+  "release_date": "Dec 2, 2024",
+  "url": "https://www.pulsemcp.com/servers/alexeydubinin-hh-jira",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:32.735523",
+  "metadata": {}
+}

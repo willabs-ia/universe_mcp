@@ -1,0 +1,19 @@
+{
+  "id": "adobe-premiere-pro",
+  "name": "Adobe Premiere Pro",
+  "provider": "hetpatel-11",
+  "description": "Integrates with Adobe Premiere Pro through ExtendScript and UXP plugin communication to enable natural language video...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jul 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/adobe-premiere-pro",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:59.591679",
+  "metadata": {}
+}

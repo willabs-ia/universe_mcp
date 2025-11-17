@@ -1,0 +1,19 @@
+{
+  "id": "pydantic-run-python",
+  "name": "Python Sandbox",
+  "provider": "Pydantic",
+  "description": "Provides a browser-compatible Python execution environment with package management capabilities for running code...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 11
+  },
+  "release_date": "Jun 21, 2024",
+  "url": "https://www.pulsemcp.com/servers/pydantic-run-python",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:34.916974",
+  "metadata": {}
+}

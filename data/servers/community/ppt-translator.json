@@ -1,0 +1,16 @@
+{
+  "id": "ppt-translator",
+  "name": "PowerPoint Translator",
+  "provider": "Daekeun Kim",
+  "description": "Translates PowerPoint presentations using Amazon Bedrock models while preserving formatting, layouts, and styles,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/ppt-translator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:07.221536",
+  "metadata": {}
+}

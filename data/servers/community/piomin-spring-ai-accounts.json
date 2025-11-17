@@ -1,0 +1,16 @@
+{
+  "id": "piomin-spring-ai-accounts",
+  "name": "Spring AI Accounts",
+  "provider": "Piotr Minkowski",
+  "description": "Provides a Spring-based server for managing person and account data through lightweight H2 database querying with...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/piomin-spring-ai-accounts",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:54.999860",
+  "metadata": {}
+}

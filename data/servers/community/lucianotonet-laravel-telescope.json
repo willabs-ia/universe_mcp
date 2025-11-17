@@ -1,0 +1,16 @@
+{
+  "id": "lucianotonet-laravel-telescope",
+  "name": "Laravel Telescope",
+  "provider": "Luciano Tonet",
+  "description": "Extends Laravel Telescope by exposing application telemetry data for natural language querying of logs, slow queries,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/lucianotonet-laravel-telescope",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:36.820624",
+  "metadata": {}
+}

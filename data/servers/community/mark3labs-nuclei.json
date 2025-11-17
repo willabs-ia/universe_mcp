@@ -1,0 +1,19 @@
+{
+  "id": "mark3labs-nuclei",
+  "name": "Nuclei",
+  "provider": "Mark III Labs",
+  "description": "Integrates with Nuclei vulnerability scanner to automate security assessments through configurable scanning...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "Mar 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/mark3labs-nuclei",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:33.786647",
+  "metadata": {}
+}

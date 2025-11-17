@@ -1,0 +1,19 @@
+{
+  "id": "wolfe-jam-faf",
+  "name": "FAF (File & Project Context)",
+  "provider": "Wolfe-Jam",
+  "description": "Provides persistent project context management and file operations with automated project scoring, health assessment,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 502
+  },
+  "release_date": "Oct 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/wolfe-jam-faf",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:24.658673",
+  "metadata": {}
+}

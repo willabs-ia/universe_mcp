@@ -1,0 +1,19 @@
+{
+  "id": "vgnshiyer-apple-books",
+  "name": "Apple Books",
+  "provider": "Vignesh Iyer",
+  "description": "Provides access to Apple Books library data, enabling retrieval and search of book collections, highlights, notes,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 88
+  },
+  "release_date": "Apr 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/vgnshiyer-apple-books",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:08.416913",
+  "metadata": {}
+}

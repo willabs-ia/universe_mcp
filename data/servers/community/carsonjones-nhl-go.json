@@ -1,0 +1,16 @@
+{
+  "id": "carsonjones-nhl-go",
+  "name": "NHL",
+  "provider": "Carson Jones",
+  "description": "Integrates with NHL data sources to provide real-time game updates, player stats, and league standings for sports...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/carsonjones-nhl-go",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:55.087572",
+  "metadata": {}
+}

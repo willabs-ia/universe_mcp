@@ -1,0 +1,16 @@
+{
+  "id": "hendrickcastro-cosmosdb",
+  "name": "CosmosDB",
+  "provider": "Hendrick Castro",
+  "description": "Integrates with Azure CosmosDB to provide database operations including container management, SQL query execution...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/hendrickcastro-cosmosdb",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:24.537962",
+  "metadata": {}
+}

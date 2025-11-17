@@ -1,0 +1,16 @@
+{
+  "id": "groww",
+  "name": "Groww",
+  "provider": "Karthik",
+  "description": "Integrates with the Groww trading platform API to execute stock market operations including order placement,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/groww",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:24.514519",
+  "metadata": {}
+}

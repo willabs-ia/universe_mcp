@@ -1,0 +1,16 @@
+{
+  "id": "un4ckn0wl3z-web-scraper",
+  "name": "Web Scraper",
+  "provider": "un4ckn0wl3z",
+  "description": "Extracts clean text content from web pages using BeautifulSoup and HTTPX with proper error handling for failed...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/un4ckn0wl3z-web-scraper",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:12.729492",
+  "metadata": {}
+}

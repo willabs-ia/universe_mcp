@@ -1,0 +1,16 @@
+{
+  "id": "tecnomanu-nerdearla-conference",
+  "name": "Nerdearla Conference",
+  "provider": "tecnomanu",
+  "description": "Scrapes the Nerdearla conference website to provide real-time access to event schedules, speaker information, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/tecnomanu-nerdearla-conference",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:31.099867",
+  "metadata": {}
+}

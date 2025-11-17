@@ -1,0 +1,19 @@
+{
+  "id": "ledger",
+  "name": "Ledger CLI",
+  "provider": "Minhyeok Lee",
+  "description": "Integrates with Ledger CLI to enable natural language queries for financial data analysis, report generation, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/ledger",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:48.802450",
+  "metadata": {}
+}

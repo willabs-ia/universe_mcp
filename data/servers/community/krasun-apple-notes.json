@@ -1,0 +1,16 @@
+{
+  "id": "krasun-apple-notes",
+  "name": "Apple Notes",
+  "provider": "Dmytro Krasun",
+  "description": "Connects AI with Apple Notes on macOS, enabling retrieval, creation, and search of notes without leaving your workflow.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/krasun-apple-notes",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:36.854555",
+  "metadata": {}
+}

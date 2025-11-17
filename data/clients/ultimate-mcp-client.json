@@ -1,0 +1,11 @@
+{
+  "id": "ultimate-mcp-client",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Python-based client for connecting to multiple MCP servers with WebSocket streaming, conversation branching, and comprehensive caching for building complex AI agents that interact with distributed capabilities.",
+  "url": "https://www.pulsemcp.com/clients/ultimate-mcp-client",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.401352"
+}

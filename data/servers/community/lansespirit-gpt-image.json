@@ -1,0 +1,16 @@
+{
+  "id": "lansespirit-gpt-image",
+  "name": "GPT Image",
+  "provider": "lansespirit",
+  "description": "Integrates with OpenAI's gpt-image-1 model for text-to-image generation and editing with comprehensive caching,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/lansespirit-gpt-image",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:54.119339",
+  "metadata": {}
+}

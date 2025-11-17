@@ -1,0 +1,19 @@
+{
+  "id": "suthio-brave-deep-research",
+  "name": "Brave Deep Research",
+  "provider": "suthio",
+  "description": "Combines Brave Search with web scraping to provide deep research capabilities by extracting full content from pages...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Mar 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/suthio-brave-deep-research",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:56.891969",
+  "metadata": {}
+}

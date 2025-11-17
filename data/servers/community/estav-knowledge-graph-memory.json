@@ -1,0 +1,19 @@
+{
+  "id": "estav-knowledge-graph-memory",
+  "name": "Knowledge Graph Memory",
+  "provider": "Evangelos Stavropoulos",
+  "description": "Provides a knowledge graph management system for storing, retrieving, and querying information to build and maintain...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 47
+  },
+  "release_date": "Dec 14, 2024",
+  "url": "https://www.pulsemcp.com/servers/estav-knowledge-graph-memory",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:14.982306",
+  "metadata": {}
+}

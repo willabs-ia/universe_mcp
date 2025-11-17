@@ -1,0 +1,16 @@
+{
+  "id": "cosmwasm-blockchain",
+  "name": "CosmWasm Blockchain",
+  "provider": "adairrr",
+  "description": "Bridges with CosmWasm-based blockchains using cw-orchestrator, enabling querying contract state, executing...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/cosmwasm-blockchain",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:17.130399",
+  "metadata": {}
+}

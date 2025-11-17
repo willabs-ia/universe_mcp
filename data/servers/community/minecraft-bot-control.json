@@ -1,0 +1,19 @@
+{
+  "id": "minecraft-bot-control",
+  "name": "Minecraft Bot Control",
+  "provider": "leo4life2",
+  "description": "Provides complete control over Minecraft bots through the Mineflayer library, enabling autonomous gameplay with 40+...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/minecraft-bot-control",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:01.881952",
+  "metadata": {}
+}

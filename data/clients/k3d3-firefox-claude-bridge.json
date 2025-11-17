@@ -1,0 +1,11 @@
+{
+  "id": "k3d3-firefox-claude-bridge",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Firefox extension that bridges Claude's web interface with external tools through a WebSocket server, enabling tool access while maintaining conversation context.",
+  "url": "https://www.pulsemcp.com/clients/k3d3-firefox-claude-bridge",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.485795"
+}

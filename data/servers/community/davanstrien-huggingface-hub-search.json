@@ -1,0 +1,16 @@
+{
+  "id": "davanstrien-huggingface-hub-search",
+  "name": "Hugging Face Hub Search",
+  "provider": "Daniel van Strien",
+  "description": "Provides semantic search capabilities for Hugging Face models and datasets using vector embeddings to find resources...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/davanstrien-huggingface-hub-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:45.511860",
+  "metadata": {}
+}

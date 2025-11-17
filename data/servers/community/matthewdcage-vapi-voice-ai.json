@@ -1,0 +1,16 @@
+{
+  "id": "matthewdcage-vapi-voice-ai",
+  "name": "Vapi Voice AI",
+  "provider": "Matthew Cage",
+  "description": "Integrates Vapi's voice AI capabilities with code editors, enabling outbound calls, voice assistant management, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/matthewdcage-vapi-voice-ai",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:14.937931",
+  "metadata": {}
+}

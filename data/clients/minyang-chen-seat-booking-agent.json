@@ -1,0 +1,11 @@
+{
+  "id": "minyang-chen-seat-booking-agent",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Self-service airline reservation system combining OpenAI Agents SDK, Autogen extensions, and specialized agents for inquiry handling and seat booking through a Chainlit web interface.",
+  "url": "https://www.pulsemcp.com/clients/minyang-chen-seat-booking-agent",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.466659"
+}

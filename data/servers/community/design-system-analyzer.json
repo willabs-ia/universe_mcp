@@ -1,0 +1,16 @@
+{
+  "id": "design-system-analyzer",
+  "name": "Design System Analyzer",
+  "provider": "yajihum",
+  "description": "Analyzes React component files and design tokens to provide accurate component properties and styling information for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/design-system-analyzer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:12.696413",
+  "metadata": {}
+}

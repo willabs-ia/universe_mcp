@@ -1,0 +1,16 @@
+{
+  "id": "nguyenvanduocit-gitlab",
+  "name": "GitLab",
+  "provider": "Duoc Nguyen",
+  "description": "Provides a bridge to the GitLab API, enabling developers to interact with repositories through standardized tools for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/nguyenvanduocit-gitlab",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:57.146413",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "zettelkasten",
+  "name": "Zettelkasten",
+  "provider": "Liam Deacon",
+  "description": "Implements Niklas Luhmann's Zettelkasten methodology with atomic note-taking, semantic linking types, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/zettelkasten",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:05.085647",
+  "metadata": {}
+}

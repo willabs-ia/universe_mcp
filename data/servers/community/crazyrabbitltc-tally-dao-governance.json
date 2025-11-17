@@ -1,0 +1,16 @@
+{
+  "id": "crazyrabbitltc-tally-dao-governance",
+  "name": "Tally DAO Governance",
+  "provider": "Dennison Bertram",
+  "description": "Integrates with the Tally API to query and analyze DAO governance data, enabling insights into decentralized...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/crazyrabbitltc-tally-dao-governance",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:42.163321",
+  "metadata": {}
+}

@@ -1,0 +1,11 @@
+{
+  "id": "arenoth-mcp-agent",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Coding assistant that processes natural language requests through intent detection and specialized functions, featuring self-awareness for code analysis, memory for storing snippets, and visual feedback during operations.",
+  "url": "https://www.pulsemcp.com/clients/arenoth-mcp-agent",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.556803"
+}

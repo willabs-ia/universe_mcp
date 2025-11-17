@@ -1,0 +1,16 @@
+{
+  "id": "liuchongchong1995-deepseek",
+  "name": "DeepSeek",
+  "provider": "liuchongchong1995",
+  "description": "Provides a bridge between AI assistants and DeepSeek's language models, enabling chat completion with automatic model...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/liuchongchong1995-deepseek",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:25.889765",
+  "metadata": {}
+}

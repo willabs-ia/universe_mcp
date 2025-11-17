@@ -1,0 +1,11 @@
+{
+  "id": "yxhpy-claude-code-webui",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Web-based management interface for Claude Code authentication credentials and MCP configuration files with account management, environment variable configuration, and project-level editing capabilities.",
+  "url": "https://www.pulsemcp.com/clients/yxhpy-claude-code-webui",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.474085"
+}

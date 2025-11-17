@@ -1,0 +1,11 @@
+{
+  "id": "manishiitg-agent-builder",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Go-based agent orchestration system that combines document management, semantic search, and GitHub integration with multi-LLM provider support for automated workflow execution and interactive agent management through a React frontend.",
+  "url": "https://www.pulsemcp.com/clients/manishiitg-agent-builder",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.546835"
+}

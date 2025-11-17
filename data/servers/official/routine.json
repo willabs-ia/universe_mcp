@@ -1,0 +1,16 @@
+{
+  "id": "routine",
+  "name": "Routine",
+  "provider": "Routine",
+  "description": "Integrates with Routine productivity application through WebSocket RPC communication to provide task management,...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Apr 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/routine",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:17.816246",
+  "metadata": {}
+}

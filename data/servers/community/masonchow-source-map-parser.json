@@ -1,0 +1,19 @@
+{
+  "id": "masonchow-source-map-parser",
+  "name": "Source Map Parser",
+  "provider": "Mason Chow",
+  "description": "Maps minified JavaScript stack traces back to original source code locations for efficient production error debugging.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 13
+  },
+  "release_date": "Apr 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/masonchow-source-map-parser",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:30.208712",
+  "metadata": {}
+}

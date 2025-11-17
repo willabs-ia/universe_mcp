@@ -1,0 +1,11 @@
+{
+  "id": "uangtai-soulshack-irc-chatbot",
+  "name": "Unknown",
+  "provider": null,
+  "description": "IRC chatbot that integrates multiple LLM providers with shell scripts and MCP servers for extensible functionality, featuring session management, IRC administration tools, and reasoning model support with visual feedback through IRC actions.",
+  "url": "https://www.pulsemcp.com/clients/uangtai-soulshack-irc-chatbot",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.481073"
+}

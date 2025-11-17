@@ -1,0 +1,19 @@
+{
+  "id": "vibe-composer-midi",
+  "name": "Vibe Composer MIDI",
+  "provider": "Mike Borozdin",
+  "description": "Enables real-time music composition and playback through natural language commands using the JZZ MIDI library,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 2
+  },
+  "release_date": "Sep 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/vibe-composer-midi",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:54.714248",
+  "metadata": {}
+}

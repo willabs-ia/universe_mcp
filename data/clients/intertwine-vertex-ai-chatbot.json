@@ -1,0 +1,11 @@
+{
+  "id": "intertwine-vertex-ai-chatbot",
+  "name": "Unknown",
+  "provider": null,
+  "description": "CLI tool for interacting with Google's Gemini models on Vertex AI with automatic MCP server discovery, multi-transport support, and OAuth authentication for extending AI capabilities with external tools and data sources.",
+  "url": "https://www.pulsemcp.com/clients/intertwine-vertex-ai-chatbot",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.489637"
+}

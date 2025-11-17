@@ -1,0 +1,16 @@
+{
+  "id": "martinschlott-bettermcpfileserver",
+  "name": "Better MCP File Server",
+  "provider": "Martin Schlott",
+  "description": "Reimagined server for filesystem access with privacy-preserving path aliases and an optimized LLM-friendly API.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/martinschlott-bettermcpfileserver",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:19.335162",
+  "metadata": {}
+}

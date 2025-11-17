@@ -1,0 +1,16 @@
+{
+  "id": "mattlevine-brightsy",
+  "name": "Brightsy",
+  "provider": "Matt Levine",
+  "description": "Provides a bridge to an OpenAI-compatible agent for seamless integration of task automation, natural language...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/mattlevine-brightsy",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:05.755748",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "pinata-ipfs",
+  "name": "Pinata IPFS",
+  "provider": "Pinata",
+  "description": "Integrates with Pinata's IPFS storage services for uploading, searching, organizing, and retrieving files on both...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Mar 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/pinata-ipfs",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:23.625614",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "yuru-sha-mysql",
+  "name": "MySQL Database",
+  "provider": "yuru-sha",
+  "description": "Integrates with MySQL databases to enable read-only schema inspection and query execution, ensuring data integrity...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/yuru-sha-mysql",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:01.614500",
+  "metadata": {}
+}

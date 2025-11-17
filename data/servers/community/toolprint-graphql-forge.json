@@ -1,0 +1,19 @@
+{
+  "id": "toolprint-graphql-forge",
+  "name": "GraphQL Forge",
+  "provider": "OneGrep, Inc.",
+  "description": "Automatically converts any GraphQL API into individual tools through schema introspection and intelligent caching,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 4
+  },
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/toolprint-graphql-forge",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:47.996791",
+  "metadata": {}
+}

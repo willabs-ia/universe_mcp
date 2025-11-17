@@ -1,0 +1,19 @@
+{
+  "id": "jwalsh-qrcode",
+  "name": "QR Code Generator",
+  "provider": "Jason Walsh",
+  "description": "Integrates with the qrencode utility to generate QR codes dynamically, supporting various output formats and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 5
+  },
+  "release_date": "Mar 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/jwalsh-qrcode",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:43.605766",
+  "metadata": {}
+}

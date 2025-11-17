@@ -1,0 +1,16 @@
+{
+  "id": "screenshotone",
+  "name": "ScreenshotOne",
+  "provider": "ScreenshotOne",
+  "description": "Integrates with ScreenshotOne's API to enable rendering of website screenshots for visual testing, content...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Feb 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/screenshotone",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:01.574230",
+  "metadata": {}
+}

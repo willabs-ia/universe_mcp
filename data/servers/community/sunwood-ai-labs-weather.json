@@ -1,0 +1,16 @@
+{
+  "id": "sunwood-ai-labs-weather",
+  "name": "Weather",
+  "provider": "Sunwood AI Labs",
+  "description": "Integrates real-time weather data from OpenWeather to provide location-specific forecasts.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Nov 29, 2024",
+  "url": "https://www.pulsemcp.com/servers/sunwood-ai-labs-weather",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:33.645259",
+  "metadata": {}
+}

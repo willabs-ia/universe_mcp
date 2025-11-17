@@ -1,0 +1,16 @@
+{
+  "id": "zen-syllabus",
+  "name": "Zen Syllabus (Educational Curriculum Explorer)",
+  "provider": "sifue",
+  "description": "Provides structured access to educational curriculum data, enabling subject exploration and detailed information...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/zen-syllabus",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:14.955412",
+  "metadata": {}
+}

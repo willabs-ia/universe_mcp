@@ -1,0 +1,16 @@
+{
+  "id": "jkawamoto-florence2",
+  "name": "Florence-2",
+  "provider": "Junpei Kawamoto",
+  "description": "Integrates with Florence-2 to enable advanced image analysis and manipulation tasks like visual question answering,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/jkawamoto-florence2",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:01.589505",
+  "metadata": {}
+}

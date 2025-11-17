@@ -1,0 +1,11 @@
+{
+  "id": "getjavelin-ramparts",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Security scanner for MCP servers that analyzes tools, resources, and prompts for vulnerabilities including path traversal, command injection, SQL injection, prompt injection, and secret leakage using static analysis and detection.",
+  "url": "https://www.pulsemcp.com/clients/getjavelin-ramparts",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.407118"
+}

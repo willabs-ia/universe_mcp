@@ -1,0 +1,19 @@
+{
+  "id": "abhishekbhakat-airflow",
+  "name": "Airflow",
+  "provider": "Abhishek Bhakat",
+  "description": "Bridges Claude with Apache Airflow, enabling direct interaction with workflow orchestration through read-only or...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 227
+  },
+  "release_date": "Feb 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/abhishekbhakat-airflow",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:38.075472",
+  "metadata": {}
+}

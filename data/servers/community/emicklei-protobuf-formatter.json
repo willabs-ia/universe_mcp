@@ -1,0 +1,16 @@
+{
+  "id": "emicklei-protobuf-formatter",
+  "name": "Protobuf Formatter",
+  "provider": "Ernest Micklei",
+  "description": "Formats Protocol Buffer (.proto) files with consistent indentation and standardized conventions for cleaner, more...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/emicklei-protobuf-formatter",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:36.865584",
+  "metadata": {}
+}

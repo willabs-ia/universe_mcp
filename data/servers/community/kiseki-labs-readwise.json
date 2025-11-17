@@ -1,0 +1,16 @@
+{
+  "id": "kiseki-labs-readwise",
+  "name": "Readwise",
+  "provider": "Kiseki Labs",
+  "description": "Integrates with Readwise to access and manipulate reading data, enabling document search, highlight retrieval, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/kiseki-labs-readwise",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:21.378213",
+  "metadata": {}
+}

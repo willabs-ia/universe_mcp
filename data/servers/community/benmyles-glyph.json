@@ -1,0 +1,16 @@
+{
+  "id": "benmyles-glyph",
+  "name": "Glyph",
+  "provider": "Ben Myles",
+  "description": "Extracts code symbols from multiple programming languages using tree-sitter parsing to generate structured outlines...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/benmyles-glyph",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:41.155690",
+  "metadata": {}
+}

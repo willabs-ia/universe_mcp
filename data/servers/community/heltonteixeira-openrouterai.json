@@ -1,0 +1,19 @@
+{
+  "id": "heltonteixeira-openrouterai",
+  "name": "OpenRouter",
+  "provider": "Helton Teixeira",
+  "description": "Unifies access to diverse AI models via OpenRouter, enabling flexible model selection and usage for applications like...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Dec 21, 2024",
+  "url": "https://www.pulsemcp.com/servers/heltonteixeira-openrouterai",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:44.483913",
+  "metadata": {}
+}

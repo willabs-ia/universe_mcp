@@ -1,0 +1,16 @@
+{
+  "id": "hpohlmann-home-assistant",
+  "name": "Home Assistant",
+  "provider": "hpohlmann",
+  "description": "Enables direct control of smart home devices through Home Assistant API, allowing natural language searching of...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/hpohlmann-home-assistant",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:44.176533",
+  "metadata": {}
+}

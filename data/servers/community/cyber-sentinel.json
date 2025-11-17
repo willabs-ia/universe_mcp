@@ -1,0 +1,19 @@
+{
+  "id": "cyber-sentinel",
+  "name": "Cyber Sentinel",
+  "provider": "Zeng Junxiang",
+  "description": "Aggregates threat intelligence from VirusTotal, AbuseIPDB, URLhaus, Shodan, ThreatFox, and MalwareBazaar to analyze...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 12
+  },
+  "release_date": "Jul 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/cyber-sentinel",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:34.895874",
+  "metadata": {}
+}

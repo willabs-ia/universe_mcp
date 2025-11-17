@@ -1,0 +1,16 @@
+{
+  "id": "cail",
+  "name": "CAIL - AI Calls & Voicemail",
+  "provider": "CAIL",
+  "description": "Schedule outbound calls, read transcription of incoming calls.",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Apr 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/cail",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:22.794163",
+  "metadata": {}
+}

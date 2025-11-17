@@ -1,0 +1,16 @@
+{
+  "id": "dustyposa-github-stars",
+  "name": "GitHub Stars",
+  "provider": "Dustyposa",
+  "description": "Integrates with GitHub's GraphQL API to analyze user starred repositories, track starring patterns over time, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/dustyposa-github-stars",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:54.099866",
+  "metadata": {}
+}

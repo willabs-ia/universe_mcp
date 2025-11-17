@@ -1,0 +1,16 @@
+{
+  "id": "phodal-remodern-java",
+  "name": "ArchLift Java Modernization",
+  "provider": "phodal",
+  "description": "Provides Java legacy modernization tools including AST-based code generation, template-driven generation, source code...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/phodal-remodern-java",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:00.594976",
+  "metadata": {}
+}

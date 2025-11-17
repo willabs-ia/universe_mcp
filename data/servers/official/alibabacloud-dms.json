@@ -1,0 +1,19 @@
+{
+  "id": "alibabacloud-dms",
+  "name": "Alibaba Cloud DMS",
+  "provider": "Alibaba Cloud",
+  "description": "Integrates with Alibaba Cloud's Data Management Service (DMS) API to provide unified metadata access and cross-engine...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "May 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/alibabacloud-dms",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:57.408134",
+  "metadata": {}
+}

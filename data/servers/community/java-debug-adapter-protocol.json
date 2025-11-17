@@ -1,0 +1,16 @@
+{
+  "id": "java-debug-adapter-protocol",
+  "name": "Java Debug Adapter Protocol",
+  "provider": "igorrhamon",
+  "description": "Bridges Java debugging capabilities through the Debug Adapter Protocol, enabling remote debugging of Java...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/java-debug-adapter-protocol",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:24.492983",
+  "metadata": {}
+}

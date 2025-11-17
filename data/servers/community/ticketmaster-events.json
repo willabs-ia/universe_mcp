@@ -1,0 +1,16 @@
+{
+  "id": "ticketmaster-events",
+  "name": "Ticketmaster Events",
+  "provider": "Akshay Shah",
+  "description": "Connects to Ticketmaster's Discover API to find upcoming events by artist, venue, location, or genre with ticket...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/ticketmaster-events",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:17.101256",
+  "metadata": {}
+}

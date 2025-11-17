@@ -1,0 +1,19 @@
+{
+  "id": "hmk-attio",
+  "name": "Attio",
+  "provider": "hmk",
+  "description": "Integrates with Attio's API for reading and writing company records and notes, enabling CRM operations without direct...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 18
+  },
+  "release_date": "Feb 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/hmk-attio",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:25.901126",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "alexgoller-illumio",
+  "name": "Illumio",
+  "provider": "Alex Goller",
+  "description": "Integrates with Illumio's Policy Compute Engine API to enable workload management, label operations, and traffic...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 6, 2024",
+  "url": "https://www.pulsemcp.com/servers/alexgoller-illumio",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:35.731802",
+  "metadata": {}
+}

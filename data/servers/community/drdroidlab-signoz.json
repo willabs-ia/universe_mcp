@@ -1,0 +1,16 @@
+{
+  "id": "drdroidlab-signoz",
+  "name": "SigNoz",
+  "provider": "Doctor Droid",
+  "description": "Integrates with SigNoz observability platform to provide dashboard management, custom metrics querying with PromQL...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/drdroidlab-signoz",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:58.344324",
+  "metadata": {}
+}

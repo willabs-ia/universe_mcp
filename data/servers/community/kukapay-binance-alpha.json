@@ -1,0 +1,16 @@
+{
+  "id": "kukapay-binance-alpha",
+  "name": "Binance Alpha",
+  "provider": "kukapay",
+  "description": "Tracks Binance Alpha trades in real-time by monitoring on-chain DEX router events and provides trading volume...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/kukapay-binance-alpha",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:11.480733",
+  "metadata": {}
+}

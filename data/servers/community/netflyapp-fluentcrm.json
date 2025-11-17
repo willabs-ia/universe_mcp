@@ -1,0 +1,16 @@
+{
+  "id": "netflyapp-fluentcrm",
+  "name": "FluentCRM",
+  "provider": "netflyapp",
+  "description": "Integrates with FluentCRM WordPress plugin to provide complete email marketing automation including contact...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/netflyapp-fluentcrm",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:37.562530",
+  "metadata": {}
+}

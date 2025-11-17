@@ -1,0 +1,16 @@
+{
+  "id": "fegis-schema-driven-memory",
+  "name": "FEGIS (Schema-Driven Memory)",
+  "provider": "Perry Golden",
+  "description": "Compile YAML into semantic LLM tools with structured memory and an emergent knowledge graph.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/fegis-schema-driven-memory",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:12.693539",
+  "metadata": {}
+}

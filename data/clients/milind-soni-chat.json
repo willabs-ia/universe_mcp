@@ -1,0 +1,11 @@
+{
+  "id": "milind-soni-chat",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Next.js-based chat interface for Claude 3.5 Sonnet that enables dynamic tool discovery and execution via streaming interactions with authentication token support.",
+  "url": "https://www.pulsemcp.com/clients/milind-soni-chat",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.558395"
+}

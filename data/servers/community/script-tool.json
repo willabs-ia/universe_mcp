@@ -1,0 +1,16 @@
+{
+  "id": "script-tool",
+  "name": "Script Tool",
+  "provider": "Duoc Nguyen",
+  "description": "Provides a secure, cross-platform command line script execution tool with built-in protections like timeout handling,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/script-tool",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:20.710060",
+  "metadata": {}
+}

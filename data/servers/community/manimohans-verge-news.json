@@ -1,0 +1,16 @@
+{
+  "id": "manimohans-verge-news",
+  "name": "The Verge News",
+  "provider": "Mani Mohan",
+  "description": "Integrates with The Verge's RSS feed to provide up-to-date technology news, offering tools for fetching daily and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/manimohans-verge-news",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:06.407562",
+  "metadata": {}
+}

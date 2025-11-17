@@ -1,0 +1,16 @@
+{
+  "id": "starwind-ui",
+  "name": "Starwind UI",
+  "provider": "Web Reaper",
+  "description": "Bridges AI assistants with the Starwind UI component library, enabling package detection, project initialization,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/starwind-ui",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:39.484220",
+  "metadata": {}
+}

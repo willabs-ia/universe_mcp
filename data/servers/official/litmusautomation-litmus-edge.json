@@ -1,0 +1,16 @@
+{
+  "id": "litmusautomation-litmus-edge",
+  "name": "Litmus Edge",
+  "provider": "Litmus Automation",
+  "description": "Integrates with Litmus Edge for industrial IoT device configuration, monitoring, and management, enabling real-time...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "May 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/litmusautomation-litmus-edge",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:45.479828",
+  "metadata": {}
+}

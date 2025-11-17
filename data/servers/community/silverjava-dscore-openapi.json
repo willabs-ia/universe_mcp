@@ -1,0 +1,19 @@
+{
+  "id": "silverjava-dscore-openapi",
+  "name": "DS Core Open API",
+  "provider": "silverjava",
+  "description": "Integrates with DS Core Open API healthcare system to provide search and retrieval of patient records, DICOM studies,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Oct 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/silverjava-dscore-openapi",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:59.100602",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "medium-accelerator",
+  "name": "Medium Accelerator",
+  "provider": "Daniele Carta",
+  "description": "Accelerates Medium article research by extracting article links from archive pages, scraping full content for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/medium-accelerator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:43.340756",
+  "metadata": {}
+}

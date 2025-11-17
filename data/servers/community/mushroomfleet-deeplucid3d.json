@@ -1,0 +1,19 @@
+{
+  "id": "mushroomfleet-deeplucid3d",
+  "name": "DeepLucid3D (Unified Cognitive Processing Framework)",
+  "provider": "MushroomFleet",
+  "description": "Implements the Unified Cognitive Processing Framework for structured problem analysis, creative exploration, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/mushroomfleet-deeplucid3d",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:48.814617",
+  "metadata": {}
+}

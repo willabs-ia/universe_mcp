@@ -1,0 +1,16 @@
+{
+  "id": "streamnative-pulsar-kafka",
+  "name": "StreamNative (Apache Pulsar/Kafka)",
+  "provider": "StreamNative",
+  "description": "Bridges AI systems with Apache Pulsar/Kafka messaging infrastructure, enabling natural language management of topics,...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "May 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/streamnative-pulsar-kafka",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:34.387628",
+  "metadata": {}
+}

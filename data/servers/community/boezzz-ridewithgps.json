@@ -1,0 +1,16 @@
+{
+  "id": "boezzz-ridewithgps",
+  "name": "RideWithGPS",
+  "provider": "Boe Zhou",
+  "description": "Integrates with RideWithGPS API to retrieve cycling routes, trips, events, and performance metrics including speed,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/boezzz-ridewithgps",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:02.976071",
+  "metadata": {}
+}

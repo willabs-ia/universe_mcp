@@ -1,0 +1,16 @@
+{
+  "id": "benyue1978-run-command",
+  "name": "Run Shell Command",
+  "provider": "Ben Yue",
+  "description": "Enables direct execution of shell commands from chat interfaces, creating a bridge between natural language prompts...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/benyue1978-run-command",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:07.888755",
+  "metadata": {}
+}

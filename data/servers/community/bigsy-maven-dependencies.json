@@ -1,0 +1,16 @@
+{
+  "id": "bigsy-maven-dependencies",
+  "name": "Maven Dependencies",
+  "provider": "Bigsy",
+  "description": "Integrates with Maven Central Repository to verify and retrieve dependency versions for automated project management...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 17, 2024",
+  "url": "https://www.pulsemcp.com/servers/bigsy-maven-dependencies",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:33.649026",
+  "metadata": {}
+}

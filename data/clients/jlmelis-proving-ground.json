@@ -1,0 +1,11 @@
+{
+  "id": "jlmelis-proving-ground",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Python-based testing client for MCP servers with chat interface, logging capabilities, and configuration options to bypass message limits.",
+  "url": "https://www.pulsemcp.com/clients/jlmelis-proving-ground",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.523183"
+}

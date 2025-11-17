@@ -1,0 +1,16 @@
+{
+  "id": "cayirtepeomer-gerrit-code-review",
+  "name": "Gerrit Code Review",
+  "provider": "Omer Cayirtepe",
+  "description": "Integrates with Gerrit code review systems to enable detailed analysis of code changes, diffs, file modifications,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/cayirtepeomer-gerrit-code-review",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:30.081743",
+  "metadata": {}
+}

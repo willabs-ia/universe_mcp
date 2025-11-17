@@ -1,0 +1,19 @@
+{
+  "id": "skobyn-dataforseo-seo",
+  "name": "DataForSEO",
+  "provider": "skobyn",
+  "description": "Bridges DataForSEO's SEO APIs with natural language interactions, enabling comprehensive search engine data retrieval...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/skobyn-dataforseo-seo",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:53.150187",
+  "metadata": {}
+}

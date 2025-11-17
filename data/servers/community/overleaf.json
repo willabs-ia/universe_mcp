@@ -1,0 +1,19 @@
+{
+  "id": "overleaf",
+  "name": "Overleaf",
+  "provider": "mjyoo2",
+  "description": "Integrates with Overleaf LaTeX projects through Git access to read, analyze, and navigate academic papers and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jul 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/overleaf",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:59.586380",
+  "metadata": {}
+}

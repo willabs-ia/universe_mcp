@@ -1,0 +1,16 @@
+{
+  "id": "kklab-trinity",
+  "name": "Trinity",
+  "provider": "KKLab",
+  "description": "Bridges AI systems with Trinity's formula-based tools through a Go-based server that enables access to Trinity API...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/kklab-trinity",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:07.876059",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "crazyrabbitltc-ethers-wallet",
+  "name": "Ethers Wallet",
+  "provider": "Dennison Bertram",
+  "description": "Integrates with Ethereum networks and smart contracts using ethers.js to enable wallet operations, transaction...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/crazyrabbitltc-ethers-wallet",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:48.540889",
+  "metadata": {}
+}

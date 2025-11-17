@@ -1,0 +1,19 @@
+{
+  "id": "aryaminus-h1b-job-search",
+  "name": "H-1B Job Search",
+  "provider": "aryaminus",
+  "description": "Provides direct access to U.S. Department of Labor H-1B LCA disclosure data for searching sponsoring companies by job...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Oct 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/aryaminus-h1b-job-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:04.051676",
+  "metadata": {}
+}

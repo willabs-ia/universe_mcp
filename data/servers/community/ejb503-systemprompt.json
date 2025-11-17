@@ -1,0 +1,16 @@
+{
+  "id": "ejb503-systemprompt",
+  "name": "SystemPrompt",
+  "provider": "SystemPrompt",
+  "description": "Integrates with SystemPrompt.io to enable centralized creation, management, and versioning of prompts.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/ejb503-systemprompt",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:48.544736",
+  "metadata": {}
+}

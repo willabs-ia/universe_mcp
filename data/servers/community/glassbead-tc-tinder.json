@@ -1,0 +1,16 @@
+{
+  "id": "glassbead-tc-tinder",
+  "name": "Tinder",
+  "provider": "glassBead",
+  "description": "Provides a secure TypeScript-based interface to Tinder's dating app API, handling authentication, rate limiting, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/glassbead-tc-tinder",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:39.005875",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "martinbowling-thoughtful-claude",
+  "name": "Thoughtful Claude (DeepSeek R1)",
+  "provider": "Martin Bowling",
+  "description": "Integrates DeepSeek's R1 reasoning engine to enhance problem-solving, analysis, and decision-making capabilities.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/martinbowling-thoughtful-claude",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:50.828269",
+  "metadata": {}
+}

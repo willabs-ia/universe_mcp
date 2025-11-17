@@ -1,0 +1,16 @@
+{
+  "id": "kvadratni-square",
+  "name": "Square",
+  "provider": "Max Novich",
+  "description": "Integrates with Square's API to enable payment processing, business management, and e-commerce operations for AI...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/kvadratni-square",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:01.592213",
+  "metadata": {}
+}

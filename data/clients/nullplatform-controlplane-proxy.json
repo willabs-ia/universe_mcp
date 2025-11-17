@@ -1,0 +1,11 @@
+{
+  "id": "nullplatform-controlplane-proxy",
+  "name": "Unknown",
+  "provider": null,
+  "description": "CLI proxy that bridges AI assistants with Nullplatform's API, handling authentication, command execution, and response formatting using JSON-RPC 2.0.",
+  "url": "https://www.pulsemcp.com/clients/nullplatform-controlplane-proxy",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.564753"
+}

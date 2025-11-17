@@ -1,0 +1,19 @@
+{
+  "id": "jensenloke-sqlserver-pro",
+  "name": "SQL Server Pro",
+  "provider": "jensenloke",
+  "description": "Connects to Microsoft SQL Server databases through pyodbc to execute queries, inspect schemas, manage stored...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 342
+  },
+  "release_date": "Jun 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/jensenloke-sqlserver-pro",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:28.871141",
+  "metadata": {}
+}

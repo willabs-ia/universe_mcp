@@ -1,0 +1,19 @@
+{
+  "id": "coingecko-crypto-data",
+  "name": "CoinGecko",
+  "provider": "CoinGecko",
+  "description": "Integrates with CoinGecko's cryptocurrency data API to provide real-time market data, pricing information, and...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jun 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/coingecko-crypto-data",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:59.568365",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "jiayao-chess",
+  "name": "Chess",
+  "provider": "Jiayao Li",
+  "description": "Enables playing chess against language models through a visual interface with tools for board visualization, move...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 80
+  },
+  "release_date": "May 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/jiayao-chess",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:10.527176",
+  "metadata": {}
+}

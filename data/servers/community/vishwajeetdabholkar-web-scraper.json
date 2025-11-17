@@ -1,0 +1,16 @@
+{
+  "id": "vishwajeetdabholkar-web-scraper",
+  "name": "Web Scraper",
+  "provider": "Vishwajeet Dabholkar",
+  "description": "Connects Claude Desktop to a local web scraper for retrieving and processing website content in markdown format with...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/vishwajeetdabholkar-web-scraper",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:14.945998",
+  "metadata": {}
+}

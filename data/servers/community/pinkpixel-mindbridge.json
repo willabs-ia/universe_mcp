@@ -1,0 +1,16 @@
+{
+  "id": "pinkpixel-mindbridge",
+  "name": "Mindbridge",
+  "provider": "Pink Pixel",
+  "description": "Bridges multiple LLM providers including OpenAI, Anthropic, Google, DeepSeek, OpenRouter, and Ollama through a...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/pinkpixel-mindbridge",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:14.980265",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "deno-code-executor",
+  "name": "Deno Code Executor",
+  "provider": "Cong",
+  "description": "Executes TypeScript and JavaScript code in isolated Deno processes with configurable permissions for secure sandboxed...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jun 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/deno-code-executor",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:57.445075",
+  "metadata": {}
+}

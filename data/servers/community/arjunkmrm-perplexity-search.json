@@ -1,0 +1,16 @@
+{
+  "id": "arjunkmrm-perplexity-search",
+  "name": "Perplexity Search",
+  "provider": "Arjun Kumar M",
+  "description": "Enables web searches using Perplexity's API with sonar or sonar-pro models, returning detailed results with citations...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/arjunkmrm-perplexity-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:25.750909",
+  "metadata": {}
+}

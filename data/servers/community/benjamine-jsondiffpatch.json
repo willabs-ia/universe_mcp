@@ -1,0 +1,19 @@
+{
+  "id": "benjamine-jsondiffpatch",
+  "name": "JsonDiffPatch",
+  "provider": "Benjamin Eidelman",
+  "description": "Compares and patches JSON objects with a compact delta format that captures additions, modifications, deletions, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 15
+  },
+  "release_date": "Oct 22, 2011",
+  "url": "https://www.pulsemcp.com/servers/benjamine-jsondiffpatch",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:30.155733",
+  "metadata": {}
+}

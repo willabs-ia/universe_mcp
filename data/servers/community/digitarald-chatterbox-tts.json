@@ -1,0 +1,16 @@
+{
+  "id": "digitarald-chatterbox-tts",
+  "name": "Chatterbox TTS",
+  "provider": "digitarald",
+  "description": "Converts text to speech using either high-quality Chatterbox TTS neural models or macOS's built-in 'say' command with...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/digitarald-chatterbox-tts",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:43.375959",
+  "metadata": {}
+}

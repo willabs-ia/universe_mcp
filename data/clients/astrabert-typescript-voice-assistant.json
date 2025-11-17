@@ -1,0 +1,11 @@
+{
+  "id": "astrabert-typescript-voice-assistant",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Voice-enabled TypeScript programming teacher that combines Groq's LLM capabilities with ElevenLabs' voice synthesis for natural conversation-based coding learning.",
+  "url": "https://www.pulsemcp.com/clients/astrabert-typescript-voice-assistant",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.325968"
+}

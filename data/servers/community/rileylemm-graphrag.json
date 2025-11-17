@@ -1,0 +1,16 @@
+{
+  "id": "rileylemm-graphrag",
+  "name": "GraphRAG",
+  "provider": "Riley Lemm",
+  "description": "Combines Neo4j graph database and Qdrant vector database for powerful document search with semantic relevance and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/rileylemm-graphrag",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:07.832763",
+  "metadata": {}
+}

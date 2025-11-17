@@ -1,0 +1,19 @@
+{
+  "id": "saucelabs-sauce-api",
+  "name": "Sauce Labs",
+  "provider": "Sauce Labs",
+  "description": "Basic functionality of the Sauce Labs API, allowing you to query data, analyze test results, and get help with...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 60
+  },
+  "release_date": "Aug 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/saucelabs-sauce-api",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:12.809547",
+  "metadata": {}
+}

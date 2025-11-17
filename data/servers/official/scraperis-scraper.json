@@ -1,0 +1,19 @@
+{
+  "id": "scraperis-scraper",
+  "name": "Scraper.is",
+  "provider": "Scraper.is",
+  "description": "Integrates with Scraper.is API to enable web content extraction, structured data parsing, and Markdown conversion for...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 3
+  },
+  "release_date": "Mar 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/scraperis-scraper",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:48.020517",
+  "metadata": {}
+}

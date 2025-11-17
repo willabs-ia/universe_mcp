@@ -1,0 +1,16 @@
+{
+  "id": "c0h1b4-mssql",
+  "name": "MSSQL",
+  "provider": "c0h1b4",
+  "description": "Enables secure AI-driven interactions with Microsoft SQL Server databases for automated data analysis, dynamic...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/c0h1b4-mssql",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:55.054341",
+  "metadata": {}
+}

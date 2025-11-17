@@ -1,0 +1,16 @@
+{
+  "id": "andrelandgraf-home-assistant",
+  "name": "Home Assistant",
+  "provider": "Andre Landgraf",
+  "description": "Demonstrates light control in Home Assistant by comparing OpenAI function calling with a standardized protocol for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/andrelandgraf-home-assistant",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:54.989393",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "sker65-testrail",
+  "name": "TestRail",
+  "provider": "Stefan Rinke",
+  "description": "Bridges TestRail's test management platform with AI tools, enabling interaction with projects, test cases, runs,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 81
+  },
+  "release_date": "Apr 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/sker65-testrail",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:10.519692",
+  "metadata": {}
+}

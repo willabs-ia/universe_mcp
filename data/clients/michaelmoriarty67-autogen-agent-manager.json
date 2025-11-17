@@ -1,0 +1,11 @@
+{
+  "id": "michaelmoriarty67-autogen-agent-manager",
+  "name": "Unknown",
+  "provider": null,
+  "description": "FastAPI-based agent management system that orchestrates multiple AI agents with configurable LLM backends, dynamic tool discovery from MCP servers, and persistent conversation sessions through REST API endpoints.",
+  "url": "https://www.pulsemcp.com/clients/michaelmoriarty67-autogen-agent-manager",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.533720"
+}

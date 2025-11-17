@@ -1,0 +1,16 @@
+{
+  "id": "chainaware-behavioral-prediction",
+  "name": "Behavioral Prediction",
+  "provider": "ChainAware",
+  "description": "Provides AI-powered tools to analyze wallet behavior prediction, fraud detection and rug pull prediction.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/chainaware-behavioral-prediction",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:29.283895",
+  "metadata": {}
+}

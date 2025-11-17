@@ -1,0 +1,16 @@
+{
+  "id": "baryhuang-headless-gmail",
+  "name": "Headless Gmail",
+  "provider": "Bary Huang",
+  "description": "Enables headless Gmail access by separating credential storage from implementation, allowing clients to complete...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/baryhuang-headless-gmail",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:32.714382",
+  "metadata": {}
+}

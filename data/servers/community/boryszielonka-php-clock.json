@@ -1,0 +1,16 @@
+{
+  "id": "boryszielonka-php-clock",
+  "name": "PHP Clock",
+  "provider": "boryszielonka",
+  "description": "Provides current timestamp and date/time information with timezone support through a lightweight PHP-based server...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/boryszielonka-php-clock",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:07.220180",
+  "metadata": {}
+}

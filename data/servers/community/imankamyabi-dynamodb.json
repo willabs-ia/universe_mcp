@@ -1,0 +1,16 @@
+{
+  "id": "imankamyabi-dynamodb",
+  "name": "DynamoDB",
+  "provider": "Iman Kamyabi",
+  "description": "Integrates with Amazon DynamoDB to enable natural language-based table management, capacity adjustment, and data...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/imankamyabi-dynamodb",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:44.317517",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "claude-code",
+  "name": "Claude Code MCP Server",
+  "provider": "Anthropic",
+  "description": "Use Claude Code as an MCP server.",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/claude-code",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:16.443459",
+  "metadata": {}
+}

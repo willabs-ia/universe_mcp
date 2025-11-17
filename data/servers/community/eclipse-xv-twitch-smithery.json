@@ -1,0 +1,16 @@
+{
+  "id": "eclipse-xv-twitch-smithery",
+  "name": "Twitch Smithery",
+  "provider": "Eclipse-XV",
+  "description": "Integrates with Twitch's IRC and Helix API to provide real-time chat moderation with smart user targeting, automated...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/eclipse-xv-twitch-smithery",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:17.799878",
+  "metadata": {}
+}

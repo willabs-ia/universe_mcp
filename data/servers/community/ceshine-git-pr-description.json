@@ -1,0 +1,16 @@
+{
+  "id": "ceshine-git-pr-description",
+  "name": "Git PR Description Generator",
+  "provider": "Ceshine Lee",
+  "description": "Analyzes Git repository changes to automatically generate contextually relevant pull request descriptions based on...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/ceshine-git-pr-description",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:03.538558",
+  "metadata": {}
+}

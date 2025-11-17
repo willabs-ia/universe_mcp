@@ -1,0 +1,19 @@
+{
+  "id": "agentops-ai-agentops",
+  "name": "AgentOps",
+  "provider": "AgentOps AI",
+  "description": "Provides access to AgentOps observability and tracing data for debugging agent runs, enabling retrieval of project...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Jun 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/agentops-ai-agentops",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:56.929219",
+  "metadata": {}
+}

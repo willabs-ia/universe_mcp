@@ -1,0 +1,16 @@
+{
+  "id": "agentdesk-browser-tools",
+  "name": "Browser Tools",
+  "provider": "AgentDesk LLC",
+  "description": "Provides browser debugging and analysis capabilities through Chrome extension integration and headless automation,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/agentdesk-browser-tools",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:19.945210",
+  "metadata": {}
+}

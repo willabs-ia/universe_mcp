@@ -1,0 +1,19 @@
+{
+  "id": "djm81-log-analyzer",
+  "name": "Log Analyzer",
+  "provider": "Dominikus Nold",
+  "description": "Analyzes Python application logs with time-based and pattern filtering, pytest output parsing, and code coverage...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 66
+  },
+  "release_date": "May 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/djm81-log-analyzer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:12.779050",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "giptilabs-stock-analysis-india",
+  "name": "Stock Analysis (India)",
+  "provider": "Gipti Labs",
+  "description": "Provides real-time and historical Indian stock data.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/giptilabs-stock-analysis-india",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:01.399513",
+  "metadata": {}
+}

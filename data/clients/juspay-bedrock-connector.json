@@ -1,0 +1,11 @@
+{
+  "id": "juspay-bedrock-connector",
+  "name": "Unknown",
+  "provider": null,
+  "description": "TypeScript client for connecting to AWS Bedrock and MCP servers, enabling seamless integration with Claude and other Bedrock models through an event-based architecture for streaming responses.",
+  "url": "https://www.pulsemcp.com/clients/juspay-bedrock-connector",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.508758"
+}

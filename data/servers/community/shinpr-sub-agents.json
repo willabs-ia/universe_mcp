@@ -1,0 +1,19 @@
+{
+  "id": "shinpr-sub-agents",
+  "name": "Sub-Agents",
+  "provider": "Shinsuke Kagawa",
+  "description": "Delegates tasks to specialized AI assistants in Cursor and Claude Code CLI tools by automatically discovering agent...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 30
+  },
+  "release_date": "Nov 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/shinpr-sub-agents",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:21.369078",
+  "metadata": {}
+}

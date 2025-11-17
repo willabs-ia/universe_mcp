@@ -1,0 +1,11 @@
+{
+  "id": "wintertechforum-claude-cli",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Chat with Claude via CLI, supporting interactive loops and context preservation for agentic behavior.",
+  "url": "https://www.pulsemcp.com/clients/wintertechforum-claude-cli",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.494066"
+}

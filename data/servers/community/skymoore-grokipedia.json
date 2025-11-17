@@ -1,0 +1,19 @@
+{
+  "id": "skymoore-grokipedia",
+  "name": "Grokipedia",
+  "provider": "Sky Moore",
+  "description": "Integrates with Grokipedia wiki-style knowledge base to provide advanced search capabilities with filtering options,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 145
+  },
+  "release_date": "Oct 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/skymoore-grokipedia",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:42.296287",
+  "metadata": {}
+}

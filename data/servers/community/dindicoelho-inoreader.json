@@ -1,0 +1,16 @@
+{
+  "id": "dindicoelho-inoreader",
+  "name": "Inoreader",
+  "provider": "Dindi Vagando",
+  "description": "Integrates with Inoreader RSS feed reader to provide subscription management, article retrieval with filtering,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/dindicoelho-inoreader",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:24.515748",
+  "metadata": {}
+}

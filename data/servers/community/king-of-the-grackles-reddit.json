@@ -1,0 +1,19 @@
+{
+  "id": "king-of-the-grackles-reddit",
+  "name": "Reddit",
+  "provider": "king-of-the-grackles",
+  "description": "Integrates with Reddit's API to provide search, subreddit discovery, post fetching, and comment retrieval with batch...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 415
+  },
+  "release_date": "Aug 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/king-of-the-grackles-reddit",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:28.840327",
+  "metadata": {}
+}

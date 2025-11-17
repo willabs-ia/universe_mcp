@@ -1,0 +1,19 @@
+{
+  "id": "git-repository-browser",
+  "name": "Git Repository Browser",
+  "provider": "Sreeram Balamurugan",
+  "description": "Enables Git repository exploration and analysis through a Node.js server that executes commands for cloning...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 2
+  },
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/git-repository-browser",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:52.278784",
+  "metadata": {}
+}

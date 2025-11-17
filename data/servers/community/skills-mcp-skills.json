@@ -1,0 +1,16 @@
+{
+  "id": "skills-mcp-skills",
+  "name": "Skills",
+  "provider": "skills-mcp",
+  "description": "Provides a registry system for organizing and accessing specialized expertise packages as reusable skills with...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/skills-mcp-skills",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:37.517225",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "shunsukehayashi-rpgmaker-mz",
+  "name": "RPG Maker MZ",
+  "provider": "Shunsuke Hayashi",
+  "description": "Integrates with RPG Maker MZ through 80+ tools for project creation, scenario generation, battle system design, quest...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Oct 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/shunsukehayashi-rpgmaker-mz",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:04.046310",
+  "metadata": {}
+}

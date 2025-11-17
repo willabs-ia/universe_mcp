@@ -1,0 +1,16 @@
+{
+  "id": "wikijs",
+  "name": "Wiki.js",
+  "provider": "Sahil Pethe",
+  "description": "Integrates with Wiki.js documentation platform through GraphQL API to create, update, search, and organize wiki pages...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/wikijs",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:07.209450",
+  "metadata": {}
+}

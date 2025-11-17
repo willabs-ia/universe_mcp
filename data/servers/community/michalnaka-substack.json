@@ -1,0 +1,19 @@
+{
+  "id": "michalnaka-substack",
+  "name": "Substack",
+  "provider": "Michal Naka",
+  "description": "Enables downloading and parsing of Substack posts, facilitating content analysis and research workflows.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Dec 26, 2024",
+  "url": "https://www.pulsemcp.com/servers/michalnaka-substack",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:44.500001",
+  "metadata": {}
+}

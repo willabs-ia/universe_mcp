@@ -1,0 +1,16 @@
+{
+  "id": "jigarvyasidea-mytrip-ai-studio",
+  "name": "MyTrip AI Studio (SerpAPI Travel)",
+  "provider": "jigarvyasidea",
+  "description": "Integrates with SerpAPI and other travel services to provide flight search, hotel booking, event discovery, weather...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/jigarvyasidea-mytrip-ai-studio",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:29.263692",
+  "metadata": {}
+}

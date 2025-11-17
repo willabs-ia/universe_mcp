@@ -1,0 +1,16 @@
+{
+  "id": "jacksenechal-scan",
+  "name": "Page/Image Scanner",
+  "provider": "jacksenechal",
+  "description": "Integrates with SANE-compatible scanners to provide document capture with ADF support, duplex scanning, batch...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/jacksenechal-scan",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:26.674106",
+  "metadata": {}
+}

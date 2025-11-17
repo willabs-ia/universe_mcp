@@ -1,0 +1,16 @@
+{
+  "id": "vlad-ds-maccy-clipboard",
+  "name": "Maccy Clipboard History",
+  "provider": "Vlad",
+  "description": "Provides direct access to Maccy clipboard history on macOS through SQLite database integration, enabling search with...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/vlad-ds-maccy-clipboard",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:00.573616",
+  "metadata": {}
+}

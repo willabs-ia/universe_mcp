@@ -1,0 +1,16 @@
+{
+  "id": "utkucy-avalanche-blockchain",
+  "name": "Avalanche",
+  "provider": "Utku Ceyhun Yilmaz",
+  "description": "Provides a bridge to the Avalanche blockchain CLI, enabling developers to interact with blockchain configurations,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/utkucy-avalanche-blockchain",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:54.973519",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "boomlinkai-image-worker",
+  "name": "Image Worker",
+  "provider": "Vuong Ngo",
+  "description": "Provides image processing and cloud storage capabilities through Sharp.js for resizing, transforming, and applying...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/boomlinkai-image-worker",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:39.036773",
+  "metadata": {}
+}

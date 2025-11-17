@@ -1,0 +1,16 @@
+{
+  "id": "samwang0723-atlassian",
+  "name": "Atlassian",
+  "provider": "Sam Wang",
+  "description": "Integrates with Atlassian's Confluence and JIRA APIs to enable content creation, issue tracking, and project...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/samwang0723-atlassian",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:06.412097",
+  "metadata": {}
+}

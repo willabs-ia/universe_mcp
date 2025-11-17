@@ -1,0 +1,16 @@
+{
+  "id": "mattarnster-supabase",
+  "name": "Supabase",
+  "provider": "Matt Arnold",
+  "description": "Integrates with the Supabase CLI to enable project management, database operations, and automated workflows for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/mattarnster-supabase",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:12.977522",
+  "metadata": {}
+}

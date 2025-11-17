@@ -1,0 +1,19 @@
+{
+  "id": "kkb0318-kubernetes",
+  "name": "Kubernetes",
+  "provider": "kkb0318",
+  "description": "Integrates with Kubernetes clusters to provide resource management, monitoring, and troubleshooting capabilities...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 415
+  },
+  "release_date": "Jun 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/kkb0318-kubernetes",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:28.825288",
+  "metadata": {}
+}

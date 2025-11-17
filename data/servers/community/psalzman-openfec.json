@@ -1,0 +1,16 @@
+{
+  "id": "psalzman-openfec",
+  "name": "OpenFEC",
+  "provider": "Phillip Salzman",
+  "description": "Provides access to Federal Election Commission campaign finance data through the OpenFEC API, enabling searches for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/psalzman-openfec",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:34.848771",
+  "metadata": {}
+}

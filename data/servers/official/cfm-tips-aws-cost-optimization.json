@@ -1,0 +1,19 @@
+{
+  "id": "cfm-tips-aws-cost-optimization",
+  "name": "AWS Cost Optimization Hub",
+  "provider": "AWS",
+  "description": "Integrates with AWS Cost Explorer, Compute Optimizer, and CloudWatch to analyze EC2, EBS, RDS, and Lambda resources...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jul 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/cfm-tips-aws-cost-optimization",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:01.856575",
+  "metadata": {}
+}

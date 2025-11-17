@@ -1,0 +1,16 @@
+{
+  "id": "skullzarmy-all-your-base64",
+  "name": "All Your Base64",
+  "provider": "Joe Peterson",
+  "description": "Provides base64 encoding and decoding with 8 output formats, automatic MIME type detection, data URI generation, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/skullzarmy-all-your-base64",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:33.204164",
+  "metadata": {}
+}

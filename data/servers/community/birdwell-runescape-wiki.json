@@ -1,0 +1,16 @@
+{
+  "id": "birdwell-runescape-wiki",
+  "name": "RuneScape Wiki",
+  "provider": "Josh Birdwell",
+  "description": "Integrates with RuneScape 3 APIs to provide real-time Grand Exchange prices, item data, player statistics across game...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/birdwell-runescape-wiki",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:27.145750",
+  "metadata": {}
+}

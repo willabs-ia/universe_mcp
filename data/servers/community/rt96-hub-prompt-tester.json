@@ -1,0 +1,16 @@
+{
+  "id": "rt96-hub-prompt-tester",
+  "name": "Prompt Tester",
+  "provider": "rt96-hub",
+  "description": "Enables AI assistants to test and compare LLM prompts across different providers with side-by-side comparisons, token...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/rt96-hub-prompt-tester",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:16.451094",
+  "metadata": {}
+}

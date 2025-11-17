@@ -1,0 +1,16 @@
+{
+  "id": "ipfans-postgres",
+  "name": "Postgres",
+  "provider": "ipfans",
+  "description": "Connects to PostgreSQL databases to enable secure, read-only SQL querying and resource exploration for data analysis...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/ipfans-postgres",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:59.301759",
+  "metadata": {}
+}

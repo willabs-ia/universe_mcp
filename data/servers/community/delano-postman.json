@@ -1,0 +1,16 @@
+{
+  "id": "delano-postman",
+  "name": "Postman",
+  "provider": "Delano",
+  "description": "Integrates with Postman's API management platform to enable automated API testing, documentation, and workflow...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 14, 2024",
+  "url": "https://www.pulsemcp.com/servers/delano-postman",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:35.735733",
+  "metadata": {}
+}

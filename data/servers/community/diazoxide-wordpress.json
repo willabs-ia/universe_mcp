@@ -1,0 +1,16 @@
+{
+  "id": "diazoxide-wordpress",
+  "name": "WordPress",
+  "provider": "Aaron Yordanyan",
+  "description": "Integrates with WordPress REST API to automatically discover and expose all available endpoints as callable tools...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/diazoxide-wordpress",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:45.524226",
+  "metadata": {}
+}

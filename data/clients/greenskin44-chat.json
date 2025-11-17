@@ -1,0 +1,11 @@
+{
+  "id": "greenskin44-chat",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Command-line AI chat application that integrates Claude with multiple MCP servers for development automation, providing interactive terminal interface with document referencing, command prompts, and tab completion for Git operations, filesystem management, and code analysis.",
+  "url": "https://www.pulsemcp.com/clients/greenskin44-chat",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.546210"
+}
