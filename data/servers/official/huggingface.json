@@ -10,10 +10,33 @@
   },
   "release_date": "Jun 6, 2025",
   "url": "https://www.pulsemcp.com/servers/huggingface",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/huggingface/hf-mcp-server",
+  "categories": [
+    "documentation",
+    "security",
+    "git",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:15.880719",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 139,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Hugging Face Official MCP Server \n\n<img src='https://github.com/evalstate/hf-mcp-server/blob/main/hf-logo.svg' width='100'>\n\nWelcome to the official Hugging Face MCP Server 🤗. Connect your LLM to the Hugging Face Hub and thousands of Gradio AI Applications.\n\n## Installing the MCP Server\n\nFollow the instructions below to get started:\n\n<details>\n<summary>Install in <b>Claude Desktop</b> or <b>claude.ai</b></summary>\n<br />\n\nClick [here](https://claude.ai/redirect/website.v1.67274164-23df-4883-8166-3c93ced276be/directory/37ed56d5-9d61-4fd4-ad00-b9134c694296) to add the Hugging Face connector to your account. \n\nAlternatively, navigate to [https://claude.ai/settings/connectors](https://claude.ai/settings/connectors), and add \"Hugging Face\" from the gallery.\n\n<img src='docs/claude-badge.png' width='50%' align='center' />\n\n</details>\n\n<details>\n<summary>Install in <b>Claude Code</b></summary>\n<br />\n\nEnter the command below to install in <b>Claude Code</b>:\n\n```bash\nclaude mcp add hf-mcp-server -t http https://huggingface.co/mcp?login\n```\n\nThen start `claude` and follow the instructions to complete authentication.\n\n```bash\nclaude mcp add hf-mcp-server \\\n  -t http https://huggingface.co/mcp \\\n  -H \"Authorization: Bearer <YOUR_HF_TOKEN>\"\n```\n\n\n</details>\n\n<details>\n<summary>Install in <b>Gemini CLI</b></summary>\n<br />\n\nEnter the command below to install in <b>Gemini CLI</b>:\n\n```bash\ngemini mcp add -t http huggingface https://huggingface.co/mcp?login\n```\n\nThen start `gemini` and fo",
+    "language": "TypeScript",
+    "license": "MIT License",
+    "forks": 38,
+    "open_issues": 12,
+    "last_pushed": "2025-11-16T10:24:27Z",
+    "topics": [],
+    "quality_score": 74
+  },
+  "enriched_at": "2025-11-17T18:31:49.893055"
 }

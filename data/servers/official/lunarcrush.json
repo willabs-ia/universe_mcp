@@ -10,10 +10,24 @@
   },
   "release_date": "Jun 21, 2025",
   "url": "https://www.pulsemcp.com/servers/lunarcrush",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/lunarcrush/mcp-server",
+  "categories": [
+    "security",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:18.044311",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 3,
+    "runtime": "Node.js",
+    "readme_excerpt": "More information on using LunarCrush AI & MCP Capabilities here: https://lunarcrush.com/developers/api/ai\n\n# LunarCrush Remote MCP Server (preferred)\n\n**Streamable HTTP**\n\n```\n{\n  \"mcpServers\": {\n    \"LunarCrush\": {\n      \"type\": \"http\",\n      \"url\": \"https://lunarcrush.ai/mcp\",\n      \"headers\": {\n        \"Authorization\": \"Bearer ${input:lunarcrush-api-key}\"\n      }\n    }\n  }\n}\n```\n\n**SSE**\n\n```\n{\n  \"mcpServers\": {\n    \"LunarCrush\": {\n      \"type\": \"http\",\n      \"url\": \"https://lunarcrush.ai/sse\",\n      \"headers\": {\n        \"Authorization\": \"Bearer ${input:lunarcrush-api-key}\"\n      }\n    }\n  }\n}\n```\n\n# LunarCrush stdio MCP Server\n\n```\n{\n  \"mcpServers\": {\n    \"LunarCrush\": {\n      \"command\": \"node\",\n      \"args\": [\"<absolute_path_to_project_root>/index.js\"],\n      \"env\": {\n        \"LUNARCRUSH_API_KEY\": \"<your_lunarcrush_api_key>\",\n      }\n    }\n  }\n}\n```\n\n## Authentication / API Key\n\nGet your LunarCrush API keys here: https://lunarcrush.com/developers/api/authentication\n",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:35:28.049710"
 }

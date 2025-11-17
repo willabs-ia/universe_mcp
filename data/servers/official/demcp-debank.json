@@ -7,10 +7,34 @@
   "weekly_metric": null,
   "release_date": "Apr 26, 2025",
   "url": "https://www.pulsemcp.com/servers/demcp-debank",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/demcp/demcp-debank-mcp",
+  "categories": [
+    "security",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:25.900115",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 8,
+    "capabilities": [
+      "**Stateless Architecture**: Each request creates a new server instance and transport",
+      "**Comprehensive DeFi Data Tools**: Access to chains, protocols, tokens, pools, and user data",
+      "**Error Handling**: Robust error handling and reporting",
+      "**Pagination Support**: All list-returning endpoints support pagination"
+    ],
+    "readme_excerpt": "# DeBanK MCP Server\n\nA stateless Model Context Protocol (MCP) server for interacting with the DeBanK API to retrieve blockchain and DeFi data.\n\n## Overview\n\nThis project implements a Model Context Protocol (MCP) server that provides various tools for querying blockchain data, including chains, protocols, tokens, pools, and user assets. Built with the [`@modelcontextprotocol/sdk`](https://github.com/modelcontextprotocol/mcp), it leverages the HTTP Streamable transport to provide a modern, efficient API interface.\n\nThe server is designed to be completely stateless, with each request being handled independently, making it highly scalable and robust for production environments.\n\n## Features\n\n- **Stateless Architecture**: Each request creates a new server instance and transport\n- **Comprehensive DeFi Data Tools**: Access to chains, protocols, tokens, pools, and user data\n- **Pagination Support**: All list-returning endpoints support pagination\n- **Error Handling**: Robust error handling and reporting\n\n## Tools Available\n\n| Tool Name | Description |\n|-----------|-------------|\n| `get_chain_info` | Get information about blockchains |\n| `get_protocol_info` | Get information about DeFi protocols |\n| `get_token_info` | Get information about tokens |\n| `get_pool_info` | Get detailed information about a specific liquidity pool |\n| `get_user_assets` | Get information about a user's assets across different blockchains |\n| `get_user_activities` | Get information about a user's protocol posi",
+    "language": "TypeScript",
+    "license": null,
+    "forks": 1,
+    "open_issues": 0,
+    "last_pushed": "2025-04-25T15:32:54Z",
+    "topics": [],
+    "quality_score": 60
+  },
+  "enriched_at": "2025-11-17T18:27:39.984120"
 }

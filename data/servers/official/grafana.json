@@ -10,10 +10,32 @@
   },
   "release_date": "Mar 18, 2025",
   "url": "https://www.pulsemcp.com/servers/grafana",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/grafana/mcp-grafana",
+  "categories": [
+    "workflow",
+    "testing",
+    "git",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:13.808840",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 1868,
+    "readme_excerpt": "# Grafana MCP server\n\n[![Unit Tests](https://github.com/grafana/mcp-grafana/actions/workflows/unit.yml/badge.svg)](https://github.com/grafana/mcp-grafana/actions/workflows/unit.yml)\n[![Integration Tests](https://github.com/grafana/mcp-grafana/actions/workflows/integration.yml/badge.svg)](https://github.com/grafana/mcp-grafana/actions/workflows/integration.yml)\n[![E2E Tests](https://github.com/grafana/mcp-grafana/actions/workflows/e2e.yml/badge.svg)](https://github.com/grafana/mcp-grafana/actions/workflows/e2e.yml)\n[![Go Reference](https://pkg.go.dev/badge/github.com/grafana/mcp-grafana.svg)](https://pkg.go.dev/github.com/grafana/mcp-grafana)\n[![MCP Catalog](https://archestra.ai/mcp-catalog/api/badge/quality/grafana/mcp-grafana)](https://archestra.ai/mcp-catalog/grafana__mcp-grafana)\n\nA [Model Context Protocol][mcp] (MCP) server for Grafana.\n\nThis provides access to your Grafana instance and the surrounding ecosystem.\n\n## Requirements\n\n- **Grafana version 9.0 or later** is required for full functionality. Some features, particularly datasource-related operations, may not work correctly with earlier versions due to missing API endpoints.\n\n## Features\n\n_The following features are currently available in MCP server. This list is for informational purposes only and does not represent a roadmap or commitment to future features._\n\n### Dashboards\n\n- **Search for dashboards:** Find dashboards by title or other metadata\n- **Get dashboard by UID:** Retrieve full dashboard details using i",
+    "language": "Go",
+    "license": "Apache License 2.0",
+    "forks": 188,
+    "open_issues": 54,
+    "last_pushed": "2025-11-17T17:31:19Z",
+    "topics": [],
+    "quality_score": 75
+  },
+  "enriched_at": "2025-11-17T18:30:46.383887"
 }

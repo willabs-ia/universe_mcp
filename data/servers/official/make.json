@@ -10,10 +10,24 @@
   },
   "release_date": "Mar 11, 2025",
   "url": "https://www.pulsemcp.com/servers/make",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/integromat/make-mcp-server",
+  "categories": [
+    "workflow",
+    "cloud",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:13.795123",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 142,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Make MCP Server (legacy)\n\n**A modern, cloud-based version of the Make MCP Server is now available. For most use cases, we recommend using [this new version](https://developers.make.com/mcp-server).**\n\nA Model Context Protocol server that enables Make scenarios to be utilized as tools by AI assistants. This integration allows AI systems to trigger and interact with your Make automation workflows.\n\n## How It Works\n\nThe MCP server:\n\n-   Connects to your Make account and identifies all scenarios configured with \"On-Demand\" scheduling\n-   Parses and resolves input parameters for each scenario, providing AI assistants with meaningful parameter descriptions\n-   Allows AI assistants to invoke scenarios with appropriate parameters\n-   Returns scenario output as structured JSON, enabling AI assistants to properly interpret the results\n\n## Benefits\n\n-   Turn your Make scenarios into callable tools for AI assistants\n-   Maintain complex automation logic in Make while exposing functionality to AI systems\n-   Create bidirectional communication between your AI assistants and your existing automation workflows\n\n## Usage with Claude Desktop\n\n### Prerequisites\n\n-   NodeJS\n-   MCP Client (like Claude Desktop App)\n-   Make API Key with `scenarios:read` and `scenarios:run` scopes\n\n### Installation\n\nTo use this server with the Claude Desktop app, add the following configuration to the \"mcpServers\" section of your `claude_desktop_config.json`:\n\n```json\n{\n    \"mcpServers\": {\n        \"make\": {\n    ",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T18:35:47.781813"
 }

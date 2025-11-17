@@ -7,10 +7,22 @@
   "weekly_metric": null,
   "release_date": "Apr 17, 2025",
   "url": "https://www.pulsemcp.com/servers/malloryai-intelligence",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/malloryai/mallory-mcp-server",
+  "categories": [
+    "git",
+    "development",
+    "api",
+    "ai",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:21.361218",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 6,
+    "runtime": "Python",
+    "readme_excerpt": "# Mallory MCP Server\r\n\r\n[![Python 3.13+](https://img.shields.io/badge/python-3.13+-blue.svg)](https://www.python.org/downloads/)\r\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\r\n[![smithery badge](https://smithery.ai/badge/@malloryai/mallory-mcp-server)](https://smithery.ai/server/@malloryai/mallory-mcp-server)\r\n\r\nMallory provides a robust source of cyber and threat intelligence. Use this MCP Server to enable your agents with real-time cyber threat intelligence and detailed information about vulnerabilities, threat actors, malware, techniques and other cyber-relevant entities and content. \r\n\r\n## 📋 Prerequisites\r\n\r\n- Python 3.13 or higher\r\n- [uv](https://github.com/astral-sh/uv) for dependency management (recommended)\r\n\r\n## 🚀 Quick Start\r\n\r\n### Installation\r\n\r\nClone the repository:\r\n\r\n```bash\r\ngit clone https://github.com/malloryai/mallory-mcp-server.git\r\ncd mallory-mcp-server\r\n```\r\n\r\nSet up a virtual environment and install dependencies:\r\n\r\n```bash\r\n# Using uv (recommended)\r\nuv venv .venv\r\nsource .venv/bin/activate  # On Windows: .venv\\Scripts\\activate\r\nuv pip install -e .\r\n\r\n# Or using pip\r\npython -m venv .venv\r\nsource .venv/bin/activate  # On Windows: .venv\\Scripts\\activate\r\npip install -e .\r\n```\r\n\r\n### Install Development Dependencies\r\n\r\nFor development work, install the optional dependencies:\r\n\r\n```bash\r\n# Using uv\r\nuv pip install -e \".[lint,tools]\"\r\n\r\n# Or using pip\r\npip install -e \".[lint,tools]\"\r\n```\r\n\r\n### S",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:35:53.008764"
 }

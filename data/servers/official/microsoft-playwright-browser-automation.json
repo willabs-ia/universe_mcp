@@ -10,10 +10,25 @@
   },
   "release_date": "Mar 22, 2025",
   "url": "https://www.pulsemcp.com/servers/microsoft-playwright-browser-automation",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/microsoft/playwright-mcp",
+  "categories": [
+    "workflow",
+    "testing",
+    "development",
+    "api",
+    "ai",
+    "browser",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:13.767549",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 23300,
+    "runtime": "Node.js",
+    "readme_excerpt": "## Playwright MCP\n\nA Model Context Protocol (MCP) server that provides browser automation capabilities using [Playwright](https://playwright.dev). This server enables LLMs to interact with web pages through structured accessibility snapshots, bypassing the need for screenshots or visually-tuned models.\n\n### Key Features\n\n- **Fast and lightweight**. Uses Playwright's accessibility tree, not pixel-based input.\n- **LLM-friendly**. No vision models needed, operates purely on structured data.\n- **Deterministic tool application**. Avoids ambiguity common with screenshot-based approaches.\n\n### Requirements\n- Node.js 18 or newer\n- VS Code, Cursor, Windsurf, Claude Desktop, Goose or any other MCP client\n\n<!--\n// Generate using:\nnode utils/generate-links.js\n-->\n\n### Getting started\n\nFirst, install the Playwright MCP server with your client.\n\n**Standard config** works in most of the tools:\n\n```js\n{\n  \"mcpServers\": {\n    \"playwright\": {\n      \"command\": \"npx\",\n      \"args\": [\n        \"@playwright/mcp@latest\"\n      ]\n    }\n  }\n}\n```\n\n[<img src=\"https://img.shields.io/badge/VS_Code-VS_Code?style=flat-square&label=Install%20Server&color=0098FF\" alt=\"Install in VS Code\">](https://insiders.vscode.dev/redirect?url=vscode%3Amcp%2Finstall%3F%257B%2522name%2522%253A%2522playwright%2522%252C%2522command%2522%253A%2522npx%2522%252C%2522args%2522%253A%255B%2522%2540playwright%252Fmcp%2540latest%2522%255D%257D) [<img alt=\"Install in VS Code Insiders\" src=\"https://img.shields.io/badge/VS_Code_Insiders",
+    "quality_score": 65
+  },
+  "enriched_at": "2025-11-17T18:36:43.814999"
 }

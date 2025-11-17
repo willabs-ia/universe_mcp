@@ -7,10 +7,15 @@
   "weekly_metric": null,
   "release_date": "Oct 15, 2025",
   "url": "https://www.pulsemcp.com/servers/lingvanex-translate",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/lingvanex-mt",
+  "categories": [
+    "api"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:29.278928",
-  "metadata": {}
+  "metadata": {
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T18:34:59.182766"
 }

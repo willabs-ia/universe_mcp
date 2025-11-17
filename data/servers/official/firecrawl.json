@@ -10,10 +10,17 @@
   },
   "release_date": "Dec 6, 2024",
   "url": "https://www.pulsemcp.com/servers/firecrawl",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/mendableai",
+  "categories": [
+    "api",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:15.922486",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 4900,
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:29:36.369986"
 }

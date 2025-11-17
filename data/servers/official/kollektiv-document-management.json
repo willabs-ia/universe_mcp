@@ -10,10 +10,28 @@
   },
   "release_date": "May 6, 2025",
   "url": "https://www.pulsemcp.com/servers/kollektiv-document-management",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/alexander-zuev/kollektiv-mcp",
+  "categories": [
+    "workflow",
+    "security",
+    "cloud",
+    "git",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:29.263979",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 61,
+    "runtime": "Node.js",
+    "readme_excerpt": "# ⚠️ DEPRECATED - Kollektiv MCP\n\n> **🚨 IMPORTANT: This experimental MCP server is now DEPRECATED and will be shut down soon.**\n>\n> For updates, visit [kollektiv.sh](https://kollektiv.sh)\n>\n> **Please do not use this server for new projects.**\n\n---\n\n[![TypeScript](https://img.shields.io/badge/dynamic/regex?url=https%3A%2F%2Fgithub.com%2Falexander-zuev%2Fkollektiv-mcp%2Fraw%2Fmain%2Fpackage.json&search=%22typescript%22%3A%5Cs*%22%5C%5E%3F(%5B0-9%5D%2B%5C.%5B0-9%5D%2B)&replace=%241&logo=typescript&label=TypeScript)](https://www.typescriptlang.org)\n[![Runtime](https://img.shields.io/badge/Runtime-Cloudflare%20Workers-orange?logo=cloudflare)](https://workers.cloudflare.com/)\n[![Auth Supabase](https://img.shields.io/badge/Auth-Supabase-3ecf8e?logo=supabase)](https://supabase.io/)\n[![Build](https://github.com/alexander-zuev/kollektiv-mcp/actions/workflows/ci.yaml/badge.svg)](https://github.com/alexander-zuev/kollektiv-mcp/actions)\n[![codecov](https://codecov.io/gh/alexander-zuev/kollektiv-mcp/graph/badge.svg)](https://codecov.io/gh/alexander-zuev/kollektiv-mcp)\n[![License](https://img.shields.io/badge/License-Apache--2.0-blue?logo=apache&logoColor=white)](LICENSE)\n\n## ~~🧠 Your personal LLM knowledgebase~~ (DEPRECATED)\n\n**[Original Description - No longer maintained]** Kollektiv MCP enables you to build personal LLM knowledge base in seconds and use it from your\nfavorite editor / client. No more infrastructure setup, chunking, syncing - just upload your\ndata and start chatting. Suppo",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:34:15.150752"
 }

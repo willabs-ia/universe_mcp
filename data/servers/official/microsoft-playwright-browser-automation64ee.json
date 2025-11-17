@@ -7,10 +7,24 @@
   "weekly_metric": null,
   "release_date": "Apr 18, 2025",
   "url": "https://www.pulsemcp.com/servers/microsoft-playwright-browser-automation64ee",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/markbustamante77/mcp",
+  "categories": [
+    "workflow",
+    "testing",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "browser",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:21.367203",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 1,
+    "readme_excerpt": "## Playwright MCP\n\nA Model Context Protocol (MCP) server that provides browser automation capabilities using [Playwright](https://playwright.dev). This server enables LLMs to interact with web pages through structured accessibility snapshots, bypassing the need for screenshots or visually-tuned models.\n\n### Key Features\n\n- **Fast and lightweight**: Uses Playwright's accessibility tree, not pixel-based input.\n- **LLM-friendly**: No vision models needed, operates purely on structured data.\n- **Deterministic tool application**: Avoids ambiguity common with screenshot-based approaches.\n\n### Use Cases\n\n- Web navigation and form-filling\n- Data extraction from structured content\n- Automated testing driven by LLMs\n- General-purpose browser interaction for agents\n\n### Example config\n\n```js\n{\n  \"mcpServers\": {\n    \"playwright\": {\n      \"command\": \"npx\",\n      \"args\": [\n        \"@playwright/mcp@latest\"\n      ]\n    }\n  }\n}\n```\n\n\n#### Installation in VS Code\n\nInstall the Playwright MCP server in VS Code using one of these buttons:\n\n<!--\n// Generate using?:\nconst config = JSON.stringify({ name: 'playwright', command: 'npx', args: [\"-y\", \"@playwright/mcp@latest\"] });\nconst urlForWebsites = `vscode:mcp/install?${encodeURIComponent(config)}`;\n// Github markdown does not allow linking to `vscode:` directly, so you can use our redirect:\nconst urlForGithub = `https://insiders.vscode.dev/redirect?url=${encodeURIComponent(urlForWebsites)}`;\n-->\n\n[<img src=\"https://img.shields.io/badge/VS_Code-VS_C",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:36:46.805709"
 }

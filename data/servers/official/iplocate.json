@@ -10,10 +10,30 @@
   },
   "release_date": "Aug 2, 2025",
   "url": "https://www.pulsemcp.com/servers/iplocate",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/iplocate/mcp-server-iplocate",
+  "categories": [
+    "security",
+    "development",
+    "api",
+    "ai",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:50.191141",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 11,
+    "capabilities": [
+      "**Privacy & Security**: VPN detection, proxy detection, Tor exit nodes, hosting providers",
+      "**Network Information**: ASN name, number, type, network range, ISP information",
+      "**Abuse Contacts**: Email, phone, and address for reporting malicious activity",
+      "**Company Data**: Organization name, domain, business type",
+      "**Geolocation**: Country, city, coordinates, timezone, postal code and more"
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "# MCP Server for IP address geolocation and network data from IPLocate.io\n\n[![Install MCP Server](https://cursor.com/deeplink/mcp-install-dark.svg)](https://cursor.com/install-mcp?name=iplocate&config=eyJjb21tYW5kIjoibnB4IC15IEBpcGxvY2F0ZS9tY3Atc2VydmVyIiwiZW52Ijp7IklQTE9DQVRFX0FQSV9LRVkiOiIifX0%3D)\n\nAn MCP (Model Context Protocol) server for [IPLocate.io](https://iplocate.io) - providing comprehensive IP address intelligence including geolocation, network information, privacy detection, and abuse contacts.\n\n## Features\n\nThis MCP server provides tools to look up detailed information about IP addresses:\n\n- **Geolocation**: Country, city, coordinates, timezone, postal code and more\n- **Network Information**: ASN name, number, type, network range, ISP information\n- **Privacy & Security**: VPN detection, proxy detection, Tor exit nodes, hosting providers\n- **Company Data**: Organization name, domain, business type\n- **Abuse Contacts**: Email, phone, and address for reporting malicious activity\n\n## Requirements\n\nTo follow our quick start setup instructions, you will need:\n\n- Node.js 18 or higher\n- npm\n- A compatible MCP client. For example, Cursor, Claude Desktop.\n\n## Quick Start\n\nThe easiest way to use this MCP server is through your MCP client. Simply configure your client with the setup instructions below:\n\n### Configure your MCP client\n\n<details>\n<summary><strong>Cursor</strong></summary>\n\nOne-click setup:\n\n[![Install MCP Server](https://cursor.com/deeplink/mcp-install-dark.sv",
+    "quality_score": 60
+  },
+  "enriched_at": "2025-11-17T18:32:45.503707"
 }

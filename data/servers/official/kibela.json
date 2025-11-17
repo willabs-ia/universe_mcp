@@ -7,10 +7,23 @@
   "weekly_metric": null,
   "release_date": "Apr 17, 2025",
   "url": "https://www.pulsemcp.com/servers/kibela",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/kibela/kibela-mcp-server",
+  "categories": [
+    "git",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:21.364889",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 11,
+    "runtime": "Node.js",
+    "readme_excerpt": "<div align=\"center\">\n  <h1>Kibela MCP Server</h1>\n\n  <p>Kibela MCP Server is a <a href=\"https://modelcontextprotocol.io/introduction\">Model Context Protocol (MCP)</a> server for Kibela.</p>\n\n![GitHub commit activity](https://img.shields.io/github/commit-activity/w/kibela/kibela-mcp-server)\n![GitHub Release Date](https://img.shields.io/github/release-date/kibela/kibela-mcp-server)\n![GitHub package.json dynamic](https://img.shields.io/github/package-json/license/kibela/kibela-mcp-server)\n![GitHub package.json dynamic](https://img.shields.io/github/package-json/version/kibela/kibela-mcp-server)\n\n</div>\n\n## Overview\n\nKibela MCP Server is currently available only as a local server using STDIO and can be used with any MCP client such as Claude Desktop or VSCode.\n\nOnly those GraphQL APIs that are publicly available and suitable for MCP are implemented as tools.\n\n## Use Cases\n\n- Ask about information in Kibela\n- Organize folders and articles in Kibela\n- Using AI to help you write with Kibela\n\n## Requirements\n\n1. [Docker](https://www.docker.com/) is installed\n2. Docker must be running\n3. Kibela [access tokens](https://my.kibe.la/settings/access_tokens) is issued\n4. An application that implements the [MCP client](https://mcp.so/clients) must be installed\n\n## Installation\n\n### Example: Claude Desktop\n\nWrite the following configuration to `claude_desktop_config.json`. Set the Kibela origin and access token as environment variables.\n\n```json\n{\n  \"mcpServers\": {\n    \"kibela\": {\n      \"comm",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:33:57.630601"
 }

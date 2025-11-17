@@ -7,10 +7,26 @@
   "weekly_metric": null,
   "release_date": "Apr 4, 2025",
   "url": "https://www.pulsemcp.com/servers/kong-konnect",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/kong/mcp-konnect",
+  "categories": [
+    "documentation",
+    "workflow",
+    "git",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:10.274284",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 38,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Kong Konnect MCP Server\n\n![Static Badge](https://img.shields.io/badge/Release-Tech%20Preview-FFA500?style=plastic)\n\nA Model Context Protocol (MCP) server for interacting with Kong Konnect APIs, allowing AI assistants to query and analyze Kong Gateway configurations, traffic, and analytics.\n\n\nhttps://github.com/user-attachments/assets/19c2f716-49b5-46c3-9457-65b3784e2111\n\n\n## Table of Contents\n- [Overview](#overview)\n- [Project Structure](#project-structure)\n- [Installation](#installation)\n- [Configuration](#configuration)\n- [Available Tools](#available-tools)\n  - [Analytics Tools](#analytics-tools)\n  - [Configuration Tools](#configuration-tools) \n  - [Control Planes Tools](#control-planes-tools)\n- [Usage with Claude](#usage-with-claude)\n- [Example Workflows](#example-workflows)\n- [Development](#development)\n- [Troubleshooting](#troubleshooting)\n\n## Overview\n\nThis project provides a Model Context Protocol (MCP) server that enables AI assistants like Claude to interact with Kong Konnect's API Gateway. It offers a set of tools to query analytics data, inspect configuration details, and manage control planes through natural language conversation.\n\nKey features:\n- Query API request analytics with customizable filters\n- List and inspect gateway services, routes, consumers, and plugins\n- Manage control planes and control plane groups\n- Integration with Claude and other MCP-compatible AI assistants\n\nKonnect MCP is a **work in progress** and we will be adding additional functionalit",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:34:17.492055"
 }

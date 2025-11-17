@@ -7,10 +7,30 @@
   "weekly_metric": null,
   "release_date": "Apr 11, 2025",
   "url": "https://www.pulsemcp.com/servers/dreamfactory",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/dreamfactorysoftware/df-mcp",
+  "categories": [
+    "git",
+    "development",
+    "api",
+    "database",
+    "ai",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:17.109877",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 4,
+    "runtime": "Node.js",
+    "readme_excerpt": "# DreamFactory MCP\n\nA Model Context Protocol (MCP) server for DreamFactory integration with Claude.\n\n## Desktop Extension Installation (Claude Desktop Only)\n\nThe easiest way to start using DreamFactory's MCP Server is by going to this repository's [releases](https://github.com/dreamfactorysoftware/df-mcp/releases) and downloading the most recent Desktop Extension file. [Desktop Extensions](https://www.anthropic.com/engineering/desktop-extensions) are a new file format created by Anthropic (the company behind Claude.ai). Once downloaded, double-click the DXT file to start installation. Note you'll need to install [Claude Desktop](https://claude.ai/download) before doing so. After starting installation you'll see this prompt:\n\n![Claude Desktop Extension Prompt](/images/dxt-install-prompt1.png)\n\nClick the `Install` button and you'll see:\n\n![Claude Desktop Extension Prompt #2](/images/dxt-install-prompt2.png)\n\nClick `Install` and if all goes well you'll be prompted to input a DreamFactory API key and service URL:\n\n![Configuring your DreamFactory MCP Server](/images/dxt-install-configure.png)\n\nIf you don't have this information readily available, just click `Cancel`. You can add it later by clicking on the Extensions tab inside Settings and then clicking `Configure`:\n\n![Viewing your Extensions](/images/dxt-install-success.png)\n\nIn either case, before you can use the DreamFactory MCP Server you'll need to manually enable it by flipping the Disabled switch to Enabled:\n\n![Enabling th",
+    "language": "TypeScript",
+    "license": "Apache License 2.0",
+    "forks": 3,
+    "open_issues": 2,
+    "last_pushed": "2025-09-10T15:51:57Z",
+    "topics": [],
+    "quality_score": 64
+  },
+  "enriched_at": "2025-11-17T18:28:12.552688"
 }

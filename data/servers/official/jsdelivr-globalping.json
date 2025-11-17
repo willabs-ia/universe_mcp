@@ -10,10 +10,25 @@
   },
   "release_date": "May 14, 2025",
   "url": "https://www.pulsemcp.com/servers/jsdelivr-globalping",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/jsdelivr/globalping-mcp-server",
+  "categories": [
+    "testing",
+    "security",
+    "git",
+    "cloud",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:29.267298",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 33,
+    "readme_excerpt": "# Globalping MCP Server\n\n<p align=\"center\">\n  <img src=\"https://raw.githubusercontent.com/jsdelivr/globalping-media/refs/heads/master/logo/full_colored_dark.svg\" alt=\"Globalping Logo\" width=\"180\"/>\n</p>\n\n<p align=\"center\">\n  <b>Enable AI models to interact with a global network measurement platform through natural language. Give network access to any LLM.</b>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/modelcontextprotocol/modelcontextprotocol\">\n    <img src=\"https://img.shields.io/badge/MCP-compatible-brightgreen.svg\" alt=\"MCP Compatible\">\n  </a>\n</p>\n\n\n## What is Globalping?\n\n[Globalping](https://globalping.io) is a free, public API that provides access to a globally distributed network of probes for monitoring, debugging, and benchmarking internet infrastructure. With Globalping, you can run network tests (ping, traceroute, DNS, MTR, HTTP) from thousands of locations worldwide.\n\n\n## What is the Globalping MCP Server?\n\nThe Globalping MCP Server implements the [Model Context Protocol (MCP)](https://modelcontextprotocol.io), allowing AI models like OpenAI's GPT and Anthropic's Claude to interact with Globalping's network measurement capabilities through natural language.\n\nIt also supports two authentication methods: OAuth and API token authentication. Both methods offer a secure way to interact with our API and provide higher rate limits associated with your account.\n\n### Key Features\n\n- 🌐 **Global Network Access**: Run measurements from thousands of probes worldwi",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:33:17.605435"
 }

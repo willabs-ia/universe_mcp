@@ -7,10 +7,29 @@
   "weekly_metric": null,
   "release_date": "May 23, 2025",
   "url": "https://www.pulsemcp.com/servers/luno",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/luno/luno-mcp",
+  "categories": [
+    "security",
+    "git",
+    "cloud",
+    "development",
+    "api",
+    "ai",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:38.996637",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 12,
+    "capabilities": [
+      "**Security**: Secure authentication using Luno API keys",
+      "**Tools**: Functionality for creating and managing orders, checking prices, and viewing transaction details",
+      "**Resources**: Access to account balances, transaction history, and more",
+      "**VS Code Integration**: Easy integration with VSCode, or other AI IDEs"
+    ],
+    "readme_excerpt": "# Luno MCP Server\n\n[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=luno_luno-mcp&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=luno_luno-mcp)\n[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=luno_luno-mcp&metric=coverage)](https://sonarcloud.io/summary/new_code?id=luno_luno-mcp)\n[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=luno_luno-mcp&metric=bugs)](https://sonarcloud.io/summary/new_code?id=luno_luno-mcp)\n[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=luno_luno-mcp&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=luno_luno-mcp)\n[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=luno_luno-mcp&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=luno_luno-mcp)\n[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=luno_luno-mcp&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=luno_luno-mcp)\n[![Go Report Card](https://goreportcard.com/badge/github.com/luno/luno-mcp)](https://goreportcard.com/report/github.com/luno/luno-mcp)\n[![GoDoc](https://godoc.org/github.com/luno/luno-mcp?status.svg)](https://godoc.org/github.com/luno/luno-mcp)\n\nA [Model Context Protocol](https://modelcontextprotocol.io) (MCP) server that provides access to the Luno cryptocurrency exchange API.\n\nThis server enables integration with Claude Code/VSCode/Cursor (and other MCP-comp",
+    "quality_score": 60
+  },
+  "enriched_at": "2025-11-17T18:35:30.548464"
 }

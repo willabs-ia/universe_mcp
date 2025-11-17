@@ -10,10 +10,33 @@
   },
   "release_date": "Nov 26, 2024",
   "url": "https://www.pulsemcp.com/servers/eyevinnosc",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/eyevinnosc/mcp-server",
+  "categories": [
+    "cloud",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:25.868014",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 7,
+    "capabilities": [
+      "Upload a file to a MinIO storage bucket in OSC.",
+      "Create a MinIO storage bucket in OSC.",
+      "List files on a MinIo storage bucket in OSC."
+    ],
+    "readme_excerpt": "# Eyevinn Open Source Cloud MCP Server\n\n[![smithery badge](https://smithery.ai/badge/@osaas/mcp-server)](https://smithery.ai/server/@osaas/mcp-server)\n\nThis MCP server provides MCP tools for [Eyevinn Open Source Cloud](www.osaas.io) that requires local computer access, for example to upload a file to a storage bucket in OSC. MCP tools for architecting and building solutions with OSC is provided by the remote MCP endpoint that can be accessed using the [OSC remote MCP client](https://www.npmjs.com/package/@osaas/client-mcp).\n\n<a href=\"https://glama.ai/mcp/servers/ku9s6ow21e\"><img width=\"380\" height=\"200\" src=\"https://glama.ai/mcp/servers/ku9s6ow21e/badge\" alt=\"Eyevinn Open Source Cloud Server MCP server\" /></a>\n\n### Features provided by the local MCP server\n\n- Create a MinIO storage bucket in OSC.\n- Upload a file to a MinIO storage bucket in OSC.\n- List files on a MinIo storage bucket in OSC.\n\n## Setup\n\n### Installing via Smithery\n\nTo install Eyevinn Open Source Cloud MCP Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@osaas/mcp-server):\n\n```bash\nnpx -y @smithery/cli install @osaas/mcp-server --client claude\n```\n\n### Personal Access Token\n\n- If you have not already done so, sign up for an [Eyevinn OSC account](https://app.osaas.io).\n- In the Eyevinn OSC web console go to [API settings](https://app.osaas.io/dashboard/settings/api) (in Settings > API settings)\n- Copy the Personal Access Token\n\n### Usage with Claude Desktop\n\nTo use this with Cla",
+    "language": "TypeScript",
+    "license": "MIT License",
+    "forks": 6,
+    "open_issues": 1,
+    "last_pushed": "2025-06-27T10:44:14Z",
+    "topics": [],
+    "quality_score": 70
+  },
+  "enriched_at": "2025-11-17T18:28:59.967748"
 }

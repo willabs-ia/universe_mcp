@@ -7,10 +7,30 @@
   "weekly_metric": null,
   "release_date": "Mar 21, 2025",
   "url": "https://www.pulsemcp.com/servers/layr-labs-eigenlayer",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/layr-labs/eigenlayer-mcp-server",
+  "categories": [
+    "documentation",
+    "testing",
+    "security",
+    "git",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "monitoring"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:23.737805",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 1,
+    "capabilities": [
+      "Provides EigenLayer documentation to Claude or other AI assistants via MCP",
+      "Runs as a standalone server locally or as a serverless function on Vercel"
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "# EigenLayer MCP Server built on Next.js\n\n\n## Features\n\n- Provides EigenLayer documentation to Claude or other AI assistants via MCP\n- Runs as a standalone server locally or as a serverless function on Vercel\n\nInspired by initial testing [here](https://x.com/dabit3/status/1902502245855383724).\nCloned from [Vercel Next.js MCP template](https://vercel.com/templates/next.js/model-context-protocol-mcp-with-next-js)\n\n\n# Test the public endpoint with Claude:\n\n1) Add the live URL to Claude via the following command (in any folder):  \n   ```claude mcp add --transport sse eigenlayer-mcp-server https://eigenlayer-mcp-server-sand.vercel.app/sse```\n2) Install [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview). Run command `claude` to enter Claude Code and confirm the  mcp server is added\n3) Test with a query like \"Can you explain how EigenLayer's restaking mechanism works?\"\n\n\n# Build, Run, Testing Locally\n\nIn terminal window 1\n```\nrm -rf .next node_modules .vercel\npnpm store prune\npnpm install\npnpm build\npnpm dev\n\nnode scripts/test-client.mjs https://localhost:3000\n```\n\nIn terminal window 2\nTest with MCP Inspector\n```\nnpx @modelcontextprotocol/inspector node public/index.js\n```\nAdditional notes [here](https://github.com/modelcontextprotocol/inspector).\n\n\n## Add to Claude Code\n\n```\nclaude mcp add\n```\n(then follow on screen instructions)\n\n## Sample Client\n\n`script/test-client.mjs` contains a sample client to try invocations.\n\n```sh\nnode scripts/test-cli",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T18:34:46.697714"
 }

@@ -7,10 +7,23 @@
   "weekly_metric": null,
   "release_date": "Jun 18, 2025",
   "url": "https://www.pulsemcp.com/servers/keyfactor-research-command",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/keyfactor-research/command-mcp",
+  "categories": [
+    "testing",
+    "search",
+    "api",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:47.723188",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 5,
+    "runtime": "Python",
+    "readme_excerpt": "# ⚠️PREVIEW: Not recommended for production\n\n# Command-MCP\nMCP server for Command built on the Keyfactor Analytics &amp; AI team's Python SDK. This preview is **experimental** software and users are discouraged from providing AI tools with access to your production data. This software is provided as-is and no support SLA applies to this MCP server.\n\n# Prerequisites\n1. Keyfactor Command version 11 or higher\n2. Claude for Desktop\n3. Python 3\n\n# Operations and Required Permissions\n1. get_license. Retrieves information about functionality license in Keyfactor Command, and serves as a basic connectivity test. Required permissions: None.\n2. get_certificate_details_by_id. Retrieves a certificate and associated metadata by cert id. If Command Risk Intelligence is enabled, includes risk data. Required permissions: Certificates: Collections: Read.\n3. enroll_certificate. PFX enrollment using provided subject and DNS SANs. Required Permissions: Certificates: Enrollment: PFX.\n4. enroll_csr. Enrollment using a CSR provided to the MCP client. Required Permissions: Certificates: Enrollment: CSR.\n5. revoke_certificate. Revoke a certificate by its certificate id. Required Permissions: Certificates: Collections: Revoke.\n6. get_metadata_fields. Retrieve a list of all metadata fields and definitions present in Command. Required Permissions: Metadata: Types: Read.\n7. query_certificates. Run a certificate search query to retrieve any matching certificates, with additional options including sorting.",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:33:55.137770"
 }

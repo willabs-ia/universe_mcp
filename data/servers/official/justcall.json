@@ -7,10 +7,21 @@
   "weekly_metric": null,
   "release_date": "Oct 8, 2025",
   "url": "https://www.pulsemcp.com/servers/justcall",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/saaslabsco/justcall-mcp-server",
+  "categories": [
+    "development",
+    "api",
+    "ai",
+    "browser",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:33.239433",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 12,
+    "readme_excerpt": "# JustCall MCP Server\n\nThe JustCall [Model Context Protocol (MCP)](https://modelcontextprotocol.com/) Server lets Large Language Models (LLMs) and AI agents make real-world voice calls and send SMS directly through JustCall’s APIs — securely, contextually, and programmatically.\n\nIt provides a function-calling interface for conversational AI systems, enabling:\n\n- 📞 AI-powered calling: Let your LLM initiate, manage, or transcribe calls using JustCall.\n- 💬 Smart messaging: Allow your AI agent to send or respond to SMS within conversations.\n- ⚙️ Seamless integration: Use the MCP standard to connect JustCall’s telephony capabilities with any LLM runtime or orchestration framework.\n\nIn short: It gives your LLMs a voice and a phone number — turning chatbots into truly conversational agents.\n\n## Claude Desktop Setup\n\n1. Open `Claude Desktop` and press `CMD + ,` to go to `Settings`.\n2. Click on the `Connectors` tab.\n3. Click on the `Add Custom Connector` button.\n4. Add name as `JustCall` and Remote Server Url as `https://mcp.justcall.host/mcp`.\n5. Now on `JustCall` from the Connectors list click on `Connect` button for JustCall.\n6. It will open a JustCall page requesting API key and secret.\n7. Get your JustCall API Key & Secret from the JustCall dashboard (<https://app.justcall.io/app/developersApiCredentials>).\n8. Enter the API key and Secret and press Continue, it should redirect back you to Claude.\n\n## Claude Web - https://claude.ai\n\n1. Open connectors url in your Browser - <https:",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:33:22.779817"
 }

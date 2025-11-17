@@ -10,10 +10,44 @@
   },
   "release_date": "Mar 12, 2025",
   "url": "https://www.pulsemcp.com/servers/glif",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/glifxyz/glif-mcp-server",
+  "categories": [
+    "workflow",
+    "testing",
+    "git",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:50.920991",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 27,
+    "capabilities": [
+      "Run glifs with inputs",
+      "Get detailed information about glifs, runs, and users",
+      "Access glif metadata through URI-based resources"
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "# glif-mcp-server\n\nMCP server for running AI workflows from glif.app.\n\nThis server provides tools for running glifs, managing bots, and accessing glif metadata through the Model Context Protocol (MCP).\n\nThis server also allows for customizing all the tools available via add-tool, remove-tool etc meta-tools, including lot full glif agents as a set of tools (and personality). This is highly experimental.\n\nFor more info check out https://glif.app or join our Discord server: https://discord.gg/glif\n\n## Features\n\n- Run glifs with inputs\n- Get detailed information about glifs, runs, and users\n- Access glif metadata through URI-based resources\n\n## Setup\n\n### Running via npx (recommended)\n\nIf you have nodejs installed, you can run our [@glifxyz/glif-mcp-server](https://www.npmjs.com/package/@glifxyz/glif-mcp-server) package via npx:\n\n1. Get your API token from https://glif.app/settings/api-tokens\n2. Add the server in your Claude Desktop config file. On macOS this is: `~/Library/Application Support/Claude/claude_desktop_config.json`\n\n   ```json\n   {\n     \"mcpServers\": {\n       \"glif\": {\n         \"command\": \"npx\",\n         \"args\": [\"-y\", \"@glifxyz/glif-mcp-server@latest\"],\n         \"env\": {\n           \"GLIF_API_TOKEN\": \"your-token-here\"\n         }\n       }\n     }\n   }\n   ```\n\n### Running from a local checkout\n\nFirst, checkout this code and install dependencies.\n\n```sh\ngit clone https://github.com/glifxyz/glif-mcp-server\ncd glif-mcp-server\nnpm install\nnpm run build\n# there's now a build",
+    "language": "TypeScript",
+    "license": "MIT License",
+    "forks": 6,
+    "open_issues": 4,
+    "last_pushed": "2025-10-16T23:08:56Z",
+    "topics": [
+      "generative-ai",
+      "glif",
+      "mcp",
+      "mcp-server",
+      "mcp-servers",
+      "workflows"
+    ],
+    "quality_score": 79
+  },
+  "enriched_at": "2025-11-17T18:30:26.379380"
 }

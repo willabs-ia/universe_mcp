@@ -10,10 +10,25 @@
   },
   "release_date": "Apr 9, 2025",
   "url": "https://www.pulsemcp.com/servers/metricool-social-analytics",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/metricool/mcp-metricool",
+  "categories": [
+    "documentation",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:08.378500",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 19,
+    "runtime": "Python",
+    "readme_excerpt": "# Metricool MCP Server\n\nThis is a Model Context Protocol (MCP) server for interacting with the Metricool API. It allows AI agents to access and analyze social media metrics, campaign data and schedule posts to your Metricool account.\n\n## Setup\n\n### Prerequisites\nMCP is still very new and evolving, we recommend following the [MCP documentation](https://modelcontextprotocol.io/quickstart#prerequisites) to get the MCP basics up and running.\n\n- Python 3.8 or higher\n- [A Metricool account with API access (Advanced Tier)](https://metricool.com)\n- [Claude Desktop](https://claude.ai/) (or Cursor, or any MCP Client)\n- [uv](https://docs.astral.sh/uv/getting-started/installation/)\n- [git](https://git-scm.com/downloads/)\n\n### Configuration\n1. Configure Claude Desktop\nCreate the following file depending on your OS:\n\nOn MacOS: ~/Library/Application Support/Claude/claude_desktop_config.json\n\nOn Windows: %APPDATA%/Claude/claude_desktop_config.json\n\nPaste this template in the file and replace <METRICOOL_USER_TOKEN> and <METRICOOL_USER_ID> with your Metricool API and ID information:\n\n```json\n{\n    \"mcpServers\": {\n        \"mcp-metricool\": {\n            \"command\": \"uvx\",\n            \"args\": [\n                \"--upgrade\",\n                \"mcp-metricool\"\n            ],\n            \"env\": {\n                \"METRICOOL_USER_TOKEN\": \"<METRICOOL_USER_TOKEN>\",\n                \"METRICOOL_USER_ID\": \"<METRICOOL_USER_ID>\"\n            }\n        }\n    }\n}\n```\n\n## Tools\nThe server implements several tools to i",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:36:33.465968"
 }

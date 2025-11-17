@@ -10,10 +10,25 @@
   },
   "release_date": "Sep 23, 2025",
   "url": "https://www.pulsemcp.com/servers/jfrog-artifactory",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/jfrog/jfrog-mcp-server",
+  "categories": [
+    "security",
+    "cloud",
+    "git",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:04.040453",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 3,
+    "readme_excerpt": "![MCP Client](https://avatars.githubusercontent.com/u/499942?s=200&v=4) \n\n# JFrog Remote MCP Server\n\nThe Model Context Protocol (MCP) connects AI systems with external tools, data, and services using a standardized, lightweight interface.  \n**JFrog MCP Server empowers developers, bringing the advanced capabilities of the JFrog platform to the development environment.** JFrog  MCP Server integrates in IDEs and coding assistants such as Copilot or Cursor to respond to natural-language AI queries with rich, actionable information from the JFrog platform.\n\nAmong the capabilities you can access with direct, friendly AI interactions:\n\n* Resource Management: Create and view projects, repositories, and other JFrog components.  \n* Artifact Search: Execute powerful AQL queries to search for artifacts used within your organization.  \n* Catalog and Curation: Access package information, versions, vulnerabilities, and check curation status  \n* Security Monitoring: generate real-time DevSecOps reports on critical CVEs, severity and applicability of vulnerabilities.\n\n**Use these resources and real-time information for various use cases. For example:**\n\n* **Ensure that only approved packages are used by developers during coding**  \n* **Query JFrog Catalog about OSS package versions, changes in reported vulnerabilities, and license requirements**  \n* **Track and manage JFrog Projects and artifacts**\n\n**And much more.**\n\n**Remote Server Implementation**: The JFrog MCP Server is maintained on th",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:33:07.812812"
 }

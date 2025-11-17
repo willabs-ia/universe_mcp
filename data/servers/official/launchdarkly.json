@@ -7,10 +7,22 @@
   "weekly_metric": null,
   "release_date": "Sep 23, 2025",
   "url": "https://www.pulsemcp.com/servers/launchdarkly",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/launchdarkly/mcp-server",
+  "categories": [
+    "testing",
+    "security",
+    "api",
+    "ai",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:28.888822",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 16,
+    "runtime": "Node.js",
+    "readme_excerpt": "# LaunchDarkly's Model Context Protocol (MCP) Server\n\nThe official [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) server for [LaunchDarkly](https://launchdarkly.com/).\n\n<div align=\"left\">\n    <a href=\"https://opensource.org/licenses/MIT\">\n        <img src=\"https://img.shields.io/badge/License-MIT-blue.svg\" style=\"width: 100px; height: 28px;\" />\n    </a>\n</div>\n\n<!-- No Summary [summary] -->\n\n<!-- Start Table of Contents [toc] -->\n## Table of Contents\n<!-- $toc-max-depth=2 -->\n* [LaunchDarkly's Model Context Protocol (MCP) Server](#launchdarklys-model-context-protocol-mcp-server)\n  * [Installation](#installation)\n  * [Requirements](#requirements)\n  * [Available Resources and Operations](#available-resources-and-operations)\n  * [Available Environments](#available-environments)\n  * [Contributions](#contributions)\n  * [About LaunchDarkly](#about-launchdarkly)\n\n<!-- End Table of Contents [toc] -->\n\n<!-- No SDK Installation [installation] -->\n## Installation\n\nThis MCP server can be installed in any AI client that supports the MCP protocol. Refer to your AI client's instructions if it isn't listed here.\n\n### Cursor installation steps\n\nCreate a `.cursor/mcp.json` file in your project root with the following content:\n\n```json\n{\n  \"mcpServers\": {\n    \"LaunchDarkly\": {\n      \"command\": \"npx\",\n      \"args\": [\n        \"-y\", \"--package\", \"@launchdarkly/mcp-server\", \"--\", \"mcp\", \"start\",\n        \"--api-key\", \"api-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx\"\n      ]\n    }\n  }\n}\n``",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:34:41.668552"
 }

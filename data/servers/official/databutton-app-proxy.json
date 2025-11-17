@@ -10,10 +10,28 @@
   },
   "release_date": "Mar 25, 2025",
   "url": "https://www.pulsemcp.com/servers/databutton-app-proxy",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/databutton/databutton-app-mcp",
+  "categories": [
+    "documentation",
+    "testing",
+    "api",
+    "ai",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:40.224354",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 1,
+    "readme_excerpt": "# Databutton App MCP\n\nUse API endpoints from your Databutton app as LLM tools from any MCP compatible client!\n\nThis is a simple proxy that runs locally and connects securely to your Databutton app\nusing the MCP protocol over websockets.\n\nTo use it, make sure you have uv installed, see instructions here if not:\n\n    https://docs.astral.sh/uv/getting-started/installation/\n\nFirst download an API key from the settings page of your Databutton app, and save it to a file.\n\nThen configure your LLM client (e.g. Claude Desktop or Cursor), like this:\n\n```json\n{\n  \"mcpServers\": {\n    \"myDatabuttonApp\": {\n      \"command\": \"uvx\",\n      \"args\": [\n        \"databutton-app-mcp@latest\"\n      ],\n      \"env\": {\n        \"DATABUTTON_API_KEY\": \"YOUR-DATABUTTON-APP-KEY\"\n      }\n    }\n  }\n}\n```\n\nor this\n\n```json\n{\n  \"mcpServers\": {\n    \"myDatabuttonApp\": {\n      \"command\": \"uvx\",\n      \"args\": [\n        \"databutton-app-mcp@latest\"\n        \"-k\",\n        \"/path/to/apikey.txt\"\n      ]\n    }\n  }\n}\n```\n\nHere /path/to/apikey.txt is the full path to a file containing the api key,\nor DATABUTTON_API_KEY is either the api key value or the path to a file containing it.\nYou can download the API key for your Databutton app on the app settings page.\nMake sure to keep it secure and don't share it.\n",
+    "language": "Python",
+    "license": "MIT License",
+    "forks": 3,
+    "open_issues": 4,
+    "last_pushed": "2025-04-04T14:36:28Z",
+    "topics": [],
+    "quality_score": 57
+  },
+  "enriched_at": "2025-11-17T18:27:12.174804"
 }

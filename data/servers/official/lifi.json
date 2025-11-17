@@ -7,10 +7,22 @@
   "weekly_metric": null,
   "release_date": "Mar 21, 2025",
   "url": "https://www.pulsemcp.com/servers/lifi",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/lifinance/lifi-mcp",
+  "categories": [
+    "testing",
+    "security",
+    "development",
+    "api",
+    "ai",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:36.986289",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 4,
+    "readme_excerpt": "# LiFi MCP Server\n\n> ⚠️ **IMPORTANT SECURITY DISCLAIMER** ⚠️\n> \n> **DO NOT use this tool with your main wallet keystore or wallets containing significant funds!**\n> \n> This tool is for testing and experimental purposes only. There is potential for loss of funds due to:\n> - Software bugs or security vulnerabilities\n> - Transaction errors or misconfigurations\n> - Network issues or smart contract failures\n> \n> Neither LI.FI nor the developers of this tool are responsible for any loss of funds resulting from the use of this freely available open-source software.\n> \n> **Use at your own risk with test wallets only.**\n\nThis MCP server integrates with the [LI.FI API](https://li.quest) to provide cross-chain swap functionality across multiple liquidity pools and bridges via the Model Context Protocol (MCP).\n\nThe Model Context Protocol (MCP) is a protocol for AI model integration, allowing AI models to access external tools and data sources.\n\n## Components\n\n### Tools\n\n#### Token Information\n- **get-tokens**\n  - Fetch all tokens known to the LI.FI services\n  - Parameters: `chains`, `chainTypes`, `minPriceUSD`\n  \n- **get-token**\n  - Get detailed information about a specific token\n  - Parameters: `chain` (required), `token` (required)\n\n#### Chain Information\n- **get-chains**\n  - Get information about all supported chains\n  - Parameters: `chainTypes`\n  \n- **get-chain-by-id**\n  - Find a chain by its numeric ID\n  - Parameters: `id` (required)\n  \n- **get-chain-by-name**\n  - Find a chain by na",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:34:51.813187"
 }

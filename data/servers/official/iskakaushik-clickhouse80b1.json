@@ -10,10 +10,24 @@
   },
   "release_date": "Dec 25, 2024",
   "url": "https://www.pulsemcp.com/servers/iskakaushik-clickhouse80b1",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/clickhouse/mcp-clickhouse",
+  "categories": [
+    "git",
+    "development",
+    "api",
+    "database",
+    "ai",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:27.078953",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 595,
+    "runtime": "Python",
+    "readme_excerpt": "# ClickHouse MCP Server\n\n[![PyPI - Version](https://img.shields.io/pypi/v/mcp-clickhouse)](https://pypi.org/project/mcp-clickhouse)\n\nAn MCP server for ClickHouse.\n\n<a href=\"https://glama.ai/mcp/servers/yvjy4csvo1\"><img width=\"380\" height=\"200\" src=\"https://glama.ai/mcp/servers/yvjy4csvo1/badge\" alt=\"mcp-clickhouse MCP server\" /></a>\n\n## Features\n\n### ClickHouse Tools\n\n* `run_select_query`\n  * Execute SQL queries on your ClickHouse cluster.\n  * Input: `sql` (string): The SQL query to execute.\n  * All ClickHouse queries are run with `readonly = 1` to ensure they are safe.\n\n* `list_databases`\n  * List all databases on your ClickHouse cluster.\n\n* `list_tables`\n  * List tables in a database with pagination.\n  * Required input: `database` (string).\n  * Optional inputs:\n    * `like` / `not_like` (string): Apply `LIKE` or `NOT LIKE` filters to table names.\n    * `page_token` (string): Token returned by a previous call for fetching the next page.\n    * `page_size` (int, default `50`): Number of tables returned per page.\n    * `include_detailed_columns` (bool, default `true`): When `false`, omits column metadata for lighter responses while keeping the full `create_table_query`.\n  * Response shape:\n    * `tables`: Array of table objects for the current page.\n    * `next_page_token`: Pass this value back to fetch the next page, or `null` when there are no more tables.\n    * `total_tables`: Total count of tables that match the supplied filters.\n\n### chDB Tools\n\n* `run_chdb_select_query`\n ",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T18:32:50.265045"
 }

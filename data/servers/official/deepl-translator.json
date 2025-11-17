@@ -10,10 +10,37 @@
   },
   "release_date": "May 8, 2025",
   "url": "https://www.pulsemcp.com/servers/deepl-translator",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/deeplcom/deepl-mcp-server",
+  "categories": [
+    "documentation",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:12.823701",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 66,
+    "capabilities": [
+      "Access to all DeepL API languages and features",
+      "Automatic language detection",
+      "Rephrase text using DeepL's capabilities",
+      "Translate text between numerous languages",
+      "Formality control for supported languages"
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "# deepl-mcp-server\n\n[![Version](https://img.shields.io/npm/v/deepl-mcp-server.svg)](https://www.npmjs.org/package/deepl-mcp-server)\n[![License: MIT](https://img.shields.io/badge/license-MIT-blueviolet.svg)](https://github.com/DeepLcom/deepl-mcp-server/blob/main/LICENSE)\n[![smithery badge](https://smithery.ai/badge/@DeepLcom/deepl-mcp-server)](https://smithery.ai/server/@DeepLcom/deepl-mcp-server)\n\nA Model Context Protocol (MCP) server that provides translation capabilities using the DeepL API.\n\n## Features\n\n- Translate text between numerous languages\n- Rephrase text using DeepL's capabilities\n- Access to all DeepL API languages and features\n- Automatic language detection\n- Formality control for supported languages\n\n## Usage\n\nThe easiest way to run this server is to use the npm package without installing anything:\n```bash\nnpx deepl-mcp-server\n```\n\nIf you want to install this locally, so you can play with it to your heart's content, you can do so using npm:\n```bash\nnpm install deepl-mcp-server\n```\n\nAlternately, if you want to contribute, you can clone this repository and install dependencies:\n\n```bash\ngit clone https://github.com/DeepLcom/deepl-mcp-server.git\ncd deepl-mcp-server\nnpm install\n```\n\n## Configuration\n\n### DeepL API Key\n\nYou'll need a DeepL API key to use this server. You can get one by signing up at [DeepL API](https://www.deepl.com/pro-api?utm_source=github&utm_medium=github-mcp-server-readme). With a DeepL API Free account you can translate up to 500,000 character",
+    "language": "JavaScript",
+    "license": "MIT License",
+    "forks": 15,
+    "open_issues": 8,
+    "last_pushed": "2025-11-06T03:29:42Z",
+    "topics": [],
+    "quality_score": 79
+  },
+  "enriched_at": "2025-11-17T18:27:27.691095"
 }

@@ -10,10 +10,20 @@
   },
   "release_date": "Aug 7, 2025",
   "url": "https://www.pulsemcp.com/servers/kiwi-flights",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/alpic-ai/kiwi-mcp-server-public",
+  "categories": [
+    "security",
+    "api",
+    "search",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:33.540949",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 4,
+    "readme_excerpt": "#### Author: Kiwi.com\n\n# Kiwi.com Flight Search\n\nThis is the Kiwi.com flight search MCP server. Search and book flights directly from your favorite AI assistant!\n\n## About this MCP Server\n\nThe [Kiwi.com](https://kiwi.com) MCP server allow you to search and book for flights using the Kiwi.com flights search engine.\n\nThe MCP server exposes a single tool: search-flight. This allows you to get instant access to a curated list of the best flights for your trip based on:\n\n1.  Round-trip or one-way flight\n2.  Origin / destination (city or airport)\n3.  Travel dates\n4.  Flexibility up to +/- 3 days\n5.  Number and types of passengers (adult, child, infant)\n6.  Cabin class (economy, premium economy, business, first class)\n\nSimply ask your AI assistant something like:\n\n*   “Can you help me book a first-class ticket from Paris to Rome tomorrow?”\n*   “Find me the best options for our family vacation. I need a round-trip flight for my husband, me and our two children from Vienna to London, August 3 to 10.”\n\nYou can also narrow your query by choosing your preferred airport, or enlarge it by specifying that your dates are flexible. Each result includes a booking link directly to the flight chosen.\n\n## Installation Guide\n\n<details>\n<summary>Claude Teams</summary>\n\n### Manual steps\n\n*Note: Only workspace owners and admins have permission to add custom connectors*\n\n- Navigate to **Settings > Connectors**\n- Toggle to **Organization connectors** at the top of the page\n- At the bottom of the page, ",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:34:05.094358"
 }

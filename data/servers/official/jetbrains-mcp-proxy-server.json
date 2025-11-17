@@ -10,10 +10,24 @@
   },
   "release_date": "Dec 9, 2024",
   "url": "https://www.pulsemcp.com/servers/jetbrains-mcp-proxy-server",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/jetbrains/mcp-jetbrains",
+  "categories": [
+    "documentation",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:38.061879",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 928,
+    "runtime": "Node.js",
+    "readme_excerpt": "[![official JetBrains project](http://jb.gg/badges/incubator-flat-square.svg)](https://github.com/JetBrains#jetbrains-on-github)\n\n# ⚠️ Deprecated\n\n**This repository is no longer maintained.** The core functionality has been integrated into all IntelliJ-based IDEs since version 2025.2.\nThe built-in functionality works with SSE and JVM-based proxy (for STDIO) so this NPM package is no longer required.\n\n**Migration:** Please refer to the [official documentation](https://www.jetbrains.com/help/idea/mcp-server.html) for details on using the built-in functionality.\n\n**Issues & Support:** For bugs or feature requests related to the built-in MCP functionality, please use the [JetBrains YouTrack](https://youtrack.jetbrains.com/issues?q=project:%20IJPL%20Subsystem:%20%7BMCP%20(Model%20Context%20Protocol)%7D%20).\n\n# JetBrains MCP Proxy Server\n\nThe server proxies requests from client to JetBrains IDE.\n\n## Install MCP Server plugin\n\nhttps://plugins.jetbrains.com/plugin/26071-mcp-server\n\n## VS Code Installation\n\nFor one-click installation, click one of the install buttons below:\n\n[![Install with NPX in VS Code](https://img.shields.io/badge/VS_Code-NPM-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](https://insiders.vscode.dev/redirect/mcp/install?name=jetbrains&config=%7B%22command%22%3A%22npx%22%2C%22args%22%3A%5B%22-y%22%2C%22%40jetbrains%2Fmcp-proxy%22%5D%7D) [![Install with NPX in VS Code Insiders](https://img.shields.io/badge/VS_Code_Insiders-NPM-24bfa5?style=flat-squ",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T18:33:05.442136"
 }

@@ -10,10 +10,51 @@
   },
   "release_date": "Aug 19, 2025",
   "url": "https://www.pulsemcp.com/servers/grafbase-nexus",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/grafbase/nexus",
+  "categories": [
+    "testing",
+    "security",
+    "cloud",
+    "git",
+    "search",
+    "development",
+    "api",
+    "database",
+    "ai",
+    "monitoring"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:22.698844",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 437,
+    "capabilities": [
+      "**Docker Ready**: Available as a container image with minimal configuration needed",
+      "**LLM Provider Routing**: Unified interface for OpenAI, Anthropic, Google, and AWS Bedrock LLM providers with full tool calling support",
+      "**MCP Server Aggregation**: Connect multiple MCP servers (STDIO, SSE, HTTP) through a single endpoint",
+      "**Rate Limiting**: Multi-level rate limiting with in-memory or Redis backends",
+      "**Flexible Configuration**: TOML-based configuration with environment variable substitution",
+      "**Context-Aware Tool Search**: Intelligent fuzzy search across all connected tools using natural language queries",
+      "**Protocol Support**: Supports STDIO (subprocess), SSE (Server-Sent Events), and streamable HTTP MCP servers",
+      "**Security**: Built-in CORS, CSRF protection, OAuth2, and TLS support"
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "<div align=\"center\">\n<picture>\n  <source width=\"600\" height=\"244\" srcset=\"https://github.com/user-attachments/assets/9ca64651-b601-45e3-8ba1-f7bfb91625ab\" media=\"(prefers-color-scheme: dark)\">\n  <source width=\"600\" height=\"244\" srcset=\"https://github.com/user-attachments/assets/5ee33450-f9ee-4e47-b0ed-0d302110c4ce\"\" media=\"(prefers-color-scheme: light)\">\n  <img src=\"https://github.com/user-attachments/assets/9ca64651-b601-45e3-8ba1-f7bfb91625ab\" alt=\"Nexus logo\">\n</picture>\n</div>\n\n<p align=\"center\">\n  Plug in all your MCP servers, APIs, and LLM providers. Route everything through a unified endpoint. <br />\n  Aggregate, govern, and control your AI stack.\n</p>\n\n## Features\n\n- **MCP Server Aggregation**: Connect multiple MCP servers (STDIO, SSE, HTTP) through a single endpoint\n- **LLM Provider Routing**: Unified interface for OpenAI, Anthropic, Google, and AWS Bedrock LLM providers with full tool calling support\n- **Context-Aware Tool Search**: Intelligent fuzzy search across all connected tools using natural language queries\n- **Protocol Support**: Supports STDIO (subprocess), SSE (Server-Sent Events), and streamable HTTP MCP servers\n- **Flexible Configuration**: TOML-based configuration with environment variable substitution\n- **Security**: Built-in CORS, CSRF protection, OAuth2, and TLS support\n- **Rate Limiting**: Multi-level rate limiting with in-memory or Redis backends\n- **Docker Ready**: Available as a container image with minimal configuration needed\n\n## Installation\n\n",
+    "language": "Rust",
+    "license": "Mozilla Public License 2.0",
+    "forks": 22,
+    "open_issues": 20,
+    "last_pushed": "2025-11-17T03:29:23Z",
+    "topics": [
+      "ai",
+      "api",
+      "large-language-models",
+      "llmops",
+      "llms",
+      "mcp",
+      "model-context-protocol"
+    ],
+    "quality_score": 84
+  },
+  "enriched_at": "2025-11-17T18:30:49.372367"
 }

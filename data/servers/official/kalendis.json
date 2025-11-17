@@ -10,10 +10,27 @@
   },
   "release_date": "Oct 1, 2025",
   "url": "https://www.pulsemcp.com/servers/kalendis",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/kalendis-dev/kalendis-mcp",
+  "categories": [
+    "security",
+    "api",
+    "development",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:30.194733",
-  "metadata": {}
+  "metadata": {
+    "capabilities": [
+      "📝 **Type-safe**: Full TypeScript support with generated types",
+      "🚀 **Client Generator**: Generates TypeScript clients for backend and frontend applications",
+      "🛣️ **Route Generator**: Creates API route handlers for Next.js, Fastify, NestJS and Express",
+      "🔧 **MCP Server**: Exposes Kalendis API tools for use with Claude, Cursor, etc",
+      "🔐 **Secure**: Uses environment variables for API key management"
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "# Kalendis MCP Tool\n\n[![npm version](https://badge.fury.io/js/@kalendis%2Fmcp.svg)](https://www.npmjs.com/package/@kalendis/mcp)\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\n\nMCP (Model Context Protocol) server and client generator for Kalendis scheduling API integration.\n\n## Features\n\n- 🔧 **MCP Server**: Exposes Kalendis API tools for use with Claude, Cursor, etc\n- 🚀 **Client Generator**: Generates TypeScript clients for backend and frontend applications\n- 🛣️ **Route Generator**: Creates API route handlers for Next.js, Fastify, NestJS and Express\n- 🔐 **Secure**: Uses environment variables for API key management\n- 📝 **Type-safe**: Full TypeScript support with generated types\n\n## Installation\n\n```bash\nnpm install @kalendis/mcp\n```\n\n## Quick Start\n\n### 1. Get Your API Key\n\nBefore using the Kalendis MCP tool, you'll need an API key. [Create a free account at kalendis.dev](https://kalendis.dev) to get started. Your API key will be available in your account dashboard and is required for authenticating requests to the Kalendis scheduling API.\n\n### 2. Configure MCP Server\n\n#### Quick Install (Cursor IDE)\n\nClick the button below to automatically add Kalendis to your Cursor IDE:\n\n[<img src=\"https://cursor.com/deeplink/mcp-install-dark.png\" alt=\"Add to Cursor\" height=\"40\">](cursor://anysphere.cursor-deeplink/mcp/install?name=kalendis&config=eyJjb21tYW5kIjoibnB4IiwiYXJncyI6WyIteSIsIkBrYWxlbmRpcy9tY3AiXX0=)\n\n#### Manual Confi",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:33:32.528977"
 }

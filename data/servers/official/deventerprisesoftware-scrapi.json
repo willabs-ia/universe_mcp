@@ -7,10 +7,35 @@
   "weekly_metric": null,
   "release_date": "Apr 8, 2025",
   "url": "https://www.pulsemcp.com/servers/deventerprisesoftware-scrapi",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/deventerprisesoftware/scrapi-mcp",
+  "categories": [
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:12.731031",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 14,
+    "readme_excerpt": "![ScrAPI logo](https://raw.githubusercontent.com/DevEnterpriseSoftware/scrapi-sdk-dotnet/master/icon_small.png)\n\n# ScrAPI MCP Server\n\n[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)\n[![NPM Downloads](https://img.shields.io/npm/dm/@deventerprisesoftware/scrapi-mcp)](https://www.npmjs.com/package/@deventerprisesoftware/scrapi-mcp)\n[![Docker Pulls](https://img.shields.io/docker/pulls/deventerprisesoftware/scrapi-mcp)](https://hub.docker.com/r/deventerprisesoftware/scrapi-mcp)\n[![smithery badge](https://smithery.ai/badge/@DevEnterpriseSoftware/scrapi-mcp)](https://smithery.ai/server/@DevEnterpriseSoftware/scrapi-mcp)\n\nMCP server for using [ScrAPI](https://scrapi.tech) to scrape web pages.\n\nScrAPI is your ultimate web scraping solution, offering powerful, reliable, and easy-to-use features to extract data from any website effortlessly.\n\n## Tools\n\n1. `scrape_url_html`\n   - Use a URL to scrape a website using the ScrAPI service and retrieve the result as HTML.\n     Use this for scraping website content that is difficult to access because of bot detection, captchas or even geolocation restrictions.\n     The result will be in HTML which is preferable if advanced parsing is required.\n   - Input: `url` (string)\n   - Returns: HTML content of the URL\n\n2. `scrape_url_markdown`\n   - Use a URL to scrape a website using the ScrAPI service and retrieve the result as Markdown.\n     Use this for scraping website content that is difficult ",
+    "language": "JavaScript",
+    "license": null,
+    "forks": 4,
+    "open_issues": 3,
+    "last_pushed": "2025-08-26T14:20:18Z",
+    "topics": [
+      "ai",
+      "mcp",
+      "mcp-server",
+      "scraper-api",
+      "web-scraping",
+      "webscraper"
+    ],
+    "quality_score": 59
+  },
+  "enriched_at": "2025-11-17T18:27:47.508865"
 }

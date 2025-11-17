@@ -7,10 +7,22 @@
   "weekly_metric": null,
   "release_date": "Oct 17, 2025",
   "url": "https://www.pulsemcp.com/servers/kiteworks",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/kiteworks/mcp",
+  "categories": [
+    "security",
+    "api",
+    "ai",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:35.343367",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 3,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Kiteworks MCP Server\n\nThe Kiteworks MCP Server enables Large Language Model (LLM) applications to securely interact with your Kiteworks instance through the Model Context Protocol (MCP). This cross-platform server provides AI assistants with the ability to manage files, folders, and user information within your Kiteworks environment while maintaining enterprise-grade security.\n\n**Key Capabilities:**\n- **File Management:** Upload, download, and retrieve metadata for files stored in Kiteworks\n- **Folder Operations:** Navigate folder hierarchies, create new folders, and manage folder structures\n- **User Information:** Access current user details and authentication status\n- **OAuth 2.0 Authentication:** Secure authorization with refresh token support\n- **Rate Limiting:** Built-in protection with configurable request limits\n- **Cross-Platform Support:** Native binaries for Windows, Linux, and macOS\n\nBuilt as a local STDIO-based server, it runs per user on their machine, connecting LLM clients to Kiteworks through secure OAuth 2.0 authentication.\n\n## Security considerations\n\nThis MCP server may handle sensitive data, which will be accessible to the LLM you attach.\nMake sure you only install MCP Servers that are trusted and verified.\n\nThe Kiteworks MCP Server does not expose credentials or security tokens to the LLM. They are securely stored in your operating system keychain/credentials store.\n\nThe Kiteworks MCP Server does not make the data it transfers available to the LLM (in t",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:34:02.494012"
 }

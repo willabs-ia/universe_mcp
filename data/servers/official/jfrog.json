@@ -7,10 +7,34 @@
   "weekly_metric": null,
   "release_date": "Apr 1, 2025",
   "url": "https://www.pulsemcp.com/servers/jfrog",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/jfrog/mcp-jfrog",
+  "categories": [
+    "documentation",
+    "security",
+    "git",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "monitoring"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:05.665955",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 109,
+    "capabilities": [
+      "**Repository Management**: Create and manage local, remote, and virtual repositories",
+      "**Xray**: Access scan artifacts summary, group by severity per artifact",
+      "**Runtime Monitoring**: View runtime clusters and running container images",
+      "**Catalog and Curation**: Access package information, versions, vulnerabilities, and check curation status",
+      "**Mission Control**: View associated JFrog Platform instances",
+      "**Build Tracking**: List and retrieve build information",
+      "**Artifact Search**: Execute powerful AQL queries to search for artifacts and builds"
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "# JFrog MCP Server (🧪 Experimental)\n\n[![smithery badge](https://smithery.ai/badge/@jfrog/mcp-jfrog)](https://smithery.ai/server/@jfrog/mcp-jfrog)\n\nModel Context Protocol (MCP) Server for the JFrog Platform API, enabling repository management, build tracking, release lifecycle management, and more.\n\n\nhttps://github.com/user-attachments/assets/aca3af2b-f294-41c8-8727-799a019a55b5\n\n\n## Disclaimer\nThis is an experimental project intended to demonstrate JFrog's capabilities with MCP. It is not officially supported or verified by JFrog.\n\n> **Update (2025):**  \nJFrog now provides an official, secure, and remotely hosted MCP server for seamless integration with the JFrog Platform.  \nThis managed MCP server is maintained by JFrog and is recommended for production use, offering enhanced security, reliability, and support.\n\nLearn more and get started here:  \n👉 [JFrog MCP Server Documentation](https://jfrog.com/help/r/jfrog-integrations-documentation/jfrog-mcp-server)\n\n## Features\n\n- **Repository Management**: Create and manage local, remote, and virtual repositories\n- **Build Tracking**: List and retrieve build information\n- **Runtime Monitoring**: View runtime clusters and running container images\n- **Mission Control**: View associated JFrog Platform instances\n- **Artifact Search**: Execute powerful AQL queries to search for artifacts and builds\n- **Catalog and Curation**: Access package information, versions, vulnerabilities, and check curation status\n- **Xray**: Access scan artifacts",
+    "quality_score": 65
+  },
+  "enriched_at": "2025-11-17T18:33:10.381100"
 }

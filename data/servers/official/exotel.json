@@ -10,10 +10,36 @@
   },
   "release_date": "Aug 13, 2025",
   "url": "https://www.pulsemcp.com/servers/exotel",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/exotel/exotelmcp",
+  "categories": [
+    "testing",
+    "security",
+    "development",
+    "api",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:33.546166",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 3,
+    "capabilities": [
+      "☎️ **Voice Calling**: Initiate voice calls, connect numbers, and integrate with call flows",
+      "📱 **SMS Services**: Send single, bulk, and dynamic SMS messages with DLT compliance",
+      "🔐 **Secure Authentication**: Token-based authentication system",
+      "📊 **Status Tracking**: Real-time delivery status and callback management",
+      "🤖 **Claude AI Integration**: Direct integration with Claude through MCP protocol",
+      "🎵 **Quick Audio Tools**: One-click audio playback, download, and web player access"
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "# ExotelMCP\n\nA Model Context Protocol (MCP) server that provides seamless integration between Claude AI and Exotel's communication APIs for SMS and voice calling services, plus quick audio tools.\n\n## Features\n\n- 📱 **SMS Services**: Send single, bulk, and dynamic SMS messages with DLT compliance\n- ☎️ **Voice Calling**: Initiate voice calls, connect numbers, and integrate with call flows\n- 📊 **Status Tracking**: Real-time delivery status and callback management\n- 🎵 **Quick Audio Tools**: One-click audio playback, download, and web player access\n- 🔐 **Secure Authentication**: Token-based authentication system\n- 🤖 **Claude AI Integration**: Direct integration with Claude through MCP protocol\n\n## Table of Contents\n\n- [Prerequisites](#prerequisites)\n- [Configuration](#configuration)\n- [Usage](#usage)\n- [API Services](#api-services)\n- [Authentication](#authentication)\n- [Support](#support)\n\n## Prerequisites\n\nBefore using the Exotel MCP Server, ensure you have:\n\n- **Claude Desktop App**: Latest version installed\n- **Node.js and npm**: Required for MCP remote connection\n- **Exotel Account**: Active account with API credentials\n- **MCP Remote Package**: Install if not already available\n\n### Installing MCP Remote\n\nIf you don't have `mcp-remote` installed, run:\n\n```bash\nnpm install -g mcp-remote\n```\n\nVerify installation:\n```bash\nnpm list -g mcp-remote\n```\n\n\n### Claude Desktop Configuration\n\nTo integrate ExotelMCP with Claude, add the following configuration to your Claude desktop setting",
+    "language": "Java",
+    "license": "MIT License",
+    "forks": 2,
+    "open_issues": 0,
+    "last_pushed": "2025-09-13T09:56:32Z",
+    "topics": [],
+    "quality_score": 77
+  },
+  "enriched_at": "2025-11-17T18:28:57.485908"
 }

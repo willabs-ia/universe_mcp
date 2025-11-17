@@ -7,10 +7,28 @@
   "weekly_metric": null,
   "release_date": "Mar 8, 2025",
   "url": "https://www.pulsemcp.com/servers/izaitsevfb-pytorch-treehugger",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/izaitsevfb/claude-pytorch-treehugger",
+  "categories": [
+    "documentation",
+    "workflow",
+    "testing",
+    "git",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:15.123122",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 3,
+    "runtime": "Python",
+    "readme_excerpt": "# PyTorch HUD API with MCP Support\n\nA Python library and MCP server for interacting with the PyTorch HUD API, providing access to CI/CD data, job logs, and analytics.\n\n## Overview\n\nThis project provides tools for PyTorch CI/CD analytics including:\n- Data access for workflows, jobs, and test runs\n- Efficient log analysis for large CI logs\n- ClickHouse query integration for analytics\n- Resource utilization metrics\n\n## Usage (for humans)\n\n```bash\n# Install from GitHub repository\npip install git+https://github.com/izaitsevfb/claude-pytorch-treehugger.git\n```\n\n```bash\nclaude mcp add hud pytorch-hud\n```\n\n## Development\n\n```bash\n# Install dependencies (if not installing with pip)\npip install -r requirements.txt\n\n# Start MCP server\npython -m pytorch_hud\n```\n\n## Key Features\n\n### Data Access\n\n- `get_commit_summary`: Basic commit info without jobs\n- `get_job_summary`: Aggregated job status counts\n- `get_filtered_jobs`: Jobs with filtering by status/workflow/name\n- `get_failure_details`: Failed jobs with detailed failure info\n- `get_recent_commit_status`: Status for recent commits with job statistics\n\n### Log Analysis\n\n- `download_log_to_file`: Download logs to local storage\n- `extract_log_patterns`: Find errors, warnings, etc.\n- `extract_test_results`: Parse test execution results\n- `filter_log_sections`: Extract specific log sections\n- `search_logs`: Search across multiple logs\n\n## Development\n\n```bash\n# Run tests\npython -m unittest discover test\n\n# Type checking\nmypy -p pytorch_hud -",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:32:52.597018"
 }

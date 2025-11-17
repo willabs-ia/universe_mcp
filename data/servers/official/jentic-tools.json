@@ -7,10 +7,27 @@
   "weekly_metric": null,
   "release_date": "May 10, 2025",
   "url": "https://www.pulsemcp.com/servers/jentic-tools",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/jentic/jentic-sdks",
+  "categories": [
+    "documentation",
+    "workflow",
+    "security",
+    "git",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:34.349709",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 22,
+    "runtime": "Python",
+    "readme_excerpt": "# Jentic SDK & MCP Plugin [Beta] ![PyPI](https://img.shields.io/pypi/v/jentic?logo=pypi&color=blue)\n\nJentic empowers AI-agent builders to discover and integrate external APIs and workflows rapidly—without writing or maintaining any API-specific code.\n\nThis mono-repo contains:\n\n- **Jentic SDK** – a Python library for searching, loading and executing APIs / workflows, plus helpers for turning those actions into LLM tools.\n- **Jentic MCP Plugin** – an MCP server that exposes the same capabilities to any MCP-compatible client (Windsurf, Claude Desktop, Cursor, …).\n\nSee the dedicated READMEs for full details:\n\n- [`python/README.md`](./python/README.md) – SDK usage & API reference\n- [`mcp/README.md`](./mcp/README.md) – MCP server setup & configuration\n\nThe SDK is backed by the data in the [Jentic Public APIs](https://github.com/jentic/jentic-public-apis) repository.\n\n## Quick start\n\n### 1. Install Python package\n\n```bash\npip install jentic\n```\n\n### 2. Obtain your Agent API Key\n\nVisit https://app.jentic.com/sign-in to create an agent and copy the key.\n\n\n```bash\nexport JENTIC_AGENT_API_KEY=<your-agent-api-key>\n```\n\n### 3. Use the SDK\n\n```python\nimport asyncio\nfrom jentic import Jentic, SearchRequest, LoadRequest, ExecutionRequest\n\nasync def main():\n    client = Jentic()\n\n    # 1️⃣ find a capability\n    results = await client.search(SearchRequest(query=\"send a Discord DM\"))\n    entity_id = search.results[0].id  # op_... or wf_...\n\n    # 2️⃣ load details (inspect schemas / auth, see in",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:33:00.332393"
 }

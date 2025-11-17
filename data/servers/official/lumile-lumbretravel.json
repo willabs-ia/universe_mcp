@@ -7,10 +7,20 @@
   "weekly_metric": null,
   "release_date": "Feb 4, 2025",
   "url": "https://www.pulsemcp.com/servers/lumile-lumbretravel",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/lumile/lumbretravel-mcp",
+  "categories": [
+    "api",
+    "development",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:55.083915",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 1,
+    "runtime": "Node.js",
+    "readme_excerpt": "![](https://badge.mcpx.dev?type=server 'MCP Server')\n[![smithery badge](https://smithery.ai/badge/@lumile/lumbretravel-mcp)](https://smithery.ai/server/@lumile/lumbretravel-mcp)\n\n# LumbreTravel MCP Server\n\nAn MCP server that provides access to LumbreTravel API.\n\n[LumbreTravel](https://lumbretravel.com.ar/) is a platform for managing travel programs and activities and this is the MCP server for it.  That allows you to use it on [Claude Desktop](https://claude.ai/download) or other MCP clients.\n\n## Features\n\nThis MCP Server allows access to all the tools that LumbreTravel API provides.\n\n### Tools\n\n#### Programs\n\n- `create_program` - Create a new program\n- `update_program` - Update an existing program\n- `delete_program` - Delete a program\n- `reactivate_program` - Reactivate a program\n\n#### Activities\n\n- `add_activities` - Add activities to a program\n- `update_activities` - Update activities of a program\n- `delete_activities` - Delete activities of a program\n\n#### Passengers\n\n- `get_passengers_by_fullname` - Get passengers by fullname\n- `get_passengers_by_email` - Get passengers by email\n- `create_bulk_passengers` - Create bulk passengers\n- `create_passengers` - Create passengers\n- `update_passengers` - Update passengers\n- `delete_passengers` - Delete passengers\n- `reactivate_passenger` - Reactivate a passenger\n- `add_passengers_to_program` - Add passengers to a program\n\n#### Agencies\n\n- `get_agencies` - Get agencies\n- `get_agency_by_name` - Get an agency by name\n- `create_agency",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:35:25.571105"
 }

@@ -10,10 +10,36 @@
   },
   "release_date": "May 29, 2025",
   "url": "https://www.pulsemcp.com/servers/google-cloud-run",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/googlecloudplatform/cloud-run-mcp",
+  "categories": [
+    "documentation",
+    "git",
+    "cloud",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:22.707133",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 465,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Cloud Run MCP server and Gemini CLI extension\n\nEnable MCP-compatible AI agents to deploy apps to Cloud Run.\n\n```json\n\"mcpServers\":{\n  \"cloud-run\": {\n    \"command\": \"npx\",\n    \"args\": [\"-y\", \"@google-cloud/cloud-run-mcp\"]\n  }\n}\n```\n\nDeploy from Gemini CLI and other AI-powered CLI agents:\n\n<img  src=\"https://raw.githubusercontent.com/GoogleCloudPlatform/cloud-run-mcp/refs/heads/main/.github/images/deploycli.gif\" width=\"800\">\n\nDeploy from AI-powered IDEs:\n\n<img src=\"https://raw.githubusercontent.com/GoogleCloudPlatform/cloud-run-mcp/refs/heads/main/.github/images/deploy_from_ide.gif\" width=\"800\">\n\nDeploy from AI assistant apps:\n\n<img src=\"https://raw.githubusercontent.com/GoogleCloudPlatform/cloud-run-mcp/refs/heads/main/.github/images/deploy_from_apps.gif\" width=\"800\">\n\nDeploy from agent SDKs, like the [Google Gen AI SDK](https://ai.google.dev/gemini-api/docs/function-calling?example=meeting#use_model_context_protocol_mcp) or [Agent Development Kit](https://google.github.io/adk-docs/tools/mcp-tools/).\n\n> [!NOTE]  \n> This is the repository of an MCP server to deploy code to Cloud Run, to learn how to **host** MCP servers on Cloud Run, [visit the Cloud Run documentation](https://cloud.google.com/run/docs/host-mcp-servers).\n\n## Tools\n\n- `deploy-file-contents`: Deploys files to Cloud Run by providing their contents directly.\n- `list-services`: Lists Cloud Run services in a given project and region.\n- `get-service`: Gets details for a specific Cloud Run service.\n- `get-service-log",
+    "language": "JavaScript",
+    "license": "Apache License 2.0",
+    "forks": 77,
+    "open_issues": 22,
+    "last_pushed": "2025-11-17T09:37:16Z",
+    "topics": [
+      "google-cloud",
+      "google-cloud-run",
+      "mcp",
+      "mcp-server"
+    ],
+    "quality_score": 70
+  },
+  "enriched_at": "2025-11-17T18:30:36.440989"
 }

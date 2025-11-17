@@ -10,10 +10,33 @@
   },
   "release_date": "Feb 22, 2025",
   "url": "https://www.pulsemcp.com/servers/dart-project-management",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/its-dart/dart-mcp-server",
+  "categories": [
+    "git",
+    "development",
+    "api",
+    "ai",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:45.791020",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 120,
+    "runtime": "Node.js",
+    "readme_excerpt": "<div align=\"center\">\n  <h1>Dart MCP Server</h1>\n  <p>\n    <a href=\"https://npmjs.com/package/dart-mcp-server\"><img src=\"https://img.shields.io/npm/v/dart-mcp-server\" alt=\"NPM\"></a>\n    <a href=\"LICENSE\"><img src=\"https://img.shields.io/github/license/its-dart/dart-mcp-server\" alt=\"License\"></a>\n  </p>\n</div>\n\n[Dart](https://dartai.com?nr=1) is Project Management powered by AI.\n\n> [!WARNING]\n> The Dart local MCP server is deprecated in favor of the simplified and improved hosted Dart MCP server, which you can [configure with these instructions](https://help.dartai.com/en/articles/10733406).\n\n<details>\n<summary>Deprecated information</summary>\n`dart-mcp-server` is the official AI [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol) server for Dart.\n\n- [Features](#features)\n  - [Prompts](#prompts)\n  - [Resource templates](#resource-templates)\n  - [Tools](#tools)\n    - [Task management](#task-management)\n    - [Document management](#document-management)\n- [Setup](#setup)\n  - [Find the MCP settings file for the client](#find-the-mcp-settings-file-for-the-client)\n    - [Claude Desktop](#claude-desktop)\n    - [Claude Code](#claude-code)\n    - [Cursor](#cursor)\n    - [Cline](#cline)\n    - [Windsurf](#windsurf)\n    - [Any other client](#any-other-client)\n  - [Set up the MCP server](#set-up-the-mcp-server)\n  - [Variant: setup with Docker](#variant-setup-with-docker)\n- [Help and Resources](#help-and-resources)\n- [Contributing](#contributing)\n- [License](#license)\n\n## ",
+    "language": "TypeScript",
+    "license": "MIT License",
+    "forks": 29,
+    "open_issues": 3,
+    "last_pushed": "2025-09-19T14:16:42Z",
+    "topics": [
+      "ai",
+      "dart",
+      "mcp",
+      "server"
+    ],
+    "quality_score": 74
+  },
+  "enriched_at": "2025-11-17T18:27:06.910330"
 }

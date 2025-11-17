@@ -10,10 +10,34 @@
   },
   "release_date": "Apr 7, 2025",
   "url": "https://www.pulsemcp.com/servers/elevenlabs",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/elevenlabs/elevenlabs-mcp",
+  "categories": [
+    "workflow",
+    "testing",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:27.142654",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 1062,
+    "runtime": "Python",
+    "readme_excerpt": "![export](https://github.com/user-attachments/assets/ee379feb-348d-48e7-899c-134f7f7cd74f)\n\n<div class=\"title-block\" style=\"text-align: center;\" align=\"center\">\n\n  [![Discord Community](https://img.shields.io/badge/discord-@elevenlabs-000000.svg?style=for-the-badge&logo=discord&labelColor=000)](https://discord.gg/elevenlabs)\n  [![Twitter](https://img.shields.io/badge/Twitter-@elevenlabsio-000000.svg?style=for-the-badge&logo=twitter&labelColor=000)](https://x.com/ElevenLabsDevs)\n  [![PyPI](https://img.shields.io/badge/PyPI-elevenlabs--mcp-000000.svg?style=for-the-badge&logo=pypi&labelColor=000)](https://pypi.org/project/elevenlabs-mcp)\n  [![Tests](https://img.shields.io/badge/tests-passing-000000.svg?style=for-the-badge&logo=github&labelColor=000)](https://github.com/elevenlabs/elevenlabs-mcp-server/actions/workflows/test.yml)\n\n</div>\n\n\n<p align=\"center\">\n  Official ElevenLabs <a href=\"https://github.com/modelcontextprotocol\">Model Context Protocol (MCP)</a> server that enables interaction with powerful Text to Speech and audio processing APIs. This server allows MCP clients like <a href=\"https://www.anthropic.com/claude\">Claude Desktop</a>, <a href=\"https://www.cursor.so\">Cursor</a>, <a href=\"https://codeium.com/windsurf\">Windsurf</a>, <a href=\"https://github.com/openai/openai-agents-python\">OpenAI Agents</a> and others to generate speech, clone voices, transcribe audio, and more.\n</p>\n\n<!--\nmcp-name: io.github.elevenlabs/elevenlabs-mcp\n-->\n\n## Quickstart with Claude Desktop\n",
+    "language": "Python",
+    "license": "MIT License",
+    "forks": 179,
+    "open_issues": 6,
+    "last_pushed": "2025-11-17T13:41:54Z",
+    "topics": [
+      "elevenlabs",
+      "elevenlabs-api",
+      "mcp"
+    ],
+    "quality_score": 79
+  },
+  "enriched_at": "2025-11-17T18:28:33.406665"
 }

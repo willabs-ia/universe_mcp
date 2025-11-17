@@ -7,10 +7,17 @@
   "weekly_metric": null,
   "release_date": "Mar 18, 2025",
   "url": "https://www.pulsemcp.com/servers/lingo-translation",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/lingodotdev/lingo.dev/blob/main/mcp.md",
+  "categories": [
+    "data",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:07.928138",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 5000,
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:34:56.892772"
 }

@@ -10,10 +10,22 @@
   },
   "release_date": "Apr 15, 2025",
   "url": "https://www.pulsemcp.com/servers/klavis-strata",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/klavis-ai/klavis",
+  "categories": [
+    "documentation",
+    "api",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:18.084007",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 5500,
+    "runtime": "Python",
+    "readme_excerpt": "<div align=\"center\">\n  <picture>\n    <img src=\"./docs/images/logo/cover.png\" width=\"100%\">\n  </picture>\n</div>\n\n<div align=\"center\">\n\n[![Documentation](https://img.shields.io/badge/Documentation-📖-green)](https://www.klavis.ai/docs)\n[![Website](https://img.shields.io/badge/Website-🌐-purple)](https://www.klavis.ai)\n[![Discord](https://img.shields.io/badge/Discord-Join-7289DA?logo=discord&logoColor=white)](https://discord.gg/p7TuTEcssn)\n\n<a href=\"https://www.producthunt.com/products/strata-2?embed=true&utm_source=badge-top-post-badge&utm_medium=badge&utm_source=badge-strata&#0045;2\" target=\"_blank\"><img src=\"https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=1016948&theme=light&period=daily&t=1758639605639\" alt=\"Strata - One&#0032;MCP&#0032;server&#0032;for&#0032;AI&#0032;agents&#0032;to&#0032;handle&#0032;thousands&#0032;of&#0032;tools | Product Hunt\" style=\"width: 250px; height: 54px;\" width=\"250\" height=\"54\" /></a>\n\n</div>\n\n## 🎯 Choose Your Solution\n\n<div align=\"center\">\n  <table>\n    <tr>\n      <td align=\"center\" width=\"50%\" valign=\"top\" style=\"vertical-align: top; height: 250px;\">\n        <div style=\"height: 100%; display: flex; flex-direction: column; justify-content: space-between;\">\n          <div>\n            <h2>📦 Strata</h2>\n            <p><strong>off-the-shelf intelligent connectors for your AI agent</strong></p>\n          </div>\n          <div>\n            <a href=\"https://www.klavis.ai/docs/concepts/strata\">\n              <img src=\"https",
+    "quality_score": 60
+  },
+  "enriched_at": "2025-11-17T18:34:07.995533"
 }

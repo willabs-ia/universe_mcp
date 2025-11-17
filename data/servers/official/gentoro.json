@@ -10,10 +10,14 @@
   },
   "release_date": "Dec 17, 2024",
   "url": "https://www.pulsemcp.com/servers/gentoro",
-  "source_url": null,
+  "source_url": "https://github.com/gentoro-GT",
   "categories": [],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:52.277186",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 5,
+    "quality_score": 30
+  },
+  "enriched_at": "2025-11-17T18:30:13.465539"
 }

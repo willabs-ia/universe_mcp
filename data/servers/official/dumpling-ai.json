@@ -10,10 +10,38 @@
   },
   "release_date": "Mar 26, 2025",
   "url": "https://www.pulsemcp.com/servers/dumpling-ai",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/dumplingai/mcp-server-dumplingai",
+  "categories": [
+    "search",
+    "development",
+    "api",
+    "ai",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:27.997852",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 28,
+    "capabilities": [
+      "Complete integration with all Dumpling AI API endpoints",
+      "Web scraping with support for scraping, crawling, screenshots, and structured data extraction",
+      "Extract data from documents, images, audio, and video",
+      "Automatic error handling and detailed response formatting",
+      "Data APIs for YouTube transcripts, search, autocomplete, maps, places, news, and reviews",
+      "Developer tools for running JavaScript and Python code in a secure environment",
+      "Document conversion tools for text extraction, PDF operations, video processing",
+      "AI capabilities including agent completions, knowledge base management, and image generation"
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "# Dumpling AI MCP Server\n\nA Model Context Protocol (MCP) server implementation that integrates with Dumpling AI for data scraping, content processing, knowledge management, AI agents, and code execution capabilities.\n\n[![smithery badge](https://smithery.ai/badge/@Dumpling-AI/mcp-server-dumplingai)](https://smithery.ai/server/@Dumpling-AI/mcp-server-dumplingai)\n\n## Features\n\n- Complete integration with all Dumpling AI API endpoints\n- Data APIs for YouTube transcripts, search, autocomplete, maps, places, news, and reviews\n- Web scraping with support for scraping, crawling, screenshots, and structured data extraction\n- Document conversion tools for text extraction, PDF operations, video processing\n- Extract data from documents, images, audio, and video\n- AI capabilities including agent completions, knowledge base management, and image generation\n- Developer tools for running JavaScript and Python code in a secure environment\n- Automatic error handling and detailed response formatting\n\n## Installation\n\n### Installing via Smithery\n\nTo install mcp-server-dumplingai for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@Dumpling-AI/mcp-server-dumplingai):\n\n```bash\nnpx -y @smithery/cli install @Dumpling-AI/mcp-server-dumplingai --client claude\n```\n\n### Running with npx\n\n```bash\nenv DUMPLING_API_KEY=your_api_key npx -y mcp-server-dumplingai\n```\n\n### Manual Installation\n\n```bash\nnpm install -g mcp-server-dumplingai\n```\n\n### Running on Cursor\n\nConfiguring Cursor 🖥️ ",
+    "language": "JavaScript",
+    "license": "MIT License",
+    "forks": 7,
+    "open_issues": 7,
+    "last_pushed": "2025-07-10T00:42:33Z",
+    "topics": [],
+    "quality_score": 72
+  },
+  "enriched_at": "2025-11-17T18:28:15.582738"
 }

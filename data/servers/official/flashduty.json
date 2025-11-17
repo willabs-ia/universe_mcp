@@ -7,10 +7,32 @@
   "weekly_metric": null,
   "release_date": "Jul 4, 2025",
   "url": "https://www.pulsemcp.com/servers/flashduty",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/flashcatcloud/flashduty-mcp-server",
+  "categories": [
+    "documentation",
+    "workflow",
+    "testing",
+    "security",
+    "cloud",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:54.088704",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 1,
+    "readme_excerpt": "# Flashduty MCP Server\n\nEnglish | [中文](README_zh.md)\n\nThe Flashduty MCP Server is a [Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction) server that provides seamless integration with Flashduty APIs, enabling advanced incident management and automation capabilities for developers and tools.\n\n### Use Cases\n\n- Automating Flashduty workflows and processes.\n- Extracting and analyzing data from Flashduty.\n- Building AI-powered tools and applications that interact with Flashduty.\n\n---\n\n## Remote Flashduty MCP Server\n\n[![Install in Cursor](https://img.shields.io/badge/Cursor-Install_Server-24bfa5?style=flat-square&logo=visualstudiocode&logoColor=white)](#remote-cursor)\n\nThe remote Flashduty MCP Server provides the easiest method for getting up and running with Flashduty integration. If your MCP host does not support remote MCP servers, you can use the [local version of the Flashduty MCP Server](#local-flashduty-mcp-server) instead.\n\n### Prerequisites\n\n1. An MCP host that supports the latest MCP specification and remote servers, such as [Cursor](https://www.cursor.com/).\n2. A Flashduty APP key from your Flashduty account.\n\n### Installation\n\n<span id=\"remote-cursor\"></span>\n\n#### For example, with Cursor:\n\nFor Cursors that support Remote MCP, use the following configuration:\n\n```json\n{\n  \"mcpServers\": {\n    \"flashduty\": {\n      \"url\": \"https://mcp.flashcat.cloud/flashduty\",\n      \"authorization_token\": \"Bearer <your_flashduty_app_key>\"\n    }\n  }\n}\n```\n\n> **Note",
+    "language": "Go",
+    "license": "MIT License",
+    "forks": 1,
+    "open_issues": 6,
+    "last_pushed": "2025-11-10T18:40:03Z",
+    "topics": [],
+    "quality_score": 64
+  },
+  "enriched_at": "2025-11-17T18:29:41.651923"
 }

@@ -10,10 +10,38 @@
   },
   "release_date": "May 27, 2025",
   "url": "https://www.pulsemcp.com/servers/hashicorp-terraform-registry",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/hashicorp/terraform-mcp-server",
+  "categories": [
+    "documentation",
+    "workflow",
+    "security",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:20.299784",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 1059,
+    "capabilities": [
+      "**Terraform Registry Integration**: Direct integration with public Terraform Registry APIs for providers, modules, and policies",
+      "**HCP Terraform & Terraform Enterprise Support**: Full workspace management, organization/project listing, and private registry access",
+      "**Dual Transport Support**: Both Stdio and StreamableHTTP transports with configurable endpoints",
+      "**Workspace Operations**: Create, update, delete workspaces with support for variables, tags, and run management"
+    ],
+    "runtime": "Rust",
+    "readme_excerpt": "# <img src=\"public/images/Terraform-LogoMark_onDark.svg\" width=\"30\" align=\"left\" style=\"margin-right: 12px;\"/> Terraform MCP Server\n\nThe Terraform MCP Server is a [Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction)\nserver that provides seamless integration with Terraform Registry APIs, enabling advanced\nautomation and interaction capabilities for Infrastructure as Code (IaC) development.\n\n## Features\n\n- **Dual Transport Support**: Both Stdio and StreamableHTTP transports with configurable endpoints\n- **Terraform Registry Integration**: Direct integration with public Terraform Registry APIs for providers, modules, and policies\n- **HCP Terraform & Terraform Enterprise Support**: Full workspace management, organization/project listing, and private registry access\n- **Workspace Operations**: Create, update, delete workspaces with support for variables, tags, and run management\n\n> **Security Note:** At this stage, the MCP server is intended for local use only. If using the StreamableHTTP transport, always configure the MCP_ALLOWED_ORIGINS environment variable to restrict access to trusted origins only. This helps prevent DNS rebinding attacks and other cross-origin vulnerabilities.\n\n> **Security Note:** Depending on the query, the MCP server may expose certain Terraform data to the MCP client and LLM. Do not use the MCP server with untrusted MCP clients or LLMs.\n\n> **Legal Note:** Your use of a third party MCP Client/LLM is subject solely to the terms of u",
+    "language": "Go",
+    "license": "Mozilla Public License 2.0",
+    "forks": 106,
+    "open_issues": 13,
+    "last_pushed": "2025-11-12T12:26:13Z",
+    "topics": [],
+    "quality_score": 89
+  },
+  "enriched_at": "2025-11-17T18:31:22.128361"
 }

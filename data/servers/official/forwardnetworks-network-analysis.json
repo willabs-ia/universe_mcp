@@ -7,10 +7,41 @@
   "weekly_metric": null,
   "release_date": "Jun 25, 2025",
   "url": "https://www.pulsemcp.com/servers/forwardnetworks-network-analysis",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/forwardnetworks/forward-mcp",
+  "categories": [
+    "workflow",
+    "git",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:51.986423",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 3,
+    "capabilities": [
+      "**NEW**: Automatic bloom filter generation for fast data filtering",
+      "Exposes Forward Networks tools via the MCP protocol (55+ tools)",
+      "**NEW**: Persistent bloom indexes for network analysis",
+      "**NEW**: Instance lock protection prevents multiple server instances",
+      "**NEW**: Additional API functions for snapshot, location, and device management",
+      "Supports prompt workflows and contextual resources",
+      "Designed for easy integration and automation",
+      "**NEW**: Bloomsearch integration for efficient handling of large NQE results"
+    ],
+    "readme_excerpt": "# Forward MCP\n\n**Version 2.2.0**\n\nForward MCP is an open-source server that provides a set of tools and APIs for interacting with Forward Networks' platform. It enables automation, analysis, and integration with network data using the MCP protocol.\n\n## Features\n- Exposes Forward Networks tools via the MCP protocol (55+ tools)\n- Supports prompt workflows and contextual resources\n- **NEW**: Instance lock protection prevents multiple server instances\n- **NEW**: Additional API functions for snapshot, location, and device management\n- **NEW**: Bloomsearch integration for efficient handling of large NQE results\n- **NEW**: Automatic bloom filter generation for fast data filtering\n- **NEW**: Persistent bloom indexes for network analysis\n- Designed for easy integration and automation\n\n## High-Level Architecture\n- **cmd/server/main.go**: Entry point for the server. Initializes configuration, logging, and registers tools, prompts, and resources.\n- **internal/service**: Implements the core Forward MCP service logic.\n- **internal/service/bloom_search.go**: Bloomsearch integration for large result handling.\n- **internal/config**: Handles configuration loading (API URL, credentials, etc).\n- **internal/logger**: Provides logging utilities.\n\n## Prerequisites\n- Go 1.20 or later\n- Access to Forward Networks API (API URL and API Key)\n\n## Build Instructions\n```sh\ngit clone https://github.com/forward-mcp/forward-mcp.git\ncd forward-mcp\ngo build -o forward-mcp ./cmd/server\n```\n\n## Run Instructions\nS",
+    "language": "Go",
+    "license": "MIT License",
+    "forks": 2,
+    "open_issues": 0,
+    "last_pushed": "2025-11-12T18:22:10Z",
+    "topics": [],
+    "quality_score": 80
+  },
+  "enriched_at": "2025-11-17T18:29:52.219483"
 }

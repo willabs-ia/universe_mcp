@@ -10,10 +10,35 @@
   },
   "release_date": "Dec 1, 2024",
   "url": "https://www.pulsemcp.com/servers/e2b-dev-mcp-server-python",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/e2b-dev/mcp-server/tree/HEAD/packages/python",
+  "categories": [
+    "documentation",
+    "git",
+    "cloud",
+    "development",
+    "api",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:28.868386",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 347,
+    "runtime": "Python",
+    "readme_excerpt": "![E2B MCP Server Preview Light](/readme-assets/mcp-server-light.png#gh-light-mode-only)\n![E2B MCP Server Preview Dark](/readme-assets/mcp-server-dark.png#gh-dark-mode-only)\n\n# E2B MCP Server\n\n[![smithery badge](https://smithery.ai/badge/e2b)](https://smithery.ai/server/e2b)\n\nThis repository contains the source code for the [E2B](https://e2b.dev) MCP server.\n\nThe E2B MCP server allows you to add [code interpreting capabilities](https://github.com/e2b-dev/code-interpreter) to your Claude Desktop app via the E2B Sandbox. See demo [here](https://x.com/mishushakov/status/1863286108433317958).\n\n\nAvailable in two editions:\n\n- [JavaScript](packages/js/README.md)\n\n- [Python](packages/python/README.md)\n\n\n### Installing via Smithery\n\nYou can also install E2B for Claude Desktop automatically via [Smithery](https://smithery.ai/server/e2b):\n\n```bash\nnpx @smithery/cli install e2b --client claude\n```\n",
+    "language": "JavaScript",
+    "license": "Apache License 2.0",
+    "forks": 56,
+    "open_issues": 4,
+    "last_pushed": "2025-11-05T15:03:59Z",
+    "topics": [
+      "anthropic",
+      "claude",
+      "claude-3-5-sonnet",
+      "claude-ai",
+      "model-context-protocol"
+    ],
+    "quality_score": 77
+  },
+  "enriched_at": "2025-11-17T18:28:23.486792"
 }

@@ -7,10 +7,36 @@
   "weekly_metric": null,
   "release_date": "May 8, 2025",
   "url": "https://www.pulsemcp.com/servers/datastrato-gravitino",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/datastrato/mcp-server-gravitino",
+  "categories": [
+    "security",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:32.230248",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 19,
+    "capabilities": [
+      "Simplified interface for metadata interaction",
+      "Seamless integration with FastMCP for Gravitino APIs",
+      "Supports metadata operations for catalogs, schemas, tables, models, users, tags, and user-role management"
+    ],
+    "runtime": "Python",
+    "readme_excerpt": "# MCP Server for Apache Gravitino\n\n[![Python Version](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)\n\nMCP server providing Gravitino APIs - A FastMCP integration for Apache Gravitino services.\n\n## Features\n\n* Seamless integration with [FastMCP](https://github.com/jlowin/fastmcp) for Gravitino APIs\n* Simplified interface for metadata interaction\n* Supports metadata operations for catalogs, schemas, tables, models, users, tags, and user-role management\n\n## Installation\n\nThis project uses [uv](https://github.com/astral-sh/uv) as the dependency and virtual environment management tool. Please ensure `uv` is installed on your system.\n\n1. Clone the repository:\n\n   ```bash\n   git clone git@github.com:datastrato/mcp-server-gravitino.git\n   ```\n\n2. Navigate into the project directory:\n\n   ```bash\n   cd mcp-server-gravitino\n   ```\n\n3. Create a virtual environment:\n\n   ```bash\n   uv venv\n   ```\n\n4. Activate the virtual environment:\n\n   ```bash\n   source .venv/bin/activate\n   ```\n\n5. Install dependencies:\n\n   ```bash\n   uv install\n   ```\n\n## Configuration\n\n### Common Configuration\n\nRegardless of the Authorization, the following environment variables need to be set:\n\n```bash\nGRAVITINO_METALAKE=<YOUR_METALAKE> # default: \"metalake_demo\"\nGRAVITINO_URI=<YOUR_GRAVITINO_URI>\n```\n\n* `GRAVITINO_URI`: The base URL of your Gravitino server.\n* `GRAVITINO_METALAKE`: The name of the metakube to use.\n\n### Authorization\n\n`mcp-server-gravitino` supports both token",
+    "language": "Python",
+    "license": "Apache License 2.0",
+    "forks": 6,
+    "open_issues": 1,
+    "last_pushed": "2025-07-03T02:02:29Z",
+    "topics": [],
+    "quality_score": 75
+  },
+  "enriched_at": "2025-11-17T18:27:25.205482"
 }

@@ -7,10 +7,32 @@
   "weekly_metric": null,
   "release_date": "Mar 25, 2025",
   "url": "https://www.pulsemcp.com/servers/iflytek-workflow",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/iflytek/ifly-workflow-mcp-server",
+  "categories": [
+    "documentation",
+    "workflow",
+    "testing",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:50.789947",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 26,
+    "runtime": "Node.js",
+    "readme_excerpt": "<p align=\"center\">\n  <a href=\"https://xinghuo.xfyun.cn/botcenter/createbot\"><img src=\"https://openres.xfyun.cn/xfyundoc/2024-04-26/1396db8a-313b-40f5-be2a-5babcad9cd64/1714102184743/sparklogo.svg\"></a>\n</p>\n<p align=\"center\">\n    The fastest way to build workflows with an AI agent platform!\n</p>\n<p align=\"center\">\n  <a href=\"https://github.com/iflytek/ifly-workflow-mcp-server/blob/main/LICENSE\" target=\"_blank\">\n      <img src=\"https://img.shields.io/static/v1?label=license&message=MIT licensed&color=white\" alt=\"License\">\n  </a> |\n  <a href=\"https://xinghuo.xfyun.cn/botcenter/createbot\" target=\"_blank\">\n      Docs\n  </a> |\n  <a href=\"https://xinghuo.xfyun.cn/botcenter/createbot\" target=\"_blank\">\n      Homepage\n  </a>\n</p>\n\n# iFlytek Workflow MCP Server\n\n[The Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction) is an open protocol designed for effortless integration between LLM applications and external data sources or tools, offering a standardized framework to seamlessly provide LLMs with the context they require.\n\nThis a simple implementation of an MCP server using iFlytek. It enables calling iFlytek workflows through MCP tools.\n\n## Features\n\n### Functional Overview\n\nThis system is built on the iFlytek MCP server and enables intelligent workflow scheduling, making it suitable for various business scenarios.\n\n- **Workflow Structure**: Composed of multiple nodes, supporting 14 types of nodes (including basic, tool, logic, and transformation types).\n- **C",
+    "language": "Python",
+    "license": "MIT License",
+    "forks": 4,
+    "open_issues": 3,
+    "last_pushed": "2025-03-28T02:09:46Z",
+    "topics": [],
+    "quality_score": 62
+  },
+  "enriched_at": "2025-11-17T18:32:13.491763"
 }

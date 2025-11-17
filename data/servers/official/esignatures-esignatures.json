@@ -7,10 +7,24 @@
   "weekly_metric": null,
   "release_date": "Jan 25, 2025",
   "url": "https://www.pulsemcp.com/servers/esignatures-esignatures",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/esignaturescom/mcp-server-esignatures",
+  "categories": [
+    "api",
+    "testing"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:52.936509",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 30,
+    "readme_excerpt": "# mcp-server-esignatures MCP server\n\nMCP server for eSignatures (https://esignatures.com)\n\n## Tools\n\n\n| Tool                           | Category      | Description                        |\n|--------------------------------|---------------|------------------------------------|\n| `create_contract`              | Contracts     | Draft for review or send contract  |\n| `query_contract`               | Contracts     | Retrieve contract info             |\n| `withdraw_contract`            | Contracts     | Withdraw an unsigned contract      |\n| `delete_contract`              | Contracts     | Delete a draft or test contract    |\n| `list_recent_contracts`        | Contracts     | List the recent contracts          |\n|                                |               |                                    |\n| `create_template`              | Templates     | Create a new contract template     |\n| `update_template`              | Templates     | Update an existing template        |\n| `query_template`               | Templates     | Retrieve template content and info |\n| `delete_template`              | Templates     | Delete a template                  |\n| `list_templates`               | Templates     | List all your templates            |\n|                                |               |                                    |\n| `add_template_collaborator`    | Collaborators | Invite someone to edit a template  |\n| `remove_template_collaborator` | Collaborators | Revoke template editing rig",
+    "language": "Python",
+    "license": "MIT License",
+    "forks": 13,
+    "open_issues": 4,
+    "last_pushed": "2025-10-01T07:26:21Z",
+    "topics": [],
+    "quality_score": 69
+  },
+  "enriched_at": "2025-11-17T18:28:52.362487"
 }

@@ -10,10 +10,30 @@
   },
   "release_date": "May 14, 2025",
   "url": "https://www.pulsemcp.com/servers/gleanwork-enterprise-knowledge",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/gleanwork/mcp-server",
+  "categories": [
+    "documentation",
+    "workflow",
+    "git",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:06.227178",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 50,
+    "readme_excerpt": "# Glean Local MCP Server Monorepo\n\n![MCP Server](https://badge.mcpx.dev?type=server 'MCP Server')\n![CI Build](https://github.com/gleanwork/mcp-server/actions/workflows/ci.yml/badge.svg)\n[![npm version](https://badge.fury.io/js/@gleanwork%2Fmcp-server.svg)](https://badge.fury.io/js/@gleanwork%2Fmcp-server)\n[![License](https://img.shields.io/npm/l/@gleanwork%2Fmcp-server.svg)](https://github.com/gleanwork/mcp-server/blob/main/LICENSE)\n\nThis monorepo contains packages for Glean's local MCP server. For more details see the READMEs of the individual packages.\n\n- [@gleanwork/configure-mcp-server](https://github.com/gleanwork/configure-mcp-server) for configuring the local MCP server with popular MCP clients.\n- [@gleanwork/local-mcp-server](https://github.com/gleanwork/mcp-server/tree/main/packages/local-mcp-server) on running the local MCP server.\n\n## Contributing\n\nPlease see [CONTRIBUTING.md](CONTRIBUTING.md) for development setup and guidelines.\n\n## License\n\nMIT License - see the [LICENSE](LICENSE) file for details\n\n## Support\n\n- Documentation: [docs.glean.com](https://docs.glean.com)\n- Issues: [GitHub Issues](https://github.com/gleanwork/mcp-server/issues)\n- Email: [support@glean.com](mailto:support@glean.com)\n",
+    "language": "TypeScript",
+    "license": "MIT License",
+    "forks": 20,
+    "open_issues": 9,
+    "last_pushed": "2025-11-05T16:10:07Z",
+    "topics": [],
+    "quality_score": 69
+  },
+  "enriched_at": "2025-11-17T18:30:23.819281"
 }

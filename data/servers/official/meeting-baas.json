@@ -7,10 +7,26 @@
   "weekly_metric": null,
   "release_date": "Mar 8, 2025",
   "url": "https://www.pulsemcp.com/servers/meeting-baas",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/meeting-baas/meeting-mcp",
+  "categories": [
+    "security",
+    "git",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:01.390966",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 21,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Meeting BaaS MCP Server\n[![Project Logo](MCPServer@2x.png)](https://meetingBaaS.com)\n\n<p align=\"center\"><a href=\"https://discord.com/invite/dsvFgDTr6c\"><img height=\"60px\" src=\"https://user-images.githubusercontent.com/31022056/158916278-4504b838-7ecb-4ab9-a900-7dc002aade78.png\" alt=\"Join our Discord!\"></a></p>\n\nA Model Context Protocol (MCP) server that provides tools for managing meeting data, including transcripts, recordings, calendar events, and search functionality.\n\n## QUICK START: Claude Desktop Integration\n\nTo use Meeting BaaS with Claude Desktop:\n\n1. Edit the Claude Desktop configuration file:\n   ```bash\n   vim ~/Library/Application\\ Support/Claude/claude_desktop_config.json\n   ```\n\n2. Add the Meeting BaaS configuration:\n   ```json\n   \"meetingbaas\": {\n     \"command\": \"/bin/bash\",\n     \"args\": [\n       \"-c\",\n       \"cd /path/to/meeting-mcp && (npm run build 1>&2) && export MCP_FROM_CLAUDE=true && node dist/index.js\"\n     ],\n     \"headers\": {\n       \"x-api-key\": \"YOUR_API_KEY\"\n     }\n   }\n   ```\n\n3. For calendar integration, you can add the `calendarOAuth` section to your `botConfig`:\n   ```json\n   \"botConfig\": {\n     \"calendarOAuth\": {\n       \"platform\": \"Google\",  // or \"Microsoft\"\n       \"clientId\": \"YOUR_OAUTH_CLIENT_ID\",\n       \"clientSecret\": \"YOUR_OAUTH_CLIENT_SECRET\", \n       \"refreshToken\": \"YOUR_REFRESH_TOKEN\",\n       \"rawCalendarId\": \"primary@gmail.com\"  // Optional\n     }\n   }\n   ```\n\n4. Save the file and restart Claude Desktop.\n\n> **Note:** Calendar inte",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:36:15.132781"
 }

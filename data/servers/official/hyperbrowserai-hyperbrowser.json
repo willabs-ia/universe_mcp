@@ -10,10 +10,31 @@
   },
   "release_date": "Mar 17, 2025",
   "url": "https://www.pulsemcp.com/servers/hyperbrowserai-hyperbrowser",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/hyperbrowserai/mcp",
+  "categories": [
+    "documentation",
+    "workflow",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "browser",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:24.653327",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 636,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Hyperbrowser MCP Server\n[![smithery badge](https://smithery.ai/badge/@hyperbrowserai/mcp)](https://smithery.ai/server/@hyperbrowserai/mcp)\n\n![Frame 5](https://github.com/user-attachments/assets/3309a367-e94b-418a-a047-1bf1ad549c0a)\n\nThis is Hyperbrowser's Model Context Protocol (MCP) Server. It provides various tools to scrape, extract structured data, and crawl webpages. It also provides easy access to general purpose browser agents like OpenAI's CUA, Anthropic's Claude Computer Use, and Browser Use.\n\nMore information about the Hyperbrowser can be found [here](https://docs.hyperbrowser.ai/). The hyperbrowser API supports a superset of features present in the mcp server.\n\nMore information about the Model Context Protocol can be found [here](https://modelcontextprotocol.io/introduction).\n\n## Table of Contents\n\n- [Installation](#installation)\n- [Usage](#usage)\n- [Tools](#tools)\n- [Configuration](#configuration)\n- [License](#license)\n\n## Installation\n\n### Manual Installation\nTo install the server, run:\n\n```bash\nnpx hyperbrowser-mcp <YOUR-HYPERBROWSER-API-KEY>\n```\n\n## Running on Cursor\nAdd to `~/.cursor/mcp.json` like this:\n```json\n{\n  \"mcpServers\": {\n    \"hyperbrowser\": {\n      \"command\": \"npx\",\n      \"args\": [\"-y\", \"hyperbrowser-mcp\"],\n      \"env\": {\n        \"HYPERBROWSER_API_KEY\": \"YOUR-API-KEY\"\n      }\n    }\n  }\n}\n```\n\n## Running on Windsurf\nAdd to your `./codeium/windsurf/model_config.json` like this:\n```json\n{\n  \"mcpServers\": {\n    \"hyperbrowser\": {\n      \"command\": \"npx\"",
+    "language": "TypeScript",
+    "license": "MIT License",
+    "forks": 56,
+    "open_issues": 7,
+    "last_pushed": "2025-11-14T07:27:33Z",
+    "topics": [],
+    "quality_score": 74
+  },
+  "enriched_at": "2025-11-17T18:32:00.679016"
 }

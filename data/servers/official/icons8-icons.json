@@ -7,10 +7,38 @@
   "weekly_metric": null,
   "release_date": "Sep 29, 2025",
   "url": "https://www.pulsemcp.com/servers/icons8-icons",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/icons8/icons8-mcp",
+  "categories": [
+    "workflow",
+    "security",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "monitoring"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:31.091701",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 1,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Icons8 MCP server\n\nIcons8 MCP Server gives AI coding environments instant access to 368,865+ Icons8 icons across 116 design styles. Connect your Claude, Cursor, Windsurf, VS Code, or any SSE-capable MCP host to stream high-res PNGs for free or unlock full SVG delivery with an API key—ideal for prototyping, production code, and rapid UI experiments.\n\n### Use cases\n- Replace entire icon sets in existing projects with consistent, on-trend styles.\n- Add icons to bullet lists, feature highlights, process steps, and dashboards without leaving your IDE.\n- Prototype quickly with free PNG previews, then upgrade to SVGs for production-ready assets.\n- Build AI-assisted workflows that search, preview, and drop icons directly into your code.\n- Showcase interactivity with ready-made demos such as falling emojis, sci-fi dashboards, and product catalogs.\n\n---\n\n## How it works\n\nThe Icons8 MCP endpoint is hosted at `https://mcp.icons8.com/mcp/` and works with any MCP client that supports Server-Sent Events.\n\n### Prerequisites\n1. [Node.js](https://nodejs.org/) installed locally.\n2. An MCP-compatible editor or agent host (Claude Code, Cursor, Windsurf, VS Code, etc.).\n\n### Pick your plan\n\n#### Free high-res PNG icons\nUse this configuration to stream PNG previews in high resolution without authentication:\n\n```json\n{\n  \"mcpServers\": {\n    \"icons8mcp\": {\n      \"command\": \"npx\",\n      \"args\": [\n        \"mcp-remote\",\n        \"https://mcp.icons8.com/mcp/\"\n      ]\n    }\n  }\n}\n```\n\n#### Full SVG acces",
+    "language": null,
+    "license": null,
+    "forks": 0,
+    "open_issues": 0,
+    "last_pushed": "2025-09-29T13:32:49Z",
+    "topics": [
+      "icons",
+      "icons-pack",
+      "icons8",
+      "iconset",
+      "mcp",
+      "mcp-server",
+      "vibe-coding"
+    ],
+    "quality_score": 57
+  },
+  "enriched_at": "2025-11-17T18:32:10.959805"
 }

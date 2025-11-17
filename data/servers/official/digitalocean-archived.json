@@ -10,10 +10,31 @@
   },
   "release_date": "Apr 20, 2025",
   "url": "https://www.pulsemcp.com/servers/digitalocean-archived",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/digitalocean/digitalocean-mcp",
+  "categories": [
+    "documentation",
+    "testing",
+    "git",
+    "cloud",
+    "development",
+    "api",
+    "ai",
+    "monitoring"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:27.073759",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 73,
+    "runtime": "Node.js",
+    "readme_excerpt": "# DigitalOcean MCP Server\n\n> **⚠️ ARCHIVE NOTICE**  \n> This repository has been archived. Please use **[@digitalocean-labs/mcp-digitalocean](https://github.com/digitalocean-labs/mcp-digitalocean/)**\n\n[![npm version](https://img.shields.io/npm/v/@digitalocean/mcp.svg)](https://www.npmjs.com/package/@digitalocean/mcp) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)\n\nThis MCP server exposes DigitalOcean App Platform functionality through standardized tools that can be used by any MCP client, including [Claude Desktop](https://claude.ai/download) and [Cursor](https://docs.cursor.com/context/model-context-protocol). It enables AI assistants to directly manage your DigitalOcean apps without writing code or memorizing API endpoints.\n\n## [![Install MCP Server](https://cursor.com/deeplink/mcp-install-dark.svg)](https://cursor.com/install-mcp?name=digitalocean&config=eyJjb21tYW5kIjoibnB4IEBkaWdpdGFsb2NlYW4vbWNwIiwiZW52Ijp7IkRJR0lUQUxPQ0VBTl9BUElfVE9LRU4iOiJZT1VSX0RPX1RPS0VOIn19)\n\n## 📚 Table of Contents\n\n- [🚀 What Can You Do With It?](#-what-can-you-do-with-it)\n- [🧰 Prerequisites](#-prerequisites)\n- [⚙️ Setting up your DigitalOcean MCP Server](#️-setting-up-your-digitalocean-mcp-server)\n\n  - [Generate Your API Token](#1-generate-your-api-token)\n  - [Add the Server to Your MCP Client](#2-add-the-server-to-your-mcp-client)\n  - [Claude Desktop](#claude-desktop)\n  - [Cursor](#cursor)\n  - [Windsurf Setup](#windsurf-setup)\n\n- [💬 Example Prompts](#-example-prompt",
+    "language": "TypeScript",
+    "license": null,
+    "forks": 10,
+    "open_issues": 4,
+    "last_pushed": "2025-07-23T01:36:31Z",
+    "topics": [],
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T18:27:58.021015"
 }

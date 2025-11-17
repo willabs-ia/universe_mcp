@@ -7,10 +7,25 @@
   "weekly_metric": null,
   "release_date": "Jun 20, 2025",
   "url": "https://www.pulsemcp.com/servers/kestra-workflow-orchestration",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/kestra-io/mcp-server-python",
+  "categories": [
+    "documentation",
+    "workflow",
+    "testing",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:49.855246",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 16,
+    "runtime": "Python",
+    "readme_excerpt": "## Kestra Python MCP Server\n\nYou can run the MCP Server in a Docker container. This is useful if you want to avoid managing Python environments or dependencies on your local machine.\n\n### Using Kestra AI Agent\n\nSee [kestra_mcp_docker](docs/flows/kestra_mcp_docker.yaml).\n\n### Minimal configuration for OSS users\n\nPaste the following configuration into your MCP settings (e.g., Cursor, Claude, or VS Code):\n\n```json\n{\n  \"mcpServers\": {\n    \"kestra\": {\n      \"command\": \"docker\",\n      \"args\": [\n        \"run\",\n        \"-i\",\n        \"--rm\",\n        \"--pull\",\n        \"always\",\n        \"-e\",\n        \"KESTRA_BASE_URL\",\n        \"-e\",\n        \"KESTRA_TENANT_ID\",\n        \"-e\",\n        \"KESTRA_MCP_DISABLED_TOOLS\",\n        \"-e\",\n        \"KESTRA_MCP_LOG_LEVEL\",\n        \"-e\",\n        \"KESTRA_USERNAME\",\n        \"-e\",\n        \"KESTRA_PASSWORD\",\n        \"ghcr.io/kestra-io/mcp-server-python:latest\"\n      ],\n      \"env\": {\n        \"KESTRA_BASE_URL\": \"http://host.docker.internal:8080/api/v1\",\n        \"KESTRA_TENANT_ID\": \"main\",\n        \"KESTRA_MCP_DISABLED_TOOLS\": \"ee\",\n        \"KESTRA_MCP_LOG_LEVEL\": \"ERROR\",\n        \"KESTRA_USERNAME\": \"admin@kestra.io\",\n        \"KESTRA_PASSWORD\": \"your_password\"\n      }\n    }\n  }\n}\n```\n\n### Minimal configuration for EE users\n\n```json\n{\n  \"mcpServers\": {\n    \"kestra\": {\n      \"command\": \"docker\",\n      \"args\": [\n        \"run\",\n        \"-i\",\n        \"--rm\",\n        \"--pull\",\n        \"always\",\n        \"-e\", \"KESTRA_BASE_URL\",\n        \"-e\", \"KESTRA_API_TOKEN\",\n       ",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:33:50.220980"
 }

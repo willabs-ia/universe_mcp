@@ -10,10 +10,37 @@
   },
   "release_date": "Apr 9, 2025",
   "url": "https://www.pulsemcp.com/servers/genai-toolbox",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/googleapis/genai-toolbox",
+  "categories": [
+    "documentation",
+    "security",
+    "git",
+    "development",
+    "api",
+    "database",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:13.791114",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 11473,
+    "runtime": "Node.js",
+    "readme_excerpt": "![logo](./logo.png)\n\n# MCP Toolbox for Databases\n\n[![Docs](https://img.shields.io/badge/docs-MCP_Toolbox-blue)](https://googleapis.github.io/genai-toolbox/)\n[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white)](https://discord.gg/Dmm69peqjh)\n[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@mcp_toolbox)\n[![Go Report Card](https://goreportcard.com/badge/github.com/googleapis/genai-toolbox)](https://goreportcard.com/report/github.com/googleapis/genai-toolbox)\n\n> [!NOTE]\n> MCP Toolbox for Databases is currently in beta, and may see breaking\n> changes until the first stable release (v1.0).\n\nMCP Toolbox for Databases is an open source MCP server for databases. It enables\nyou to develop tools easier, faster, and more securely by handling the complexities\nsuch as connection pooling, authentication, and more.\n\nThis README provides a brief overview. For comprehensive details, see the [full\ndocumentation](https://googleapis.github.io/genai-toolbox/).\n\n> [!NOTE]\n> This solution was originally named “Gen AI Toolbox for Databases” as\n> its initial development predated MCP, but was renamed to align with recently\n> added MCP compatibility.\n\n<!-- TOC ignore:true -->\n## Table of Contents\n\n<!-- TOC -->\n\n- [Why Toolbox?](#why-toolbox)\n- [General Architecture](#general-architecture)\n- [Getting Started](#getting-started)\n  - [Installing the server](#installing-the-server)\n  - [Runni",
+    "language": "Go",
+    "license": "Apache License 2.0",
+    "forks": 998,
+    "open_issues": 169,
+    "last_pushed": "2025-11-17T18:07:05Z",
+    "topics": [
+      "databases",
+      "genai",
+      "llms",
+      "mcp"
+    ],
+    "quality_score": 80
+  },
+  "enriched_at": "2025-11-17T18:30:08.534083"
 }

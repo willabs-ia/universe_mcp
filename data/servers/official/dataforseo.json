@@ -10,10 +10,53 @@
   },
   "release_date": "May 10, 2025",
   "url": "https://www.pulsemcp.com/servers/dataforseo",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/dataforseo/mcp-server-typescript",
+  "categories": [
+    "workflow",
+    "git",
+    "search",
+    "development",
+    "api",
+    "database",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:35.908875",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 124,
+    "capabilities": [
+      "**DATAFORSEO LABS API**: data on keywords, SERPs, and domains based on DataForSEO's in-house databases and proprietary algorithms;",
+      "**DOMAIN ANALYTICS API**: data on website traffic, technologies, and Whois details;",
+      "**KEYWORDS_DATA API**: keyword research and clickstream data, including search volume, cost-per-click, and other metrics;",
+      "**AI_OPTIMIZATION API**: provides data for keyword discovery, conversational optimization, and real-time LLM benchmarking;",
+      "**ONPAGE API**: allows crawling websites and webpages according to customizable parameters to obtain on-page SEO performance metrics;",
+      "**BUSINESS DATA API**: publicly available data on any business entity;",
+      "**CONTENT ANALYSIS API**: robust source of data for brand monitoring, sentiment analysis, and citation management;",
+      "**SERP API**: real-time Search Engine Results Page (SERP) data for Google, Bing, and Yahoo;",
+      "**BACKLINKS API**: comprehensive backlink analysis including referring domains, anchor text distribution, and link quality metrics;"
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "# DataForSEO MCP Server\n\nModel Context Protocol (MCP) server implementation for DataForSEO, enabling AI assistants to interact with selected DataForSEO APIs and obtain SEO data through a standardized interface. \n\n## Features\n\n- **AI_OPTIMIZATION API**: provides data for keyword discovery, conversational optimization, and real-time LLM benchmarking; \n- **SERP API**: real-time Search Engine Results Page (SERP) data for Google, Bing, and Yahoo;\n- **KEYWORDS_DATA API**: keyword research and clickstream data, including search volume, cost-per-click, and other metrics;   \n- **ONPAGE API**: allows crawling websites and webpages according to customizable parameters to obtain on-page SEO performance metrics; \n- **DATAFORSEO LABS API**: data on keywords, SERPs, and domains based on DataForSEO's in-house databases and proprietary algorithms;\n- **BACKLINKS API**: comprehensive backlink analysis including referring domains, anchor text distribution, and link quality metrics;\n- **BUSINESS DATA API**: publicly available data on any business entity;\n- **DOMAIN ANALYTICS API**: data on website traffic, technologies, and Whois details;\n- **CONTENT ANALYSIS API**: robust source of data for brand monitoring, sentiment analysis, and citation management;\n\n## Prerequisites\n\n- Node.js (v14 or higher)\n- DataForSEO API credentials (API login and password)\n\n## Installation\n\n1. Clone the repository:\n```bash\ngit clone https://github.com/dataforseo/mcp-server-typescript\ncd mcp-server-typescript\n```\n\n2. In",
+    "language": "TypeScript",
+    "license": "Apache License 2.0",
+    "forks": 70,
+    "open_issues": 2,
+    "last_pushed": "2025-10-28T08:39:19Z",
+    "topics": [
+      "ai",
+      "aiworkflow",
+      "dataforseo",
+      "dataforseo-apis",
+      "mcp",
+      "modelcontextprotocol",
+      "seo",
+      "seo-optimization",
+      "typescript"
+    ],
+    "quality_score": 87
+  },
+  "enriched_at": "2025-11-17T18:27:17.279673"
 }

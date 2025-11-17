@@ -10,10 +10,24 @@
   },
   "release_date": "Oct 24, 2025",
   "url": "https://www.pulsemcp.com/servers/infranodus",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/infranodus/mcp-server-infranodus",
+  "categories": [
+    "workflow",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:50.211783",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 27,
+    "runtime": "Node.js",
+    "readme_excerpt": "# InfraNodus MCP Server\n\nA Model Context Protocol (MCP) server that integrates InfraNodus knowledge graph and text network analysis capabilities into LLM workflows and AI assistants like Claude Desktop.\n\n## Overview\n\nInfraNodus MCP Server enables LLM workflows and AI assistants to analyze text using advanced network science algorithms, generate knowledge graphs, detect content gaps, and identify key topics and concepts. It transforms unstructured text into structured insights using graph theory and network analysis.\n\n![InfraNodus MCP Server](https://infranodus.com/images/front/infranodus-overview.jpg)\n\n## Features\n\n### You Can Use It To\n\n- Connect your existing InfraNodus knowledge graphs to your LLM workflows and AI chats\n- Identify the main topical clusters in discourse without missing the important nuances (works better than standard LLM workflows)\n- Identify the content gaps in any discourse (helpful for content creation and research)\n- Generate new knowledge graphs from any text and use them to augment your LLM responses\n- Save and retrieve entities and relations from memory using the knowledge graphs\n\n### Available Tools\n\n1. **generate_knowledge_graph**\n\n   - Convert any text into a visual knowledge graph\n   - Extract topics, concepts, and their relationships\n   - Identify structural patterns and clusters\n   - Apply AI-powered topic naming\n   - Perform entity detection for cleaner graphs\n\n2. **analyze_existing_graph_by_name**\n\n   - Retrieve and analyze existing graphs f",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:32:23.556287"
 }

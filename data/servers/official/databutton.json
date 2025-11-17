@@ -10,10 +10,38 @@
   },
   "release_date": "Mar 9, 2025",
   "url": "https://www.pulsemcp.com/servers/databutton",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/databutton/databutton-mcp",
+  "categories": [
+    "git",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "browser",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:48.024464",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 27,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Databutton MCP – build your own MCPs\n\nWe released a game changing way for anyone to build their own MCP servers in Databutton.\nLearn more at https://www.databutton.com/mcp\n\n# Databutton MCP Server\n\nDatabutton's (<https://www.databutton.com/>) AI agent builds and deploys frontends and backends in React and Python APIs/MCPs, for building beautiful business apps with unbounded complexity.\n\nThe agent has a planning mode for generating an initial plan for your app.\n\nThis MCP server is for doing doing initial app planning and creating a good starting point for an app.\n\n## Installation\n\nTo use with Claude Desktop, add the server config:\n\nOn MacOS: `~/Library/Application Support/Claude/claude_desktop_config.json`\nOn Windows: `%APPDATA%/Claude/claude_desktop_config.json`\n\n```json\n{\n  \"mcpServers\": {\n    \"databutton\": {\n      \"command\": \"/path/to/databutton/build/index.js\"\n    }\n  }\n}\n```\n\n## Development\n\nInstall dependencies:\n\n```bash\nnpm install\n```\n\nBuild the server:\n\n```bash\nnpm run build\n```\n\nFor development with auto-rebuild:\n\n```bash\nnpm run watch\n```\n\n### Debugging\n\nSince MCP servers communicate over stdio, debugging can be challenging. We recommend using the [MCP Inspector](https://github.com/modelcontextprotocol/inspector), which is available as a package script:\n\n```bash\nnpm run inspector\n```\n\nThe Inspector will provide a URL to access debugging tools in your browser.\n",
+    "language": "TypeScript",
+    "license": "MIT License",
+    "forks": 6,
+    "open_issues": 1,
+    "last_pushed": "2025-04-07T05:42:02Z",
+    "topics": [
+      "appbuilder",
+      "codegen",
+      "codegeneration",
+      "mcp",
+      "mcp-server",
+      "vibecoding"
+    ],
+    "quality_score": 62
+  },
+  "enriched_at": "2025-11-17T18:27:14.591196"
 }

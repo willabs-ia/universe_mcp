@@ -10,10 +10,24 @@
   },
   "release_date": "Apr 10, 2025",
   "url": "https://www.pulsemcp.com/servers/mailtrap",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/mailtrap/mailtrap-mcp",
+  "categories": [
+    "workflow",
+    "testing",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:12.794050",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 49,
+    "runtime": "Node.js",
+    "readme_excerpt": "![TypeScript](https://img.shields.io/npm/types/mailtrap?logo=typescript&logoColor=white&label=%20)\n[![test](https://github.com/mailtrap/mailtrap-mcp/actions/workflows/main.yml/badge.svg)](https://github.com/mailtrap/mailtrap-mcp/actions/workflows/main.yml)\n[![NPM](https://shields.io/npm/v/mcp-mailtrap?logo=npm&logoColor=white)](https://www.npmjs.com/package/mcp-mailtrap)\n\n# MCP Mailtrap Server\n\nAn MCP server that provides tools for sending transactional emails and managing email templates via Mailtrap\n\n## Prerequisites\n\nBefore using this MCP server, you need to:\n\n1. [Create a Mailtrap account](https://mailtrap.io/signup)\n2. [Verify your domain](https://mailtrap.io/sending/domains)\n3. Get your API token from [Mailtrap API settings](https://mailtrap.io/api-tokens)\n4. Get your Account ID from [Mailtrap account management](https://mailtrap.io/account-management)\n\n**Required Environment Variables:**\n- `MAILTRAP_API_TOKEN` - Required for all functionality\n- `DEFAULT_FROM_EMAIL` - Required for all email sending operations\n- `MAILTRAP_ACCOUNT_ID` - Required for template management operations\n- `MAILTRAP_TEST_INBOX_ID` - **Only** required for sandbox email functionality\n\n## Quick Install\n\n[![Install in Cursor](https://cursor.com/deeplink/mcp-install-dark.svg)](https://cursor.com/en-US/install-mcp?name=mailtrap&config=eyJlbnYiOnsiTUFJTFRSQVBfQVBJX1RPS0VOIjoieW91cl9tYWlsdHJhcF9hcGlfdG9rZW4iLCJERUZBVUxUX0ZST01fRU1BSUwiOiJ5b3VyX3NlbmRlckBleGFtcGxlLmNvbSIsIk1BSUxUUkFQX0FDQ09VTlRfSUQiOiJ5b3",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:35:45.196255"
 }

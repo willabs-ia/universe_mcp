@@ -7,10 +7,22 @@
   "weekly_metric": null,
   "release_date": "Jun 23, 2025",
   "url": "https://www.pulsemcp.com/servers/ip2location-io",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/ip2location/mcp-ip2location-io",
+  "categories": [
+    "security",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:52.001739",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 12,
+    "readme_excerpt": "# IP2Location.io MCP server\n\nThis is a simple Model Context Protocol (MCP) server implementation for IP2Location.io API. It will return a detailed geolocation information for any given IPv4 or IPv6 address.\n\n<a href=\"https://glama.ai/mcp/servers/@ip2location/mcp-ip2location-io\">\n  <img width=\"380\" height=\"200\" src=\"https://glama.ai/mcp/servers/@ip2location/mcp-ip2location-io/badge\" />\n</a>\n\n# Features\n\n- **Comprehensive Geolocation Data**: Retrieves a wide range of information, including country, region, city, latitude, longitude, ZIP code, time zone, and more.\n- **Network Details**: Provides network-related data such as ASN, ISP, domain, and network speed.\n- **Security Insights**: Detects proxy information, including proxy type and provider.\n- **Simple Integration**: Built as a `FastMCP` tool, allowing for easy integration into compatible systems.\n- **Asynchronous**: Utilizes `httpx` for non-blocking asynchronous API requests.\n\n# Requirement\n\nThis MCP server supports to query without an API key, with a limitation of 1,000 queries per day. You can also [sign up](https://www.ip2location.io/sign-up) for a free API key and enjoy up to 50,000 queries per month.\n\nThe setup also use `uv`, which can be install by following [the guide](https://modelcontextprotocol.io/quickstart/server#set-up-your-environment).\n\n# Setup\n\nFollow the steps to use this MCP server with Claude Desktop:\n 1. Download the repository to your local.\n 2. Setup the `uv` package manager, you can once again refer t",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:32:43.106074"
 }

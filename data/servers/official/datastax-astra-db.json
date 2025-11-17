@@ -10,10 +10,31 @@
   },
   "release_date": "Mar 6, 2025",
   "url": "https://www.pulsemcp.com/servers/datastax-astra-db",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/datastax/astra-db-mcp",
+  "categories": [
+    "documentation",
+    "cloud",
+    "git",
+    "development",
+    "api",
+    "database",
+    "ai",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:30.169209",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 37,
+    "readme_excerpt": "# Astra DB MCP Server\n\nA Model Context Protocol (MCP) server for interacting with Astra DB. MCP extends the capabilities of Large Language Models (LLMs) by allowing them to interact with external systems as agents.\n\n## Prerequisites\n\nYou need to have a running Astra DB database. If you don't have one, you can create a free database [here](https://astra.datastax.com/register). From there, you can get two things you need:\n\n1. An Astra DB Application Token\n2. The Astra DB API Endpoint\n\nTo learn how to get these, please [read the getting started docs](https://docs.datastax.com/en/astra-db-serverless/api-reference/dataapiclient.html#set-environment-variables).\n\n## Adding to an MCP client\n\nHere's how you can add this server to your MCP client.\n\n### Claude Desktop\n\n![Claude Desktop](https://github.com/datastax/astra-db-mcp/raw/main/docs/img/claude-settings.png)\n\nTo add this to [Claude Desktop](https://claude.ai/download), go to Preferences -> Developer -> Edit Config and add this JSON blob to `claude_desktop_config.json`:\n\n```json\n{\n  \"mcpServers\": {\n    \"astra-db-mcp\": {\n      \"command\": \"npx\",\n      \"args\": [\"-y\", \"@datastax/astra-db-mcp\"],\n      \"env\": {\n        \"ASTRA_DB_APPLICATION_TOKEN\": \"your_astra_db_token\",\n        \"ASTRA_DB_API_ENDPOINT\": \"your_astra_db_endpoint\"\n      }\n    }\n  }\n}\n```\n\n**Optional Keyspace Configuration:**\nBy default, this server uses the keyspace configured in the underlying Astra DB library (typically `default_keyspace`). If you need to connect to a sp",
+    "language": "TypeScript",
+    "license": "Apache License 2.0",
+    "forks": 21,
+    "open_issues": 6,
+    "last_pushed": "2025-10-20T14:41:58Z",
+    "topics": [],
+    "quality_score": 69
+  },
+  "enriched_at": "2025-11-17T18:27:22.188599"
 }

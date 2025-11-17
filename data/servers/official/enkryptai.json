@@ -7,10 +7,31 @@
   "weekly_metric": null,
   "release_date": "Apr 9, 2025",
   "url": "https://www.pulsemcp.com/servers/enkryptai",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/enkryptai/enkryptai-mcp-server",
+  "categories": [
+    "documentation",
+    "workflow",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:14.958091",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 2,
+    "runtime": "Python",
+    "readme_excerpt": "# Enkrypt AI MCP Server\r\n\r\nThe Enkrypt AI MCP Server allows you to integrate red-teaming, prompt auditing, and AI safety analysis directly into any [Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction)–compatible client such as Claude Desktop or Cursor IDE.\r\n\r\nWith this server, you can analyze prompts, detect jailbreak attempts, simulate adversarial attacks, and bring AI safety tooling directly into your assistant-driven workflows.\r\n\r\n---\r\n\r\n## 🚀 Features\r\n\r\n- Real-time prompt risk analysis  \r\n- Red-teaming via adversarial prompt generation  \r\n- Tool-based LLM monitoring using the MCP standard  \r\n- Seamless integration with Claude Desktop, Cursor IDE, and other MCP clients\r\n\r\n---\r\n\r\n## 💠 Installation\r\n\r\nBefore getting started, ensure you have [`uv`](https://docs.astral.sh/uv/getting-started/installation/) installed on your machine.\r\n\r\n### 1. Clone the repository\r\n\r\n```bash\r\ngit clone https://github.com/enkryptai/enkryptai-mcp-server.git\r\ncd enkryptai-mcp-server\r\n```\r\n\r\n### 2. Install dependencies\r\n\r\n```bash\r\nuv pip install -e .\r\n```\r\n\r\n---\r\n\r\n## 🔑 Get Your API Key\r\n\r\nTo use the Enkrypt tools, you’ll need a free API key from:\r\n\r\n[https://app.enkryptai.com/settings/api](https://app.enkryptai.com/settings/api)\r\n\r\n---\r\n\r\n## ⚙️ Configuration\r\n\r\nYou can connect this MCP server to any MCP-compatible client. Here's how to do it with **Cursor** and **Claude Desktop**.\r\n\r\n---\r\n\r\n### 🖥️ Cursor\r\n\r\n1. Open **Settings** → **MCP** tab in Cursor  \r\n2. Click **\"Add new ",
+    "language": "Python",
+    "license": null,
+    "forks": 2,
+    "open_issues": 3,
+    "last_pushed": "2025-06-19T13:52:17Z",
+    "topics": [],
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:28:40.516882"
 }

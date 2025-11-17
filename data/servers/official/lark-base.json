@@ -10,10 +10,16 @@
   },
   "release_date": "May 27, 2025",
   "url": "https://www.pulsemcp.com/servers/lark-base",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/Lark-Base-Team",
+  "categories": [
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:56.914697",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 7,
+    "quality_score": 35
+  },
+  "enriched_at": "2025-11-17T18:34:32.171883"
 }

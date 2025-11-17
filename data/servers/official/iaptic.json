@@ -7,10 +7,27 @@
   "weekly_metric": null,
   "release_date": "Jan 17, 2025",
   "url": "https://www.pulsemcp.com/servers/iaptic",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/iaptic/mcp-server-iaptic",
+  "categories": [
+    "filesystem",
+    "api",
+    "data",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:48.585326",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 5,
+    "runtime": "Node.js",
+    "readme_excerpt": "# MCP Server for Iaptic\n[![smithery badge](https://smithery.ai/badge/mcp-server-iaptic)](https://smithery.ai/server/mcp-server-iaptic)\n\nA Model Context Protocol server for interacting with the [Iaptic API](https://www.iaptic.com). This server allows Claude or other AIs to interact with your Iaptic data to answer questions about your customers, purchases, transactions, and statistics.\n\n## Installation\n\n### Installing via Smithery\n\nTo install Iaptic for Claude Desktop automatically via [Smithery](https://smithery.ai/server/mcp-server-iaptic):\n\n```bash\nnpx -y @smithery/cli install mcp-server-iaptic --client claude\n```\n\n### Manual Installation\n```bash\n# Run directly with npx\nnpx mcp-server-iaptic --api-key YOUR_API_KEY --app-name YOUR_APP_NAME\n\n# Or install globally\nnpm install -g mcp-server-iaptic\nmcp-server-iaptic --api-key YOUR_API_KEY --app-name YOUR_APP_NAME\n```\n\n## Usage with Claude Desktop\n\nAdd to your Claude Desktop configuration file:\n\n```json\n{\n  \"iaptic\": {\n    \"command\": \"npx\",\n    \"args\": [\n      \"mcp-server-iaptic\",\n      \"--api-key\", \"your-api-key-here\",\n      \"--app-name\", \"your-app-name-here\"\n    ]\n  }\n}\n```\n\n## Available Tools\n\n### Customers\n- `customer_list`: List customers\n- `customer_get`: Get customer details by ID\n\n### Purchases\n- `purchase_list`: List purchases\n  - `limit`: Maximum number of purchases to return (default: 100, max: 1000)\n  - `offset`: Number of purchases to skip for pagination\n  - `startdate`: Filter purchases after this date (ISO format, e",
+    "language": "TypeScript",
+    "license": "MIT License",
+    "forks": 7,
+    "open_issues": 3,
+    "last_pushed": "2025-03-02T14:23:39Z",
+    "topics": [],
+    "quality_score": 57
+  },
+  "enriched_at": "2025-11-17T18:32:05.882767"
 }

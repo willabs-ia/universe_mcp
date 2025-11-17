@@ -10,10 +10,26 @@
   },
   "release_date": "Mar 11, 2025",
   "url": "https://www.pulsemcp.com/servers/fewsats",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/fewsats/fewsats-mcp",
+  "categories": [
+    "documentation",
+    "api",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:06.239291",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 21,
+    "runtime": "Python",
+    "readme_excerpt": "# fewsats-mcp: A Fewsats MCP Server\n\n## Overview\n\nThis MCP server integrates with [Fewsats](https://fewsats.com) and allows AI Agents to purchase anything in a secure way.\n\nMCP is\n\n\n### Tools\n\n1. `balance`\n   - Retrieve the balance of the user's wallet\n   - Input: None\n   - Returns: Current wallet balance information\n\n2. `payment_methods`\n   - Retrieve the user's payment methods\n   - Input: None\n   - Returns: List of available payment methods\n\n3. `pay_offer`\n   - Pays an offer with the specified ID from the l402_offers\n   - Input:\n     - `offer_id` (string): String identifier for the offer\n     - `l402_offer` (object): Offer details containing:\n       - `offers`: Array of offer objects with ID, amount, currency, description, title\n       - `payment_context_token`: Payment context token string\n       - `payment_request_url`: URL for payment request\n       - `version`: API version string\n   - Returns: Payment status response\n\n4. `payment_info`\n   - Retrieve the details of a payment\n   - Input:\n     - `pid` (string): Payment ID to retrieve information for\n   - Returns: Detailed payment information\n\n\n## Installation\n\n### Using uv (recommended)\n\nWhen using [`uv`](https://docs.astral.sh/uv/) no specific installation is needed. We will\nuse [`uvx`](https://docs.astral.sh/uv/guides/tools/) to directly run *fewsats-mcp*.\n\n```bash\nuvx fewsats-mcp\n```\n\n### Using PIP\n\nAlternatively you can install `fewsats-mcp` via pip:\n\n```bash\npip install fewsats-mcp\n```\n\nAfter installation, you can run",
+    "language": "Python",
+    "license": null,
+    "forks": 10,
+    "open_issues": 2,
+    "last_pushed": "2025-05-27T10:46:56Z",
+    "topics": [],
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T18:29:09.498287"
 }

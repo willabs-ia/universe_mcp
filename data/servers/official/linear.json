@@ -10,10 +10,15 @@
   },
   "release_date": "May 1, 2025",
   "url": "https://www.pulsemcp.com/servers/linear",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/linear/changelog",
+  "categories": [
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:15.899060",
-  "metadata": {}
+  "metadata": {
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T18:34:54.357600"
 }

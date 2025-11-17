@@ -10,10 +10,24 @@
   },
   "release_date": "Apr 17, 2025",
   "url": "https://www.pulsemcp.com/servers/lark-feishu",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/larksuite/lark-openapi-mcp",
+  "categories": [
+    "documentation",
+    "workflow",
+    "security",
+    "development",
+    "api",
+    "ai",
+    "monitoring"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:24.655939",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 274,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Feishu/Lark OpenAPI MCP\n\n[![npm version](https://img.shields.io/npm/v/@larksuiteoapi/lark-mcp.svg)](https://www.npmjs.com/package/@larksuiteoapi/lark-mcp)\n[![npm downloads](https://img.shields.io/npm/dm/@larksuiteoapi/lark-mcp.svg)](https://www.npmjs.com/package/@larksuiteoapi/lark-mcp)\n[![Node.js Version](https://img.shields.io/node/v/@larksuiteoapi/lark-mcp.svg)](https://nodejs.org/)\n\nEnglish | [中文](./README_ZH.md)\n\n[Developer Documentation Retrieval MCP](./docs/recall-mcp/README.md)\n\n[Official Document](https://open.feishu.cn/document/uAjLw4CM/ukTMukTMukTM/mcp_integration/mcp_introduction)\n\n[Trouble Shooting](https://open.feishu.cn/document/uAjLw4CM/ukTMukTMukTM/mcp_integration/use_cases)\n\n> **⚠️ Beta Version Notice**: This tool is currently in Beta stage. Features and APIs may change, so please stay updated with version releases.\n\nThis is the Feishu/Lark official OpenAPI MCP (Model Context Protocol) tool designed to help users quickly connect to the Feishu/Lark platform and enable efficient collaboration between AI Agents and Feishu/Lark. The tool encapsulates Feishu/Lark Open Platform API interfaces as MCP tools, allowing AI assistants to directly call these interfaces and implement various automation scenarios such as document processing, conversation management, calendar scheduling, and more.\n\n## Preparation\n\n### Creating a Feishu/Lark Application\n\nBefore using the lark-mcp tool, you need to create a Feishu/Lark application:\n\n1. Visit the [Feishu Open Platform](https",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T18:34:34.626376"
 }

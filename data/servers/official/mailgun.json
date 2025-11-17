@@ -10,10 +10,25 @@
   },
   "release_date": "Mar 28, 2025",
   "url": "https://www.pulsemcp.com/servers/mailgun",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/mailgun/mailgun-mcp-server",
+  "categories": [
+    "documentation",
+    "testing",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:53.177721",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 38,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Mailgun MCP Server\n[![MCP](https://img.shields.io/badge/MCP-Server-blue.svg)](https://github.com/modelcontextprotocol)\n\n## Overview\nA Model Context Protocol (MCP) server implementation for [Mailgun](https://mailgun.com), enabling MCP-compatible AI clients like Claude Desktop to interract with the service.\n\n## Prerequisites\n\n- Node.js (v18 or higher)\n- Git\n- Claude Desktop (for Claude integration)\n- Mailgun account and an API key\n\n## Quick Start\n\n### Manual Installation\n1. Clone the repository:\n   ```bash\n   git clone https://github.com/mailgun/mailgun-mcp-server.git\n   cd mailgun-mcp-server\n   ```\n\n2. Install dependencies and build:\n   ```bash\n   npm install\n   ```\n\n3. Configure Claude Desktop:\n\n   Create or modify the config file:\n   - MacOS: `~/Library/Application Support/Claude/claude_desktop_config.json`\n   - Windows: `%APPDATA%/Claude/claude_desktop_config.json`\n\n   Add the following configuration:\n   ```json\n   {\n       \"mcpServers\": {\n           \"mailgun\": {\n               \"command\": \"node\",\n               \"args\": [\"CHANGE/THIS/PATH/TO/mailgun-mcp-server/src/mailgun-mcp.js\"],\n               \"env\": {\n                   \"MAILGUN_API_KEY\": \"YOUR-mailgun-api-key\"\n               }\n           }\n       }\n   }\n   ```\n\n## Testing\n\nRun the local test suite with:\n\n```bash\nNODE_ENV=test npm test\n```\n\n### Sample Prompts with Claude\n\n#### Send an Email\n\n> Note: sending an email currently (2025-03-18) seems to require a paid account with Anthropic. You'll get a silent failure on th",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:35:40.012133"
 }

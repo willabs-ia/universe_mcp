@@ -7,10 +7,26 @@
   "weekly_metric": null,
   "release_date": "May 20, 2025",
   "url": "https://www.pulsemcp.com/servers/microsoft-clarity-analytics",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/microsoft/clarity-mcp-server",
+  "categories": [
+    "documentation",
+    "workflow",
+    "testing",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "browser",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:36.844850",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 50,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Microsoft Clarity MCP Server\n\nThis is a Model Context Protocol (MCP) server for the Microsoft Clarity.\nIt allows you to access your session recordings, project analytics, and documentation from Clarity using Claude for Desktop or other MCP-compatible clients.\n\n## Key Features\n\n- **Analytics Data Access**: Query your Microsoft Clarity analytics data including traffic metrics, user behavior insights, and performance statistics\n- **Session Recording Retrieval**: Access and analyze session recordings to understand user interactions and identify optimization opportunities\n- **Natural Language Querying**: Ask questions in plain English to get insights from your data - no need to learn complex query syntax or API endpoints\n- **Flexible Data Filtering**: Filter results by various dimensions such as browser, device, country, and many more\n- **Real-Time Data Access**: Fetch the latest analytics data and insights from your Clarity projects on-demand\n- **Documentation Integration**: Get quick answers and guidance from Microsoft Clarity documentation directly within your workflow\n- **Seamless MCP Integration**: Works natively with Claude for Desktop, Visual Studio Code, and other Model Context Protocol (MCP) compatible clients\n\n## Setup and Installation\n\n### Prerequisites\n\n- Node.js v16 or higher\n- A Microsoft Clarity account and API token\n- Any MCP-compatible client (Claude for Desktop, etc.)\n\n### Installation\n\n#### Option 1: Install via npm (recommended)\n\nYou can install and run this ",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:36:36.088709"
 }

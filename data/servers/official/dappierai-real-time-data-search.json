@@ -7,10 +7,30 @@
   "weekly_metric": null,
   "release_date": "Mar 17, 2025",
   "url": "https://www.pulsemcp.com/servers/dappierai-real-time-data-search",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/dappierai/dappier-mcp",
+  "categories": [
+    "security",
+    "cloud",
+    "search",
+    "api",
+    "ai",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:21.490242",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 34,
+    "runtime": "Rust",
+    "readme_excerpt": "## 📽️ Watch the Demo Video (Live!)\n\n> 📌 Click the image below — use **Ctrl+Click** (or **Cmd+Click on Mac**) to open in a new tab.\n\n<a href=\"https://youtu.be/2Q_PwLFkYTQ\">\n  <img src=\"https://i9.ytimg.com/vi/2Q_PwLFkYTQ/sddefault.jpg?v=685e5a3d&sqp=CIy0-cIG&rs=AOn4CLAWY2I5qfS3BbWByURKQeIaSZAYDg\" alt=\"Watch the demo video\">\n</a>\n\n# Dappier MCP Server\n\nEnable fast, free real-time web search and access premium data from trusted media brands—news, financial markets, sports, entertainment, weather, and more. Build powerful AI agents with Dappier.\n\n> Explore a wide range of data models in our marketplace at [marketplace.dappier.com](https://marketplace.dappier.com/marketplace).\n\n<br>\n\n<a href=\"https://smithery.ai/server/@DappierAI/dappier-mcp\" target=\"_blank\"><img alt=\"Smithery Badge\" src=\"https://smithery.ai/badge/@DappierAI/dappier-mcp\"></a>\n\n<br>\n\n<a href=\"https://glama.ai/mcp/servers/@DappierAI/dappier-mcp\" target=\"_blank\">\n  <img width=\"380\" height=\"200\" src=\"https://glama.ai/mcp/servers/@DappierAI/dappier-mcp/badge\" />\n</a>\n\n<br>\n\n[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/dappierai-dappier-mcp-badge.png)](https://mseep.ai/app/dappierai-dappier-mcp)\n\n<br>\n\n## Getting Started\n\nGet Dappier API Key. Head to [Dappier](https://platform.dappier.com/profile/api-keys) to sign up and generate an API key.\n\n\n## Installing via Smithery\n\nTo install dappier-mcp for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@DappierAI/dappier-mcp):\n\n```bash\nnpx ",
+    "language": "Python",
+    "license": "MIT License",
+    "forks": 11,
+    "open_issues": 1,
+    "last_pushed": "2025-06-27T08:49:05Z",
+    "topics": [],
+    "quality_score": 65
+  },
+  "enriched_at": "2025-11-17T18:27:04.265720"
 }

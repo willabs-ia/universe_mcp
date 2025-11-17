@@ -7,10 +7,16 @@
   "weekly_metric": null,
   "release_date": "Aug 20, 2025",
   "url": "https://www.pulsemcp.com/servers/label-studio",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/HumanSignal",
+  "categories": [
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:17.820177",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 24,
+    "quality_score": 40
+  },
+  "enriched_at": "2025-11-17T18:34:24.859277"
 }

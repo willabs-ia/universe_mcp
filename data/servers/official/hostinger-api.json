@@ -10,10 +10,37 @@
   },
   "release_date": "Apr 11, 2025",
   "url": "https://www.pulsemcp.com/servers/hostinger-api",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/hostinger/api-mcp-server",
+  "categories": [
+    "testing",
+    "security",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:26.710889",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 43,
+    "runtime": "Node.js",
+    "readme_excerpt": "# hostinger-api-mcp\n\nModel Context Protocol (MCP) server for Hostinger API.\n\n## Prerequisites\n- Node.js version 24 or higher\n\nIf you don't have Node.js installed, you can download it from the [official website](https://nodejs.org/en/download/).\nAlternatively, you can use a package manager like [Homebrew](https://brew.sh/) (for macOS) or [Chocolatey](https://chocolatey.org/) (for Windows) to install Node.js.\n\nWe recommend using [NVM (Node Version Manager)](https://github.com/nvm-sh/nvm) to install and manage installed Node.js versions.\nAfter installing NVM, you can install Node.js with the following command:\n```bash\nnvm install v24\nnvm use v24\n```\n\n## Installation\n\nTo install the MCP server, run one of the following command, depending on your package manager:\n\n```bash\n# Install globally from npm\nnpm install -g hostinger-api-mcp\n\n# Or with yarn\nyarn global add hostinger-api-mcp\n\n# Or with pnpm\npnpm add -g hostinger-api-mcp\n```\n\n## Update\n\nTo update the MCP server to the latest version, use one of the following commands, depending on your package manager:\n\n```bash\n# Update globally from npm\nnpm update -g hostinger-api-mcp\n\n# Or with yarn\nyarn global upgrade hostinger-api-mcp\n\n# Or with pnpm\npnpm update -g hostinger-api-mcp\n```\n\n## Configuration\n\nThe following environment variables can be configured when running the server:\n- `DEBUG`: Enable debug logging (true/false) (default: false)\n- `API_TOKEN`: Your API token, which will be sent in the `Authorization` header.\n\n## Usage\n\n### ",
+    "language": "JavaScript",
+    "license": "MIT License",
+    "forks": 28,
+    "open_issues": 1,
+    "last_pushed": "2025-11-13T07:06:10Z",
+    "topics": [
+      "ai",
+      "api",
+      "claude",
+      "cursor",
+      "hostinger",
+      "mcp"
+    ],
+    "quality_score": 72
+  },
+  "enriched_at": "2025-11-17T18:31:42.035111"
 }

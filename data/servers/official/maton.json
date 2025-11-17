@@ -7,10 +7,17 @@
   "weekly_metric": null,
   "release_date": "Mar 20, 2025",
   "url": "https://www.pulsemcp.com/servers/maton",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/maton-ai",
+  "categories": [
+    "api",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:34.843018",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 28,
+    "quality_score": 40
+  },
+  "enriched_at": "2025-11-17T18:36:07.893263"
 }

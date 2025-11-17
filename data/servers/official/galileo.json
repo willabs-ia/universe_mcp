@@ -7,10 +7,38 @@
   "weekly_metric": null,
   "release_date": "Jan 22, 2025",
   "url": "https://www.pulsemcp.com/servers/galileo",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/rungalileo/docs-official",
+  "categories": [
+    "documentation",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:35.358879",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 4,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Galileo Docs\n\nThis repo is the source for [Galileo's docs](https://v2docs.galileo.ai/).  We use [Mintlify](https://mintlify.com/) for building and publishing our docs.\n\n## Contributing\n\nSee our [contributing guide](./.github/CONTRIBUTING.md) for more details.\n\n## Dev container\n\nThis repo has a devcontainer configured so you can run in VS Code with the dev containers extension and Docker, or in a code space, and have an isolated environment with all the relevant tools installed.\n\nThis container installs the Mintlify CLI as well as Vale for spellchecking. It also has some recommended extensions. If you find any other extensions useful, please add thm to the `devcontainer.json` file.\n\n## Build and view the docs\n\nWe use [Mintlify](https://mintlify.com/) for building and publishing our docs.\n\nTo build and run the doc locally:\n\n1. Install the [Mintlify](https://mintlify.com/) CLI:\n\n    ```bash\n    npm install -g mint\n    ```\n\n1. Run the Mintlify CLI:\n\n    ```bash\n    mint dev\n    ```\n\n## Check for broken links\n\nBefore pushing a change, check for broken links using:\n\n```bash\nmint broken-links\n```\n\n## Check spellings\n\nThis repo is set up to use Vale to check spellings. To use it, first [install Vale](https://vale.sh/docs/install):\n\n```bash\nbrew install vale\n```\n\nThen install MDX2VAST:\n\n```bash\nnpm install -g mdx2vast\n```\n\nThen you can check spelling using:\n\n```bash\nvale . --glob='!{sdk-api/**/reference/**/*.*}'\n```\n\nThis command ignores the generated SDK code.\n",
+    "language": "MDX",
+    "license": null,
+    "forks": 0,
+    "open_issues": 4,
+    "last_pushed": "2025-11-17T17:06:11Z",
+    "topics": [
+      "ai",
+      "aievals",
+      "aireliability",
+      "documentation",
+      "evaluations",
+      "galileo",
+      "observability"
+    ],
+    "quality_score": 57
+  },
+  "enriched_at": "2025-11-17T18:29:59.499279"
 }

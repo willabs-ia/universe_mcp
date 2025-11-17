@@ -7,10 +7,16 @@
   "weekly_metric": null,
   "release_date": "Dec 25, 2024",
   "url": "https://www.pulsemcp.com/servers/epsilla-epsilla",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/epsilla-cloud",
+  "categories": [
+    "database",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:59.120853",
-  "metadata": {}
+  "metadata": {
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T18:28:45.390686"
 }

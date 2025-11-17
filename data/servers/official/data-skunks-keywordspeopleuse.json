@@ -10,10 +10,37 @@
   },
   "release_date": "May 23, 2025",
   "url": "https://www.pulsemcp.com/servers/data-skunks-keywordspeopleuse",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/data-skunks/kpu-mcp",
+  "categories": [
+    "security",
+    "git",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:31.399191",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 5,
+    "capabilities": [
+      "Get People Also Ask questions",
+      "Get Semantic Keywords",
+      "Get Google Autocomplete suggestions",
+      "Get Reddit and Quora questions"
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "# KeywordsPeopleUse MCP Server\n\nA Model Context Protocol (MCP) server implementation that integrates with [KeywordsPeopleUse](https://keywordspeopleuse.com) for keyword research features.\n\n## Features\n\n- Get People Also Ask questions\n- Get Google Autocomplete suggestions\n- Get Reddit and Quora questions\n- Get Semantic Keywords\n\n## Remote connection\n\nMake sure you have Node.js and npm installed on your computer.\n\n`node --version`\n\n`npm --version`\n\nIf not, go to [Node.js official website](https://nodejs.org/) to download and install it.\n\n### Connect Claude Desktop to your MCP server\n\nYou can connect to your remote MCP server from local MCP clients, by using the [mcp-remote proxy](https://www.npmjs.com/package/mcp-remote).\n\nTo connect to your MCP server from Claude Desktop, follow [Anthropic's Quickstart](https://modelcontextprotocol.io/quickstart/user) and within Claude Desktop go to Settings > Developer > Edit Config.\n\nUpdate with this configuration (replace YOUR_API_KEY with your API key):\n\n```json\n{\n  \"mcpServers\": {\n    \"keywordspeopleuse\": {\n      \"command\": \"npx\",\n      \"args\": [\n        \"mcp-remote\",\n        \"https://mcp-keywordspeopleuse.com/sse\",\n        \"--header\",\n        \"Authorization:YOUR_API_KEY\"\n      ]\n    }\n  }\n}\n```\n\nRestart Claude and you should see the tools become available.\n\n## Local Installation\n\n### Clone from Github\n\n```bash\ngit clone https://github.com/data-skunks/kpu-mcp.git\n```\n\n### Get the API Key\n\nMCP Server integration is available on KeywordsPeo",
+    "language": "JavaScript",
+    "license": null,
+    "forks": 2,
+    "open_issues": 0,
+    "last_pushed": "2025-05-23T06:51:44Z",
+    "topics": [],
+    "quality_score": 63
+  },
+  "enriched_at": "2025-11-17T18:27:09.519528"
 }

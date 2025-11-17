@@ -7,10 +7,44 @@
   "weekly_metric": null,
   "release_date": "Dec 20, 2024",
   "url": "https://www.pulsemcp.com/servers/devrev",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/devrev/mcp-server",
+  "categories": [
+    "workflow",
+    "security",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:38.991186",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 9,
+    "capabilities": [
+      "**Rich Data Support**: Handle complex relationships between work items, parts, users, organizations, and sprints",
+      "**Subtype Management**: List and manage subtypes for proper categorization of issues and tickets",
+      "**Flexible Filtering**: Advanced filtering options for listing work items and parts based on dates, assignees, states, custom fields, subtypes, and more",
+      "**Enhanced Part Management**: Full CRUD operations for parts (enhancements) including hierarchical relationships",
+      "**Sprint Planning**: Access sprint information for effective project management and issue assignment with vista integration",
+      "**User Context**: Access to current user information for personalized experiences",
+      "**Meeting Management**: List and filter meetings across different channels and states with comprehensive date filtering",
+      "**Advanced Search**: Search across multiple namespaces (articles, issues, tickets, parts, dev_users, accounts, rev_orgs, vistas, incidents) with hybrid search capabilities",
+      "**Timeline Tracking**: Add timeline entries to track progress and updates on work items and parts",
+      "**Comprehensive Work Item Management**: Create, read, update, and list both issues and tickets with advanced filtering",
+      "**Vista Board Integration**: Access vista (sprint board) information and retrieve sprint group items for effective sprint management",
+      "**Workflow Control**: Validate stage transitions and manage work item lifecycle with precise stage management"
+    ],
+    "runtime": "Python",
+    "readme_excerpt": "# DevRev MCP Server\n\n## Overview\n\nA Model Context Protocol server for DevRev. This server provides comprehensive access to DevRev's APIs, allowing you to manage work items (issues, tickets), parts (enhancements), meetings, workflow transitions, timeline entries, sprint planning, and subtypes. Access vista boards, search across your DevRev data, and retrieve user information with advanced filtering and pagination support.\n\n## Tools\n\n### Search & Discovery\n- **`search`**: Search for information across DevRev using the hybrid search API with support for different namespaces (articles, issues, tickets, parts, dev_users, accounts, rev_orgs, vistas, incidents).\n- **`get_current_user`**: Fetch details about the currently authenticated DevRev user.\n- **`get_vista`**: Retrieve information about a vista (sprint board) in DevRev using its ID. Vistas contain sprints (vista group items) that can be used for filtering and sprint planning.\n\n### Work Items (Issues & Tickets)\n- **`get_work`**: Get comprehensive information about a specific DevRev work item using its ID.\n- **`create_work`**: Create new issues or tickets in DevRev with specified properties like title, body, assignees, and associated parts.\n- **`update_work`**: Update existing work items by modifying properties such as title, body, assignees, associated parts, or stage transitions.\n- **`list_works`**: List and filter work items based on various criteria like state, dates, assignees, parts, and more.\n\n### Parts (Enhancements)\n- *",
+    "language": "Python",
+    "license": "MIT License",
+    "forks": 5,
+    "open_issues": 19,
+    "last_pushed": "2025-11-15T18:29:27Z",
+    "topics": [],
+    "quality_score": 74
+  },
+  "enriched_at": "2025-11-17T18:27:55.210795"
 }

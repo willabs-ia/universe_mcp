@@ -10,10 +10,24 @@
   },
   "release_date": "Mar 27, 2025",
   "url": "https://www.pulsemcp.com/servers/mastergo-design-dsl",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/mastergo-design/mastergo-magic-mcp",
+  "categories": [
+    "documentation",
+    "security",
+    "search",
+    "api",
+    "ai",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:25.877123",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 186,
+    "runtime": "Node.js",
+    "readme_excerpt": "# MasterGo Magic MCP\n\n[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/mastergo-design/mastergo-magic-mcp)\n\nMasterGo Magic MCP is a standalone MCP (Model Context Protocol) service designed to connect MasterGo design tools with AI models. It enables AI models to directly retrieve DSL data from MasterGo design files.\n\n## Key Features\n\n- Retrieves DSL data from MasterGo design files\n- Runs directly with npx\n- No external dependencies required, only Node.js environment needed\n\n## Tutorial\n\n- https://mastergo.com/file/155675508499265?page_id=158:0002\n\n## Usage\n\n### Obtaining MG_MCP_TOKEN\n\n1. Visit https://mastergo.com\n2. Enter personal settings\n3. Click the Security Settings tab\n4. Find the personal access token\n5. Click to generate the token\n\n### Command Line Options\n\n```\nnpx @mastergo/magic-mcp --token=YOUR_TOKEN [--url=API_URL] [--rule=RULE_NAME] [--debug] [--no-rule]\n```\n\n#### Parameters:\n\n- `--token=YOUR_TOKEN` (required): MasterGo API token for authentication\n- `--url=API_URL` (optional): API base URL, defaults to http://localhost:3000\n- `--rule=RULE_NAME` (optional): Add design rules to apply, can be used multiple times\n- `--debug` (optional): Enable debug mode for detailed error information\n- `--no-rule` (optional): Disable default rules\n\nYou can also use space-separated format for parameters:\n\n```\nnpx @mastergo/magic-mcp --token YOUR_TOKEN --url API_URL --rule RULE_NAME --debug\n```\n\n#### Environment Variables\n\nAlternatively, you can use environment v",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T18:36:02.701732"
 }

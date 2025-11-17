@@ -10,10 +10,16 @@
   },
   "release_date": "Mar 2, 2025",
   "url": "https://www.pulsemcp.com/servers/deepsrt-youtube-summarizer",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/DeepSRT",
+  "categories": [
+    "api"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:46.661384",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 46,
+    "quality_score": 40
+  },
+  "enriched_at": "2025-11-17T18:27:32.220147"
 }

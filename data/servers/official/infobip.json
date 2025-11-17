@@ -7,10 +7,21 @@
   "weekly_metric": null,
   "release_date": "Aug 9, 2025",
   "url": "https://www.pulsemcp.com/servers/infobip",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/infobip/mcp",
+  "categories": [
+    "documentation",
+    "api",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:33.238163",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 20,
+    "readme_excerpt": "# Infobip MCP Servers\n\n![status](https://img.shields.io/badge/Status-Beta-fc6423)\n\n<img src=\"https://cdn-web.infobip.com/uploads/2025/05/infobip-logo-horizontal-orange.png\" alt=\"Infobip Logo\" height=\"48\" style=\"display:inline;vertical-align:middle;\">\n\n[Infobip MCP Servers](https://www.infobip.com/mcp) let you build AI agents to interact with the Infobip platform through the [Model Context Protocol (MCP)](https://modelcontextprotocol.io/docs).\nConnect to Infobip and enable your agents to perform actions, such as sending messages over channels like SMS, WhatsApp, or Viber, or managing customer data in a controlled, production-grade environment.\n\nNo more complex integrations or digging through endless documentation. Just plug in and let your AI do the talking.\n\n\n## 🛠️ Features\n\n- ✉️ Send messages using channels like SMS, WhatsApp, Viber, or RCS (more coming soon)\n- 📱 Set up and run 2FA flows\n- 🧑‍💼 Store & activate your customer information\n- 👤 Manage Infobip user accounts\n\n## 🌐 Available Remote MCP Servers\n\nInfobip remote MCP servers support [streamable HTTP transport](https://modelcontextprotocol.io/docs/learn/architecture#transport-layer).\nBelow is a list of available remote MCP servers.\n\n**Base URL:** `https://mcp.infobip.com`\n\n| Server                               | Endpoint                                     |\n|--------------------------------------|----------------------------------------------|\n| **SMS**                              | `https://mcp.infobip.com/sms`      ",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:32:20.993072"
 }

@@ -7,10 +7,37 @@
   "weekly_metric": null,
   "release_date": "May 4, 2025",
   "url": "https://www.pulsemcp.com/servers/deepwriter-ai-deepwriter",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/deepwriter-ai/deepwriter-mcp",
+  "categories": [
+    "documentation",
+    "security",
+    "git",
+    "development",
+    "api",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:30.123270",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 6,
+    "capabilities": [
+      "**Content Generation**: Generate content for projects using DeepWriter's AI",
+      "**Project Details**: Retrieve detailed information about projects",
+      "**MCP Integration**: Seamlessly integrate with Claude and other MCP-compatible AI assistants",
+      "**Transport Support**: Stdio transport for local process communication",
+      "**Project Management**: Create, list, update, and delete projects",
+      "**Standard MCP Features**: Implements MCP protocol version 2025-03-26"
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/deepwriter-ai-deepwriter-mcp-badge.png)](https://mseep.ai/app/deepwriter-ai-deepwriter-mcp)\n\n# DeepWriter MCP Server\n[![smithery badge](https://smithery.ai/badge/@deepwriter-ai/deepwriter-mcp)](https://smithery.ai/server/@deepwriter-ai/deepwriter-mcp)\n\n**Official Site:** [DeepWriter.com](https://deepwriter.com)\n\n**Additional Documentation:** [DeepWriter API Access Docs](https://docs.deepwriter.com/api-access/deepwriter-mcp)\n\nA Model Context Protocol (MCP) server for interacting with the DeepWriter API. This server provides tools for creating, managing, and generating content for DeepWriter projects through the standardized MCP interface.\n\n<a href=\"https://glama.ai/mcp/servers/@deepwriter-ai/Deepwriter-MCP\">\n  <img width=\"380\" height=\"200\" src=\"https://glama.ai/mcp/servers/@deepwriter-ai/Deepwriter-MCP/badge\" alt=\"DeepWriter Server MCP server\" />\n</a>\n\n## Features\n\n- **Project Management**: Create, list, update, and delete projects\n- **Content Generation**: Generate content for projects using DeepWriter's AI\n- **Project Details**: Retrieve detailed information about projects\n- **MCP Integration**: Seamlessly integrate with Claude and other MCP-compatible AI assistants\n- **Standard MCP Features**: Implements MCP protocol version 2025-03-26\n- **Transport Support**: Stdio transport for local process communication\n\n## Prerequisites\n\n- Node.js (v17 or higher)\n- npm (v6 or higher)\n- DeepWriter API key\n- An MCP-compatible cl",
+    "language": "TypeScript",
+    "license": "Apache License 2.0",
+    "forks": 3,
+    "open_issues": 0,
+    "last_pushed": "2025-10-05T00:47:30Z",
+    "topics": [],
+    "quality_score": 77
+  },
+  "enriched_at": "2025-11-17T18:27:37.358652"
 }

@@ -10,10 +10,39 @@
   },
   "release_date": "Aug 5, 2025",
   "url": "https://www.pulsemcp.com/servers/crowdstrike-falcon",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/crowdstrike/falcon-mcp",
+  "categories": [
+    "documentation",
+    "workflow",
+    "testing",
+    "security",
+    "git",
+    "cloud",
+    "development",
+    "api",
+    "ai",
+    "monitoring"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:24.962970",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 74,
+    "runtime": "Python",
+    "readme_excerpt": "![CrowdStrike Falcon](https://raw.githubusercontent.com/CrowdStrike/falconpy/main/docs/asset/cs-logo.png)\n\n# falcon-mcp\n\n[![PyPI version](https://badge.fury.io/py/falcon-mcp.svg)](https://badge.fury.io/py/falcon-mcp)\n[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/falcon-mcp)](https://pypi.org/project/falcon-mcp/)\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\n\n**falcon-mcp** is a Model Context Protocol (MCP) server that connects AI agents with the CrowdStrike Falcon platform, powering intelligent security analysis in your agentic workflows. It delivers programmatic access to essential security capabilities—including detections, incidents, and behaviors—establishing the foundation for advanced security operations and automation.\n\n> [!IMPORTANT]\n> **🚧 Public Preview**: This project is currently in public preview and under active development. Features and functionality may change before the stable 1.0 release. While we encourage exploration and testing, please avoid production deployments. We welcome your feedback through [GitHub Issues](https://github.com/crowdstrike/falcon-mcp/issues) to help shape the final release.\n\n## Table of Contents\n\n- [API Credentials \\& Required Scopes](#api-credentials--required-scopes)\n  - [Setting Up CrowdStrike API Credentials](#setting-up-crowdstrike-api-credentials)\n  - [Required API Scopes by Module](#required-api-scopes-by-module)\n- [Available Modules, Tools \\& Resou",
+    "language": "Python",
+    "license": "MIT License",
+    "forks": 21,
+    "open_issues": 19,
+    "last_pushed": "2025-11-17T05:23:30Z",
+    "topics": [
+      "ai",
+      "crowdstrike",
+      "falcon",
+      "mcp",
+      "mcp-server"
+    ],
+    "quality_score": 69
+  },
+  "enriched_at": "2025-11-17T18:26:38.818497"
 }

@@ -10,10 +10,39 @@
   },
   "release_date": "Apr 23, 2025",
   "url": "https://www.pulsemcp.com/servers/currents-test-results",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/currents-dev/currents-mcp",
+  "categories": [
+    "documentation",
+    "workflow",
+    "testing",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "browser",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:24.969400",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 14,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Currents MCP Server\n\n![Unit Tests](https://github.com/currents-dev/currents-mcp/actions/workflows/test.yml/badge.svg)\n\nThis is a MCP server that allows you to provide test results context to your AI agents by connecting them to Currents. Useful for asking AI to fix or optimize tests failing in CI.\n\n[![Install MCP Server](https://cursor.com/deeplink/mcp-install-dark.svg)](https://cursor.com/en/install-mcp?name=currents&config=eyJjb21tYW5kIjoibnB4IC15IEBjdXJyZW50cy9tY3AiLCJlbnYiOnsiQ1VSUkVOVFNfQVBJX0tFWSI6InlvdXItYXBpLWtleSJ9fQ%3D%3D)\n\n## Tools\n\n| Tool                                  | Description                                                                |\n| ------------------------------------- | -------------------------------------------------------------------------- |\n| `currents-get-projects`               | Retrieves a list of all projects available.                                |\n| `currents-get-runs`                   | Retrieves a list the latest runs for a specific project.                   |\n| `currents-get-run-details`            | Retrieves details of a specific test run.                                  |\n| `currents-get-spec-instances`         | Retrieves debugging data a specific execution of a test spec file.         |\n| `currents-get-spec-files-performance` | Retrieves spec file historical performance metrics for a specific project. |\n| `currents-get-tests-performance`      | Retrieves test historical performance metrics for a specific project.    ",
+    "language": "TypeScript",
+    "license": null,
+    "forks": 6,
+    "open_issues": 0,
+    "last_pushed": "2025-10-28T10:31:32Z",
+    "topics": [
+      "ai",
+      "currents",
+      "mcp",
+      "playwright"
+    ],
+    "quality_score": 65
+  },
+  "enriched_at": "2025-11-17T18:26:48.206583"
 }

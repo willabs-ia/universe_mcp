@@ -7,10 +7,23 @@
   "weekly_metric": null,
   "release_date": "Mar 24, 2025",
   "url": "https://www.pulsemcp.com/servers/letzai",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/letz-ai/letzai-mcp",
+  "categories": [
+    "documentation",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:46.294259",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 2,
+    "runtime": "Node.js",
+    "readme_excerpt": "# LetzAI MCP Setup Guide\n\nThis guide will walk you through the process of setting up and using the LetzAI MCP (Model Context Protocol) for image generation.\n\n## Prerequisites\n\nBefore you begin, ensure that you have the following:\n\n- **Node.js** installed on your system. You can download it from [Node.js official site](https://nodejs.org/).\n- **Claude Desktop App** installed. If you don't have it, download it from [Claude Desktop App](https://claude.app).\n- **LetzAI API Key**. You can obtain it by visiting [LetzAI API](https://letz.ai/docs/api).\n\n## Setup Steps\n\n### 1. Download the Git Folder\n\nDownload the repository containing the LetzAI MCP project and place it in a location outside of your Downloads folder. For example:\n\n```\nC:\\\\Users\\\\username\\\\desktop\n```\n\nAlternatively, you can use `git clone` to clone the repository:\n\n```bash\ngit clone <repository-url> C:\\\\Users\\\\username\\\\desktop\n```\n\n### 2. Install Dependencies\n\nNavigate to the project folder using your terminal or command prompt:\n\n```bash\ncd C:\\\\Users\\\\username\\\\desktop\n```\n\nRun the following command to install all required dependencies:\n\n```bash\nnpm install\n```\n\n### 3. Compile the Project\n\nAfter installing the dependencies, compile the TypeScript files into JavaScript using the following command:\n\n```bash\nnpx tsc\n```\n\nThis will generate the compiled JavaScript files in the `build` folder.\n\n### 4. Restart Claude App\n\nAfter running `npx tsc`, you must **restart** the Claude Desktop App for it to recognize the updated ",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:34:49.352679"
 }

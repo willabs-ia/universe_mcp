@@ -7,10 +7,23 @@
   "weekly_metric": null,
   "release_date": "Apr 29, 2025",
   "url": "https://www.pulsemcp.com/servers/kubesphere-ks",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/kubesphere/ks-mcp-server",
+  "categories": [
+    "security",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:27.986643",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 13,
+    "readme_excerpt": "# KubeSphere MCP Server\nThe KubeSphere MCP Server is a [Model Context Protocol(MCP)](https://modelcontextprotocol.io/introduction) server that provides integration with KubeSphere APIs, enabling to get resources from KubeSphere. Divided into four tools modules: `Workspace Management`, `Cluster Management`, `User and Roles`, `Extensions Center`.\n\n## Prerequisites\nYou must have a KubeSphere cluster. contains: Access Address, Username, Password.\n\n## Installation\n### Generate KSConfig\nThe format is similar to kubeconfig. This configuration contains HTTP connector information. The default context for KubeSphere is `kubesphere`, which can be modified via the environment variable `KUBESPHERE_CONTEXT`.\n```yaml\napiVersion: v1\nclusters:\n- cluster:\n    certificate-authority-data: <CA file>\n    server: <Server Address>\n  name: kubesphere\ncontexts:\n- context:\n    cluster: kubesphere\n    user: admin\n  name: kubesphere\ncurrent-context: kubesphere\nkind: Config\npreferences: {}\nusers:\n- name: admin\n  user:\n    username: <KubeSphere Username>\n    password: <KubeSphere Password>\n```\n`<CA file>`: **Optional**. Fill in the CA certificate in base64-encoded format when KubeSphere is accessed via HTTPS.    \n`<Server Address>`: **Required** Must be an HTTPS address. (If using HTTP, enter any HTTPS address here, then modify via the parameter `--ks-apiserver http://xxx`)    \n`<KubeSphere Username>`: **Required** The user for the KubeSphere cluster.    \n`<KubeSphere Password>`: **Required** The password ",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:34:20.058308"
 }

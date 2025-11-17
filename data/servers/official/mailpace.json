@@ -7,10 +7,23 @@
   "weekly_metric": null,
   "release_date": "Mar 25, 2025",
   "url": "https://www.pulsemcp.com/servers/mailpace",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/mailpace/mailpace-mcp",
+  "categories": [
+    "filesystem",
+    "documentation",
+    "api",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:50.808837",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 1,
+    "capabilities": [
+      "Send email over the MailPace Transactional Email API"
+    ],
+    "readme_excerpt": "# MailPace MCP (Model Context Protocol) Server\n\n[![smithery badge](https://smithery.ai/badge/@mailpace/mailpace-mcp)](https://smithery.ai/server/@mailpace/mailpace-mcp)\n\nMailPace MCP (Model Context Protocol) Server is an MCP server implementation that allows sending emails over MailPace's fast transactional email API.\n\n## Features\n\n- Send email over the [MailPace](https://mailpace.com) Transactional Email API\n\n## Tool\n\n### send-email\n\nSends an email to one or more recipients.\n\n**Inputs**\n- Email with fields shown in MailPace documentation: https://docs.mailpace.com/reference/send/\n\n## Usage\n\n### Installing via Smithery\n\nTo install MailPace MCP Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@mailpace/mailpace-mcp):\n\n```bash\nnpx -y @smithery/cli install @mailpace/mailpace-mcp --client claude\n```\n\n### Domain and Token\n\n- Create an organization and domain at https://app.mailpace.com\n- Copy your domain API token\n- Start the MCP with the `MAILPACE_API_TOKEN` env set, or pass it to the server with the `--token` argument\n\n## Build and run\n\n`npm run build`\n`npm run start`\n\n## Contributing\n\nWe welcome contributions to the MailPace MCP Server. To contribute, please follow these steps:\n\n1. Fork the repository.\n2. Create a new branch for your feature or bugfix.\n3. Commit your changes and push the branch to your fork.\n4. Create a pull request with a detailed description of your changes.\n\n## License\n\nThis project is licensed under the MIT License. See the ",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T18:35:42.588853"
 }

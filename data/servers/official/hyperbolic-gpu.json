@@ -7,10 +7,30 @@
   "weekly_metric": null,
   "release_date": "Jun 5, 2025",
   "url": "https://www.pulsemcp.com/servers/hyperbolic-gpu",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/hyperboliclabs/hyperbolic-mcp",
+  "categories": [
+    "git",
+    "cloud",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:45.487677",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 15,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Hyperbolic GPU MCP Server\n\nInteract with Hyperbolic's GPU cloud, enabling agents and LLMs to view and rent available GPUs, SSH into them, and run GPU-powered workloads for you.\n\nhttps://github.com/user-attachments/assets/814d0327-ce5e-4c1b-90bc-7f3712aa1c68\n\n## Setup\n\n### Prerequisites\n\n- Node.js 16 or higher\n- npm or yarn\n- A Hyperbolic API token\n- (Optional) SSH private key for connecting to GPU instances\n\n### Getting a Hyperbolic Account and API Token\n\n1. Register for a Hyperbolic account:\n   - Visit [https://app.hyperbolic.xyz/](https://app.hyperbolic.xyz/)\n   - Create an account or log in to your existing account\n   - Verify your email address\n\n2. Deposit funds into your account:\n   - Log in to your Hyperbolic application\n   - Navigate to the \"Billing\" tab\n   - Select how much you want to deposit (we suggest starting with $25)\n   - Click Pay Now\n   - Follow the instructions to add funds to your account\n   - Note that you will need sufficient funds to rent GPU instances\n\n3. Generate an API token:\n   - In your Hyperbolic dashboard, navigate to \"Settings\" \n   - Navigate to the API Key section\n   - Copy the generated token and keep it secure\n   - You will use this key in your MCP server configuration environment variables\n\n4. Add your SSH public key:\n   - Generate an SSH key pair if you don't already have one\n   - In your Hyperbolic application, navigate to the \"Settings\" section\n   - Scroll down to the SSH Public Key section\n   - Paste your public key (usually from ~/.ssh",
+    "language": "TypeScript",
+    "license": "MIT License",
+    "forks": 3,
+    "open_issues": 0,
+    "last_pushed": "2025-05-21T23:51:39Z",
+    "topics": [],
+    "quality_score": 68
+  },
+  "enriched_at": "2025-11-17T18:31:55.392266"
 }

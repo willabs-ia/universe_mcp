@@ -10,10 +10,47 @@
   },
   "release_date": "May 4, 2025",
   "url": "https://www.pulsemcp.com/servers/dynatrace-oss-dynatrace",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/dynatrace-oss/dynatrace-mcp",
+  "categories": [
+    "security",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:18.082747",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 173,
+    "capabilities": [
+      "Execute DQL (Dynatrace Query Language) and retrieve logs, events, spans and metrics",
+      "Get Ownership of an entity",
+      "Set up notification Workflow (via Dynatrace AutomationEngine)",
+      "List and get security problems / vulnerability details",
+      "Send Slack messages (via Slack Connector)",
+      "List and get problem details from your services (for example Kubernetes)",
+      "Get more information about a monitored entity"
+    ],
+    "runtime": "Rust",
+    "readme_excerpt": "# Dynatrace MCP Server\n\n<h4 align=\"center\">\n  <a href=\"https://github.com/dynatrace-oss/dynatrace-mcp/releases\">\n    <img src=\"https://img.shields.io/github/release/dynatrace-oss/dynatrace-mcp\" />\n  </a>\n  <a href=\"https://github.com/dynatrace-oss/dynatrace-mcp/blob/main/LICENSE\">\n    <img src=\"https://img.shields.io/badge/license-mit-blue.svg\" alt=\"Dynatrace MCP Server is released under the MIT License\" />\n  </a>\n  <a href=\"https://vscode.dev/redirect/mcp/install?name=dynatrace-mcp-server&config=%7B%22command%22%3A%22npx%22%2C%22args%22%3A%5B%22-y%22%2C%22%40dynatrace-oss%2Fdynatrace-mcp-server%22%5D%2C%22env%22%3A%7B%7D%7D\">\n    <img src=\"https://img.shields.io/badge/Install_in-VS_Code-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white\" />\n  </a>\n  <a href=\"[https://vscode.dev/redirect/mcp/install?name=dynatrace-mcp-server&config=%7B%22command%22%3A%22npx%22%2C%22args%22%3A%5B%22-y%22%2C%22%40dynatrace-oss%2Fdynatrace-mcp-server%22%5D%2C%22env%22%3A%7B%7D%7D](https://cursor.com/en/install-mcp?name=dynatrace-mcp-server&config=eyJuYW1lIjoiZHluYXRyYWNlLW1jcC1zZXJ2ZXIiLCJjb21tYW5kIjoibnB4IiwiYXJncyI6WyIteSIsIkBkeW5hdHJhY2Utb3NzL2R5bmF0cmFjZS1tY3Atc2VydmVyIl0sImVudiI6e319)\">\n    <img src=\"https://img.shields.io/badge/Install_in-Cursor-000000?style=flat-square&logoColor=white\" />\n  </a>\n  <a href=\"https://www.npmjs.com/package/@dynatrace-oss/dynatrace-mcp-server\">\n    <img src=\"https://img.shields.io/npm/dm/@dynatrace-oss/dynatrace-mcp-server?logo=npm&style=flat&color",
+    "language": "TypeScript",
+    "license": "MIT License",
+    "forks": 60,
+    "open_issues": 18,
+    "last_pushed": "2025-11-12T14:40:37Z",
+    "topics": [
+      "claude",
+      "cline",
+      "copilot",
+      "dynatrace",
+      "mcp",
+      "monitoring",
+      "observability"
+    ],
+    "quality_score": 84
+  },
+  "enriched_at": "2025-11-17T18:28:20.868459"
 }

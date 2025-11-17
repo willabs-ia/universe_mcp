@@ -10,10 +10,27 @@
   },
   "release_date": "May 6, 2025",
   "url": "https://www.pulsemcp.com/servers/lsd-so-internetdata",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/lsd-so/internetdata-mcp",
+  "categories": [
+    "documentation",
+    "security",
+    "git",
+    "development",
+    "api",
+    "database",
+    "ai",
+    "browser",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:50.175019",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 3,
+    "runtime": "Node.js",
+    "readme_excerpt": "# LSD MCP\n\nThis is the updated MCP server for [LSD](https://lsd.so). The reason behind this update is to effectively leverage dynamic tools that are defined as [trips](https://lsd.so/docs/database/language/types/keywords/according) using [our SDK](https://github.com/lsd-so/internetdata).\n\n## Contents\n\n* [Getting started](#getting-started)\n  * [Authenticating](#authenticating)\n\t* [Configuration file](#configuration-file)\n\t* [Environment variables](#environment-variables)\n  * [Using an MCP registry](#using-an-mcp-registry)\n\t* [Pulse](https://www.pulsemcp.com/servers/lsd-so-internetdata)\n  * [From source](#from-source)\n* [Example of usage](#example-of-usage)\n  * [End to end](#end-to-end)\n  * [Interaction](#interaction)\n  * [Extraction](#extraction)\n* [Extending capabilities with LSD](#extending-capabilities-with-lsd)\n  * [What is a trip?](#what-is-a-trip)\n  * [From the bicycle browser](#from-the-bicycle-browser)\n  * [Using the language](#using-the-language)\n* [Extending capabilities with TypeScript](#extending-capabilities-with-typescript)\n\n## Getting started\n\n### Authenticating\n\nThis is to connect the running MCP server with [your account](https://lsd.so/profile) by using [our SDK](https://github.com/lsd-so/internetdata/?tab=readme-ov-file#authenticating).\n\nThe reason for using the terms `user` and `password` is because what you're connecting to is our [postgres compatible database](https://lsd.so/docs/database/postgres/postgres-compatible).\n\n#### Configuration file\n\nIn your ho",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:35:18.608987"
 }

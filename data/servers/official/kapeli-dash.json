@@ -10,10 +10,25 @@
   },
   "release_date": "Jul 19, 2025",
   "url": "https://www.pulsemcp.com/servers/kapeli-dash",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/kapeli/dash-mcp-server",
+  "categories": [
+    "documentation",
+    "git",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "browser"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:31.374493",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 79,
+    "runtime": "Python",
+    "readme_excerpt": "# mcp-server-dash\n\nA Model Context Protocol (MCP) server that provides tools to interact with the [Dash](https://kapeli.com/dash) documentation browser API.\n\nDash 8 is required. You can download Dash 8 at https://blog.kapeli.com/dash-8.\n\n<a href=\"https://glama.ai/mcp/servers/@Kapeli/dash-mcp-server\">\n  <img width=\"380\" height=\"200\" src=\"https://glama.ai/mcp/servers/@Kapeli/dash-mcp-server/badge\" alt=\"Dash Server MCP server\" />\n</a>\n\n## Overview\n\nThe Dash MCP server provides tools for accessing and searching documentation directly from Dash, the macOS documentation browser. MCP clients can:\n\n- List installed docsets\n- Search across docsets and code snippets\n- Enable full-text search for specific docsets\n\n### Notice\n\nThis is a work in progress. Any suggestions are welcome!\n\n## Tools\n\n1. **list_installed_docsets**\n   - Lists all installed documentation sets in Dash\n2. **search_documentation**\n   - Searches across docsets and snippets\n3. **enable_docset_fts**\n   - Enables full-text search for a specific docset\n\n## Requirements\n\n- macOS (required for Dash app)\n- [Dash](https://kapeli.com/dash) installed\n- Python 3.11.4 or higher\n- uv\n\n## Configuration\n\n### Using uvx\n\n```bash\nbrew install uv\n```\n\n#### in `claude_desktop_config.json`\n\n```json\n{\n  \"mcpServers\": {\n      \"dash-api\": {\n          \"command\": \"uvx\",\n          \"args\": [\n              \"--from\",\n              \"git+https://github.com/Kapeli/dash-mcp-server.git\",\n              \"dash-mcp-server\"\n          ]\n      }\n  }\n}\n```\n\n##",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:33:37.311380"
 }

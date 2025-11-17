@@ -7,10 +7,29 @@
   "weekly_metric": null,
   "release_date": "Dec 26, 2024",
   "url": "https://www.pulsemcp.com/servers/hide-org-hide",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/hide-org/hide-mcp",
+  "categories": [
+    "git",
+    "development",
+    "api",
+    "ai",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:46.421725",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 11,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Hide MCP server\n\nA MCP server for Hide – headless IDE.\n\n## Components\n\n### Tools\n\nThe server implements two tools adapted from [Anthropic's computer-use-demo](https://github.com/anthropics/anthropic-quickstarts/tree/main/computer-use-demo/computer_use_demo/tools):\n\n#### Text Editor\nFor viewing and editing files. Features file viewing with line numbers, directory listing, file creation, string replacement with exact matching, line insertion, and edit history. \n\n#### Bash\nA persistent bash shell with support for common Linux/Python packages, background processes and automatic output truncation. \n\n## Quickstart\n\n### Install\n\n#### Claude Desktop\n\nOn MacOS: `~/Library/Application\\ Support/Claude/claude_desktop_config.json`\nOn Windows: `%APPDATA%/Claude/claude_desktop_config.json`\n\n<details>\n  <summary>Development/Unpublished Servers Configuration</summary>\n  ```\n  \"mcpServers\": {\n    \"hide-mcp\": {\n      \"command\": \"uv\",\n      \"args\": [\n        \"--directory\",\n        \"/path/to/hide-mcp\",\n        \"run\",\n        \"hide-mcp\"\n      ]\n    }\n  }\n  ```\n</details>\n\n<details>\n  <summary>Published Servers Configuration</summary>\n  ```\n  \"mcpServers\": {\n    \"hide-mcp\": {\n      \"command\": \"uvx\",\n      \"args\": [\n        \"hide-mcp\"\n      ]\n    }\n  }\n  ```\n</details>\n\n## Development\n\n### Building and Publishing\n\nTo prepare the package for distribution:\n\n1. Sync dependencies and update lockfile:\n```bash\nuv sync\n```\n\n2. Build package distributions:\n```bash\nuv build\n```\n\nThis will create source and",
+    "language": "Python",
+    "license": "MIT License",
+    "forks": 1,
+    "open_issues": 2,
+    "last_pushed": "2025-03-07T11:05:06Z",
+    "topics": [],
+    "quality_score": 62
+  },
+  "enriched_at": "2025-11-17T18:31:37.004375"
 }

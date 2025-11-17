@@ -7,10 +7,38 @@
   "weekly_metric": null,
   "release_date": "Mar 18, 2025",
   "url": "https://www.pulsemcp.com/servers/heurist-mesh-web3-tools",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/heurist-network/heurist-mesh-mcp-server",
+  "categories": [
+    "security",
+    "git",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:21.494091",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 61,
+    "capabilities": [
+      "Loads tools for cryptocurrency data and Web3 use cases",
+      "Works with Claude in Cursor, Claude Desktop, and other MCP-compatible interfaces",
+      "Use one API key to access multiple services (e.g. CoinGecko crypto market data, GoPlus token security review)",
+      "Connects to the Heurist Mesh API",
+      "Supports both SSE and stdio transports"
+    ],
+    "runtime": "Python",
+    "readme_excerpt": "# Mesh Agent MCP Server\n\n![mesh-2](https://github.com/user-attachments/assets/da67c0e6-0709-4f28-ab82-8abfc0c0734c)\n\nA Model Context Protocol (MCP) server that connects to [Heurist Mesh](https://github.com/heurist-network/heurist-agent-framework/tree/main/mesh) APIs, providing Claude with access to various blockchain and web3 tools.\n\nHeurist Mesh is an open network of purpose-built AI agents and tools, each specialized in particular web3 domains such as blockchain data analysis, smart contract security, token metrics, and blockchain interaction. We are actively growing the Heurist Mesh ecosystem, continuously integrating more tools to expand its capabilities.\n\n<a href=\"https://glama.ai/mcp/servers/@heurist-network/heurist-mesh-mcp-server\">\n  <img width=\"380\" height=\"200\" src=\"https://glama.ai/mcp/servers/@heurist-network/heurist-mesh-mcp-server/badge\" alt=\"Mesh Agent Server MCP server\" />\n</a>\n\n## Features\n- Connects to the Heurist Mesh API \n- Loads tools for cryptocurrency data and Web3 use cases\n- Supports both SSE and stdio transports\n- Works with Claude in Cursor, Claude Desktop, and other MCP-compatible interfaces\n- Use one API key to access multiple services (e.g. CoinGecko crypto market data, GoPlus token security review)\n\n## 🔥 Just In: Customize Your Agents and Create Managed MCP Servers On-Demand\nYou can use [Heurist Mesh MCP Portal](https://mcp.heurist.ai/) to create SSE MCP Servers. Select your agents and compose a personalized swarm for your tasks!\n\n## Hosted SSE ",
+    "language": "Python",
+    "license": "MIT License",
+    "forks": 14,
+    "open_issues": 6,
+    "last_pushed": "2025-09-13T12:01:02Z",
+    "topics": [],
+    "quality_score": 76
+  },
+  "enriched_at": "2025-11-17T18:31:29.513540"
 }

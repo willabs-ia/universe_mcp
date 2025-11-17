@@ -7,10 +7,18 @@
   "weekly_metric": null,
   "release_date": "Mar 26, 2025",
   "url": "https://www.pulsemcp.com/servers/falkordb-graph",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/FalkorDB",
+  "categories": [
+    "api",
+    "database",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:10.276924",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 20,
+    "quality_score": 40
+  },
+  "enriched_at": "2025-11-17T18:29:02.482435"
 }

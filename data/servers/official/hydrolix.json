@@ -10,10 +10,29 @@
   },
   "release_date": "Jul 26, 2025",
   "url": "https://www.pulsemcp.com/servers/hydrolix",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/hydrolix/mcp-hydrolix",
+  "categories": [
+    "testing",
+    "api",
+    "database",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:12.803602",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 5,
+    "runtime": "Python",
+    "readme_excerpt": "# Hydrolix MCP Server\n\n[![PyPI - Version](https://img.shields.io/pypi/v/mcp-hydrolix)](https://pypi.org/project/mcp-hydrolix)\n\nAn MCP server for Hydrolix.\n\n## Tools\n\n* `run_select_query`\n  * Execute SQL queries on your Hydrolix cluster.\n  * Input: `sql` (string): The SQL query to execute.\n  * All Hydrolix queries are run with `readonly = 1` to ensure they are safe.\n\n* `list_databases`\n  * List all databases on your Hydrolix cluster.\n\n* `list_tables`\n  * List all tables in a database.\n  * Input: `database` (string): The name of the database.\n\n## Effective Usage\n\nDue to the wide variety in LLM architectures, not all models will proactively use the tools above, and few will use them effectively without guidance, even with the carefully-constructed tool descriptions provided to the model. To get the best results out of your model while using the Hydrolix MCP server, we recommend the following:\n\n* Refer to your Hydrolix database by name and request tool usage in your prompts (e.g., \"Using MCP tools to access my Hydrolix database, please ...\")\n  - This encourages the model to use the MCP tools available and minimizes hallucinations.\n* Include time ranges in your prompts (e.g., \"Between December 5 2023 and January 18 2024, ...\") and specifically request that the output be ordered by timestamp.\n  - This prompts the model to write more efficient queries that take advantage of [primary key optimizations](https://hydrolix.io/blog/optimizing-latest-n-row-queries/)\n\n### Health Check Endpo",
+    "language": "Python",
+    "license": "Apache License 2.0",
+    "forks": 8,
+    "open_issues": 2,
+    "last_pushed": "2025-11-15T01:15:55Z",
+    "topics": [],
+    "quality_score": 67
+  },
+  "enriched_at": "2025-11-17T18:31:52.452072"
 }

@@ -10,10 +10,36 @@
   },
   "release_date": "Dec 17, 2024",
   "url": "https://www.pulsemcp.com/servers/elastic-elasticsearch",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/elastic/mcp-server-elasticsearch",
+  "categories": [
+    "documentation",
+    "security",
+    "git",
+    "search",
+    "development",
+    "api",
+    "database",
+    "ai",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:42.270228",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 550,
+    "readme_excerpt": "# Elasticsearch MCP Server\n\n> [!CAUTION]\n> This MCP server is deprecated and will only receive critical security updates going forward.\n> It has been superseded by [Elastic Agent Builder](https://ela.st/agent-builder-docs)'s [MCP endpoint](https://ela.st/agent-builder-mcp), which is available in Elastic 9.2.0+ and Elasticsearch Serverless projects.\n\nConnect to your Elasticsearch data directly from any MCP Client using the Model Context Protocol (MCP).\n\nThis server connects agents to your Elasticsearch data using the Model Context Protocol. It allows you to interact with your Elasticsearch indices through natural language conversations.\n\n## Available Tools\n\n* `list_indices`: List all available Elasticsearch indices\n* `get_mappings`: Get field mappings for a specific Elasticsearch index\n* `search`: Perform an Elasticsearch search with the provided query DSL\n* `esql`: Perform an ES|QL query\n* `get_shards`: Get shard information for all or specific indices\n\n## Prerequisites\n\n* An Elasticsearch instance\n* Elasticsearch authentication credentials (API key or username/password)\n* An MCP Client (e.g. [Claude Desktop](https://claude.ai/download), [Goose](https://block.github.io/goose/))\n\n**Supported Elasticsearch versions**\n\nThis works with Elasticsearch versions `8.x` and `9.x`.\n\n## Installation & Setup\n\n> [!NOTE]\n>\n> Versions 0.3.1 and earlier were installed via `npm`. These versions are deprecated and no longer supported. The following instructions only apply to 0.4.0 and later.\n>\n",
+    "language": "Rust",
+    "license": "Apache License 2.0",
+    "forks": 111,
+    "open_issues": 26,
+    "last_pushed": "2025-11-17T15:47:07Z",
+    "topics": [
+      "elasticsearch",
+      "mcp",
+      "mcp-server",
+      "vector-database"
+    ],
+    "quality_score": 70
+  },
+  "enriched_at": "2025-11-17T18:28:30.648836"
 }

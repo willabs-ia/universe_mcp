@@ -7,10 +7,26 @@
   "weekly_metric": null,
   "release_date": "Jan 15, 2025",
   "url": "https://www.pulsemcp.com/servers/integration-app",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/membranehq/mcp-server",
+  "categories": [
+    "documentation",
+    "workflow",
+    "testing",
+    "git",
+    "cloud",
+    "development",
+    "api",
+    "ai",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:48.575682",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 30,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Integration App MCP Server\n\n<a href=\"https://integration.app/\">\n  <img width=\"1148\" alt=\"Screenshot 2025-07-07 at 23 03 05\" src=\"https://github.com/user-attachments/assets/39f6cc74-a689-4657-91f3-ee8358c05e31\" />\n</a>\n\nThe Integration App MCP Server is a [Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction) server, it provides actions for connected integrations on Integration.app membrane as tools.\n\nHere's our official [AI Agent Example](https://github.com/integration-app/ai-agent-example) that shows you how to use this MCP server in your application.\n\n### 📋 Prerequisites\n\n- Node.js (v18 or higher)\n- An [Integration.app](https://integration.app) account\n\n### ⚙️ Installation\n\n```bash\ngit clone https://github.com/integration-app/mcp-server.git\ncd mcp-server\nnpm install\nnpm run build\n```\n\n### 🛠️ Local Development\n\nTo run the development server locally, start it with:\n\n```bash\nnpm run dev\n```\n\nThe server will be live at `http://localhost:3000` ⚡️\n\n### 🧪 Running tests\n\n```bash\n# Run the server in test mode\nnpm run start:test\n\n# then run tests\nnpm test\n```\n\n### 🚀 Deployment\n\nDeploy your own instance of this MCP server to any cloud hosting service of your choice.\n\n#### 🐳 Docker\n\nThe project includes a Dockerfile for easy containerized deployment.\n\n```bash\ndocker build -t integration-app-mcp-server .\ndocker run -p 3000:3000 integration-app-mcp-server\n```\n\n### 🔗 Connecting to the MCP server\n\nThis MCP server support two transports:\n\n| Transport                 ",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:32:36.416414"
 }

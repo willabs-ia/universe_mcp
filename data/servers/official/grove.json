@@ -7,10 +7,35 @@
   "weekly_metric": null,
   "release_date": "Oct 4, 2025",
   "url": "https://www.pulsemcp.com/servers/grove",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/pokt-network/mcp",
+  "categories": [
+    "documentation",
+    "search",
+    "development",
+    "ai",
+    "monitoring",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:31.129795",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 3,
+    "runtime": "Node.js",
+    "readme_excerpt": "# MCP Server for Pocket Network\n\n**Model Context Protocol (MCP)** server for blockchain data access across **63 networks** via Pocket Network's public RPC endpoints.\n\nNot a standalone CLI — **requires an MCP client** such as Claude Desktop, Claude Code CLI, or MCP Inspector.\n\nTurn Claude into a blockchain analysis tool with natural language queries, token analytics, transaction inspection, domain resolution, and multi-chain comparisons.\n\n## Table of Contents\n\n- [Quick Start](#quick-start)\n- [Features](#features)\n- [Detailed Installation](#detailed-installation)\n- [Available Tools](#available-tools)\n  - [Core Blockchain Tools](#core-blockchain-tools-5-tools)\n  - [Domain Resolution](#domain-resolution-3-tools)\n  - [Transaction & Block Tools](#transaction--block-tools-5-tools)\n  - [Token Tools](#token-tools-2-tools)\n  - [Multi-Chain & Historical Analysis](#multi-chain--historical-analysis-3-tools)\n  - [Smart Contract Tools](#smart-contract-tools-1-tool)\n  - [Utility Tools](#utility-tools-3-tools)\n  - [Endpoint Management](#endpoint-management-5-tools)\n  - [Solana Tools](#solana-tools-11-tools)\n  - [Sui Tools](#sui-tools-11-tools)\n  - [Cosmos SDK Tools](#cosmos-sdk-tools)\n  - [Documentation](#documentation-3-tools)\n- [Extending with New Blockchains](#extending-with-new-blockchains)\n- [Architecture](#architecture)\n- [Development](#development)\n- [Supported Blockchains](#supported-blockchains)\n- [Example Usage](#example-usage)\n- [License](#license)\n\n## Quick Start\n\nPrerequisites: N",
+    "language": "TypeScript",
+    "license": "MIT License",
+    "forks": 2,
+    "open_issues": 0,
+    "last_pushed": "2025-10-31T15:30:24Z",
+    "topics": [
+      "blockchain",
+      "mcp",
+      "mcp-server",
+      "rpc"
+    ],
+    "quality_score": 70
+  },
+  "enriched_at": "2025-11-17T18:31:12.684281"
 }

@@ -7,10 +7,31 @@
   "weekly_metric": null,
   "release_date": "Jan 29, 2025",
   "url": "https://www.pulsemcp.com/servers/descope-authentication",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/descope-sample-apps/descope-mcp-server-stdio",
+  "categories": [
+    "security",
+    "git",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:55.046400",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 25,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Descope MCP Server\n[![smithery badge](https://smithery.ai/badge/@descope-sample-apps/descope-mcp-server)](https://smithery.ai/server/@descope-sample-apps/descope-mcp-server)\n\n## Introduction\n\nThe Descope Model Context Protocol (MCP) server provides an interface to interact with Descope's Management APIs, enabling the search and retrieval of project-related information.\n\n## Available Tools\n\n- `search-audits`: Retrieves up to 10 audit log entries from your Descope project.\n- `search-users`: Retrieves up to 10 user records from your Descope project.\n- `create-user`: Creates a new user in your Descope project.\n- `invite-user`: Invites a new user to your Descope project.\n\n## Requirements\n\nBefore proceeding, make sure you have the following:\n\n- [Node.js](https://nodejs.org/) (version 18 or later)\n- [Claude Desktop](https://claude.ai/download) installed on your system\n- A valid Descope [Project ID](https://app.descope.com/settings/project) and [Management Key](https://app.descope.com/settings/company/managementkeys)\n- Git installed\n\nTo confirm your Node.js installation, run:\n\n```bash\nnode --version  # Expected output: v18.0.0 or later\n```\n\n## Setup Instructions\n### Installing via Smithery\n\nTo install Descope MCP Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@descope-sample-apps/descope-mcp-server):\n\n```bash\nnpx -y @smithery/cli install @descope-sample-apps/descope-mcp-server --client claude\n```\n\n### Manual Installation\n1. Clone the repository:\n\n",
+    "language": "TypeScript",
+    "license": "MIT License",
+    "forks": 8,
+    "open_issues": 6,
+    "last_pushed": "2025-03-17T20:34:08Z",
+    "topics": [],
+    "quality_score": 59
+  },
+  "enriched_at": "2025-11-17T18:27:42.557867"
 }

@@ -10,10 +10,35 @@
   },
   "release_date": "Apr 1, 2025",
   "url": "https://www.pulsemcp.com/servers/flipt-io-feature-flags",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/flipt-io/mcp-server-flipt",
+  "categories": [
+    "testing",
+    "security",
+    "git",
+    "development",
+    "api",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:43.621966",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 2,
+    "capabilities": [
+      "List, create, update, and delete namespaces, flags, segments, rules, and more",
+      "Manage constraints, variants, distributions, and rollouts",
+      "Toggle flags on/off",
+      "Evaluate flags for specific entities"
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "# Flipt MCP Server\n\n[![mcp-server-flipt](https://img.shields.io/npm/v/@flipt-io/mcp-server-flipt?label=%40flipt-io%2Fmcp-server-flipt)](https://www.npmjs.com/package/@flipt-io/mcp-server-flipt)\n[![smithery badge](https://smithery.ai/badge/@flipt-io/mcp-server-flipt)](https://smithery.ai/install/@flipt-io/mcp-server-flipt)\n[![MseeP.ai Security Assessment Badge](https://mseep.net/mseep-audited.png)](https://mseep.ai/app/flipt-io-mcp-server-flipt)\n\nA [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) server for [Flipt](https://flipt.io), allowing AI assistants to interact with feature flags.\n\n<img width=\"2060\" alt=\"mcp\" src=\"https://github.com/user-attachments/assets/cc32a6dd-5368-43c1-897a-a0ccfeeacaf0\" />\n\n## Features\n\n- List, create, update, and delete namespaces, flags, segments, rules, and more\n- Evaluate flags for specific entities\n- Toggle flags on/off\n- Manage constraints, variants, distributions, and rollouts\n\n## Usage\n\nOnce the server is running, it will:\n\n1. Set up a STDIO transport for MCP communication\n2. Register tools and prompts for interacting with Flipt\n\nThe server is designed to be used with AI assistants that support the Model Context Protocol.\n\n### Installing via Smithery\n\nTo install Flipt MCP Server for Claude Desktop automatically via [Smithery](https://smithery.ai/install/@flipt-io/mcp-server-flipt):\n\n```bash\nnpx -y @smithery/cli install @flipt-io/mcp-server-flipt --client claude\n```\n\n### Node\n\nYou can install the package globally and run it",
+    "language": "TypeScript",
+    "license": "Apache License 2.0",
+    "forks": 7,
+    "open_issues": 4,
+    "last_pushed": "2025-09-30T19:56:17Z",
+    "topics": [],
+    "quality_score": 74
+  },
+  "enriched_at": "2025-11-17T18:29:46.970882"
 }

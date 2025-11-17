@@ -7,10 +7,24 @@
   "weekly_metric": null,
   "release_date": "Sep 23, 2025",
   "url": "https://www.pulsemcp.com/servers/markitdown",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/microsoft/markitdown",
+  "categories": [
+    "workflow",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:29.254469",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 83100,
+    "runtime": "Python",
+    "readme_excerpt": "# MarkItDown\n\n[![PyPI](https://img.shields.io/pypi/v/markitdown.svg)](https://pypi.org/project/markitdown/)\n![PyPI - Downloads](https://img.shields.io/pypi/dd/markitdown)\n[![Built by AutoGen Team](https://img.shields.io/badge/Built%20by-AutoGen%20Team-blue)](https://github.com/microsoft/autogen)\n\n> [!TIP]\n> MarkItDown now offers an MCP (Model Context Protocol) server for integration with LLM applications like Claude Desktop. See [markitdown-mcp](https://github.com/microsoft/markitdown/tree/main/packages/markitdown-mcp) for more information.\n\n> [!IMPORTANT]\n> Breaking changes between 0.0.1 to 0.1.0:\n> * Dependencies are now organized into optional feature-groups (further details below). Use `pip install 'markitdown[all]'` to have backward-compatible behavior. \n> * convert\\_stream() now requires a binary file-like object (e.g., a file opened in binary mode, or an io.BytesIO object). This is a breaking change from the previous version, where it previously also accepted text file-like objects, like io.StringIO.\n> * The DocumentConverter class interface has changed to read from file-like streams rather than file paths. *No temporary files are created anymore*. If you are the maintainer of a plugin, or custom DocumentConverter, you likely need to update your code. Otherwise, if only using the MarkItDown class or CLI (as in these examples), you should not need to change anything.\n\nMarkItDown is a lightweight Python utility for converting various files to Markdown for use with LLMs a",
+    "quality_score": 65
+  },
+  "enriched_at": "2025-11-17T18:36:00.318262"
 }

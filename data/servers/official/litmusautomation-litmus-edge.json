@@ -7,10 +7,23 @@
   "weekly_metric": null,
   "release_date": "May 16, 2025",
   "url": "https://www.pulsemcp.com/servers/litmusautomation-litmus-edge",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/litmusautomation/litmus-mcp-server",
+  "categories": [
+    "documentation",
+    "workflow",
+    "testing",
+    "development",
+    "api",
+    "ai",
+    "monitoring"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:45.479828",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 5,
+    "readme_excerpt": "<p align=\"center\">\n  <a href=\"https://litmus.io\">\n    <picture>\n      <source media=\"(prefers-color-scheme: light)\" srcset=\"static/litmus-logo-light.svg\" />\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"static/litmus-logo-dark.svg\" />\n      <img src=\"static/litmus-logo-light.svg\" height=\"60\" alt=\"Litmus logo\" />\n    </picture>\n  </a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://docs.litmus.io\">\n    <img src=\"https://img.shields.io/badge/Litmus-Docs-2acfa6?style=flat-square\" alt=\"Documentation\" />\n  </a>\n  <a href=\"https://www.linkedin.com/company/litmus-automation/\" >\n    <img src=\"https://img.shields.io/badge/LinkedIn-Follow-0a66c2?style=flat-square\" alt=\"Follow on LinkedIn\" />\n  </a>\n</p>\n\n# Litmus MCP Server\n\nThe official [Litmus Automation](https://litmus.io) **Model Context Protocol (MCP) Server** enables LLMs and intelligent systems to interact with [Litmus Edge](https://litmus.io/products/litmus-edge) for device configuration, monitoring, and management. It is built on top of the MCP SDK and adheres to the [Model Context Protocol spec](https://modelcontextprotocol.io/).\n\n<div>\n  <picture>\n      <source media=\"(prefers-color-scheme: light)\" srcset=\"static/MCP-server-arch-diagram.png\" />\n      <img src=\"static/MCP-server-arch-diagram.png\" alt=\"Litmus MCP Server Architecture Diagram\" />\n  </picture>\n</div>\n\n## Table of Contents\n\n- [Getting Started](#getting-started)\n  - [Quick Launch (Docker)](#quick-launch-docker)\n  - [Cursor IDE Setup](#cursor-ide-setup)\n- [",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:35:08.984085"
 }

@@ -10,10 +10,24 @@
   },
   "release_date": "Mar 28, 2025",
   "url": "https://www.pulsemcp.com/servers/last9-observability",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/last9/last9-mcp-server",
+  "categories": [
+    "documentation",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:53.172309",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 46,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Last9 MCP Server\n\n![last9 mcp demo](mcp-demo.gif)\n\nA [Model Context Protocol](https://modelcontextprotocol.io/) server\nimplementation for [Last9](https://last9.io/mcp/) that enables AI agents to\nseamlessly bring real-time production context — logs, metrics, and traces — into\nyour local environment to auto-fix code faster.\n\n- [View demo](https://www.youtube.com/watch?v=AQH5xq6qzjI)\n- Read our\n  [announcement blog post](https://last9.io/blog/launching-last9-mcp-server/)\n\n## Status\n\nWorks with Claude desktop app, or Cursor, Windsurf, and VSCode (Github Copilot)\nIDEs. Implements the following MCP\n[tools](https://modelcontextprotocol.io/docs/concepts/tools):\n\n**Observability & APM Tools:**\n\n- `get_exceptions`: Get the list of exceptions.\n- `get_service_summary`: Get service summary with throughput, error rate, and response time.\n- `get_service_environments`: Get available environments for services.\n- `get_service_performance_details`: Get detailed performance metrics for a service.\n- `get_service_operations_summary`: Get operations summary for a service.\n- `get_service_dependency_graph`: Get service dependency graph showing incoming/outgoing dependencies.\n\n**Prometheus/PromQL Tools:**\n\n- `prometheus_range_query`: Execute PromQL range queries for metrics data.\n- `prometheus_instant_query`: Execute PromQL instant queries for metrics data.\n- `prometheus_label_values`: Get label values for PromQL queries.\n- `prometheus_labels`: Get available labels for PromQL queries.\n\n**Logs Manage",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:34:37.028994"
 }

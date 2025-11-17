@@ -7,10 +7,27 @@
   "weekly_metric": null,
   "release_date": "Feb 3, 2025",
   "url": "https://www.pulsemcp.com/servers/lsd-so-lsd",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/lsd-so/lsd-mcp",
+  "categories": [
+    "documentation",
+    "cloud",
+    "git",
+    "development",
+    "api",
+    "database",
+    "ai",
+    "browser",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:57.177158",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 64,
+    "runtime": "Python",
+    "readme_excerpt": "# LSD MCP server\n\n![Image displaying MCP](/media/explanation.jpg)\n\nImmediately gather an aggregation of high quality info directly from a website just by giving LSD the link via Claude MCP.\n\nYou will see Claude connect to the internet and:\n* Write LSD SQL\n* Self-correct LSD SQL\n* Run LSD SQL that's connected to cloud browsers\n\n## Demo\n\nHere's a demo of what that looks like in action:\n\n![Getting trending repositories using LSD](/media/5x_speed.gif)\n\nWe treated Claude to psychedelic therapy on LSD and now it can just do things. [Here's a longer video on YouTube](https://youtu.be/s97G-E46-Yo)\n\n## Contents\n\n* [Quickstart](#quickstart)\n  * [Dependencies](#dependencies)\n  * [Giving Claude LSD](#giving-claude-lsd)\n  * [Claude on LSD](#claude-on-lsd)\n  * [Failed to start MCP server](#failed-to-start-mcp-server)\n\t* [First time running an MCP server](#first-time-running-an-mcp-server)\n\t* [Missing executable](#missing-executable)\n\t* [Incomplete path](#incomplete-path)\n* [What is MCP?](#what-is-mcp)\n* [What is LSD?](#what-is-lsd)\n  * [Contact](#contact)\n* [Smithery](#smithery)\n  * [Installing via Smithery](#installing-via-smithery)\n\n## Quickstart\n\n### Dependencies\n\nTo run the MCP server, you'll need both [Python](https://www.python.org/) and [uv](https://docs.astral.sh/uv/) installed. To use the MCP server, you'll need to download either the [Claude desktop app](https://claude.ai/download) or [another MCP client](https://modelcontextprotocol.io/clients).\n\nTo use LSD, you'll need to sign ",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:35:23.185132"
 }

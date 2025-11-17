@@ -7,10 +7,24 @@
   "weekly_metric": null,
   "release_date": "Aug 22, 2025",
   "url": "https://www.pulsemcp.com/servers/mandoline",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/mandoline-ai/mandoline-mcp-server",
+  "categories": [
+    "documentation",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:22.104344",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 4,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Mandoline MCP Server\n\nEnable AI assistants like Claude Code, Claude Desktop, and Cursor to reflect on, critique, and continuously improve their own performance using [Mandoline](https://mandoline.ai)'s evaluation framework via the [Model Context Protocol](https://modelcontextprotocol.io).\n\n---\n\n# Client Setup\n\n**Most users should start here.** Use Mandoline's hosted MCP server to integrate evaluation tools into your AI assistant.\n\nFor each integration below, replace `sk_****` with your actual API key from [mandoline.ai/account](https://mandoline.ai/account).\n\n## Claude Code\n\nUse the CLI to add the Mandoline MCP server to Claude Code:\n\n```bash\nclaude mcp add --scope user --transport http mandoline https://mandoline.ai/mcp --header \"x-api-key: sk_****\"\n```\n\nYou can use `--scope user` (across projects) or `--scope project` (current project only).\n\n**Note**: Restart any active Claude Code sessions after configuration changes.\n\n**Verify**: Run `/mcp` in Claude Code to see Mandoline listed as a connected server:\n\n![Claude Code Mandoline MCP Connected](assets/claude-code-mandoline-mcp-connected.png)\n\n**Tutorial**: Watch Claude [evaluate multiple code solutions and pick the best one](https://youtu.be/CHmCo27fBqA?feature=shared).\n\n**Official Documentation**: [Claude Code MCP Guide](https://docs.anthropic.com/en/docs/claude-code/mcp)\n\n## Codex\n\nUse the CLI to add the Mandoline MCP server to Codex:\n\n```bash\ncodex mcp add mandoline --env MANDOLINE_API_KEY=sk_**** -- npx -y mcp-remote h",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:35:55.365552"
 }

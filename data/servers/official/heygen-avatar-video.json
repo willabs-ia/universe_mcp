@@ -10,10 +10,29 @@
   },
   "release_date": "Apr 16, 2025",
   "url": "https://www.pulsemcp.com/servers/heygen-avatar-video",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/heygen-com/heygen-mcp",
+  "categories": [
+    "documentation",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:40.236633",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 33,
+    "runtime": "Python",
+    "readme_excerpt": "# Heygen MCP Server\n\n![Heygen Logo](heygen_logo.png)\n\nThe HeyGen MCP server enables any MCP Client like Claude Desktop or Agents to use the [HeyGen API](https://docs.heygen.com/) to generate avatars and videos.\n\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\n\nNote: This project is in early development. While we welcome community feedback and contributions, please be aware that official support is limited.\n\n## Installation\n\n### Prerequisites\n\n- Python 3.10 or higher\n- A Heygen API key (get one from [Heygen](https://www.heygen.com/)). Includes 10 Free Credits per Month\n\n### Installing uv\n\nuv is a fast Python package installer and resolver that we recommend for installing this package.\n\n**macOS or Linux:**\n\n```bash\n# Install with the official installer script\ncurl -LsSf https://astral.sh/uv/install.sh | sh\n\n# Or via Homebrew (macOS)\nbrew install uv\n```\n\n**Windows:**\n\n```powershell\n# Install with the official installer script in PowerShell\nirm https://astral.sh/uv/install.ps1 | iex\n\n# Or via Scoop\nscoop install uv\n```\n\nFor other installation methods, see the [uv documentation](https://github.com/astral-sh/uv).\n\n## Usage\n\n### Quickstart with Claude Desktop\n\n1. Get your API key from [HeyGen](https://www.heygen.com/).\n2. Install uv package manager (see [Installing uv](#installing-uv) section above).\n3. Go to Claude > Settings > Developer > Edit Config > `claude_desktop_config.json` to include the following:\n\n```json\n{\n  \"m",
+    "language": "Python",
+    "license": null,
+    "forks": 9,
+    "open_issues": 13,
+    "last_pushed": "2025-04-16T00:25:06Z",
+    "topics": [],
+    "quality_score": 49
+  },
+  "enriched_at": "2025-11-17T18:31:32.181850"
 }

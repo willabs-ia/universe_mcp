@@ -10,10 +10,31 @@
   },
   "release_date": "Jun 10, 2025",
   "url": "https://www.pulsemcp.com/servers/dagger-container-use",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/dagger/container-use",
+  "categories": [
+    "documentation",
+    "workflow",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:15.884902",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 3266,
+    "runtime": "Python",
+    "readme_excerpt": "<div align=\"center\">\n  <img src=\"./docs/images/container-use.png\" align=\"center\" alt=\"Container use: Development environments for coding agents.\" />\n  <h1 align=\"center\">container-use</h2>\n  <p align=\"center\">Containerized environments for coding agents. (📦🤖) (📦🤖) (📦🤖)</p>\n  <p align=\"center\">\n    <img src=\"https://img.shields.io/badge/stability-experimental-orange.svg\" alt=\"Experimental\" />\n    <a href=\"https://opensource.org/licenses/Apache-2.0\">\n      <img src=\"https://img.shields.io/badge/License-Apache_2.0-blue.svg\">\n    </a>\n    <a href=\"https://container-use.com/discord\">\n      <img src=\"https://img.shields.io/discord/707636530424053791?logo=discord&logoColor=white&label=Discord&color=7289DA\" alt=\"Discord\">\n    </a>\n    <a href=\"https://github.com/clinebot/awesome-claude-code\">\n      <img src=\"https://awesome.re/mentioned-badge.svg\" alt=\"Mentioned in Awesome Claude Code\">\n    </a>\n  </p>\n</div>\n\n**Container Use** lets coding agents do their work in parallel environments without getting in your way. Go from babysitting one agent at a time to enabling multiple agents to work safely and independently with your preferred stack. See the [full documentation](https://container-use.com).\n\n<p align='center'>\n    <img src='./docs/images/demo.gif' width='700' alt='container-use demo'>\n</p>\n\nIt's an open-source MCP server that works as a CLI tool with Claude Code, Cursor, and other MCP-compatible agents. Powered by [Dagger](https://dagger.io).\n\n* 📦 **Isolated Environments**: Each ",
+    "language": "Go",
+    "license": "Apache License 2.0",
+    "forks": 170,
+    "open_issues": 63,
+    "last_pushed": "2025-11-10T15:24:09Z",
+    "topics": [],
+    "quality_score": 75
+  },
+  "enriched_at": "2025-11-17T18:26:58.718868"
 }

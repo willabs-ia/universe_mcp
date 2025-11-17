@@ -10,10 +10,33 @@
   },
   "release_date": "Aug 10, 2025",
   "url": "https://www.pulsemcp.com/servers/ibm-i",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/ibm/ibmi-mcp-server",
+  "categories": [
+    "documentation",
+    "testing",
+    "security",
+    "git",
+    "development",
+    "api",
+    "database",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:04.047551",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 14,
+    "runtime": "Node.js",
+    "readme_excerpt": "<div align=\"center\">\n\n# ibmi-mcp-server (⚠️ Under Active Development)\n\n**MCP server for IBM i**\n\n[![TypeScript](https://img.shields.io/badge/TypeScript-^5.8.3-blue?style=flat-square)](https://www.typescriptlang.org/)\n[![Model Context Protocol SDK](https://img.shields.io/badge/MCP%20SDK-^1.17.1-green?style=flat-square)](https://github.com/modelcontextprotocol/typescript-sdk)\n[![MCP Spec Version](https://img.shields.io/badge/MCP%20Spec-2025--06--18-lightgrey?style=flat-square)](https://github.com/modelcontextprotocol/modelcontextprotocol/blob/main/docs/specification/2025-06-18/changelog.mdx)\n[![Version](https://img.shields.io/badge/Version-1.9.1-blue?style=flat-square)](./CHANGELOG.md)\n[![Coverage](https://img.shields.io/badge/Coverage-64.67%25-brightgreen?style=flat-square)](./vitest.config.ts)\n[![License](https://img.shields.io/badge/License-Apache%202.0-blue?style=flat-square)](https://opensource.org/licenses/Apache-2.0)\n[![Status](https://img.shields.io/badge/Status-Stable-green?style=flat-square)](https://github.com/IBM/ibmi-mcp-server.git)\n[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/IBM/ibmi-mcp-server)\n\n**📚 [Documentation](https://ibm-d95bab6e.mintlify.app/) | ⚠️ Docs are under active development**\n![alt text](docs/images/logo-2.png)\n</div>\n\n---\n\n\n## 📁 Repository Structure\n\nHere is an overview of the repository structure:\n\n```\nibmi-mcp-server/\n├── server/          ← MCP server implementation (main package)\n├── tools/           ← SQL tool YAML c",
+    "language": "TypeScript",
+    "license": "Apache License 2.0",
+    "forks": 5,
+    "open_issues": 6,
+    "last_pushed": "2025-11-13T16:57:02Z",
+    "topics": [],
+    "quality_score": 69
+  },
+  "enriched_at": "2025-11-17T18:32:08.504284"
 }

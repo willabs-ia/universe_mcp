@@ -7,10 +7,29 @@
   "weekly_metric": null,
   "release_date": "Jun 9, 2025",
   "url": "https://www.pulsemcp.com/servers/gigapipe",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/gigapipehq/gigapipe-mcp",
+  "categories": [
+    "security",
+    "git",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "monitoring"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:45.495200",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 2,
+    "readme_excerpt": "<a href=\"https://gigapipe.com\" target=\"_blank\">\n  <img src='https://github.com/user-attachments/assets/fc8c7ca9-7a18-403d-b2a6-17899a534d33' style=\"margin-left:-10px;width:200px;\" height=200 >\n</a>\n\n# Gigapipe MCP Server\n\nA Machine Control Protocol (MCP) server for Gigapipe, providing a unified interface to query Prometheus metrics, Loki logs, and Tempo traces.\n\n## Features\n\n### Prometheus Integration\n- Query metrics using PromQL\n- List all available labels\n- Get values for specific labels\n- Support for time range queries\n\n### Loki Integration\n- Query logs using LogQL\n- List all available labels\n- Get values for specific labels\n- Support for time range queries\n\n### Tempo Integration\n- Query traces by trace ID\n- List all available trace tags\n- Get values for a specific trace tag\n- Support for JSON trace format\n\n## Installation\n\n```bash\n# Clone the repository\ngit clone https://github.com/lmangani/gigapipe-mcp.git\ncd gigapipe-mcp\n\n# Build the server\ngo build -o gigapipe-mcp\n```\n\n## Configuration\n\nThe server can be configured using environment variables:\n\n```bash\n# Required: Gigapipe server address (default: http://localhost:3100)\n# Must include protocol (http:// or https://)\nexport GIGAPIPE_HOST=\"https://your-host:3100\"\n\n# Optional: HTTP Basic Authentication\nexport GIGAPIPE_USERNAME=\"your-username\"\nexport GIGAPIPE_PASSWORD=\"your-password\"\n```\n\nNote: If no protocol is specified in GIGAPIPE_HOST, http:// will be used as the default.\n\n## Usage\n\n### Prometheus Tools\n\n1. Query Metric",
+    "language": "Go",
+    "license": "Apache License 2.0",
+    "forks": 0,
+    "open_issues": 0,
+    "last_pushed": "2025-06-08T16:34:29Z",
+    "topics": [],
+    "quality_score": 63
+  },
+  "enriched_at": "2025-11-17T18:30:18.413688"
 }

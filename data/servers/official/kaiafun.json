@@ -7,10 +7,23 @@
   "weekly_metric": null,
   "release_date": "Apr 7, 2025",
   "url": "https://www.pulsemcp.com/servers/kaiafun",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/weero-finance/kaiafun-mcp",
+  "categories": [
+    "git",
+    "development",
+    "api",
+    "ai",
+    "browser",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:12.703756",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 1,
+    "runtime": "Node.js",
+    "readme_excerpt": "# KaiaFun MCP\n\n> 🐍 ☁️ An MCP server for listing and trading tokens on [KaiaFun](http://kaiafun.io) and interacting with the Kaia blockchain\n\n![demo](https://github.com/weerofun/kaiafun-mcp/blob/main/.github/demo.png)\n\n## 🛠️ MCP Server\n\n### Overview\n\nThe [Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction) is an open protocol that standardizes how applications provide context to Large Language Models (LLMs).\n\nThis repository implements an MCP server for the KaiaFun protocol, enabling token listing, trading, and interaction with the Kaia blockchain (e.g. checking token balances of configured wallet).\n\n### Installation\n\n```bash\n# Clone the repository\ngit clone https://github.com/weerofun/kaiafun-mcp\ncd kaiafun-mcp\n\n# Install dependencies\nyarn\n\n# Build\nyarn build\n```\n\nThe build process will generate output in the directory specified in `tsconfig.json` (`dist` as default) via `tsc`.\n\nTo start the MCP Server, you'll need to run `dist/kaiafun-mcp-server.js` (see [#configuration](#configuration) below).\n\n### Configuration\n\nUpdate your [Claude Desktop](https://claude.ai/download) configuration by updating `claude_desktop_config.json`:\n\n```json\n{\n  \"mcpServers\": {\n    \"kaiafun\": {\n      \"command\": \"node\",\n      \"args\": [\"/path/to/dist/kaiafun-mcp-server.js\"],\n      \"env\": {\n        \"PRIVATE_KEY\": \"0x\"\n      }\n    },\n    \"puppeteer\": {\n      \"command\": \"npx\",\n      \"args\": [\"-y\", \"@modelcontextprotocol/server-puppeteer\"]\n    }\n  }\n}\n```\n\n- Set `mcpServers.kaiafun",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:33:30.040508"
 }

@@ -10,10 +10,43 @@
   },
   "release_date": "May 20, 2025",
   "url": "https://www.pulsemcp.com/servers/grafbase",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/grafbase/grafbase",
+  "categories": [
+    "documentation",
+    "security",
+    "git",
+    "cloud",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:28.817033",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 1185,
+    "runtime": "Rust",
+    "readme_excerpt": "# **![Grafbase](https://github.com/grafbase/grafbase/assets/14347895/9580d0f7-d50f-4d30-8dd0-dcea1a83409e)** **Grafbase**\n\n**The High-Performance GraphQL Federation Platform for Mission-Critical APIs**\n\n[Website](https://grafbase.com) • [Documentation](https://grafbase.com/docs) • [CLI](https://grafbase.com/cli) • [Community](https://grafbase.com/community) • [Blog](https://grafbase.com/blog)\n\n## **What is Grafbase?**\n\nGrafbase is a self-hosted, Rust-powered GraphQL Federation Gateway designed for high-scale, mission-critical applications. Whether you're unifying microservices, legacy systems, or third-party APIs—Grafbase helps teams ship faster and more safely.\n\n### **Built for Federation v2**\n\n* **Federation-first architecture** — Native support for Apollo Federation v2 specification and the upcoming Composite Schemas spec  \n* **40% faster performance** — Rust-powered engine delivers superior speed  \n* **Extensible via WebAssembly** — Customize authentication, authorization, request lifecycle, and include arbitrary APIs and data sources into your federated graph with resolver extensions  \n* **AI-native with MCP** — First GraphQL gateway with built-in Model Context Protocol server support to turn your GraphQL API into a full fledged MCP server\n\n## **Why choose Grafbase for GraphQL Federation?**\n\n### **Superior performance**\n\nGrafbase delivers up to 40% faster response times vs Apollo and other gateways with lower memory usage and CPU consumption. Built in Rust for maximum ef",
+    "language": "Rust",
+    "license": "Mozilla Public License 2.0",
+    "forks": 61,
+    "open_issues": 7,
+    "last_pushed": "2025-11-13T13:57:35Z",
+    "topics": [
+      "ai",
+      "api",
+      "enterprise-graphql",
+      "federation",
+      "graphql",
+      "graphql-federation",
+      "mcp",
+      "model-context-protocol",
+      "rust",
+      "webassembly"
+    ],
+    "quality_score": 79
+  },
+  "enriched_at": "2025-11-17T18:30:51.981962"
 }

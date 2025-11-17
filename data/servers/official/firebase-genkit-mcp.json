@@ -10,10 +10,41 @@
   },
   "release_date": "Apr 29, 2024",
   "url": "https://www.pulsemcp.com/servers/firebase-genkit-mcp",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/firebase/genkit/tree/HEAD/js/plugins/mcp",
+  "categories": [
+    "documentation",
+    "workflow",
+    "git",
+    "development",
+    "api",
+    "database",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:40.189271",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 5000,
+    "runtime": "Node.js",
+    "readme_excerpt": "![Genkit logo](docs/resources/genkit-logo-dark.png#gh-dark-mode-only 'Genkit')\n![Genkit logo](docs/resources/genkit-logo.png#gh-light-mode-only 'Genkit')\n[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/firebase/genkit)\n\n[Genkit](https://genkit.dev) is an open-source framework for building full-stack AI-powered applications, built and used in production by Google's Firebase. It provides SDKs for multiple programming languages with varying levels of stability:\n\n- **JavaScript/TypeScript**: Production-ready with full feature support\n- **Go**: Production-ready with full feature support\n- **Python (Alpha)**: Early development with core functionality\n\nIt offers a unified interface for integrating AI models from providers like [Google](https://genkit.dev/docs/plugins/google-genai), [OpenAI](https://genkit.dev/docs/plugins/openai), [Anthropic](https://thefireco.github.io/genkit-plugins/docs/plugins/genkitx-anthropic), [Ollama](https://genkit.dev/docs/plugins/ollama/), and more. Rapidly build and deploy production-ready chatbots, automations, and recommendation systems using streamlined APIs for multimodal content, structured outputs, tool calling, and agentic workflows.\n\nGet started with just a few lines of code:\n\n```ts\nimport { genkit } from 'genkit';\nimport { googleAI } from '@genkit-ai/google-genai';\n\nconst ai = genkit({ plugins: [googleAI()] });\n\nconst { text } = await ai.generate({\n    model: googleAI.model('gemini-2.5-flash'),\n    prompt: 'Why is Firebase",
+    "language": "TypeScript",
+    "license": "Apache License 2.0",
+    "forks": 560,
+    "open_issues": 704,
+    "last_pushed": "2025-11-17T17:28:45Z",
+    "topics": [
+      "agents",
+      "ai",
+      "embedders",
+      "genkit",
+      "llm",
+      "multimodal",
+      "rag",
+      "vector-database"
+    ],
+    "quality_score": 75
+  },
+  "enriched_at": "2025-11-17T18:29:30.767319"
 }

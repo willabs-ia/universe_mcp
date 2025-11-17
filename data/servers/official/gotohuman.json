@@ -7,10 +7,30 @@
   "weekly_metric": null,
   "release_date": "Mar 28, 2025",
   "url": "https://www.pulsemcp.com/servers/gotohuman",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/gotohuman/gotohuman-mcp-server",
+  "categories": [
+    "workflow",
+    "security",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:01.383907",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 43,
+    "runtime": "Node.js",
+    "readme_excerpt": "# gotoHuman MCP Server\n\ngotoHuman makes it easy to add **human approvals** to AI agents and agentic workflows.  \nA fully-managed async human-in-the-loop workflow with a customizable approval UI.  \nEnjoy built-in auth, webhooks, notifications, team features, and an evolving training dataset.\n\nUse our MCP server to request human approvals from your AI workflows via MCP or add it to your IDE to help with integration.\n\n## Installation\n\n```bash\nnpx @gotohuman/mcp-server\n```\n\n### Use with Cursor / Claude / Windsurf\n\n```json\n{\n  \"mcpServers\": {\n    \"gotoHuman\": {\n      \"command\": \"npx\",\n      \"args\": [\"-y\", \"@gotohuman/mcp-server\"],\n      \"env\": {\n        \"GOTOHUMAN_API_KEY\": \"your-api-key\"\n      }\n    }\n  }\n}\n```\n\n[![Install MCP Server](https://cursor.com/deeplink/mcp-install-dark.svg)](cursor://anysphere.cursor-deeplink/mcp/install?name=gotoHuman&config=eyJjb21tYW5kIjoibnB4IC15IEBnb3RvaHVtYW4vbWNwLXNlcnZlciIsImVudiI6eyJHT1RPSFVNQU5fQVBJX0tFWSI6InlvdXItYXBpLWtleSJ9fQ==)\n\nGet your API key and set up an approval step at [app.gotohuman.com](https://app.gotohuman.com)\n\n## Demo\n\nThis is Cursor on the left, but this could be a background agent that also reacts to the approval webhook.\n\nhttps://github.com/user-attachments/assets/380a4223-ea77-4e24-90a5-52669b77f56f\n\n## Tools\n\n### `list-forms`\nList all available review forms.\n  - __Returns__ a list of all available forms in your account incl. high-level info about the added fields\n### `get-form-schema`  \nGet the schema to use when requesti",
+    "language": "JavaScript",
+    "license": "MIT License",
+    "forks": 10,
+    "open_issues": 1,
+    "last_pushed": "2025-06-05T19:17:23Z",
+    "topics": [],
+    "quality_score": 65
+  },
+  "enriched_at": "2025-11-17T18:30:43.583325"
 }

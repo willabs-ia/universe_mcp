@@ -7,10 +7,25 @@
   "weekly_metric": null,
   "release_date": "Feb 16, 2025",
   "url": "https://www.pulsemcp.com/servers/langfuse-prompt-management",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/langfuse/mcp-server-langfuse",
+  "categories": [
+    "documentation",
+    "testing",
+    "git",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:59.342217",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 146,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Langfuse Prompt Management MCP Server\n\n[Model Context Protocol](https://github.com/modelcontextprotocol) (MCP) Server for [Langfuse Prompt Management](https://langfuse.com/docs/prompts/get-started). This server allows you to access and manage your Langfuse prompts through the Model Context Protocol.\n\n## Demo\n\nQuick demo of Langfuse Prompts MCP in Claude Desktop (_unmute for voice-over explanations_):\n\nhttps://github.com/user-attachments/assets/61da79af-07c2-4f69-b28c-ca7c6e606405\n\n## Features\n\n### MCP Prompt\n\nThis server implements the [MCP Prompts specification](https://modelcontextprotocol.io/docs/concepts/prompts) for prompt discovery and retrieval.\n\n- `prompts/list`: List all available prompts\n\n  - Optional cursor-based pagination\n  - Returns prompt names and their required arguments, limitation: all arguments are assumed to be optional and do not include descriptions as variables do not have specification in Langfuse\n  - Includes next cursor for pagination if there's more than 1 page of prompts\n\n- `prompts/get`: Get a specific prompt\n\n  - Transforms Langfuse prompts (text and chat) into MCP prompt objects\n  - Compiles prompt with provided variables\n\n### Tools\n\nTo increase compatibility with other MCP clients that do not support the prompt capability, the server also exports tools that replicate the functionality of the MCP Prompts.\n\n- `get-prompts`: List available prompts\n\n  - Optional `cursor` parameter for pagination\n  - Returns a list of prompts with their arguments",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T18:34:29.565819"
 }

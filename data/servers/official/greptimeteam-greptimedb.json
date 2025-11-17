@@ -10,10 +10,32 @@
   },
   "release_date": "Mar 12, 2025",
   "url": "https://www.pulsemcp.com/servers/greptimeteam-greptimedb",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/greptimeteam/greptimedb-mcp-server",
+  "categories": [
+    "workflow",
+    "security",
+    "git",
+    "development",
+    "api",
+    "database",
+    "ai",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:21.351550",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 23,
+    "runtime": "Python",
+    "readme_excerpt": "# greptimedb-mcp-server\n\n[![PyPI - Version](https://img.shields.io/pypi/v/greptimedb-mcp-server)](https://pypi.org/project/greptimedb-mcp-server/)\n![build workflow](https://github.com/GreptimeTeam/greptimedb-mcp-server/actions/workflows/python-app.yml/badge.svg)\n[![MIT License](https://img.shields.io/badge/license-MIT-green)](LICENSE.md)\n\nA Model Context Protocol (MCP) server implementation for [GreptimeDB](https://github.com/GreptimeTeam/greptimedb).\n\nThis server provides AI assistants with a secure and structured way to explore and analyze databases. It enables them to list tables, read data, and execute SQL queries through a controlled interface, ensuring responsible database access.\n\n# Project Status\nThis is an experimental project that is still under development. Data security and privacy issues have not been specifically addressed, so please use it with caution.\n\n# Capabilities\n\n* `list_resources` to list tables\n* `read_resource` to read table data\n* `list_tools` to list tools\n* `call_tool` to execute an SQL\n* `list_prompts` to list prompts\n* `get_prompt` to get the prompt by name\n\n# Installation\n\n```\npip install greptimedb-mcp-server\n```\n\n\n# Configuration\n\nSet the following environment variables:\n\n```bash\nGREPTIMEDB_HOST=localhost    # Database host\nGREPTIMEDB_PORT=4002         # Optional: Database MySQL port (defaults to 4002 if not specified)\nGREPTIMEDB_USER=root\nGREPTIMEDB_PASSWORD=\nGREPTIMEDB_DATABASE=public\nGREPTIMEDB_TIMEZONE=UTC\n```\n\nOr via command-line args:\n\n*",
+    "language": "Python",
+    "license": "MIT License",
+    "forks": 12,
+    "open_issues": 4,
+    "last_pushed": "2025-06-09T02:48:27Z",
+    "topics": [],
+    "quality_score": 65
+  },
+  "enriched_at": "2025-11-17T18:31:07.468252"
 }

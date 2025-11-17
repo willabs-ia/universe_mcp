@@ -10,10 +10,30 @@
   },
   "release_date": "May 16, 2025",
   "url": "https://www.pulsemcp.com/servers/daisys-text-to-speech",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/daisys-ai/daisys-mcp",
+  "categories": [
+    "documentation",
+    "security",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:21.384527",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 10,
+    "runtime": "Python",
+    "readme_excerpt": "[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/daisys-ai-daisys-mcp-badge.png)](https://mseep.ai/app/daisys-ai-daisys-mcp)\n\n# Daisys MCP server\n[![smithery badge](https://smithery.ai/badge/@daisys-ai/daisys-mcp)](https://smithery.ai/server/@daisys-ai/daisys-mcp)\n\nDaisys-mcp is a beta version and doesn't have a stable release yet. But you can try it out by doing the following:\n\n1. Get an account on [Daisys](https://www.daisys.ai/) and create an username and password.\n\n\nIf you run on mac os run the following command:\n```bash\nbrew install portaudio\n```\n\nIf you run on linux run the following command:\n```bash\nsudo apt install portaudio19-dev libjack-dev\n```\n\n2. Add the following configuration to the mcp config file in your MCP client ([Claude Desktop](https://claude.ai/download), [Cursor](https://www.cursor.com/), [mcp-cli](https://github.com/chrishayuk/mcp-cli), [mcp-vscode](https://code.visualstudio.com/docs/copilot/chat/mcp-servers), etc.):\n```json\n{\n  \"mcpServers\": {\n    \"daisys-mcp\": {\n      \"command\": \"uvx\",\n      \"args\": [\"daisys-mcp\"],\n      \"env\": {\n        \"DAISYS_EMAIL\": \"{Your Daisys Email}\",\n        \"DAISYS_PASSWORD\": \"{Your Daisys Password}\",\n        \"DAISYS_BASE_STORAGE_PATH\": \"{Path where you want to store your audio files}\"\n      }\n    }\n  }\n}\n```\n\n## To build from source:\n\n1. clone the repository: `git clone https://github.com/daisys-ai/daisys-mcp.git`\n\n2. cd into the repository: `cd daisys-mcp`\n\n3. Install `uv` (Python package manager), install with",
+    "language": "Python",
+    "license": null,
+    "forks": 5,
+    "open_issues": 2,
+    "last_pushed": "2025-07-31T21:47:29Z",
+    "topics": [],
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T18:27:01.340026"
 }

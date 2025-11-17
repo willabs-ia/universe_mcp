@@ -7,10 +7,34 @@
   "weekly_metric": null,
   "release_date": "Jun 18, 2025",
   "url": "https://www.pulsemcp.com/servers/joe-sandbox-cloud",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/joesecurity/joesandboxmcp",
+  "categories": [
+    "security",
+    "git",
+    "cloud",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:49.872792",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 8,
+    "capabilities": [
+      "**PCAP Downloads**: Retrieve the full network traffic capture (PCAP) recorded during analysis for offline inspection.",
+      "**Unpacked PE Files**: Download in-memory unpacked binaries extracted during execution, often revealing runtime payloads.",
+      "**Process Trees**: Visualize full execution hierarchies, including command lines and parent-child relationships.",
+      "**Signature Detections**: Retrieve and extract actionable evidence from sandbox signatures.",
+      "**LLM-Suitable Responses**: All results are structured for clear consumption by language models, with truncation and relevant filtering.",
+      "**IOC Extraction**: Retrieve indicators of compromise for dropped files, IPs, domains, and URLs.",
+      "**Flexible Submission**: Submit local files, remote URLs, websites, or command lines for dynamic analysis."
+    ],
+    "runtime": "Python",
+    "readme_excerpt": "<p align=\"center\">\n  <img src=\"./assets/logo.png?v=2\" alt=\"Joe Sandbox MCP banner\">\n</p>\n\n# Joe Sandbox MCP Server\n\nA Model Context Protocol (MCP) server for interacting with [Joe Sandbox Cloud](https://jbxcloud.joesecurity.org/).  \nThis server exposes rich analysis and IOC extraction capabilities from Joe Sandbox  and integrates cleanly into any MCP-compatible application (e.g. Claude Desktop, Glama, or custom LLM agents).\n\n## Features\n\n- **Flexible Submission**: Submit local files, remote URLs, websites, or command lines for dynamic analysis.\n- **IOC Extraction**: Retrieve indicators of compromise for dropped files, IPs, domains, and URLs.\n- **Signature Detections**: Retrieve and extract actionable evidence from sandbox signatures.\n- **Process Trees**: Visualize full execution hierarchies, including command lines and parent-child relationships.\n- **Unpacked PE Files**: Download in-memory unpacked binaries extracted during execution, often revealing runtime payloads.\n- **PCAP Downloads**: Retrieve the full network traffic capture (PCAP) recorded during analysis for offline inspection.\n- **LLM-Suitable Responses**: All results are structured for clear consumption by language models, with truncation and relevant filtering.\n\n\n## Quick Start\n\n### Installation via `uv` (Recommended)\n\n1. Clone the repository:\n\n   ```bash\n   git clone https://github.com/joesecurity/joesandboxMCP.git\n   cd joesandboxMCP\n   ```\n\n2. Install dependencies using `uv`:\n\n   ```bash\n   uv venv\n   uv pip ins",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T18:33:12.836745"
 }

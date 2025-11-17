@@ -7,10 +7,38 @@
   "weekly_metric": null,
   "release_date": "Jun 13, 2025",
   "url": "https://www.pulsemcp.com/servers/cycode-security-scanner",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/cycodehq/cycode-cli",
+  "categories": [
+    "testing",
+    "security",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:25.037429",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 95,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Cycode CLI User Guide\n\nThe Cycode Command Line Interface (CLI) is an application you can install locally to scan your repositories for secrets, infrastructure as code misconfigurations, software composition analysis vulnerabilities, and static application security testing issues.\n\nThis guide walks you through both installation and usage.\n\n# Table of Contents\n\n1. [Prerequisites](#prerequisites)\n2. [Installation](#installation)\n    1. [Install Cycode CLI](#install-cycode-cli)\n        1. [Using the Auth Command](#using-the-auth-command)\n        2. [Using the Configure Command](#using-the-configure-command)\n        3. [Add to Environment Variables](#add-to-environment-variables)\n            1. [On Unix/Linux](#on-unixlinux)\n            2. [On Windows](#on-windows)\n    2. [Install Pre-Commit Hook](#install-pre-commit-hook)\n3. [Cycode CLI Commands](#cycode-cli-commands)\n4. [MCP Command](#mcp-command-experiment)\n    1. [Starting the MCP Server](#starting-the-mcp-server)\n    2. [Available Options](#available-options)\n    3. [MCP Tools](#mcp-tools)\n    4. [Usage Examples](#usage-examples)\n5. [Scan Command](#scan-command)\n    1. [Running a Scan](#running-a-scan)\n        1. [Options](#options)\n           1. [Severity Threshold](#severity-option)\n           2. [Monitor](#monitor-option)\n           3. [Cycode Report](#cycode-report-option)\n           4. [Package Vulnerabilities](#package-vulnerabilities-option)\n           5. [License Compliance](#license-compliance-option)\n           6.",
+    "language": "Python",
+    "license": "MIT License",
+    "forks": 56,
+    "open_issues": 2,
+    "last_pushed": "2025-10-29T16:58:51Z",
+    "topics": [
+      "code",
+      "cycode",
+      "sast",
+      "sca",
+      "secrets",
+      "secure",
+      "security"
+    ],
+    "quality_score": 72
+  },
+  "enriched_at": "2025-11-17T18:26:53.051296"
 }

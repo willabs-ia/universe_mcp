@@ -10,10 +10,19 @@
   },
   "release_date": "Mar 14, 2025",
   "url": "https://www.pulsemcp.com/servers/hubblevision-solana",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/HubbleVision",
+  "categories": [
+    "data",
+    "monitoring",
+    "search",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:54.758956",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 6,
+    "quality_score": 35
+  },
+  "enriched_at": "2025-11-17T18:31:44.388019"
 }

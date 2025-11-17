@@ -10,10 +10,23 @@
   },
   "release_date": "Nov 28, 2024",
   "url": "https://www.pulsemcp.com/servers/mindscapehq-raygun",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/mindscapehq/mcp-server-raygun",
+  "categories": [
+    "documentation",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:21.370310",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 19,
+    "readme_excerpt": "<div align=\"center\">\n\n# 🔭 Raygun MCP Server\n\n### Access your crash reporting data in Raygun with AI assistants\n\n[![MCP](https://img.shields.io/badge/MCP-Remote%20Server-blue?logo=anthropic&logoColor=white)](https://modelcontextprotocol.io/)\n[![API](https://img.shields.io/badge/Raygun%20API-v3-FF6A13?logo=raygun&logoColor=white)](https://raygun.com/documentation/product-guides/raygun-api/)\n[![Status](https://img.shields.io/badge/Status-Production-success?logo=checkmarx&logoColor=white)](https://api.raygun.com/v3/mcp)\n[![Docs](https://img.shields.io/badge/Docs-Available-informational?logo=gitbook&logoColor=white)](https://github.com/MindscapeHQ/mcp-server-raygun/blob/main/TOOLS.md)\n\nA remote Model Context Protocol (MCP) server that connects AI assistants to your crash reporting and real user monitoring data in Raygun through natural language conversations.\n\n**[📚 Tool Reference](https://github.com/MindscapeHQ/mcp-server-raygun/blob/main/TOOLS.md)** • **[🚀 Quick Start](#getting-started)** • **[🔑 Get API Token](https://app.raygun.com/user/tokens)**\n\n</div>\n\n---\n\n## ✨ Key Features\n\n- 🐛 **Error Management** - Investigate, resolve, and track application errors and crashes with full stack traces and context\n- 🚀 **Deployment Tracking** - Monitor releases and correlate errors with deployments to identify problematic changes\n- ⚡ **Performance Insights** - Analyze page load times, user metrics, and performance trends over time\n- 👥 **User Monitoring** - Track customer sessions, behavior pa",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:36:54.320128"
 }

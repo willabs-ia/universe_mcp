@@ -10,10 +10,44 @@
   },
   "release_date": "Apr 5, 2025",
   "url": "https://www.pulsemcp.com/servers/genomoncology-biomcp",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/genomoncology/biomcp",
+  "categories": [
+    "documentation",
+    "workflow",
+    "security",
+    "search",
+    "api",
+    "database",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:20.282055",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 352,
+    "runtime": "Python",
+    "readme_excerpt": "# BioMCP: Biomedical Model Context Protocol\n\nBioMCP is an open source (MIT License) toolkit that empowers AI assistants and\nagents with specialized biomedical knowledge. Built following the Model Context\nProtocol (MCP), it connects AI systems to authoritative biomedical data\nsources, enabling them to answer questions about clinical trials, scientific\nliterature, and genomic variants with precision and depth.\n\n[![▶️ Watch the video](./docs/blog/images/what_is_biomcp_thumbnail.png)](https://www.youtube.com/watch?v=bKxOWrWUUhM)\n\n## MCPHub Certification\n\nBioMCP is certified by [MCPHub](https://mcphub.com/mcp-servers/genomoncology/biomcp). This certification ensures that BioMCP follows best practices for Model Context Protocol implementation and provides reliable biomedical data access.\n\n## Why BioMCP?\n\nWhile Large Language Models have broad general knowledge, they often lack\nspecialized domain-specific information or access to up-to-date resources.\nBioMCP bridges this gap for biomedicine by:\n\n- Providing **structured access** to clinical trials, biomedical literature,\n  and genomic variants\n- Enabling **natural language queries** to specialized databases without\n  requiring knowledge of their specific syntax\n- Supporting **biomedical research** workflows through a consistent interface\n- Functioning as an **MCP server** for AI assistants and agents\n\n## Biomedical Data Sources\n\nBioMCP integrates with multiple biomedical data sources:\n\n### Literature Sources\n\n- **PubTator3/PubMed** ",
+    "language": "Python",
+    "license": "MIT License",
+    "forks": 66,
+    "open_issues": 15,
+    "last_pushed": "2025-11-10T20:24:29Z",
+    "topics": [
+      "ai",
+      "bioinformatics",
+      "clinical-trials",
+      "genomics",
+      "llm",
+      "mcp",
+      "mcp-server",
+      "medical",
+      "model-context-protocol",
+      "pubmed",
+      "pubmed-central"
+    ],
+    "quality_score": 74
+  },
+  "enriched_at": "2025-11-17T18:30:11.210828"
 }

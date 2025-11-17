@@ -10,10 +10,28 @@
   },
   "release_date": "Apr 7, 2025",
   "url": "https://www.pulsemcp.com/servers/heroku",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/heroku/heroku-mcp-server",
+  "categories": [
+    "security",
+    "git",
+    "development",
+    "api",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:55.274753",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 72,
+    "runtime": "Node.js",
+    "readme_excerpt": "# heroku-mcp-server\n\n[![Install MCP Server](https://cursor.com/deeplink/mcp-install-dark.svg)](https://cursor.com/install-mcp?name=heroku&config=eyJjb21tYW5kIjoibnB4IC15IEBoZXJva3UvbWNwLXNlcnZlciIsImVudiI6eyJIRVJPS1VfQVBJX0tFWSI6IjxZT1VSX0hFUk9LVV9BVVRIX1RPS0VOPiJ9fQ%3D%3D)\n[![smithery badge](https://smithery.ai/badge/@heroku/heroku-mcp-server)](https://smithery.ai/server/@heroku/heroku-mcp-server)\n\n> The Heroku Platform MCP Server works on Common Runtime, Cedar Private and Shield Spaces, and Fir Private Spaces.\n\n## Prerequisites\n\n- **Heroku CLI** must be installed globally on your system, version **10.8.1 or higher**.\n  - [Install or upgrade the Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)\n\n## Deploy on Heroku\n\n[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/heroku/heroku-mcp-server)\n\n## Overview\n\nThe Heroku Platform MCP Server is a specialized Model Context Protocol (MCP) implementation designed to facilitate\nseamless interaction between large language models (LLMs) and the Heroku Platform. This server provides a robust set of\ntools and capabilities that enable LLMs to read, manage, and operate Heroku Platform resources.\n\nKey Features:\n\n- Direct interaction with Heroku Platform resources through LLM-driven tools\n- Secure and authenticated access to Heroku Platform APIs, leveraging the Heroku CLI\n- Natural language interface for Heroku Platform interactions\n\nNote: The Heroku Platform MCP Serv",
+    "language": "TypeScript",
+    "license": "Apache License 2.0",
+    "forks": 21,
+    "open_issues": 14,
+    "last_pushed": "2025-10-19T19:05:07Z",
+    "topics": [],
+    "quality_score": 69
+  },
+  "enriched_at": "2025-11-17T18:31:26.845383"
 }

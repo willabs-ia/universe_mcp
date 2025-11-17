@@ -10,10 +10,29 @@
   },
   "release_date": "May 7, 2025",
   "url": "https://www.pulsemcp.com/servers/gralio",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/tymonte/gralio-mcp",
+  "categories": [
+    "search",
+    "api",
+    "database",
+    "ai",
+    "monitoring",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:31.394103",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 3,
+    "readme_excerpt": "# Gralio SaaS Database MCP\n\n## 🚀 Overview\n\nAccess **3+ million SaaS reviews**, detailed pricing data, alternatives, ratings, funding information, growth metrics, user sentiment analysis, and functional feature data for over 30,000 software products.\n\nTurn your LLM into the ultimate software research assistant—free from polluted web searches and marketing noise. All accessible via our free Gralio MCP endpoint.\n\n## 📊 Data Highlights\n\nOur comprehensive database includes:\n\n- **3M+ SaaS Reviews** - In-depth user feedback and sentiment analysis\n- **Detailed Pricing Data** - Comprehensive pricing tiers and feature breakdowns\n- **Competitor Alternatives** - Identify and compare alternative solutions\n- **Company Funding & Growth** - Track investment rounds and growth trajectories\n- **User Sentiment Scores** - Aggregated sentiment from across the web\n- **Functional Feature Info** - Granular details on product capabilities\n\n## 🔍 Example Use Cases\n\n### Finding Cheaper or Easier Alternatives\nDiscover cost-effective alternatives to popular SaaS tools without compromising on features.\n\n### Discovering Tools by Use Case\nFind the perfect tools based on specific feature requirements or use cases.\n\n### Scouting Trending Competitors\nIdentify high-growth competitors in your market space before they become major threats.\n\n### Quick Reviews Vibe Check\nGet an overview of what users are saying about products across the web.\n\n## ⚙️ Integration Instructions\n\n### Cursor Integration\n\nTo connect Gralio MC",
+    "language": null,
+    "license": null,
+    "forks": 3,
+    "open_issues": 1,
+    "last_pushed": "2025-11-05T08:23:21Z",
+    "topics": [],
+    "quality_score": 57
+  },
+  "enriched_at": "2025-11-17T18:30:54.416736"
 }

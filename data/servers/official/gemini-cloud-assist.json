@@ -10,10 +10,35 @@
   },
   "release_date": "Sep 25, 2025",
   "url": "https://www.pulsemcp.com/servers/gemini-cloud-assist",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/googlecloudplatform/gemini-cloud-assist-mcp",
+  "categories": [
+    "documentation",
+    "security",
+    "git",
+    "cloud",
+    "development",
+    "api",
+    "ai",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:50.208193",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 36,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Gemini Cloud Assist MCP server\n\n[![npm @google-cloud/gemini-cloud-assist-mcp package](https://img.shields.io/npm/v/@google-cloud/gemini-cloud-assist-mcp.svg)](https://www.npmjs.com/package/@google-cloud/gemini-cloud-assist-mcp)\n[![](https://img.shields.io/github/license/GoogleCloudPlatform/gemini-cloud-assist-mcp)](./LICENSE)\n\nThis server connects [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) clients such as the [Gemini CLI](https://github.com/google-gemini/gemini-cli) to the [**Gemini Cloud Assist APIs**](https://cloud.google.com/gemini/docs/api-and-reference). It allows you to use natural language to understand, manage, and troubleshoot your Google Cloud environment directly from the local command line.\n\n> [!NOTE]\n> The **Google Cloud Platform Terms of Service** (available at https://cloud.google.com/terms/) and the **Data Processing and Security Terms** (available at https://cloud.google.com/terms/data-processing-terms) do not apply to any component of the Gemini Cloud Assist MCP Server software.\n\nTo learn more about Gemini Cloud Assist, see the [Gemini Cloud Assist overview](https://cloud.google.com/gemini/docs/cloud-assist/) in the Google Cloud documentation.\n\n## ✨ Key features\n\n- **Create and run investigations:** Create and run Cloud Assist investigations to find the root cause of complex issues.\n- **Dig deeper and iterate on investigations:** Get more details about investigation outcomes and add observations to refine the analysis.\n\n## Quick start",
+    "language": "TypeScript",
+    "license": "Apache License 2.0",
+    "forks": 10,
+    "open_issues": 4,
+    "last_pushed": "2025-11-16T14:38:29Z",
+    "topics": [
+      "gemini-cloud-assist",
+      "google-cloud",
+      "mcp-server"
+    ],
+    "quality_score": 72
+  },
+  "enriched_at": "2025-11-17T18:30:05.520659"
 }

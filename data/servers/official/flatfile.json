@@ -10,10 +10,29 @@
   },
   "release_date": "May 8, 2025",
   "url": "https://www.pulsemcp.com/servers/flatfile",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/flatfilers/mcp-server-flatfile",
+  "categories": [
+    "documentation",
+    "security",
+    "development",
+    "api",
+    "ai",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:43.629520",
-  "metadata": {}
+  "metadata": {
+    "readme_excerpt": "# Flatfile MCP Server\n\nThe Flatfile MCP Server enables AI assistants such as Claude Desktop, Claude Code, Cursor, and other to interact directly with your Flatfile data. This MCP Server creates a seamless bridge between AI assistants and Flatfile.\n\n## ✨ Features\n\n- Supports 100+ Flatfile API endpoints\n- View and manage Sheets, Workbooks, Spaces, and more\n- Add, edit, and delete Records\n- Ask questions about your data\n- Generate Sheets from natural language\n- Create new Workbooks from scratch\n- And more!\n\n## 🛠️ Setup\n\nYou will need either a Flatfile Personal Access Token or a Flatfile API Key.\n\n### API Key\n\nAccess your API Key by [following these instructions](https://flatfile.com/docs/documentation/authentication/authentication).\n\n### Personal Access Token\n\nCreate a Flatfile Personal Access Token by [following these instructions](https://flatfile.com/docs/documentation/authentication/account-token#personal-access-tokens).\n\n### Filtering Tools\n\nFlatfile provides over 100 API endpoints, with a tool to interact with each of them. It is strongly recommended to filter the tools to only include the ones you need. This can be done by passing the `--enabled-tools` flag to the MCP Server along with a comma-separated list of the tools you want to enable. If the `--enabled-tools` flag is not passed, all tools will be enabled.\n\nExample:\n```json\n{\n  \"mcpServers\": {\n      // ...\n      \"mcp-server-flatfile\": {\n         \"command\": \"npx\",\n         \"args\": [\"-y\", \"@flatfile/mcp-server\", \"--ena",
+    "language": "TypeScript",
+    "license": null,
+    "github_stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "last_pushed": "2025-04-30T13:25:12Z",
+    "topics": [],
+    "quality_score": 40
+  },
+  "enriched_at": "2025-11-17T18:29:44.180770"
 }

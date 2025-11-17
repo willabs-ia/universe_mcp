@@ -10,10 +10,30 @@
   },
   "release_date": "Jul 17, 2025",
   "url": "https://www.pulsemcp.com/servers/google-analytics",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/googleanalytics/google-analytics-mcp",
+  "categories": [
+    "documentation",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:18.077418",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 884,
+    "runtime": "Python",
+    "readme_excerpt": "# Google Analytics MCP Server (Experimental)\n\n[![PyPI version](https://img.shields.io/pypi/v/analytics-mcp.svg)](https://pypi.org/project/analytics-mcp/)\n[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)\n[![GitHub branch check runs](https://img.shields.io/github/check-runs/googleanalytics/google-analytics-mcp/main)](https://github.com/googleanalytics/google-analytics-mcp/actions?query=branch%3Amain++)\n[![PyPI - Downloads](https://img.shields.io/pypi/dm/analytics-mcp)](https://pypi.org/project/analytics-mcp/)\n[![GitHub stars](https://img.shields.io/github/stars/googleanalytics/google-analytics-mcp?style=social)](https://github.com/googleanalytics/google-analytics-mcp/stargazers)\n[![GitHub forks](https://img.shields.io/github/forks/googleanalytics/google-analytics-mcp?style=social)](https://github.com/googleanalytics/google-analytics-mcp/network/members)\n[![YouTube Video Views](https://img.shields.io/youtube/views/PT4wGPxWiRQ)](https://www.youtube.com/watch?v=PT4wGPxWiRQ)\n\nThis repo contains the source code for running a local\n[MCP](https://modelcontextprotocol.io) server that interacts with APIs for\n[Google Analytics](https://support.google.com/analytics).\n\nJoin the discussion and ask questions in the\n[🤖-analytics-mcp channel](https://discord.com/channels/971845904002871346/1398002598665257060)\non Discord.\n\n## Tools 🛠️\n\nThe server uses the\n[Google Analytics Admin API](https://developers.google.com/analytics/devguides/confi",
+    "language": "Python",
+    "license": "Apache License 2.0",
+    "forks": 230,
+    "open_issues": 23,
+    "last_pushed": "2025-10-27T13:44:02Z",
+    "topics": [],
+    "quality_score": 70
+  },
+  "enriched_at": "2025-11-17T18:30:33.797531"
 }
