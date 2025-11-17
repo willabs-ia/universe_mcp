@@ -1,0 +1,16 @@
+{
+  "id": "jfdenise-wildfly",
+  "name": "WildFly",
+  "provider": "Jean-François Denise",
+  "description": "Integrates with WildFly application servers to enable monitoring, configuration, and management of server resources...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/jfdenise-wildfly",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:50.799580",
+  "metadata": {}
+}

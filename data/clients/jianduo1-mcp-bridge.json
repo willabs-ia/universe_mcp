@@ -1,0 +1,11 @@
+{
+  "id": "jianduo1-mcp-bridge",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Desktop application that creates a unified interface for managing and testing multiple MCP servers through different transport protocols with real-time monitoring and centralized configuration.",
+  "url": "https://www.pulsemcp.com/clients/jianduo1-mcp-bridge",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.542557"
+}

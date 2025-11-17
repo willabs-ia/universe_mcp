@@ -1,0 +1,16 @@
+{
+  "id": "jxnl-spiral-writer",
+  "name": "Spiral Writer",
+  "provider": "Jason Liu",
+  "description": "Provides a FastMCP-powered interface for generating text, processing file content, and extracting article data from...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/jxnl-spiral-writer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:30.539675",
+  "metadata": {}
+}

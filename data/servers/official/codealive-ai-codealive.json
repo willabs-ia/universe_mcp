@@ -1,0 +1,16 @@
+{
+  "id": "codealive-ai-codealive",
+  "name": "CodeAlive",
+  "provider": "CodeAlive",
+  "description": "Provides a bridge to CodeAlive's platform for semantic code search, repository exploration, and context-aware chat...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Apr 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/codealive-ai-codealive",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:27.963964",
+  "metadata": {}
+}

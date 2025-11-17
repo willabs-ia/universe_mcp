@@ -1,0 +1,19 @@
+{
+  "id": "thedtvn-mbbank",
+  "name": "MBBank",
+  "provider": "The DT",
+  "description": "Provides read-only access to MBBank accounts for retrieving balances, transaction histories, savings account details,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 30
+  },
+  "release_date": "Jun 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/thedtvn-mbbank",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:21.366674",
+  "metadata": {}
+}

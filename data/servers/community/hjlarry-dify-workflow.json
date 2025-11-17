@@ -1,0 +1,16 @@
+{
+  "id": "hjlarry-dify-workflow",
+  "name": "Dify Workflow",
+  "provider": "hjlarry",
+  "description": "Transforms Dify workflow applications into function-enabled endpoints, allowing AI tools to interact with custom...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/hjlarry-dify-workflow",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:25.727011",
+  "metadata": {}
+}

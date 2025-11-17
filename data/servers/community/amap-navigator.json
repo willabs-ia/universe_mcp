@@ -1,0 +1,16 @@
+{
+  "id": "amap-navigator",
+  "name": "Amap Navigator",
+  "provider": "Rickeylaiii",
+  "description": "Integrates with Amap API to provide location-based services including geocoding, weather information, driving routes,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/amap-navigator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:36.852233",
+  "metadata": {}
+}

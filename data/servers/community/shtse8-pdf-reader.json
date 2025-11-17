@@ -1,0 +1,16 @@
+{
+  "id": "shtse8-pdf-reader",
+  "name": "PDF Reader",
+  "provider": "shtse8",
+  "description": "Securely extracts text, metadata, and page information from PDF files within a project directory using pdfjs-dist for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/shtse8-pdf-reader",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:10.288645",
+  "metadata": {}
+}

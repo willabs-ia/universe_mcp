@@ -1,0 +1,19 @@
+{
+  "id": "dawncr0w-affine",
+  "name": "AFFiNE",
+  "provider": "DAWNCR0W",
+  "description": "Integrates with AFFiNE workspaces through GraphQL and WebSocket connections to enable document operations, real-time...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "Aug 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/dawncr0w-affine",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:37.996414",
+  "metadata": {}
+}

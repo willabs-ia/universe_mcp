@@ -1,0 +1,11 @@
+{
+  "id": "toolrouter",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Provides a managed infrastructure for connecting language models to real-world capabilities through hosted servers with security auditing, credential storage, analytics, and multi-server stacking capabilities.",
+  "url": "https://www.pulsemcp.com/clients/toolrouter",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.576030"
+}

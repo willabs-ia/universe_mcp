@@ -1,0 +1,19 @@
+{
+  "id": "k2wanko-voicepeak",
+  "name": "VOICEPEAK",
+  "provider": "k2wanko",
+  "description": "Integrates with VOICEPEAK engine to generate natural-sounding Japanese speech with customizable narrators, emotions,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 2
+  },
+  "release_date": "Oct 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/k2wanko-voicepeak",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:54.718403",
+  "metadata": {}
+}

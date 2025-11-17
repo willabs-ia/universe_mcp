@@ -1,0 +1,11 @@
+{
+  "id": "scriptoshi-laravel-anthropic",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Demo implementation. Laravel code as a client powered by Anthropic API calls.",
+  "url": "https://www.pulsemcp.com/clients/scriptoshi-laravel-anthropic",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.422139"
+}

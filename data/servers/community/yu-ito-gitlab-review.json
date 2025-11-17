@@ -1,0 +1,16 @@
+{
+  "id": "yu-ito-gitlab-review",
+  "name": "GitLab Review",
+  "provider": "Photosynth Inc",
+  "description": "Integrates with GitLab's API to automate code review processes, enabling retrieval of merge request details and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/yu-ito-gitlab-review",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:46.400035",
+  "metadata": {}
+}

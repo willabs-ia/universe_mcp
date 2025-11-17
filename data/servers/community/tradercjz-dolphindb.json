@@ -1,0 +1,16 @@
+{
+  "id": "tradercjz-dolphindb",
+  "name": "DolphinDB",
+  "provider": "tradercjz",
+  "description": "Provides a bridge between DolphinDB time-series database and natural language interaction, enabling data querying and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/tradercjz-dolphindb",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:46.290102",
+  "metadata": {}
+}

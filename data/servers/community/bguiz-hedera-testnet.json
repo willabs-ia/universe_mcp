@@ -1,0 +1,16 @@
+{
+  "id": "bguiz-hedera-testnet",
+  "name": "Hedera Testnet Mirror Node",
+  "provider": "bguiz",
+  "description": "Provides a bridge to the Hedera Testnet Mirror Node API, dynamically converting Zodios API endpoints into tools for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/bguiz-hedera-testnet",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:57.132486",
+  "metadata": {}
+}

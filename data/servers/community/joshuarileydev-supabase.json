@@ -1,0 +1,19 @@
+{
+  "id": "joshuarileydev-supabase",
+  "name": "Supabase Management",
+  "provider": "Joshua Riley",
+  "description": "Control Supabase projects and organizations.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 16
+  },
+  "release_date": "Dec 6, 2024",
+  "url": "https://www.pulsemcp.com/servers/joshuarileydev-supabase",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:28.008507",
+  "metadata": {}
+}

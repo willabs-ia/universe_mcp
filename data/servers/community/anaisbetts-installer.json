@@ -1,0 +1,16 @@
+{
+  "id": "anaisbetts-installer",
+  "name": "MCP Installer",
+  "provider": "Anaïs Betts",
+  "description": "Simplifies MCP server installation through natural language commands, handling package management, environment...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/anaisbetts-installer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:10.275669",
+  "metadata": {}
+}

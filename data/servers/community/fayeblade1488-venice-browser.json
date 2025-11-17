@@ -1,0 +1,16 @@
+{
+  "id": "fayeblade1488-venice-browser",
+  "name": "Venice Browser",
+  "provider": "Fayeblade1488",
+  "description": "Provides web navigation capabilities through Playwright with support for multiple browsers, persistent session state,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/fayeblade1488-venice-browser",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:24.505312",
+  "metadata": {}
+}

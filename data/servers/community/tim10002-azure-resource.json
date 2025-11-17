@@ -1,0 +1,16 @@
+{
+  "id": "tim10002-azure-resource",
+  "name": "Azure Resource Manager",
+  "provider": "tim10002",
+  "description": "Integrates with Azure cloud services to enable resource listing, management, and cost analysis through service...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/tim10002-azure-resource",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:50.811544",
+  "metadata": {}
+}

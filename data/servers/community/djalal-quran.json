@@ -1,0 +1,19 @@
+{
+  "id": "djalal-quran",
+  "name": "Quran.com API",
+  "provider": "djalal",
+  "description": "Provides access to Quranic scripture, translations, commentaries, and audio recitations through the Quran.com API for...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Apr 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/djalal-quran",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:53.189957",
+  "metadata": {}
+}

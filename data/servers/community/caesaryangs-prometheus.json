@@ -1,0 +1,16 @@
+{
+  "id": "caesaryangs-prometheus",
+  "name": "Prometheus",
+  "provider": "CaesarYangs",
+  "description": "Integrates with Prometheus to query and analyze time-series metrics data for real-time system monitoring and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 6, 2024",
+  "url": "https://www.pulsemcp.com/servers/caesaryangs-prometheus",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:33.634494",
+  "metadata": {}
+}

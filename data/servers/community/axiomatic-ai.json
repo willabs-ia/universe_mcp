@@ -1,0 +1,19 @@
+{
+  "id": "axiomatic-ai",
+  "name": "Axiomatic AI",
+  "provider": "Axiomatic AI",
+  "description": "Provides six specialized servers for scientific and engineering workflows including photonic circuit design with...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 490
+  },
+  "release_date": "Sep 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/axiomatic-ai",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:24.659915",
+  "metadata": {}
+}

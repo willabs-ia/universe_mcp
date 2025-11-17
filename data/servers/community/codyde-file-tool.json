@@ -1,0 +1,16 @@
+{
+  "id": "codyde-file-tool",
+  "name": "File System Operations",
+  "provider": "Cody De Arkland",
+  "description": "Provides file system operations for reading, creating, and listing files on the local file system, with performance...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/codyde-file-tool",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:03.357834",
+  "metadata": {}
+}

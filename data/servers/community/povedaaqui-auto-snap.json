@@ -1,0 +1,16 @@
+{
+  "id": "povedaaqui-auto-snap",
+  "name": "Auto Snap",
+  "provider": "Luis Poveda",
+  "description": "Provides automated snapshot functionality for capturing and managing system or application state at specific points...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/povedaaqui-auto-snap",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:25.023201",
+  "metadata": {}
+}

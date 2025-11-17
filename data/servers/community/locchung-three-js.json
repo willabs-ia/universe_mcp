@@ -1,0 +1,16 @@
+{
+  "id": "locchung-three-js",
+  "name": "Three.js",
+  "provider": "Loc Chung",
+  "description": "Enables real-time manipulation of Three.js 3D scenes through WebSocket connections, allowing natural language control...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/locchung-three-js",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:46.315863",
+  "metadata": {}
+}

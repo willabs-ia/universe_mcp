@@ -1,0 +1,16 @@
+{
+  "id": "ahodroj-iceberg",
+  "name": "Apache Iceberg",
+  "provider": "Anas Hodroj",
+  "description": "Provides a SQL interface for querying and managing Apache Iceberg tables through connections to Iceberg REST catalogs...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/ahodroj-iceberg",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:46.278597",
+  "metadata": {}
+}

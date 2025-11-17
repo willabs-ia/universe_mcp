@@ -1,0 +1,16 @@
+{
+  "id": "highlight-ing-youtube-transcript",
+  "name": "YouTube Transcript Extractor",
+  "provider": "Highlight",
+  "description": "Extracts transcripts from YouTube videos using various URL formats, enabling automated content analysis and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/highlight-ing-youtube-transcript",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:55.062179",
+  "metadata": {}
+}

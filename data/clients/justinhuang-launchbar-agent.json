@@ -1,0 +1,11 @@
+{
+  "id": "justinhuang-launchbar-agent",
+  "name": "Unknown",
+  "provider": null,
+  "description": "LaunchBar action that dynamically loads server tools and uses Langchain with a configurable LLM (currently Grok-2) to automatically complete tasks based on user prompts.",
+  "url": "https://www.pulsemcp.com/clients/justinhuang-launchbar-agent",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.505143"
+}

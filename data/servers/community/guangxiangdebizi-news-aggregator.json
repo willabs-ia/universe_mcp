@@ -1,0 +1,16 @@
+{
+  "id": "guangxiangdebizi-news-aggregator",
+  "name": "News API Aggregator",
+  "provider": "guangxiangdebizi",
+  "description": "Integrates with five news APIs (TheNewsAPI, NewsData.io, NewsAPI.org, GNews, and Twingly) with automatic failover...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/guangxiangdebizi-news-aggregator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:07.203634",
+  "metadata": {}
+}

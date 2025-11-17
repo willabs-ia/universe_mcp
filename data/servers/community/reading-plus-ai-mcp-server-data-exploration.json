@@ -1,0 +1,19 @@
+{
+  "id": "reading-plus-ai-mcp-server-data-exploration",
+  "name": "Data Exploration",
+  "provider": "ReadingPlus.AI LLC",
+  "description": "Explore and visualize CSV datasets with the power of pandas and matplotlib.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "Dec 6, 2024",
+  "url": "https://www.pulsemcp.com/servers/reading-plus-ai-mcp-server-data-exploration",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:31.074152",
+  "metadata": {}
+}

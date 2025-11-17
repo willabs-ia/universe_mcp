@@ -1,0 +1,11 @@
+{
+  "id": "kokoiruby-kopilot-kubernetes",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Enables natural language interaction with Kubernetes resources, allowing developers to manage clusters through conversational interfaces instead of complex kubectl commands.",
+  "url": "https://www.pulsemcp.com/clients/kokoiruby-kopilot-kubernetes",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.531524"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "hanxuanliang-tushare-financial-data",
+  "name": "TuShare (Chinese Financial Data)",
+  "provider": "hanxuanliang",
+  "description": "Integrates with TuShare financial API to provide structured access to Chinese market data including stock listings,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Apr 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/hanxuanliang-tushare-financial-data",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:55.278985",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "nsxdavid-clickup",
+  "name": "ClickUp",
+  "provider": "David Whatley",
+  "description": "Integrates with ClickUp API to enable workspace, task, document, and checklist management directly from conversations...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 7
+  },
+  "release_date": "Mar 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/nsxdavid-clickup",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:39.334673",
+  "metadata": {}
+}

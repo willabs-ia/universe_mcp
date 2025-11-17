@@ -1,0 +1,16 @@
+{
+  "id": "augmented-nature-ensembl",
+  "name": "Ensembl",
+  "provider": "Augmented Nature",
+  "description": "Integrates with Ensembl's genomic database through 20+ specialized tools for gene lookup, sequence retrieval,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/augmented-nature-ensembl",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:15.730735",
+  "metadata": {}
+}

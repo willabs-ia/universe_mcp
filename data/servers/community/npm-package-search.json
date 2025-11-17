@@ -1,0 +1,16 @@
+{
+  "id": "npm-package-search",
+  "name": "NPM Package Search",
+  "provider": "Mateus Ribeiro Campos",
+  "description": "Provides a specialized tool for fetching detailed npm package information, offering package search and popular...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/npm-package-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:57.138582",
+  "metadata": {}
+}

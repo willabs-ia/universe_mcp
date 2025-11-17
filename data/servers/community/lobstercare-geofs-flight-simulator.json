@@ -1,0 +1,16 @@
+{
+  "id": "lobstercare-geofs-flight-simulator",
+  "name": "GeoFS Flight Simulator",
+  "provider": "lobstercare",
+  "description": "Enables natural language control of aircraft in the GeoFS flight simulator through a WebSocket server that translates...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/lobstercare-geofs-flight-simulator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:03.501354",
+  "metadata": {}
+}

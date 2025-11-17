@@ -1,0 +1,16 @@
+{
+  "id": "aaomidi-bazel",
+  "name": "Bazel",
+  "provider": "Amir Omidi",
+  "description": "Integrates with Bazel build systems to enable target building, test running, dependency analysis, and source file...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/aaomidi-bazel",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:12.705116",
+  "metadata": {}
+}

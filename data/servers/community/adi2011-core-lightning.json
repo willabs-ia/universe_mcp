@@ -1,0 +1,16 @@
+{
+  "id": "adi2011-core-lightning",
+  "name": "Core Lightning",
+  "provider": "adi2011",
+  "description": "Provides direct access to Core Lightning nodes through gRPC interface, enabling Lightning Network operations...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/adi2011-core-lightning",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:47.673771",
+  "metadata": {}
+}

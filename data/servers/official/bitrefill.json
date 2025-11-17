@@ -1,0 +1,19 @@
+{
+  "id": "bitrefill",
+  "name": "Bitrefill",
+  "provider": "Bitrefill",
+  "description": "Integrates with Bitrefill's platform to search and retrieve information about gift cards, mobile refills, eSIMs, and...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 3
+  },
+  "release_date": "Mar 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/bitrefill",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:48.031810",
+  "metadata": {}
+}

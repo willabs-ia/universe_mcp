@@ -1,0 +1,19 @@
+{
+  "id": "aj-geddes-discord",
+  "name": "Discord",
+  "provider": "aj-geddes",
+  "description": "Integrates with Discord's API to provide server management capabilities including messaging, moderation, role...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 24
+  },
+  "release_date": "Oct 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/aj-geddes-discord",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:23.542778",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ziyadmir-nba-player-stats",
+  "name": "NBA Player Stats",
+  "provider": "Ziyad Mir",
+  "description": "Provides detailed NBA player statistics from basketball-reference.com through 23 specialized tools covering career...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/ziyadmir-nba-player-stats",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:22.840391",
+  "metadata": {}
+}

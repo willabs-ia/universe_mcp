@@ -1,0 +1,16 @@
+{
+  "id": "garethcott-enhanced-postgres",
+  "name": "Enhanced PostgreSQL",
+  "provider": "Gareth Cottrell",
+  "description": "Enables full PostgreSQL database management with read/write operations, transaction handling, and schema...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/garethcott-enhanced-postgres",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:28.269539",
+  "metadata": {}
+}

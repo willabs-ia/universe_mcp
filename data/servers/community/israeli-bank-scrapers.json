@@ -1,0 +1,16 @@
+{
+  "id": "israeli-bank-scrapers",
+  "name": "Israeli Bank Scrapers",
+  "provider": "Motti Bechhofer",
+  "description": "Connects to Israeli banking data for secure access to transactions from all major Israeli banks and credit card...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/israeli-bank-scrapers",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:12.734972",
+  "metadata": {}
+}

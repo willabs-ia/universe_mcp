@@ -1,0 +1,16 @@
+{
+  "id": "mohdhaji87-jwt-auditor",
+  "name": "JWT Auditor",
+  "provider": "mohdhaji87",
+  "description": "Provides JWT security auditing capabilities through token decoding, vulnerability analysis, HMAC secret...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/mohdhaji87-jwt-auditor",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:56.225947",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "eda-tools",
+  "name": "EDA Tools",
+  "provider": "Nelly W",
+  "description": "Integrates with Electronic Design Automation tools to enable hardware design workflows including RTL synthesis,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "May 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/eda-tools",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:57.423202",
+  "metadata": {}
+}

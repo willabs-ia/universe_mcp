@@ -1,0 +1,16 @@
+{
+  "id": "hermanwong-optimized-memory",
+  "name": "Optimized Memory",
+  "provider": "Herman Wong",
+  "description": "Integrates with SQLite to provide a persistent knowledge graph for efficient memory management and relationship...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/hermanwong-optimized-memory",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:42.167238",
+  "metadata": {}
+}

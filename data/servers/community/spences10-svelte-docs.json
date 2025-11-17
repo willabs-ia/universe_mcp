@@ -1,0 +1,16 @@
+{
+  "id": "spences10-svelte-docs",
+  "name": "Svelte Docs",
+  "provider": "Scott Spence",
+  "description": "Integrates with Svelte documentation to enable efficient querying and retrieval of framework-specific content for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/spences10-svelte-docs",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:50.780971",
+  "metadata": {}
+}

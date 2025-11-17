@@ -1,0 +1,19 @@
+{
+  "id": "readingplus-deep-research",
+  "name": "Deep Research",
+  "provider": "ReadingPlus.AI",
+  "description": "Guides structured research processes through systematic question elaboration, web searching, and data synthesis to...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/readingplus-deep-research",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:50.952336",
+  "metadata": {}
+}

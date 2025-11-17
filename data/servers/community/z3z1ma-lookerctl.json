@@ -1,0 +1,19 @@
+{
+  "id": "z3z1ma-lookerctl",
+  "name": "Looker",
+  "provider": "z3z1ma",
+  "description": "Automates Looker workflows and LookML development with comprehensive parsing, validation, dependency analysis, query...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Oct 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/z3z1ma-lookerctl",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:04.062020",
+  "metadata": {}
+}

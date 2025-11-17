@@ -1,0 +1,16 @@
+{
+  "id": "adamshannag-api-tools",
+  "name": "API Tools",
+  "provider": "Adam Shannag",
+  "description": "Converts JSON configuration files into callable tools for dynamic API integration, enabling rapid exposure of REST...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/adamshannag-api-tools",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:58.349177",
+  "metadata": {}
+}

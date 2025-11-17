@@ -1,0 +1,16 @@
+{
+  "id": "swagger-api-client-generator",
+  "name": "Swagger API Client Generator",
+  "provider": "tuskermanshu",
+  "description": "Generates strongly-typed API clients and TypeScript types from Swagger/OpenAPI specifications, streamlining REST API...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/swagger-api-client-generator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:32.700357",
+  "metadata": {}
+}

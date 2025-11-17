@@ -1,0 +1,16 @@
+{
+  "id": "wrediam-better-qdrant",
+  "name": "Better Qdrant",
+  "provider": "wrediam",
+  "description": "Connects AI systems to Qdrant vector database for semantic search capabilities through multiple embedding services,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/wrediam-better-qdrant",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:41.600180",
+  "metadata": {}
+}

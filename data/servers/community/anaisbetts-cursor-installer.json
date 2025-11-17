@@ -1,0 +1,16 @@
+{
+  "id": "anaisbetts-cursor-installer",
+  "name": "Cursor MCP Installer",
+  "provider": "Ani Betts",
+  "description": "Utility server that simplifies adding new MCP capabilities to Cursor by installing and configuring servers from npm,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/anaisbetts-cursor-installer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:10.287349",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kazuph-browser-tabs",
+  "name": "Chrome Tabs",
+  "provider": "kazuph",
+  "description": "Integrates with Chrome on macOS to retrieve and manage browser tab information using AppleScript.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 12
+  },
+  "release_date": "Jan 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/kazuph-browser-tabs",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:32.740375",
+  "metadata": {}
+}

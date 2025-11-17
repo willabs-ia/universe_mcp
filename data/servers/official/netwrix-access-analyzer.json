@@ -1,0 +1,16 @@
+{
+  "id": "netwrix-access-analyzer",
+  "name": "Netwrix Access Analyzer",
+  "provider": "Netwrix Corporation",
+  "description": "Enables security administrators to analyze file system permissions, identify excessive access rights, and detect...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Apr 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/netwrix-access-analyzer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:14.966610",
+  "metadata": {}
+}

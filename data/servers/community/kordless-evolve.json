@@ -1,0 +1,16 @@
+{
+  "id": "kordless-evolve",
+  "name": "EvolveMCP",
+  "provider": "Kord Campbell",
+  "description": "Extends Claude Desktop with custom tools for mathematical calculations, system monitoring, and enhanced functionality...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/kordless-evolve",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:19.286470",
+  "metadata": {}
+}

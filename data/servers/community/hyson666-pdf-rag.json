@@ -1,0 +1,19 @@
+{
+  "id": "hyson666-pdf-rag",
+  "name": "PDF Knowledge Base",
+  "provider": "hyson666",
+  "description": "Enables semantic search across PDF documents through automatic processing, chunking, and vectorization for...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "May 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/hyson666-pdf-rag",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:57.413826",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "pavelanni-minio-object-storage",
+  "name": "MinIO Object Storage",
+  "provider": "Pavel Anni",
+  "description": "Bridges MinIO object storage servers to enable bucket/object management, file operations, and server monitoring for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/pavelanni-minio-object-storage",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:01.256989",
+  "metadata": {}
+}

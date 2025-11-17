@@ -1,0 +1,19 @@
+{
+  "id": "georgenance-hackernews",
+  "name": "Hacker News",
+  "provider": "George Nance",
+  "description": "Integrates with Hacker News API to fetch top stories, retrieve detailed story information with markdown content...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 58
+  },
+  "release_date": "Jun 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/georgenance-hackernews",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:12.816554",
+  "metadata": {}
+}

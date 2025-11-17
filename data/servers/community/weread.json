@@ -1,0 +1,19 @@
+{
+  "id": "weread",
+  "name": "WeRead",
+  "provider": "freestylefly",
+  "description": "Integrates with WeRead e-book platform to provide access to book content, user highlights, and annotations with...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Apr 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/weread",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:55.294222",
+  "metadata": {}
+}

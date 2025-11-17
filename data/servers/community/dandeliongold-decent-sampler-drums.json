@@ -1,0 +1,16 @@
+{
+  "id": "dandeliongold-decent-sampler-drums",
+  "name": "Decent Sampler Drums",
+  "provider": "dandeliongold",
+  "description": "Integrates with DecentSampler to generate drum kit configurations by analyzing WAV samples and creating XML-based...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/dandeliongold-decent-sampler-drums",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:57.231138",
+  "metadata": {}
+}

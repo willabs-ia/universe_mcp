@@ -1,0 +1,19 @@
+{
+  "id": "stevereiner-alfresco-content-services",
+  "name": "Alfresco Content Services",
+  "provider": "stevereiner",
+  "description": "Integrates with Alfresco Content Services to provide document search, upload, download, metadata management, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jun 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/stevereiner-alfresco-content-services",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:59.573824",
+  "metadata": {}
+}

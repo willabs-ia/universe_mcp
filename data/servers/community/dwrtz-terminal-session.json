@@ -1,0 +1,16 @@
+{
+  "id": "dwrtz-terminal-session",
+  "name": "Terminal Session",
+  "provider": "dwrtz",
+  "description": "Provides stateful, TUI-compatible terminal sessions for executing commands and running interactive applications,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/dwrtz-terminal-session",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:57.180338",
+  "metadata": {}
+}

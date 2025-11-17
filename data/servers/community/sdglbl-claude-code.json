@@ -1,0 +1,19 @@
+{
+  "id": "sdglbl-claude-code",
+  "name": "Claude Code",
+  "provider": "SDGLBL",
+  "description": "Enables Claude to execute code-related tasks through direct tools for code understanding, modification, command...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 415
+  },
+  "release_date": "Mar 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/sdglbl-claude-code",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:26.736702",
+  "metadata": {}
+}

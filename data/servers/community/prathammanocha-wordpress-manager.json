@@ -1,0 +1,19 @@
+{
+  "id": "prathammanocha-wordpress-manager",
+  "name": "WordPress Manager",
+  "provider": "Pratham Manocha",
+  "description": "Enables AI to manage WordPress sites by providing tools for creating and updating posts, managing users, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Apr 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/prathammanocha-wordpress-manager",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:55.308460",
+  "metadata": {}
+}

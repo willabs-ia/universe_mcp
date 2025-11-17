@@ -1,0 +1,16 @@
+{
+  "id": "codacy",
+  "name": "Codacy",
+  "provider": "Codacy",
+  "description": "Integrates with Codacy's code quality platform to provide static analysis capabilities, code coverage metrics, and...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Mar 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/codacy",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:28.887655",
+  "metadata": {}
+}

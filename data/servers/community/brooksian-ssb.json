@@ -1,0 +1,16 @@
+{
+  "id": "brooksian-ssb",
+  "name": "SQL Stream Builder",
+  "provider": "Ian Brooks",
+  "description": "Integrates with SQL Stream Builder and Cloudera Data Platform to enable real-time stream processing management, SQL...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/brooksian-ssb",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:33.247217",
+  "metadata": {}
+}

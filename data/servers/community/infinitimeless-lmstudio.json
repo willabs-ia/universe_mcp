@@ -1,0 +1,19 @@
+{
+  "id": "infinitimeless-lmstudio",
+  "name": "LM Studio",
+  "provider": "infinitimeless",
+  "description": "Bridges Claude with locally running LLM models via LM Studio, enabling users to leverage private models through...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "Mar 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/infinitimeless-lmstudio",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:33.768881",
+  "metadata": {}
+}

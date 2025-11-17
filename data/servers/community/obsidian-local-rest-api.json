@@ -1,0 +1,19 @@
+{
+  "id": "obsidian-local-rest-api",
+  "name": "Obsidian Local REST API",
+  "provider": "j-shelfwood",
+  "description": "Bridges Obsidian vaults through the Local REST API, enabling intelligent note management, knowledge discovery, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 8
+  },
+  "release_date": "Aug 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/obsidian-local-rest-api",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:39.316320",
+  "metadata": {}
+}

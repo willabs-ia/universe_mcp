@@ -1,0 +1,16 @@
+{
+  "id": "dfinke-powershell-exec",
+  "name": "PowerShell Exec",
+  "provider": "Doug Finke",
+  "description": "Enables real-time execution of PowerShell scripts through a lightweight Python server, bridging AI tools with...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/dfinke-powershell-exec",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:28.219599",
+  "metadata": {}
+}

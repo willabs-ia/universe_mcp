@@ -1,0 +1,16 @@
+{
+  "id": "syumai-idgen",
+  "name": "IDGen (Unique Identifier Generator)",
+  "provider": "syumai",
+  "description": "Provides four distinct ID generation tools (UUID, XID, ULID, and shortuuid) for creating unique identifiers in...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/syumai-idgen",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:17.125680",
+  "metadata": {}
+}

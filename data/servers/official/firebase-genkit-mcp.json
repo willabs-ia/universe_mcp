@@ -1,0 +1,19 @@
+{
+  "id": "firebase-genkit-mcp",
+  "name": "Genkit",
+  "provider": "Firebase",
+  "description": "Consume MCP resources or expose Genkit tools as server.",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 217
+  },
+  "release_date": "Apr 29, 2024",
+  "url": "https://www.pulsemcp.com/servers/firebase-genkit-mcp",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:40.189271",
+  "metadata": {}
+}

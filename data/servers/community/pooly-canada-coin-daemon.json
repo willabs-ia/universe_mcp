@@ -1,0 +1,16 @@
+{
+  "id": "pooly-canada-coin-daemon",
+  "name": "Coin Daemon (Zcash)",
+  "provider": "Pooly Canada",
+  "description": "Integrates with cryptocurrency daemon RPC interfaces to enable secure querying and management of blockchain networks,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/pooly-canada-coin-daemon",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:59.295828",
+  "metadata": {}
+}

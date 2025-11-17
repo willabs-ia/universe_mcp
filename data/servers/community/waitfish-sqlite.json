@@ -1,0 +1,16 @@
+{
+  "id": "waitfish-sqlite",
+  "name": "SQLite",
+  "provider": "waitfish",
+  "description": "Provides a SQLite-based database backend for efficient data storage and retrieval, leveraging Rust and integrating...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/waitfish-sqlite",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:12.993774",
+  "metadata": {}
+}

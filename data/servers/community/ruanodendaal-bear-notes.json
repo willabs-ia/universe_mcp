@@ -1,0 +1,16 @@
+{
+  "id": "ruanodendaal-bear-notes",
+  "name": "Bear Notes",
+  "provider": "Ruan Odendaal",
+  "description": "Connects Claude to Bear Notes through semantic search and vector similarity, enabling powerful knowledge retrieval...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/ruanodendaal-bear-notes",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:30.534156",
+  "metadata": {}
+}

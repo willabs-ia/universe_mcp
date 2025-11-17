@@ -1,0 +1,16 @@
+{
+  "id": "birdsmith-gauntlet-incept",
+  "name": "Gauntlet Incept",
+  "provider": "Birdsmith",
+  "description": "Integrates with QTI services and LLMs to generate personalized educational content tailored to students' knowledge...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/birdsmith-gauntlet-incept",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:04.178424",
+  "metadata": {}
+}

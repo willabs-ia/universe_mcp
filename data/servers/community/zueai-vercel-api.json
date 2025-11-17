@@ -1,0 +1,16 @@
+{
+  "id": "zueai-vercel-api",
+  "name": "Vercel API",
+  "provider": "zueai",
+  "description": "Integrates with Vercel's API to enable natural language-driven project management and deployment automation for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/zueai-vercel-api",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:04.188300",
+  "metadata": {}
+}

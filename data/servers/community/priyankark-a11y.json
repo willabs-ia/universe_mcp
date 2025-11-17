@@ -1,0 +1,16 @@
+{
+  "id": "priyankark-a11y",
+  "name": "A11y",
+  "provider": "Priyankar Kumar",
+  "description": "Perform accessibility audits on webpages using axe-core. Use the results in an agentic loop with your favorite AI...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/priyankark-a11y",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:12.716194",
+  "metadata": {}
+}

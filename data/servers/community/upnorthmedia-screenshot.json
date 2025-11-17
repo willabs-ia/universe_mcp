@@ -1,0 +1,16 @@
+{
+  "id": "upnorthmedia-screenshot",
+  "name": "Screenshot",
+  "provider": "Up North Media",
+  "description": "Captures website screenshots using Puppeteer browser automation with full-page and element-specific targeting, device...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/upnorthmedia-screenshot",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:00.585548",
+  "metadata": {}
+}

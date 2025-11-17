@@ -1,0 +1,11 @@
+{
+  "id": "zsh-chatbot",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Zsh-inspired chatbot GUI powered by Claude, providing an interactive terminal-like experience with command history, tab completion, and dynamic styling for direct interactions and optional tool integration.",
+  "url": "https://www.pulsemcp.com/clients/zsh-chatbot",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.555697"
+}

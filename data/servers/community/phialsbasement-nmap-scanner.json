@@ -1,0 +1,19 @@
+{
+  "id": "phialsbasement-nmap-scanner",
+  "name": "NMAP Scanner",
+  "provider": "PhialsBasement",
+  "description": "Integrates NMAP to enable network scanning, security assessments, and automated penetration testing on Windows systems.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 4
+  },
+  "release_date": "Jan 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/phialsbasement-nmap-scanner",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:45.773216",
+  "metadata": {}
+}

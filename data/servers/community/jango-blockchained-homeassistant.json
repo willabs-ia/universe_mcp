@@ -1,0 +1,16 @@
+{
+  "id": "jango-blockchained-homeassistant",
+  "name": "Home Assistant",
+  "provider": "Jango Blockchained",
+  "description": "Integrates Home Assistant with language models to enable natural language control and querying of smart home devices.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/jango-blockchained-homeassistant",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:44.298537",
+  "metadata": {}
+}

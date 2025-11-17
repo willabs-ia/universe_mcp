@@ -1,0 +1,16 @@
+{
+  "id": "mashhurs-logstash",
+  "name": "Logstash",
+  "provider": "mashhurs",
+  "description": "Integrates with Logstash instances to provide real-time monitoring, performance analysis, and debugging capabilities...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/mashhurs-logstash",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:47.702982",
+  "metadata": {}
+}

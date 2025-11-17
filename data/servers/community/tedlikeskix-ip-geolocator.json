@@ -1,0 +1,16 @@
+{
+  "id": "tedlikeskix-ip-geolocator",
+  "name": "IP Geolocator",
+  "provider": "Ted Likes Kix",
+  "description": "Integrates with IP-API.com to provide IP geolocation services, enabling location-based insights without API keys or...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/tedlikeskix-ip-geolocator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:55.066044",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "jpbullalayao-pokepaste",
+  "name": "Pokepaste",
+  "provider": "jpbullalayao",
+  "description": "Converts Pokemon team compositions into shareable Pokepaste URLs by accepting detailed Pokemon configurations...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 6
+  },
+  "release_date": "Jun 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/jpbullalayao-pokepaste",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:41.481053",
+  "metadata": {}
+}

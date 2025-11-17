@@ -1,0 +1,16 @@
+{
+  "id": "agentify-sh-proxmox",
+  "name": "Proxmox",
+  "provider": "Kevin",
+  "description": "Integrates with Proxmox virtualization platform to monitor cluster health, manage VM and container lifecycles,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/agentify-sh-proxmox",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:45.490214",
+  "metadata": {}
+}

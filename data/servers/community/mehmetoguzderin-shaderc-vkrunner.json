@@ -1,0 +1,16 @@
+{
+  "id": "mehmetoguzderin-shaderc-vkrunner",
+  "name": "Shaderc-VkRunner (GPU Shader Sandbox)",
+  "provider": "Mehmet Oguz Derin",
+  "description": "Provides a secure local sandbox for developing, compiling, and visualizing GPU shaders using Vulkan without requiring...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/mehmetoguzderin-shaderc-vkrunner",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:17.140530",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "coinstats-cryptocurrency",
+  "name": "CoinStats",
+  "provider": "CoinStats",
+  "description": "Provides real-time cryptocurrency market data, portfolio tracking, and news through direct access to the CoinStats...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "May 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/coinstats-cryptocurrency",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:32.256056",
+  "metadata": {}
+}

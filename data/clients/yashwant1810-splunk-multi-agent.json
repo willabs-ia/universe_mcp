@@ -1,0 +1,11 @@
+{
+  "id": "yashwant1810-splunk-multi-agent",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Multi-agent Splunk client that converts natural language security analysis requests into SPL queries and executes them against Splunk environments using specialized AI agents for query generation, search execution, and data export through a Streamlit interface.",
+  "url": "https://www.pulsemcp.com/clients/yashwant1810-splunk-multi-agent",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.536210"
+}

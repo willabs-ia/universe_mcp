@@ -1,0 +1,16 @@
+{
+  "id": "mnehmos-arxiv",
+  "name": "arXiv",
+  "provider": "Mnehmos",
+  "description": "Integrates with arXiv's preprint repository to search academic papers by keywords, categories, authors, and titles...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/mnehmos-arxiv",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:47.675117",
+  "metadata": {}
+}

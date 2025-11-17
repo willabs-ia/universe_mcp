@@ -1,0 +1,16 @@
+{
+  "id": "imvirtue-hr-policy-chatbot",
+  "name": "HR Policy Chatbot",
+  "provider": "ImVirtue",
+  "description": "Enables HR departments to provide workplace policy information through a RAG-based chatbot that indexes, retrieves,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/imvirtue-hr-policy-chatbot",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:19.238489",
+  "metadata": {}
+}

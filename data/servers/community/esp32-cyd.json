@@ -1,0 +1,16 @@
+{
+  "id": "esp32-cyd",
+  "name": "ESP32 CYD",
+  "provider": "OfryL",
+  "description": "Transforms ESP32 CYD boards into remotely controllable IoT devices with display control, touch input, GPIO...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/esp32-cyd",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:07.225367",
+  "metadata": {}
+}

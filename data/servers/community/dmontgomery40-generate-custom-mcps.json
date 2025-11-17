@@ -1,0 +1,19 @@
+{
+  "id": "dmontgomery40-generate-custom-mcps",
+  "name": "Generate Custom MCPs",
+  "provider": "DMontgomery40",
+  "description": "Enables dynamic creation of customized MCP servers using the MCP SDK to automate setup and manage tools and resources...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 9
+  },
+  "release_date": "Dec 4, 2024",
+  "url": "https://www.pulsemcp.com/servers/dmontgomery40-generate-custom-mcps",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:37.090173",
+  "metadata": {}
+}

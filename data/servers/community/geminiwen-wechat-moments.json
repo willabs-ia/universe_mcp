@@ -1,0 +1,19 @@
+{
+  "id": "geminiwen-wechat-moments",
+  "name": "WeChat Moments",
+  "provider": "Gemini Wen",
+  "description": "Enables publishing content to WeChat Moments on macOS through AppleScript automation and mouse event emulation,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 32
+  },
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/geminiwen-wechat-moments",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:21.350300",
+  "metadata": {}
+}

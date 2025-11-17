@@ -1,0 +1,19 @@
+{
+  "id": "julianoczkowski-modus",
+  "name": "Modus Design System",
+  "provider": "Julian Oczkowski",
+  "description": "Provides access to Trimble's Modus design system documentation, component specifications, design rules, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 6
+  },
+  "release_date": "Oct 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/julianoczkowski-modus",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:41.491334",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "gus-narea-daipendency",
+  "name": "Daipendency (Public API docs)",
+  "provider": "Gus Narea",
+  "description": "Extracts public API documentation from a library and outputs it in an LLM-friendly format.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/gus-narea-daipendency",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:55.063434",
+  "metadata": {}
+}

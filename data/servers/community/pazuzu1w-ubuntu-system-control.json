@@ -1,0 +1,16 @@
+{
+  "id": "pazuzu1w-ubuntu-system-control",
+  "name": "Ubuntu System Control",
+  "provider": "pazuzu1w",
+  "description": "Provides secure Ubuntu system control with safe file operations, command execution, and system information gathering...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/pazuzu1w-ubuntu-system-control",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:05.084172",
+  "metadata": {}
+}

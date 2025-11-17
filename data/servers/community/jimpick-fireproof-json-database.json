@@ -1,0 +1,16 @@
+{
+  "id": "jimpick-fireproof-json-database",
+  "name": "Fireproof JSON Database",
+  "provider": "Jim Pick",
+  "description": "Integrates Fireproof JSON document databases with the Model Context Protocol, enabling CRUD operations and querying...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 24, 2024",
+  "url": "https://www.pulsemcp.com/servers/jimpick-fireproof-json-database",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:01.204410",
+  "metadata": {}
+}

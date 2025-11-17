@@ -1,0 +1,16 @@
+{
+  "id": "anycontext-thingsboard",
+  "name": "ThingsBoard",
+  "provider": "AnyContext AI",
+  "description": "Connects AI to ThingsBoard IoT platforms for retrieving device telemetry data and attributes, enabling monitoring and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/anycontext-thingsboard",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:48.434787",
+  "metadata": {}
+}

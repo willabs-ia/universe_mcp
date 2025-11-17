@@ -1,0 +1,16 @@
+{
+  "id": "octoeverywhere-template",
+  "name": "OctoEverywhere Template",
+  "provider": "OctoEverywhere",
+  "description": "Minimal project template providing Apache License 2.0 licensing framework for open-source MCP implementations without...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/octoeverywhere-template",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:41.178270",
+  "metadata": {}
+}

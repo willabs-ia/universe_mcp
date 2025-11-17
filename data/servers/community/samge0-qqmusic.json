@@ -1,0 +1,16 @@
+{
+  "id": "samge0-qqmusic",
+  "name": "QQ Music",
+  "provider": "Samge0",
+  "description": "Provides a bridge to QQ Music API for searching, playing, and managing music playlists through natural language...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/samge0-qqmusic",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:48.419530",
+  "metadata": {}
+}

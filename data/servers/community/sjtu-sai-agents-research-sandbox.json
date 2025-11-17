@@ -1,0 +1,16 @@
+{
+  "id": "sjtu-sai-agents-research-sandbox",
+  "name": "Multi-Agent Research Sandbox",
+  "provider": "sjtu-sai-agents",
+  "description": "Multi-layered sandbox that combines Google search, web content parsing, and ArXiv paper processing with configurable...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/sjtu-sai-agents-research-sandbox",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:22.109733",
+  "metadata": {}
+}

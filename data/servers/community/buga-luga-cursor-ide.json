@@ -1,0 +1,16 @@
+{
+  "id": "buga-luga-cursor-ide",
+  "name": "Cursor IDE",
+  "provider": "Buga-luga",
+  "description": "Capable of controlling and pulling from Cursor IDE, powering development workflows.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/buga-luga-cursor-ide",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:46.428346",
+  "metadata": {}
+}

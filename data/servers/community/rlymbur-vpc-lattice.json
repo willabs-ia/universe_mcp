@@ -1,0 +1,16 @@
+{
+  "id": "rlymbur-vpc-lattice",
+  "name": "AWS VPC Lattice & Kubernetes Gateway API Documentation",
+  "provider": "rlymbur",
+  "description": "Provides access to AWS VPC Lattice and Kubernetes Gateway API documentation sources with sample prompts for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/rlymbur-vpc-lattice",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:32.207580",
+  "metadata": {}
+}

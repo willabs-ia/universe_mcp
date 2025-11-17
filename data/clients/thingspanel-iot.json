@@ -1,0 +1,11 @@
+{
+  "id": "thingspanel-iot",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Integrates with ThingsPanel IoT platform for device management, data retrieval, and visualization of IoT telemetry through a Python interface.",
+  "url": "https://www.pulsemcp.com/clients/thingspanel-iot",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.416363"
+}

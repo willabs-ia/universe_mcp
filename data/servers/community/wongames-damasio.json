@@ -1,0 +1,16 @@
+{
+  "id": "wongames-damasio",
+  "name": "WonGames",
+  "provider": "Saymon Damasio",
+  "description": "Provides a GraphQL interface to retrieve video game data from Strapi CMS, enabling filtered access to game...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/wongames-damasio",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:10.043413",
+  "metadata": {}
+}

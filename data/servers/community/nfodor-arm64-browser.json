@@ -1,0 +1,16 @@
+{
+  "id": "nfodor-arm64-browser",
+  "name": "ARM64 Browser Automation",
+  "provider": "nfodor",
+  "description": "Enables browser automation on ARM64 devices like Raspberry Pi using system-installed Chromium with optimized headless...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/nfodor-arm64-browser",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:00.593601",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "syedazharmbnr1-claude-chatgpt",
+  "name": "Claude ChatGPT",
+  "provider": "Syed Azhar",
+  "description": "Integrates Claude with the ChatGPT desktop app on macOS using AppleScript, enabling cross-assistant interactions for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/syedazharmbnr1-claude-chatgpt",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:06.425235",
+  "metadata": {}
+}

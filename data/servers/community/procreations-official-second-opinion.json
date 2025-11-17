@@ -1,0 +1,16 @@
+{
+  "id": "procreations-official-second-opinion",
+  "name": "Second Opinion",
+  "provider": "ProCreations-Official",
+  "description": "Enables getting second opinions from multiple AI models across OpenAI, Google Gemini, xAI Grok, and Anthropic Claude...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/procreations-official-second-opinion",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:41.176899",
+  "metadata": {}
+}

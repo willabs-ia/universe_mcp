@@ -1,0 +1,16 @@
+{
+  "id": "datacenter-cisco-apic",
+  "name": "Cisco APIC",
+  "provider": "cpaggen",
+  "description": "Integrates with Cisco APIC for managing Application Centric Infrastructure fabrics through REST API operations,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/datacenter-cisco-apic",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:47.688093",
+  "metadata": {}
+}

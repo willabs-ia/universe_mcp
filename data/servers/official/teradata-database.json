@@ -1,0 +1,19 @@
+{
+  "id": "teradata-database",
+  "name": "Teradata Database",
+  "provider": "Teradata",
+  "description": "Provides direct access to Teradata database systems with specialized tools for executing queries, exploring database...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "May 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/teradata-database",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:57.412351",
+  "metadata": {}
+}

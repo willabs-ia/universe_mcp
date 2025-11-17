@@ -1,0 +1,16 @@
+{
+  "id": "angrysky56-logic",
+  "name": "Logic (Prover9/Mace4)",
+  "provider": "angrysky56",
+  "description": "Integrates Prover9/Mace4 for automated reasoning, theorem proving, and logical analysis.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/angrysky56-logic",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:48.563362",
+  "metadata": {}
+}

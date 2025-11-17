@@ -1,0 +1,16 @@
+{
+  "id": "skirano-rat-retrieval-augmented-thinking",
+  "name": "RAT (Retrieval Augmented Thinking)",
+  "provider": "Skirano",
+  "description": "Combines DeepSeek's analysis with multiple response models to enhance AI conversation quality through structured...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/skirano-rat-retrieval-augmented-thinking",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:52.946495",
+  "metadata": {}
+}

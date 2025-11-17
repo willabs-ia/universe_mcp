@@ -1,0 +1,16 @@
+{
+  "id": "amekala-amazon-advertising",
+  "name": "Amazon Advertising",
+  "provider": "amekala",
+  "description": "Integrates with Amazon Advertising API to provide marketers direct access to advertiser accounts, listings, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/amekala-amazon-advertising",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:17.250694",
+  "metadata": {}
+}

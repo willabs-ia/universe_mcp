@@ -1,0 +1,19 @@
+{
+  "id": "alizdavoodi-mcpdocsearch",
+  "name": "Document Crawler & Search",
+  "provider": "Ali Davoodi",
+  "description": "Crawls websites to generate searchable Markdown documentation with vector embeddings for semantic search capabilities...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Apr 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/alizdavoodi-mcpdocsearch",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:55.292521",
+  "metadata": {}
+}

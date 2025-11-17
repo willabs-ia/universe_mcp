@@ -1,0 +1,19 @@
+{
+  "id": "scorzeth-anki",
+  "name": "Anki",
+  "provider": "scorzeth",
+  "description": "Integrates with Anki to enable AI-driven flashcard creation, retrieval, and review processes for enhanced spaced...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "Dec 11, 2024",
+  "url": "https://www.pulsemcp.com/servers/scorzeth-anki",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:31.083392",
+  "metadata": {}
+}

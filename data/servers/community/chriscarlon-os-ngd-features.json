@@ -1,0 +1,16 @@
+{
+  "id": "chriscarlon-os-ngd-features",
+  "name": "Ordnance Survey National Geographic Database",
+  "provider": "Chris Carlon",
+  "description": "Provides a bridge to the Ordnance Survey National Geographic Database, enabling queries of UK geographic data for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/chriscarlon-os-ngd-features",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:32.203178",
+  "metadata": {}
+}

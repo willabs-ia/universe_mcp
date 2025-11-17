@@ -1,0 +1,16 @@
+{
+  "id": "deepseekmine-pdf-reader",
+  "name": "PDF Reader",
+  "provider": "DeepSeekMine",
+  "description": "Extracts and processes content from PDF documents, offering text reading, OCR capabilities, and image retrieval with...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/deepseekmine-pdf-reader",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:27.975518",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "lammps",
+  "name": "LAMMPS",
+  "provider": "Chenghao Wu",
+  "description": "Integrates with LAMMPS molecular dynamics simulation engine to enable natural language control over simulation setup,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/lammps",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:02.977418",
+  "metadata": {}
+}

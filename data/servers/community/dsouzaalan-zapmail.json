@@ -1,0 +1,19 @@
+{
+  "id": "dsouzaalan-zapmail",
+  "name": "Zapmail",
+  "provider": "dsouzaalan",
+  "description": "Integrates with Zapmail API to enable domain purchasing, bulk mailbox creation, email automation workflows, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 2
+  },
+  "release_date": "Sep 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/dsouzaalan-zapmail",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:54.712778",
+  "metadata": {}
+}

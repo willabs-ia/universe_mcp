@@ -1,0 +1,16 @@
+{
+  "id": "igordias2-unity-editor",
+  "name": "Unity Editor",
+  "provider": "Igor Dias",
+  "description": "Integrates with Unity Editor to provide real-time access to scene hierarchies, project structures, and GameObject...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/igordias2-unity-editor",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:10.040706",
+  "metadata": {}
+}

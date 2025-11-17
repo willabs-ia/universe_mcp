@@ -1,0 +1,16 @@
+{
+  "id": "ejb503-gmail",
+  "name": "Gmail",
+  "provider": "Ejb503",
+  "description": "Integrates with Gmail to enable natural language-based email management, including searching, reading, deleting, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/ejb503-gmail",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:52.950271",
+  "metadata": {}
+}

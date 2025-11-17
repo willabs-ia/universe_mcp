@@ -1,0 +1,19 @@
+{
+  "id": "fal-ai",
+  "name": "fal.ai",
+  "provider": "am0y",
+  "description": "Bridges AI systems with fal.ai's machine learning models and services, enabling image generation, media processing,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/fal-ai",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:50.955983",
+  "metadata": {}
+}

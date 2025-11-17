@@ -1,0 +1,16 @@
+{
+  "id": "iphysresearch-gw150914-signal-search",
+  "name": "GW150914 Signal Search",
+  "provider": "He Wang",
+  "description": "Provides complete access to LIGO-Virgo gravitational wave data analysis through PyCBC and GWpy integration,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/iphysresearch-gw150914-signal-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:15.712558",
+  "metadata": {}
+}

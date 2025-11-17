@@ -1,0 +1,16 @@
+{
+  "id": "mariosss-local-logs",
+  "name": "Local Logs",
+  "provider": "mariosss",
+  "description": "Provides real-time log file monitoring and analysis with automated directory detection, cross-platform streaming,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/mariosss-local-logs",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:28.876261",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "tigrisdata-tigris-storage",
+  "name": "Tigris Storage",
+  "provider": "Tigris Data",
+  "description": "Provides S3-compatible object storage capabilities for managing buckets, uploading/downloading objects, and...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 5
+  },
+  "release_date": "May 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/tigrisdata-tigris-storage",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:43.633749",
+  "metadata": {}
+}

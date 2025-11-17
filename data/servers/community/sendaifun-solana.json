@@ -1,0 +1,19 @@
+{
+  "id": "sendaifun-solana",
+  "name": "Solana Agent",
+  "provider": "SendAI",
+  "description": "Enables blockchain interactions on Solana by providing a comprehensive server for asset retrieval, token deployment,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 8
+  },
+  "release_date": "Mar 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/sendaifun-solana",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:37.139143",
+  "metadata": {}
+}

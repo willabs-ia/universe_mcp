@@ -1,0 +1,16 @@
+{
+  "id": "figma-dev-mode",
+  "name": "Figma Dev Mode",
+  "provider": "Figma",
+  "description": "Integrates with Figma's desktop app to extract design information, variables, and component data from selected frames...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Jun 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/figma-dev-mode",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:22.832408",
+  "metadata": {}
+}

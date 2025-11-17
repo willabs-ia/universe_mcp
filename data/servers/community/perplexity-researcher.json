@@ -1,0 +1,16 @@
+{
+  "id": "perplexity-researcher",
+  "name": "Perplexity Researcher",
+  "provider": "clssck",
+  "description": "Integrates Perplexity AI's search capabilities with Node.js to provide general search queries, documentation...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/perplexity-researcher",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:36.979029",
+  "metadata": {}
+}

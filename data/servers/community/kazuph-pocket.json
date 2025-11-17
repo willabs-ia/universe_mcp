@@ -1,0 +1,19 @@
+{
+  "id": "kazuph-pocket",
+  "name": "Pocket",
+  "provider": "kazuph",
+  "description": "Integrates with the Pocket API to enable natural language-based retrieval and management of saved articles.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 4
+  },
+  "release_date": "Dec 26, 2024",
+  "url": "https://www.pulsemcp.com/servers/kazuph-pocket",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:43.656336",
+  "metadata": {}
+}

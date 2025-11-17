@@ -1,0 +1,19 @@
+{
+  "id": "orgsoft-jsr",
+  "name": "JSR",
+  "provider": "Organic Software",
+  "description": "Integrates with JSR (JavaScript Registry) through Orama Cloud search and direct API access to provide package...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jul 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/orgsoft-jsr",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:59.613132",
+  "metadata": {}
+}

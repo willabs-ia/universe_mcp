@@ -1,0 +1,16 @@
+{
+  "id": "nefino-renewable-energy-news",
+  "name": "Nefino",
+  "provider": "Nefino",
+  "description": "Integrates with the Nefino API to retrieve and filter news about German renewable energy projects, supporting market...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Feb 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/nefino-renewable-energy-news",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:03.336651",
+  "metadata": {}
+}

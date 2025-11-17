@@ -1,0 +1,16 @@
+{
+  "id": "zhongmingyuan-my-mac",
+  "name": "My Mac",
+  "provider": "Mingyuan Zhong",
+  "description": "Provides AI with real-time Mac system information through a lightweight local server that safely executes verified...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/zhongmingyuan-my-mac",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:25.743175",
+  "metadata": {}
+}

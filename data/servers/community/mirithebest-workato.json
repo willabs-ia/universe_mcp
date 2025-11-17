@@ -1,0 +1,16 @@
+{
+  "id": "mirithebest-workato",
+  "name": "Workato",
+  "provider": "MiriTheBest",
+  "description": "Integrates with Workato automation platform API to provide read-only access for retrieving and analyzing integration...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/mirithebest-workato",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:28.799221",
+  "metadata": {}
+}

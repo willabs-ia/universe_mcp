@@ -1,0 +1,16 @@
+{
+  "id": "talismanic-cleanuri-url-shortener",
+  "name": "CleanURI URL Shortener",
+  "provider": "Talismanic",
+  "description": "Integrates with CleanURI API to transform long URLs into shortened links.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/talismanic-cleanuri-url-shortener",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:44.168883",
+  "metadata": {}
+}

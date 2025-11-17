@@ -1,0 +1,16 @@
+{
+  "id": "niuzaishu-querynest",
+  "name": "QueryNest (MongoDB)",
+  "provider": "niuzaishu",
+  "description": "Transforms MongoDB databases into conversational interfaces by automatically discovering collection schemas and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/niuzaishu-querynest",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:07.233990",
+  "metadata": {}
+}

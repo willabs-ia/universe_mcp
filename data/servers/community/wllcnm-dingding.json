@@ -1,0 +1,16 @@
+{
+  "id": "wllcnm-dingding",
+  "name": "DingTalk",
+  "provider": "wllcnm",
+  "description": "Provides integration with the DingTalk API, enabling easy deployment and scaling of services like chatbots and data...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/wllcnm-dingding",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:42.175214",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "adiletd-feature-suggestions-supabase",
+  "name": "Feature Suggestions (Supabase)",
+  "provider": "Adilet D",
+  "description": "Connects AI assistants to a Supabase database for querying feature suggestions, enabling direct access to feature...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/adiletd-feature-suggestions-supabase",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:07.906568",
+  "metadata": {}
+}

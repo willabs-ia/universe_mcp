@@ -1,0 +1,19 @@
+{
+  "id": "erikhoward-azure-fhir",
+  "name": "Azure FHIR",
+  "provider": "Erik Howard",
+  "description": "Provides secure access to Azure Health Data Services FHIR servers, enabling authenticated retrieval and search of...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 99
+  },
+  "release_date": "May 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/erikhoward-azure-fhir",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:08.383838",
+  "metadata": {}
+}

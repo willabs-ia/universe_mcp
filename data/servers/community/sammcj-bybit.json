@@ -1,0 +1,16 @@
+{
+  "id": "sammcj-bybit",
+  "name": "Bybit Crypto Exchange",
+  "provider": "Sam McLeod",
+  "description": "Provides read-only access to Bybit's cryptocurrency exchange API for retrieving real-time market data, order book...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 26, 2024",
+  "url": "https://www.pulsemcp.com/servers/sammcj-bybit",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:46.420443",
+  "metadata": {}
+}

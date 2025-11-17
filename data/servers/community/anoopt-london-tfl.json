@@ -1,0 +1,19 @@
+{
+  "id": "anoopt-london-tfl",
+  "name": "Transport for London",
+  "provider": "Anoop T",
+  "description": "Provides real-time London transport data including tube line status, detailed disruption information, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 2
+  },
+  "release_date": "Sep 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/anoopt-london-tfl",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:54.717099",
+  "metadata": {}
+}

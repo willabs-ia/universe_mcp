@@ -1,0 +1,16 @@
+{
+  "id": "alexandertsai-telegram",
+  "name": "Telegram",
+  "provider": "Alexander Tsai",
+  "description": "Enables Claude to monitor and respond to Telegram messages by accessing chat lists, reading conversations, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/alexandertsai-telegram",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:03.500154",
+  "metadata": {}
+}

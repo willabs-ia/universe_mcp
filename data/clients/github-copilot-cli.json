@@ -1,0 +1,11 @@
+{
+  "id": "github-copilot-cli",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Brings GitHub Copilot's coding agent directly to your terminal with GitHub integration, MCP extensibility, and user-controlled action previews for terminal-native development workflows.",
+  "url": "https://www.pulsemcp.com/clients/github-copilot-cli",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.375447"
+}

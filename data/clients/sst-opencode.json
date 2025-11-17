@@ -1,0 +1,11 @@
+{
+  "id": "sst-opencode",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Terminal-based coding agent with TUI interface that provides AI-assisted development workflows through provider-agnostic model support, real-time collaboration, and comprehensive project management including file operations, git integration, and LSP client support.",
+  "url": "https://www.pulsemcp.com/clients/sst-opencode",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.310987"
+}

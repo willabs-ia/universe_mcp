@@ -1,0 +1,11 @@
+{
+  "id": "zovi343-sqlite-query-assistant",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Provides a Docker-based SQLite database interaction server that enables natural language querying and exploration using Chainlit and Azure OpenAI's language model.",
+  "url": "https://www.pulsemcp.com/clients/zovi343-sqlite-query-assistant",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.462121"
+}

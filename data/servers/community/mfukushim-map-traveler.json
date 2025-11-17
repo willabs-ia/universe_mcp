@@ -1,0 +1,19 @@
+{
+  "id": "mfukushim-map-traveler",
+  "name": "Map Traveler",
+  "provider": "Masahiro Fukushima",
+  "description": "Integrates with Google Maps to create virtual travel experiences where users can navigate real-world routes with...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 5
+  },
+  "release_date": "Mar 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/mfukushim-map-traveler",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:43.611016",
+  "metadata": {}
+}

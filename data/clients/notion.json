@@ -1,0 +1,11 @@
+{
+  "id": "notion",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Integrates with Notion workspaces to enable bidirectional data flow where external tools can read context from connected apps and write back to Notion, creating seamless workflows between development environments and project management.",
+  "url": "https://www.pulsemcp.com/clients/notion",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.374813"
+}

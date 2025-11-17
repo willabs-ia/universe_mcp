@@ -1,0 +1,19 @@
+{
+  "id": "sharmarajnish-constrained-optimization",
+  "name": "Constrained Optimization",
+  "provider": "Rajnish Sharma",
+  "description": "Provides unified access to multiple optimization solvers including Z3, CVXPY, HiGHS, and OR-Tools for solving...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 24
+  },
+  "release_date": "Sep 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/sharmarajnish-constrained-optimization",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:23.540374",
+  "metadata": {}
+}

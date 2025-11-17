@@ -1,0 +1,19 @@
+{
+  "id": "stefanoamorelli-fred",
+  "name": "FRED (Federal Reserve Economic Data)",
+  "provider": "Stefano Amorelli",
+  "description": "Provides a bridge to the Federal Reserve Economic Data API for retrieving economic time series data like Overnight...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 4
+  },
+  "release_date": "May 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/stefanoamorelli-fred",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:45.816204",
+  "metadata": {}
+}

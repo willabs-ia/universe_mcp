@@ -1,0 +1,16 @@
+{
+  "id": "vantage-cloud-cost-management",
+  "name": "Vantage Cloud Cost Management",
+  "provider": "Vantage",
+  "description": "Provides real-time cloud cost management data across multiple providers (AWS, Azure, etc.) for analyzing spending...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "May 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/vantage-cloud-cost-management",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:28.003893",
+  "metadata": {}
+}

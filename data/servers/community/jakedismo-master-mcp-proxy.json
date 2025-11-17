@@ -1,0 +1,16 @@
+{
+  "id": "jakedismo-master-mcp-proxy",
+  "name": "Master MCP Proxy",
+  "provider": "Jakedismo",
+  "description": "Production-ready OAuth-enabled proxy that aggregates multiple MCP backends into a unified interface with advanced...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/jakedismo-master-mcp-proxy",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:19.940045",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "danishjsheikh-swagger",
+  "name": "Swagger",
+  "provider": "Danish Sheikh",
+  "description": "Transforms Swagger/OpenAPI specifications into dynamic tools, enabling interaction with any REST API through...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "Apr 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/danishjsheikh-swagger",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:35.894529",
+  "metadata": {}
+}

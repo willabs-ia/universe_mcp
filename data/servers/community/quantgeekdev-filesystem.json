@@ -1,0 +1,16 @@
+{
+  "id": "quantgeekdev-filesystem",
+  "name": "Filesystem",
+  "provider": "QuantGeekDev",
+  "description": "Provides a robust filesystem server enabling precise file system interactions like reading, writing, creating...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/quantgeekdev-filesystem",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:54.970831",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "da-snap-developer-tool",
+  "name": "File System Utilities",
+  "provider": "Daniel",
+  "description": "Provides a set of file system utilities for executing shell commands, displaying file contents, searching with regex,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/da-snap-developer-tool",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:32.730517",
+  "metadata": {}
+}

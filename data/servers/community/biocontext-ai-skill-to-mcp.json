@@ -1,0 +1,16 @@
+{
+  "id": "biocontext-ai-skill-to-mcp",
+  "name": "Skill-to-MCP",
+  "provider": "BioContextAI Team",
+  "description": "Converts AI Skills (following Claude Skills format) into discoverable resources, enabling automatic skill discovery...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/biocontext-ai-skill-to-mcp",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:31.475462",
+  "metadata": {}
+}

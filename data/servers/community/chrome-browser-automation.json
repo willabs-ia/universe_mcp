@@ -1,0 +1,16 @@
+{
+  "id": "chrome-browser-automation",
+  "name": "Chrome Browser Automation",
+  "provider": "qoxogus",
+  "description": "Enables browser automation through Selenium WebDriver, allowing direct interaction with Chrome for web scraping,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/chrome-browser-automation",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:17.103999",
+  "metadata": {}
+}

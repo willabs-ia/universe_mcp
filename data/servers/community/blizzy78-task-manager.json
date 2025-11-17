@@ -1,0 +1,19 @@
+{
+  "id": "blizzy78-task-manager",
+  "name": "Task Manager",
+  "provider": "Maik Schreiber",
+  "description": "Provides structured task management with dependency tracking, complexity assessment, and automatic subtask...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 13
+  },
+  "release_date": "Aug 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/blizzy78-task-manager",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:32.726640",
+  "metadata": {}
+}

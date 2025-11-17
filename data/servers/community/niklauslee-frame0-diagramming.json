@@ -1,0 +1,19 @@
+{
+  "id": "niklauslee-frame0-diagramming",
+  "name": "Frame0 Diagramming",
+  "provider": "Niklaus Lee",
+  "description": "Provides a bridge to the Frame0 diagramming application for creating and manipulating visual elements like shapes,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 5
+  },
+  "release_date": "Apr 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/niklauslee-frame0-diagramming",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:43.626519",
+  "metadata": {}
+}

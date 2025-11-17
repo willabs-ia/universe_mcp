@@ -1,0 +1,19 @@
+{
+  "id": "nexon33-console-terminal",
+  "name": "Console Terminal",
+  "provider": "Adrian Belmans",
+  "description": "Provides a bridge between AI assistants and system terminals, enabling command execution and output retrieval through...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "May 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/nexon33-console-terminal",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:57.415573",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "5ajaki-ens-dao-operations",
+  "name": "ENS DAO Operations",
+  "provider": "5ajaki",
+  "description": "Integrates with local Ethereum nodes to simplify ENS DAO operations like domain management and governance participation.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 25, 2024",
+  "url": "https://www.pulsemcp.com/servers/5ajaki-ens-dao-operations",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:37.914429",
+  "metadata": {}
+}

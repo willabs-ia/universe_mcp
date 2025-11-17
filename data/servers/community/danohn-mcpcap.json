@@ -1,0 +1,19 @@
+{
+  "id": "danohn-mcpcap",
+  "name": "mcpcap (PCAP Network Analysis)",
+  "provider": "danohn",
+  "description": "Analyzes network packet captures (PCAP files) with specialized DNS traffic analysis, providing tools for extracting...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 350
+  },
+  "release_date": "Sep 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/danohn-mcpcap",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:28.862729",
+  "metadata": {}
+}

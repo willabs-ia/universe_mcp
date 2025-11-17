@@ -1,0 +1,16 @@
+{
+  "id": "telnyx",
+  "name": "Telnyx",
+  "provider": "Telnyx",
+  "description": "Integrates with Telnyx's telecommunications APIs to provide voice calling, SMS/MMS messaging, phone number...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Aug 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/telnyx",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:13.574006",
+  "metadata": {}
+}

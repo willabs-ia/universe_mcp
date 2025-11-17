@@ -1,0 +1,19 @@
+{
+  "id": "benedat-k8stools",
+  "name": "Kubernetes Tools",
+  "provider": "Benedat LLC",
+  "description": "Provides strongly-typed tools for monitoring and diagnosing Kubernetes clusters through read-only operations like...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 35
+  },
+  "release_date": "Jul 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/benedat-k8stools",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:19.270412",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "trainual-tiptap-collaboration",
+  "name": "Tiptap Collaboration",
+  "provider": "Trainual",
+  "description": "Integrates with Tiptap Collaboration services to manage collaborative documents through CRUD operations, real-time...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/trainual-tiptap-collaboration",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:11.464526",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "milancermak-starknet",
+  "name": "Starknet",
+  "provider": "Milan Cermak",
+  "description": "Integrates with Starknet's JSON-RPC API to enable querying blockchain state, retrieving transaction data, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/milancermak-starknet",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:50.814482",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "gyger-zotero",
+  "name": "Zotero",
+  "provider": "Samuel Gyger",
+  "description": "Integrates local Zotero libraries, enabling natural language interactions for exploring and analyzing personal...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/gyger-zotero",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:44.316214",
+  "metadata": {}
+}

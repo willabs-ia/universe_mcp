@@ -1,0 +1,16 @@
+{
+  "id": "enterprise-health-servicenow",
+  "name": "Enterprise Health & ServiceNow",
+  "provider": "maybeswapnil",
+  "description": "Integrates system health monitoring and ServiceNow ITSM platform to provide CPU usage, memory statistics, system...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/enterprise-health-servicenow",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:54.118263",
+  "metadata": {}
+}

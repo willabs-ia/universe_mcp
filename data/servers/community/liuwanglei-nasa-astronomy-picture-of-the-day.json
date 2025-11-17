@@ -1,0 +1,16 @@
+{
+  "id": "liuwanglei-nasa-astronomy-picture-of-the-day",
+  "name": "NASA Astronomy Picture of the Day",
+  "provider": "Simon Liu",
+  "description": "Integrates with NASA's Astronomy Picture of the Day API to retrieve daily space images and descriptions directly...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/liuwanglei-nasa-astronomy-picture-of-the-day",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:28.230233",
+  "metadata": {}
+}

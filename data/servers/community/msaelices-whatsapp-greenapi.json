@@ -1,0 +1,16 @@
+{
+  "id": "msaelices-whatsapp-greenapi",
+  "name": "WhatsApp (GreenAPI)",
+  "provider": "Manuel Saelices",
+  "description": "Provides a bridge to the WhatsApp Business API through GreenAPI, enabling message sending, chat retrieval, and group...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/msaelices-whatsapp-greenapi",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:21.507073",
+  "metadata": {}
+}

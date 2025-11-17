@@ -1,0 +1,16 @@
+{
+  "id": "demcp-meson-crosschain",
+  "name": "Meson Cross-Chain Transfer",
+  "provider": "demcp",
+  "description": "Enables secure cross-chain cryptocurrency transfers between Ethereum, Arbitrum, Avalanche, and other blockchains...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/demcp-meson-crosschain",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:27.977015",
+  "metadata": {}
+}

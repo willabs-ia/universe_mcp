@@ -1,0 +1,16 @@
+{
+  "id": "1panel-dev-1panel",
+  "name": "1Panel",
+  "provider": "1Panel",
+  "description": "Enables server administrators to manage websites, databases, SSL certificates, and applications through 1Panel's...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Mar 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/1panel-dev-1panel",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:48.428674",
+  "metadata": {}
+}

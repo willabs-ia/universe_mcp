@@ -1,0 +1,11 @@
+{
+  "id": "reorc-client",
+  "name": "Unknown",
+  "provider": null,
+  "description": "CLI tool for managing dbt data modeling projects locally with authentication, file management, git operations, and project synchronization for ReOrc cloud platform integration.",
+  "url": "https://www.pulsemcp.com/clients/reorc-client",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.569566"
+}

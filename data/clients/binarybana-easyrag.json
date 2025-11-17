@@ -1,0 +1,11 @@
+{
+  "id": "binarybana-easyrag",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Implements a RAG system using LlamaIndex, Gemini, and LanceDB for efficient document processing, embedding generation, and vector storage, enabling advanced information retrieval and querying capabilities.",
+  "url": "https://www.pulsemcp.com/clients/binarybana-easyrag",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.503569"
+}

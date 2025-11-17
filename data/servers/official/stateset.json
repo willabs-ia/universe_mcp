@@ -1,0 +1,16 @@
+{
+  "id": "stateset",
+  "name": "StateSet",
+  "provider": "Stateset",
+  "description": "Integrates with StateSet's issue operations system, enabling management of returns, orders, warranties, shipments,...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Mar 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/stateset",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:05.795060",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "tomokiishimine-dify-workflow",
+  "name": "Dify Workflow",
+  "provider": "Tomoki Ishimine",
+  "description": "Connects Claude with Dify Workflow to expose workflow capabilities as tools, enabling structured automation through...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 6
+  },
+  "release_date": "Mar 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/tomokiishimine-dify-workflow",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:41.467276",
+  "metadata": {}
+}

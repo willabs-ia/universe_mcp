@@ -1,0 +1,16 @@
+{
+  "id": "geropl-git",
+  "name": "Git",
+  "provider": "geropl",
+  "description": "Integrates with Git repositories to enable version control operations and automation, supporting both shell-based...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/geropl-git",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:06.438053",
+  "metadata": {}
+}

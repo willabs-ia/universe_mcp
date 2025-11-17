@@ -1,0 +1,11 @@
+{
+  "id": "run-security-scanner",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Security scanner that analyzes MCP server configurations across multiple AI development tools, detecting exposed secrets, malicious servers, and policy violations through entropy analysis and reputation assessment with a terminal UI for real-time auditing.",
+  "url": "https://www.pulsemcp.com/clients/run-security-scanner",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.439915"
+}

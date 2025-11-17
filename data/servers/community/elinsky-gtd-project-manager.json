@@ -1,0 +1,16 @@
+{
+  "id": "elinsky-gtd-project-manager",
+  "name": "GTD Project Manager",
+  "provider": "elinsky",
+  "description": "Automates GTD project management by creating structured project files with YAML frontmatter and markdown templates,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/elinsky-gtd-project-manager",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:37.552210",
+  "metadata": {}
+}

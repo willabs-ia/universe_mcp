@@ -1,0 +1,16 @@
+{
+  "id": "kinsha-confluence-chat",
+  "name": "Confluence Chat",
+  "provider": "Kinsha Dev",
+  "description": "Lightweight Confluence content expansion server that generates enhanced page content through a JSON-RPC interface,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/kinsha-confluence-chat",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:20.703417",
+  "metadata": {}
+}

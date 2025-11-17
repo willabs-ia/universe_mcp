@@ -1,0 +1,16 @@
+{
+  "id": "vespo92-opnsense",
+  "name": "OPNsense",
+  "provider": "VinSpo",
+  "description": "Provides Infrastructure as Code capabilities for OPNsense firewalls with declarative management of VLANs, firewall...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/vespo92-opnsense",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:45.526901",
+  "metadata": {}
+}

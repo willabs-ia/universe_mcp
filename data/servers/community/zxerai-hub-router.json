@@ -1,0 +1,16 @@
+{
+  "id": "zxerai-hub-router",
+  "name": "Hub Router",
+  "provider": "zxerai",
+  "description": "Centralized hub for managing and routing multiple MCP servers through a web-based dashboard with smart routing...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/zxerai-hub-router",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:11.453546",
+  "metadata": {}
+}

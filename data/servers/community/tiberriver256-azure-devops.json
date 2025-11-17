@@ -1,0 +1,19 @@
+{
+  "id": "tiberriver256-azure-devops",
+  "name": "Azure DevOps",
+  "provider": "Tiberriver256",
+  "description": "Integrates with Azure DevOps to enable AI-driven management of projects, work items, repositories, pull requests,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Feb 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/tiberriver256-azure-devops",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:46.651311",
+  "metadata": {}
+}

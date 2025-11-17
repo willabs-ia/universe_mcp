@@ -1,0 +1,16 @@
+{
+  "id": "jlucaso1-whatsapp",
+  "name": "WhatsApp",
+  "provider": "jlucaso",
+  "description": "Connects AI to WhatsApp accounts using TypeScript and Baileys, enabling message history retrieval, contact search,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/jlucaso1-whatsapp",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:05.642304",
+  "metadata": {}
+}

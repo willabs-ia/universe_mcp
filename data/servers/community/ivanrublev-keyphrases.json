@@ -1,0 +1,19 @@
+{
+  "id": "ivanrublev-keyphrases",
+  "name": "Keyphrases",
+  "provider": "Ivan Rublev",
+  "description": "Extracts meaningful keyphrases from text documents using BERT-based sentence transformers and spaCy tokenization with...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 37
+  },
+  "release_date": "Oct 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/ivanrublev-keyphrases",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:19.249556",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "hrishi0102-spotify",
+  "name": "Spotify",
+  "provider": "Hrishi",
+  "description": "Integrates with Spotify to enable music search, playlist creation, personalized recommendations, and profile...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/hrishi0102-spotify",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:12.706792",
+  "metadata": {}
+}

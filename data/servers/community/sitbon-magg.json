@@ -1,0 +1,19 @@
+{
+  "id": "sitbon-magg",
+  "name": "MAGG",
+  "provider": "sitbon",
+  "description": "Meta-MCP server that aggregates and manages multiple MCP servers through intelligent discovery from sources like...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 214
+  },
+  "release_date": "Jun 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/sitbon-magg",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:40.194753",
+  "metadata": {}
+}

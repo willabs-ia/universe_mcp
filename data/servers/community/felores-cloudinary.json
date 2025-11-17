@@ -1,0 +1,16 @@
+{
+  "id": "felores-cloudinary",
+  "name": "Cloudinary",
+  "provider": "felores",
+  "description": "Integrates with Cloudinary to enable seamless image and video uploads with customizable parameters for dynamic...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/felores-cloudinary",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:44.318865",
+  "metadata": {}
+}

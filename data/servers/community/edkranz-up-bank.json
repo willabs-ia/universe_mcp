@@ -1,0 +1,16 @@
+{
+  "id": "edkranz-up-bank",
+  "name": "Up Bank",
+  "provider": "Eddie Kranz",
+  "description": "Bridges to the Up Bank API for analyzing personal banking data, including accounts, transactions, categories, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/edkranz-up-bank",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:19.287999",
+  "metadata": {}
+}

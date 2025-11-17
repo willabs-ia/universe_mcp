@@ -1,0 +1,11 @@
+{
+  "id": "moopoint",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Web-based chat interface that connects to multiple LLM providers with secure API key storage, customizable assistants, and MCP server integration for extended AI capabilities.",
+  "url": "https://www.pulsemcp.com/clients/moopoint",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.581308"
+}

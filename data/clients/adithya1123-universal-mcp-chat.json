@@ -1,0 +1,11 @@
+{
+  "id": "adithya1123-universal-mcp-chat",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Universal web-based client that connects to multiple MCP servers simultaneously through an agentic chat interface, featuring FastAPI backend with LangGraph workflow orchestration and React frontend with real-time WebSocket communication for natural language interactions with your MCP server ecosystem.",
+  "url": "https://www.pulsemcp.com/clients/adithya1123-universal-mcp-chat",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.570227"
+}

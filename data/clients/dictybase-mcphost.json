@@ -1,0 +1,11 @@
+{
+  "id": "dictybase-mcphost",
+  "name": "Unknown",
+  "provider": null,
+  "description": "CLI tool for interacting with multiple LLM providers including Claude, OpenAI, and Ollama, featuring a Tokyo Night-themed terminal UI with markdown rendering and tool integration capabilities.",
+  "url": "https://www.pulsemcp.com/clients/dictybase-mcphost",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.563654"
+}

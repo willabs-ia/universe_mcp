@@ -1,0 +1,16 @@
+{
+  "id": "deep-shah-docling",
+  "name": "Docling",
+  "provider": "Deep Shah",
+  "description": "Integrates IBM's Docling software to parse and convert various document formats into standardized Markdown, enabling...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/deep-shah-docling",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:55.085073",
+  "metadata": {}
+}

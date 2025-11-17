@@ -1,0 +1,16 @@
+{
+  "id": "esignatures-esignatures",
+  "name": "eSignatures",
+  "provider": "eSignatures",
+  "description": "Integrates with the eSignatures.com API to simplify contract and document management, enabling creation, querying,...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Jan 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/esignatures-esignatures",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:52.936509",
+  "metadata": {}
+}

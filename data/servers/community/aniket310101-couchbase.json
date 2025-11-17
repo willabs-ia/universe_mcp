@@ -1,0 +1,16 @@
+{
+  "id": "aniket310101-couchbase",
+  "name": "Couchbase",
+  "provider": "Aniket Purkayastha",
+  "description": "Interact directly with Couchbase databases on Capella clusters. Query buckets, perform CRUD operations, execute N1QL...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/aniket310101-couchbase",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:01.396872",
+  "metadata": {}
+}

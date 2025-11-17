@@ -1,0 +1,11 @@
+{
+  "id": "edanyal-typescript-core",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Demo implementation. Connects to MCP servers using STDIO or SSE transport.",
+  "url": "https://www.pulsemcp.com/clients/edanyal-typescript-core",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.422813"
+}

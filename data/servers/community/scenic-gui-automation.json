@@ -1,0 +1,16 @@
+{
+  "id": "scenic-gui-automation",
+  "name": "Scenic GUI Automation",
+  "provider": "scenic-contrib",
+  "description": "Provides automation and testing capabilities for Scenic Elixir GUI applications through keyboard input simulation,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/scenic-gui-automation",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:45.503039",
+  "metadata": {}
+}

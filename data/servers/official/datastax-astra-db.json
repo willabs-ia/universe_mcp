@@ -1,0 +1,19 @@
+{
+  "id": "datastax-astra-db",
+  "name": "Astra DB",
+  "provider": "DataStax",
+  "description": "Integrates with Astra DB, enabling cloud-native database operations for scalable data storage and retrieval in AI...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 14
+  },
+  "release_date": "Mar 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/datastax-astra-db",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:30.169209",
+  "metadata": {}
+}

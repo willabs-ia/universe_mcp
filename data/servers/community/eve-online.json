@@ -1,0 +1,16 @@
+{
+  "id": "eve-online",
+  "name": "EVE Online",
+  "provider": "kongyo2",
+  "description": "Integrates with EVE Online's API to provide real-time market data, item prices, and game information for analyzing...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/eve-online",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:07.201006",
+  "metadata": {}
+}

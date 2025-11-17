@@ -1,0 +1,19 @@
+{
+  "id": "hritik003-linkedin-integration",
+  "name": "LinkedIn",
+  "provider": "Hritik Raj",
+  "description": "Integrates with LinkedIn to enable profile retrieval, job searching, feed post access, and resume analysis for...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 32
+  },
+  "release_date": "Feb 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/hritik003-linkedin-integration",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:21.346410",
+  "metadata": {}
+}

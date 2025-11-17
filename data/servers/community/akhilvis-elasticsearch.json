@@ -1,0 +1,16 @@
+{
+  "id": "akhilvis-elasticsearch",
+  "name": "Elasticsearch",
+  "provider": "Akhilvis",
+  "description": "Integrates with Elasticsearch clusters to enable natural language searching of indices, mapping retrieval, and data...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/akhilvis-elasticsearch",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:27.175758",
+  "metadata": {}
+}

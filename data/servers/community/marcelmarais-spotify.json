@@ -1,0 +1,19 @@
+{
+  "id": "marcelmarais-spotify",
+  "name": "Spotify",
+  "provider": "Marcel Marais",
+  "description": "Integrates with Spotify to enable music playback control, playlist management, and track searching through OAuth...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 553
+  },
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/marcelmarais-spotify",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:24.622689",
+  "metadata": {}
+}

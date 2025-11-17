@@ -1,0 +1,19 @@
+{
+  "id": "livoras-better-playwright",
+  "name": "Better Playwright",
+  "provider": "livoras",
+  "description": "Enhanced browser automation with stealth mode, persistent profiles, and intelligent HTML snapshot extraction that...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 4
+  },
+  "release_date": "Aug 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/livoras-better-playwright",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:45.828589",
+  "metadata": {}
+}

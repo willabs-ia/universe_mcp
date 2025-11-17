@@ -1,0 +1,16 @@
+{
+  "id": "jeong-sik-kakao-maps",
+  "name": "Kakao Maps",
+  "provider": "Jeong-Sik Yun",
+  "description": "Integrates with Kakao Maps API to provide location-based services including geolocation, address lookup, and map...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/jeong-sik-kakao-maps",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:07.805291",
+  "metadata": {}
+}

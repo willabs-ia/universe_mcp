@@ -1,0 +1,16 @@
+{
+  "id": "tonybotni-doctah-prts",
+  "name": "Doctah (PRTS Wiki)",
+  "provider": "TonybotNi",
+  "description": "Integrates with the PRTS wiki to provide detailed Arknights game data including operator stats, abilities, and enemy...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/tonybotni-doctah-prts",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:24.510356",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "stefanskiasan-azure-devops",
+  "name": "Azure DevOps",
+  "provider": "Asan Stefanski",
+  "description": "Integrates Azure DevOps services, enabling access to work items, repositories, and pull requests for project...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/stefanskiasan-azure-devops",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:52.926465",
+  "metadata": {}
+}

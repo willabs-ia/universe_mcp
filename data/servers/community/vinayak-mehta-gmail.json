@@ -1,0 +1,19 @@
+{
+  "id": "vinayak-mehta-gmail",
+  "name": "Gmail",
+  "provider": "Vinayak Mehta",
+  "description": "Integrates with Gmail to enable email search, retrieval, and interaction for natural language-driven email management...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 28
+  },
+  "release_date": "Mar 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/vinayak-mehta-gmail",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:21.376963",
+  "metadata": {}
+}

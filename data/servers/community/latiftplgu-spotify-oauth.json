@@ -1,0 +1,16 @@
+{
+  "id": "latiftplgu-spotify-oauth",
+  "name": "Spotify",
+  "provider": "latiftplgu",
+  "description": "Integrates with Spotify's Web API through OAuth authentication to manage music libraries, control playback across...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/latiftplgu-spotify-oauth",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:02.987772",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "burningion-geoapify-map-generator",
+  "name": "Geoapify Map Generator",
+  "provider": "Kirk Kaiser",
+  "description": "Generates map images from geographic coordinates using Python libraries for geocoding and visualization tasks.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/burningion-geoapify-map-generator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:48.565880",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "mcpc-tech-code-runner",
+  "name": "Code Runner",
+  "provider": "MCPC Tech",
+  "description": "Executes Python and JavaScript/TypeScript code snippets in isolated environments, enabling developers to test,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "May 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/mcpc-tech-code-runner",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:35.898751",
+  "metadata": {}
+}

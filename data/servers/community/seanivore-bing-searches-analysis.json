@@ -1,0 +1,16 @@
+{
+  "id": "seanivore-bing-searches-analysis",
+  "name": "Bing Search",
+  "provider": "Sean Horvath",
+  "description": "Integrates with Bing Search API to collect, parse, and analyze search data.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/seanivore-bing-searches-analysis",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:57.216778",
+  "metadata": {}
+}

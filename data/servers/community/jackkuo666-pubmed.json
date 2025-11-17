@@ -1,0 +1,19 @@
+{
+  "id": "jackkuo666-pubmed",
+  "name": "PubMed",
+  "provider": "Jack Kuo",
+  "description": "Provides a bridge to PubMed for searching, filtering, retrieving, and analyzing medical research articles with tools...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/jackkuo666-pubmed",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:33.774285",
+  "metadata": {}
+}

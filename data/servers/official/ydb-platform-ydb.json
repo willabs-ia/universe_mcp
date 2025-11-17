@@ -1,0 +1,19 @@
+{
+  "id": "ydb-platform-ydb",
+  "name": "YDB",
+  "provider": "YDB",
+  "description": "Provides a bridge between AI and YDB databases, enabling natural language interactions for executing SQL queries,...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 19
+  },
+  "release_date": "Apr 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/ydb-platform-ydb",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:25.894451",
+  "metadata": {}
+}

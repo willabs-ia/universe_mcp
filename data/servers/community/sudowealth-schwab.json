@@ -1,0 +1,16 @@
+{
+  "id": "sudowealth-schwab",
+  "name": "Charles Schwab",
+  "provider": "Daniel Yeoman",
+  "description": "Access Charles Schwab accounts, trading data, and real-time market information.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/sudowealth-schwab",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:43.343477",
+  "metadata": {}
+}

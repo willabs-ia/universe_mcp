@@ -1,0 +1,16 @@
+{
+  "id": "lowlyocean-vikunja",
+  "name": "Vikunja",
+  "provider": "lowlyocean",
+  "description": "Integrates with Vikunja's API to enable task creation, retrieval, and management for automated to-do list operations...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/lowlyocean-vikunja",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:04.142020",
+  "metadata": {}
+}

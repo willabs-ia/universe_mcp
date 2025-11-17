@@ -1,0 +1,19 @@
+{
+  "id": "searchagora",
+  "name": "SearchAgora",
+  "provider": "Fewsats",
+  "description": "Connects AI systems to SearchAgora, a universal product search engine, enabling natural language interactions for...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 109
+  },
+  "release_date": "Mar 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/searchagora",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:06.231400",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "boweylou-obsidian-enhanced",
+  "name": "Obsidian",
+  "provider": "cyanheads",
+  "description": "Integrates with Obsidian vaults through the Local REST API plugin to provide file operations, search, frontmatter...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/boweylou-obsidian-enhanced",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:49.868911",
+  "metadata": {}
+}

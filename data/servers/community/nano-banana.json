@@ -1,0 +1,19 @@
+{
+  "id": "nano-banana",
+  "name": "Nano Banana (Gemini Image Generator)",
+  "provider": "GuilhermeAumo",
+  "description": "Generates images using Google's Gemini 2.5 Flash model and automatically uploads them to ImgBB, returning publicly...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 129
+  },
+  "release_date": "Aug 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/nano-banana",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:06.203983",
+  "metadata": {}
+}

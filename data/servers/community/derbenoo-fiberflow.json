@@ -1,0 +1,19 @@
+{
+  "id": "derbenoo-fiberflow",
+  "name": "Fiberflow",
+  "provider": "Benjamin Derksen",
+  "description": "Connects Claude Desktop to Fiberflow's MCP server through a TypeScript-based bridge that uses Server-Sent Events...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 3
+  },
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/derbenoo-fiberflow",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:48.025716",
+  "metadata": {}
+}

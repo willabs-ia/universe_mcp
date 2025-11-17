@@ -1,0 +1,19 @@
+{
+  "id": "doggybee-ccxt",
+  "name": "CCXT",
+  "provider": "gh-doggybee",
+  "description": "High-performance CCXT MCP server for cryptocurrency exchange integration.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 37
+  },
+  "release_date": "Mar 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/doggybee-ccxt",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:19.245732",
+  "metadata": {}
+}

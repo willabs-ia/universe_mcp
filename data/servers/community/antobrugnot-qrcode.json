@@ -1,0 +1,16 @@
+{
+  "id": "antobrugnot-qrcode",
+  "name": "QR Code Generator",
+  "provider": "Antonin Brugnot",
+  "description": "Generates QR codes in multiple formats including base64 data URLs, SVG, and terminal ASCII output with customizable...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/antobrugnot-qrcode",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:31.097097",
+  "metadata": {}
+}

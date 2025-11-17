@@ -1,0 +1,16 @@
+{
+  "id": "emberian-crate-public-api",
+  "name": "Crate Public API",
+  "provider": "Ember Nicholson",
+  "description": "Exposes Rust crate public APIs to language models by listing project dependencies and generating documentation for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/emberian-crate-public-api",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:01.415382",
+  "metadata": {}
+}

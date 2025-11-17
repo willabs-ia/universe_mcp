@@ -1,0 +1,16 @@
+{
+  "id": "jgamblin-epss",
+  "name": "EPSS (Exploit Prediction Scoring System)",
+  "provider": "Jerry Gamblin",
+  "description": "Integrates with vulnerability intelligence systems to provide CVE information with EPSS scores that indicate...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/jgamblin-epss",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:32.227384",
+  "metadata": {}
+}

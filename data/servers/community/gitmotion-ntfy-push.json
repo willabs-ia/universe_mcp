@@ -1,0 +1,19 @@
+{
+  "id": "gitmotion-ntfy-push",
+  "name": "Ntfy Push Notifications",
+  "provider": "gitmotion",
+  "description": "Enables sending push notifications through the ntfy service with customizable titles, summaries, priority levels, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 2
+  },
+  "release_date": "Apr 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/gitmotion-ntfy-push",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:52.290920",
+  "metadata": {}
+}

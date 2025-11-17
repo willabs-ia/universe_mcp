@@ -1,0 +1,16 @@
+{
+  "id": "jotform",
+  "name": "JotForm",
+  "provider": "JotForm",
+  "description": "Programmatic access to forms and submissions via natural language interfaces, compatible with popular AI assistants...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Oct 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/jotform",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:29.264972",
+  "metadata": {}
+}

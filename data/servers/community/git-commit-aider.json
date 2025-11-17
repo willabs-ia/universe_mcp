@@ -1,0 +1,16 @@
+{
+  "id": "git-commit-aider",
+  "name": "Git Commit Aider",
+  "provider": "Johnson Liang",
+  "description": "Enables AI to make Git commits on behalf of users, automatically tracking AI contributions by appending '(aider)' to...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/git-commit-aider",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:23.768854",
+  "metadata": {}
+}

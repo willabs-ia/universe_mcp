@@ -1,0 +1,16 @@
+{
+  "id": "cyreslab-shodan",
+  "name": "Shodan",
+  "provider": "Cyreslab.ai",
+  "description": "Provides secure access to Shodan's database of internet-connected devices through host lookups, search functionality,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/cyreslab-shodan",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:41.592056",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "itsalfredakku-postgres",
+  "name": "PostgreSQL",
+  "provider": "itsalfredakku",
+  "description": "Integrates with PostgreSQL databases to provide query execution, table management, schema administration, index...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/itsalfredakku-postgres",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:26.642382",
+  "metadata": {}
+}

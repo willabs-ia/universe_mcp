@@ -1,0 +1,19 @@
+{
+  "id": "opengov-socrata",
+  "name": "OpenGov Socrata",
+  "provider": "Scott Robbin",
+  "description": "Enables access to public government datasets from Socrata-powered portals through a unified tool for searching,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "May 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/opengov-socrata",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:56.898893",
+  "metadata": {}
+}

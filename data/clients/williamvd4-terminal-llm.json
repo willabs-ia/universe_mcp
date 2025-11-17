@@ -1,0 +1,11 @@
+{
+  "id": "williamvd4-terminal-llm",
+  "name": "Unknown",
+  "provider": null,
+  "description": "CLI tool for interacting with multiple LLM providers and MCP-compatible servers, featuring conversation continuation, clipboard support, image analysis, and prompt templates.",
+  "url": "https://www.pulsemcp.com/clients/williamvd4-terminal-llm",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.525044"
+}

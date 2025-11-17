@@ -1,0 +1,16 @@
+{
+  "id": "bracketbot-multi-robot-control",
+  "name": "BracketBot Multi-Robot Control",
+  "provider": "BracketBot Capstone",
+  "description": "Enables simultaneous control of multiple robots through a unified interface for movement, sound playback, camera...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/bracketbot-multi-robot-control",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:17.254517",
+  "metadata": {}
+}

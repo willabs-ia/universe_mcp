@@ -1,0 +1,16 @@
+{
+  "id": "nloui-paperless-ngx",
+  "name": "Paperless-NGX",
+  "provider": "Nick Loui",
+  "description": "Integrates with Paperless-NGX API to provide document management operations including listing, searching, editing,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 28, 2024",
+  "url": "https://www.pulsemcp.com/servers/nloui-paperless-ngx",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:40.054532",
+  "metadata": {}
+}

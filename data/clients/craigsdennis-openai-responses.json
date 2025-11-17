@@ -1,0 +1,11 @@
+{
+  "id": "craigsdennis-openai-responses",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Web-based chat interface that connects to OpenAI's API with MCP tool functionality, displaying both AI responses and tool calls while maintaining conversation context across interactions.",
+  "url": "https://www.pulsemcp.com/clients/craigsdennis-openai-responses",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.509915"
+}

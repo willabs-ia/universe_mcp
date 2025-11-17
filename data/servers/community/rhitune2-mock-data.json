@@ -1,0 +1,16 @@
+{
+  "id": "rhitune2-mock-data",
+  "name": "Mock Data Generator",
+  "provider": "rhitune2",
+  "description": "Provides tools for generating realistic mock data including personal information, company details, and custom fields...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/rhitune2-mock-data",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:07.874604",
+  "metadata": {}
+}

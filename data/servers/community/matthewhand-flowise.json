@@ -1,0 +1,16 @@
+{
+  "id": "matthewhand-flowise",
+  "name": "Flowise",
+  "provider": "Matthew Hand",
+  "description": "Integrates Flowise chatflows and assistants with MCP, enabling seamless incorporation of AI-powered conversational...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/matthewhand-flowise",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:46.433672",
+  "metadata": {}
+}

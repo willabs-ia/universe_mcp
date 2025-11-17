@@ -1,0 +1,16 @@
+{
+  "id": "programmeragua-jenkins",
+  "name": "Jenkins",
+  "provider": "ProgrammerAgua",
+  "description": "Make Jenkins REST API calls to provide common operation interfaces for Jenkins jobs.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/programmeragua-jenkins",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:20.728266",
+  "metadata": {}
+}

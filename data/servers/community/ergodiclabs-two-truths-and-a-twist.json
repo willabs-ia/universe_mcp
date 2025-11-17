@@ -1,0 +1,19 @@
+{
+  "id": "ergodiclabs-two-truths-and-a-twist",
+  "name": "Two Truths and a Twist",
+  "provider": "Ergodic Labs",
+  "description": "Hosts an interactive 'Two Truths and a Twist' trivia game that manages rounds, tracks player scores, and provides...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 59
+  },
+  "release_date": "Apr 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/ergodiclabs-two-truths-and-a-twist",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:12.812251",
+  "metadata": {}
+}

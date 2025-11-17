@@ -1,0 +1,19 @@
+{
+  "id": "agentrpc",
+  "name": "AgentRPC",
+  "provider": "AgentRPC",
+  "description": "A universal RPC layer for AI agents. Connect to any function, any language, any framework, in minutes.",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 7
+  },
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/agentrpc",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:39.330700",
+  "metadata": {}
+}

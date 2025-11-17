@@ -1,0 +1,16 @@
+{
+  "id": "receptopalak-postgis",
+  "name": "PostGIS",
+  "provider": "receptopalak",
+  "description": "Provides direct PostgreSQL database integration with PostGIS spatial extension support, enabling SQL query execution,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/receptopalak-postgis",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:47.695530",
+  "metadata": {}
+}

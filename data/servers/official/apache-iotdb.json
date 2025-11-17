@@ -1,0 +1,16 @@
+{
+  "id": "apache-iotdb",
+  "name": "Apache IoTDB",
+  "provider": "Apache IoTDB",
+  "description": "Connects to Apache IoTDB time-series databases for executing queries, listing tables, and describing schemas through...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Apr 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/apache-iotdb",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:05.675128",
+  "metadata": {}
+}

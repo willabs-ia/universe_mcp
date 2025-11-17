@@ -1,0 +1,16 @@
+{
+  "id": "consistent-docx",
+  "name": "Consistent DOCX",
+  "provider": "NextDoorLaoHuang-HF",
+  "description": "Converts documents between DOCX and Markdown formats using local mammoth library for extraction and external API for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/consistent-docx",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:02.979851",
+  "metadata": {}
+}

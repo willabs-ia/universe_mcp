@@ -1,0 +1,16 @@
+{
+  "id": "alex-komyagin-lancedb",
+  "name": "LanceDB",
+  "provider": "Alex Komyagin",
+  "description": "Integrates with LanceDB to enable natural language querying, insertion, and management of vector data for efficient...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/alex-komyagin-lancedb",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:44.302596",
+  "metadata": {}
+}

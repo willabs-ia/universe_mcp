@@ -1,0 +1,16 @@
+{
+  "id": "execveat-polyagent",
+  "name": "Polyagent (Claude Code Agents)",
+  "provider": "Andrew Konstantinov",
+  "description": "Bridges Claude Code agent definitions to any MCP client, automatically discovering YAML-based agent files and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/execveat-polyagent",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:33.218251",
+  "metadata": {}
+}

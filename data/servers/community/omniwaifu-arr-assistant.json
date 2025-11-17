@@ -1,0 +1,16 @@
+{
+  "id": "omniwaifu-arr-assistant",
+  "name": "Arr Assistant (Radarr/Sonarr)",
+  "provider": "Justin Malloy",
+  "description": "Integrates with Radarr and Sonarr media management systems to search movies and TV shows, add content with automatic...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/omniwaifu-arr-assistant",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:56.240264",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "monadical-zulip",
+  "name": "Zulip",
+  "provider": "Monadical",
+  "description": "Integrates with Zulip workspaces to enable messaging, channel management, and conversation tracking through a...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/monadical-zulip",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:23.593410",
+  "metadata": {}
+}

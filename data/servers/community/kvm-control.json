@@ -1,0 +1,16 @@
+{
+  "id": "kvm-control",
+  "name": "KVM Control",
+  "provider": "steveydevey",
+  "description": "Provides JSON-RPC control over KVM virtual machines through libvirt, enabling VM lifecycle management, VNC display...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/kvm-control",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:09.310175",
+  "metadata": {}
+}

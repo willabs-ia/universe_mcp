@@ -1,0 +1,16 @@
+{
+  "id": "shivaylamba-star-wars-planetary-data",
+  "name": "Star Wars Planetary Data",
+  "provider": "Shivay Lamba",
+  "description": "Integrates with Couchbase and Nebius AI to provide fast, scalable access to Star Wars planetary data with vector...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/shivaylamba-star-wars-planetary-data",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:03.359048",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "jkf87-hwp",
+  "name": "Hangul Word Processor",
+  "provider": "jkf87",
+  "description": "Enables direct creation, editing, and formatting of Korean documents in Hangul Word Processor (HWP) format through...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/jkf87-hwp",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:50.923502",
+  "metadata": {}
+}

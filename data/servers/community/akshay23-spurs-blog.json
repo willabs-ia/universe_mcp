@@ -1,0 +1,16 @@
+{
+  "id": "akshay23-spurs-blog",
+  "name": "Spurs Blog (Pounding The Rock)",
+  "provider": "Akshay Shah",
+  "description": "Provides San Antonio Spurs basketball news by scraping the Pounding The Rock blog, offering tools to retrieve...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/akshay23-spurs-blog",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:12.740705",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "adtac-domshot",
+  "name": "DOM Screenshot",
+  "provider": "adtac",
+  "description": "Captures screenshots of specific DOM elements through an interactive browser overlay that allows users to hover and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/adtac-domshot",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:41.148798",
+  "metadata": {}
+}

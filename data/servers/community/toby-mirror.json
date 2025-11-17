@@ -1,0 +1,16 @@
+{
+  "id": "toby-mirror",
+  "name": "Mirror",
+  "provider": "Toby Padilla",
+  "description": "Enables recursive self-questioning and introspection through a reflect tool that uses MCP sampling to generate...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/toby-mirror",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:28.890168",
+  "metadata": {}
+}

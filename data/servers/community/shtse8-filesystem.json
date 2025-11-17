@@ -1,0 +1,19 @@
+{
+  "id": "shtse8-filesystem",
+  "name": "Filesystem",
+  "provider": "shtse8",
+  "description": "Provides secure, controlled filesystem operations within a project's root directory, enabling safe file listing,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 8
+  },
+  "release_date": "Apr 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/shtse8-filesystem",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:39.297874",
+  "metadata": {}
+}

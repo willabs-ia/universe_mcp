@@ -1,0 +1,16 @@
+{
+  "id": "xianzong85-mysql",
+  "name": "MySQL",
+  "provider": "xianzong85",
+  "description": "Connects AI systems to MySQL databases for executing SQL queries and performing complex data operations without...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/xianzong85-mysql",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:01.218543",
+  "metadata": {}
+}

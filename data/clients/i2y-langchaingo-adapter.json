@@ -1,0 +1,11 @@
+{
+  "id": "i2y-langchaingo-adapter",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Bridges LangChain Go tools with MCP servers, enabling seamless discovery and use of external tools within LangChain Go applications.",
+  "url": "https://www.pulsemcp.com/clients/i2y-langchaingo-adapter",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.417062"
+}

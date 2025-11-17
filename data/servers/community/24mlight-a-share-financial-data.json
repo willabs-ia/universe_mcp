@@ -1,0 +1,19 @@
+{
+  "id": "24mlight-a-share-financial-data",
+  "name": "A-Share Financial Data (Baostock)",
+  "provider": "24mlight",
+  "description": "Provides financial data tools for Chinese stock market analysis through the Baostock API, enabling retrieval of...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "Apr 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/24mlight-a-share-financial-data",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:35.897227",
+  "metadata": {}
+}

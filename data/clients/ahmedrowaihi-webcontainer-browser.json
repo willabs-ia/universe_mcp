@@ -1,0 +1,11 @@
+{
+  "id": "ahmedrowaihi-webcontainer-browser",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Browser-based client that runs MCP servers directly in WebContainers with local model execution, providing a complete dashboard for server management, tool testing, and chat interactions without requiring local installations.",
+  "url": "https://www.pulsemcp.com/clients/ahmedrowaihi-webcontainer-browser",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.435863"
+}

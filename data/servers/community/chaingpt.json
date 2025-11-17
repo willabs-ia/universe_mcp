@@ -1,0 +1,16 @@
+{
+  "id": "chaingpt",
+  "name": "ChainGPT",
+  "provider": "Joshua Omobola",
+  "description": "Integrates with ChainGPT's Web3-focused AI models to provide blockchain and cryptocurrency news retrieval alongside...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/chaingpt",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:05.069373",
+  "metadata": {}
+}

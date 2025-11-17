@@ -1,0 +1,16 @@
+{
+  "id": "powerdrill",
+  "name": "Powerdrill",
+  "provider": "PowerDrill AI",
+  "description": "Provides tools to interact with Powerdrill datasets to perform data work.",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Apr 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/powerdrill",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:05.669661",
+  "metadata": {}
+}

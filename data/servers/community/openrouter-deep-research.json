@@ -1,0 +1,19 @@
+{
+  "id": "openrouter-deep-research",
+  "name": "OpenRouter Deep Research",
+  "provider": "wheattoast11",
+  "description": "Orchestrates multi-agent research by breaking complex queries into specialized sub-questions, distributing them...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/openrouter-deep-research",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:53.183439",
+  "metadata": {}
+}

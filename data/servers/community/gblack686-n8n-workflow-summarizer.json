@@ -1,0 +1,16 @@
+{
+  "id": "gblack686-n8n-workflow-summarizer",
+  "name": "N8N Workflow Summarizer",
+  "provider": "gblack686",
+  "description": "Transforms complex n8n workflow JSON files into clear markdown summaries, extracting nodes, connections, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/gblack686-n8n-workflow-summarizer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:37.025773",
+  "metadata": {}
+}

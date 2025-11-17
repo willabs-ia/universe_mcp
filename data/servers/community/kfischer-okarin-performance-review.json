@@ -1,0 +1,16 @@
+{
+  "id": "kfischer-okarin-performance-review",
+  "name": "GitHub Pull Request Activity",
+  "provider": "Kevin Fischer",
+  "description": "Integrates with GitHub's API to retrieve and format pull request activity as structured XML output for performance...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/kfischer-okarin-performance-review",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:12.206295",
+  "metadata": {}
+}

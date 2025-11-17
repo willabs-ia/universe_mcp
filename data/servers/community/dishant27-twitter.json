@@ -1,0 +1,16 @@
+{
+  "id": "dishant27-twitter",
+  "name": "Twitter",
+  "provider": "Dishant27",
+  "description": "Integrates with Twitter's API to enable posting tweets, searching content, managing profiles, and handling follower...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/dishant27-twitter",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:10.319808",
+  "metadata": {}
+}

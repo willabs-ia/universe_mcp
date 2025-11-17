@@ -1,0 +1,16 @@
+{
+  "id": "anthropic-github",
+  "name": "GitHub",
+  "provider": "Upstreet AI",
+  "description": "Provides a robust GitHub API bridge using TypeScript and Zod, enabling developers to automate repository operations...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/anthropic-github",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:54.960148",
+  "metadata": {}
+}

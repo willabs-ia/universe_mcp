@@ -1,0 +1,16 @@
+{
+  "id": "kstonekuan-telegram-notification",
+  "name": "Telegram Bot API",
+  "provider": "kstonekuan",
+  "description": "Integrates with Telegram's Bot API to send messages and notifications directly through channels or direct messages...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/kstonekuan-telegram-notification",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:09.300734",
+  "metadata": {}
+}

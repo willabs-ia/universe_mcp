@@ -1,0 +1,19 @@
+{
+  "id": "yelp",
+  "name": "Yelp",
+  "provider": "Yelp",
+  "description": "Integrates with Yelp's Fusion AI API to provide business search, detailed information retrieval, and restaurant...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "May 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/yelp",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:59.607048",
+  "metadata": {}
+}

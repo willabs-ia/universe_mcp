@@ -1,0 +1,19 @@
+{
+  "id": "jonthebeef-superdesign",
+  "name": "Superdesign",
+  "provider": "jonthebeef",
+  "description": "Integrates Superdesign's design orchestrator with Claude Code to generate UI designs, wireframes, components, logos,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 415
+  },
+  "release_date": "Jul 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/jonthebeef-superdesign",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:28.830624",
+  "metadata": {}
+}

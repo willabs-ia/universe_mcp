@@ -1,0 +1,19 @@
+{
+  "id": "ibm-i",
+  "name": "IBM i",
+  "provider": "IBM",
+  "description": "Provides direct access to IBM i (AS/400) systems through SQL-based tools and database operations with security...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Aug 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/ibm-i",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:04.047551",
+  "metadata": {}
+}

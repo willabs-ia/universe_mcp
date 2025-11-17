@@ -1,0 +1,16 @@
+{
+  "id": "vic563-memgpt",
+  "name": "MemGPT",
+  "provider": "Vic563",
+  "description": "Implements a multi-provider memory system for LLMs, enabling conversation history management and seamless model...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/vic563-memgpt",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:42.197159",
+  "metadata": {}
+}

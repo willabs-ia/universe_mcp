@@ -1,0 +1,19 @@
+{
+  "id": "snoglobe-prolog",
+  "name": "Prolog",
+  "provider": "snoglobe",
+  "description": "Bridges AI systems with Prolog's logical programming capabilities through tools for executing programs, running...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/snoglobe-prolog",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:53.187370",
+  "metadata": {}
+}

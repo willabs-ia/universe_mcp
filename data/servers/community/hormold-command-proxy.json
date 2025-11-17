@@ -1,0 +1,16 @@
+{
+  "id": "hormold-command-proxy",
+  "name": "Command Proxy",
+  "provider": "Hormold",
+  "description": "Proxy server for CLI commands that captures terminal output in a circular buffer, enabling remote execution, log...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/hormold-command-proxy",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:15.125584",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "jguimera-security-copilot",
+  "name": "Microsoft Security Copilot",
+  "provider": "Jaime Guimera Coll",
+  "description": "Integrates Microsoft Security Copilot with Microsoft Sentinel for running KQL queries, managing skillsets, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Apr 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/jguimera-security-copilot",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:55.285915",
+  "metadata": {}
+}

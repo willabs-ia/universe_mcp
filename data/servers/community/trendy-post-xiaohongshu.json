@@ -1,0 +1,16 @@
+{
+  "id": "trendy-post-xiaohongshu",
+  "name": "Trendy Post (Xiaohongshu)",
+  "provider": "yums-gao",
+  "description": "Transforms screenshot images into trending Xiaohongshu social media posts by extracting text content through OCR and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/trendy-post-xiaohongshu",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:15.704962",
+  "metadata": {}
+}

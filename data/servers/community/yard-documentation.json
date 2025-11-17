@@ -1,0 +1,16 @@
+{
+  "id": "yard-documentation",
+  "name": "YARD Documentation",
+  "provider": "Roman Shterenzon",
+  "description": "Exposes Ruby gem and YARD documentation through 11 specialized tools for exploring classes, methods, and inheritance...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/yard-documentation",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:58.320383",
+  "metadata": {}
+}

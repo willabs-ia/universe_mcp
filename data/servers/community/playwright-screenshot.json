@@ -1,0 +1,16 @@
+{
+  "id": "playwright-screenshot",
+  "name": "Playwright Screenshot",
+  "provider": "VeryInt",
+  "description": "Enables webpage screenshot capture using Playwright and CDP to connect with remote Chrome instances for visual...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/playwright-screenshot",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:52.892334",
+  "metadata": {}
+}

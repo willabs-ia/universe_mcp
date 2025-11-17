@@ -1,0 +1,16 @@
+{
+  "id": "society-elizaos",
+  "name": "ElizaOS Agents",
+  "provider": "Society",
+  "description": "Connects Cursor IDE to ElizaOS agents through a local server, enabling developers to list, select, and chat with...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/society-elizaos",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:36.839967",
+  "metadata": {}
+}

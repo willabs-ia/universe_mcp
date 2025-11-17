@@ -1,0 +1,16 @@
+{
+  "id": "blankcut-kubernetes-claude",
+  "name": "Kubernetes Claude",
+  "provider": "Blank Cut Inc.",
+  "description": "Integrates Claude with Kubernetes, ArgoCD, and GitLab to analyze and troubleshoot GitOps workflows by collecting...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/blankcut-kubernetes-claude",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:07.793213",
+  "metadata": {}
+}

@@ -1,0 +1,11 @@
+{
+  "id": "anouardbt-dbt-cloud",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Connects Google's Gemini models to dbt Cloud for querying business metrics and project metadata through natural language interactions.",
+  "url": "https://www.pulsemcp.com/clients/anouardbt-dbt-cloud",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.512238"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "stat-guy-chain-of-draft",
+  "name": "Chain of Draft",
+  "provider": "stat-guy",
+  "description": "Implements Chain of Draft reasoning to generate concise intermediate steps for efficient, token-optimized...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/stat-guy-chain-of-draft",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:08.619276",
+  "metadata": {}
+}

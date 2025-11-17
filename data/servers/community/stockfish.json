@@ -1,0 +1,16 @@
+{
+  "id": "stockfish",
+  "name": "Stockfish",
+  "provider": "Marquitos",
+  "description": "Integrates with the Stockfish chess engine through UCI protocol to provide move analysis, position evaluation, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/stockfish",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:19.922593",
+  "metadata": {}
+}

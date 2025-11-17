@@ -1,0 +1,16 @@
+{
+  "id": "amysatterlee-national-park-service",
+  "name": "National Park Service",
+  "provider": "Amy Satterlee",
+  "description": "Integrates with the National Park Service API to provide structured park information for trip planning, exploration,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/amysatterlee-national-park-service",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:55.088819",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "abutbul-gatherings",
+  "name": "Gatherings (Expense Sharing)",
+  "provider": "Abutbul",
+  "description": "Manages shared expenses in social events by tracking costs, calculating reimbursements, and settling balances between...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/abutbul-gatherings",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:09.997503",
+  "metadata": {}
+}

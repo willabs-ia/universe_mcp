@@ -1,0 +1,19 @@
+{
+  "id": "sanderkooger-ragdocs",
+  "name": "RAG Documentation Search",
+  "provider": "Sander Kooger",
+  "description": "Provides semantic document search and retrieval through vector embeddings, enabling context-aware responses backed by...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 4
+  },
+  "release_date": "Mar 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/sanderkooger-ragdocs",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:45.782103",
+  "metadata": {}
+}

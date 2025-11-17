@@ -1,0 +1,19 @@
+{
+  "id": "dweigend-joplin",
+  "name": "Joplin",
+  "provider": "David Weigend",
+  "description": "Provides a bridge to Joplin note-taking application for searching, retrieving, creating, updating, and deleting notes...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "Feb 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/dweigend-joplin",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:33.775474",
+  "metadata": {}
+}

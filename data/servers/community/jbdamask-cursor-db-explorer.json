@@ -1,0 +1,16 @@
+{
+  "id": "jbdamask-cursor-db-explorer",
+  "name": "Cursor DB Explorer",
+  "provider": "John Damask",
+  "description": "Provides access to Cursor IDE's SQLite databases for exploring project data, chat history, and composer information...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/jbdamask-cursor-db-explorer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:15.119522",
+  "metadata": {}
+}

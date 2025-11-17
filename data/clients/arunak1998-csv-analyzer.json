@@ -1,0 +1,11 @@
+{
+  "id": "arunak1998-csv-analyzer",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Combines AutoGen multi-agent framework with LangChain MCP adapters to provide automated CSV data analysis and visualization through a Streamlit web dashboard with interactive Chart.js visualizations and predictive modeling comparisons.",
+  "url": "https://www.pulsemcp.com/clients/arunak1998-csv-analyzer",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.539941"
+}

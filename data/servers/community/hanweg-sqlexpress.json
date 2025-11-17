@@ -1,0 +1,16 @@
+{
+  "id": "hanweg-sqlexpress",
+  "name": "SQL Server Express",
+  "provider": "hanweg",
+  "description": "Integrates with Microsoft SQL Server Express to enable database interactions, supporting query execution, table...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/hanweg-sqlexpress",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:01.612822",
+  "metadata": {}
+}

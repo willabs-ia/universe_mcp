@@ -1,0 +1,16 @@
+{
+  "id": "longport-openapi",
+  "name": "Longport OpenAPI",
+  "provider": "Longport",
+  "description": "Integrates with Longport's financial OpenAPI services to enable market data retrieval, trade execution, order...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/longport-openapi",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:28.239135",
+  "metadata": {}
+}

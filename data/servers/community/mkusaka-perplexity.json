@@ -1,0 +1,16 @@
+{
+  "id": "mkusaka-perplexity",
+  "name": "Perplexity AI Search",
+  "provider": "mkusaka",
+  "description": "Integrates with Perplexity AI's search capabilities to enable AI-powered web search queries using TypeScript and the...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/mkusaka-perplexity",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:59.289292",
+  "metadata": {}
+}

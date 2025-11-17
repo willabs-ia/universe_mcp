@@ -1,0 +1,16 @@
+{
+  "id": "fred-em-headline-vibes",
+  "name": "Headline Vibes",
+  "provider": "Fred Em",
+  "description": "Integrates with major US news sources to analyze headline sentiment, providing normalized scores and source...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/fred-em-headline-vibes",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:59.309021",
+  "metadata": {}
+}

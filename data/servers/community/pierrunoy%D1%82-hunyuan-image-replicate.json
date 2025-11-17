@@ -1,0 +1,16 @@
+{
+  "id": "pierrunoy%D1%82-hunyuan-image-replicate",
+  "name": "Hunyuan Image (Replicate)",
+  "provider": "PierrunoYT",
+  "description": "Integrates with Tencent's Hunyuan Image 2.1 model through Replicate to generate high-quality images from text prompts...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/pierrunoy%D1%82-hunyuan-image-replicate",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:28.809034",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "european-public-transport",
+  "name": "European Public Transport",
+  "provider": "Miro Duman",
+  "description": "Integrates with European public transport APIs from Switzerland, UK, and Belgium to provide real-time connection...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 40
+  },
+  "release_date": "Aug 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/european-public-transport",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:19.233711",
+  "metadata": {}
+}

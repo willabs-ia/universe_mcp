@@ -1,0 +1,19 @@
+{
+  "id": "xzq-xu-jvm-arthas",
+  "name": "Arthas JVM Diagnostics",
+  "provider": "xzq-xu",
+  "description": "Enables direct interaction with running Java applications through Arthas diagnostic tools via SSH connections,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/xzq-xu-jvm-arthas",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:50.922211",
+  "metadata": {}
+}

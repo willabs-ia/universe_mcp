@@ -1,0 +1,11 @@
+{
+  "id": "shuakami-download",
+  "name": "Unknown",
+  "provider": null,
+  "description": "TypeScript-based client for downloading files from MCP-compatible servers with proper error handling and type safety in Node.js environments.",
+  "url": "https://www.pulsemcp.com/clients/shuakami-download",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.461610"
+}

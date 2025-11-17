@@ -1,0 +1,16 @@
+{
+  "id": "mtebusi-home-assistant",
+  "name": "Home Assistant",
+  "provider": "Matt Busi",
+  "description": "Bridges Home Assistant with WebSocket API access for natural language smart home control, device monitoring,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/mtebusi-home-assistant",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:11.432389",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "hhw67865-tripadvisor-vacation-planner",
+  "name": "TripAdvisor Vacation Planner",
+  "provider": "hhw67865",
+  "description": "Integrates with TripAdvisor's API to enable vacation planning, destination exploration, and informed decision-making...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/hhw67865-tripadvisor-vacation-planner",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:08.570518",
+  "metadata": {}
+}

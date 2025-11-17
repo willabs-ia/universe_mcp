@@ -1,0 +1,19 @@
+{
+  "id": "egoist-ffmpeg-media-tools",
+  "name": "FFmpeg Media Tools",
+  "provider": "EGOIST",
+  "description": "Provides a simplified interface for common FFmpeg media operations like video speed adjustment and audio extraction...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Mar 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/egoist-ffmpeg-media-tools",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:56.888076",
+  "metadata": {}
+}

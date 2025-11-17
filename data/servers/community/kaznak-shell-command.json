@@ -1,0 +1,16 @@
+{
+  "id": "kaznak-shell-command",
+  "name": "Shell Command",
+  "provider": "Nakamura Kazutaka",
+  "description": "Provides a secure Docker container environment for executing shell commands with Kubernetes tools, enabling isolated...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/kaznak-shell-command",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:01.379829",
+  "metadata": {}
+}

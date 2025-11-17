@@ -1,0 +1,19 @@
+{
+  "id": "martymarkenson-postgres-connector",
+  "name": "Postgres Connector",
+  "provider": "Marty Markenson",
+  "description": "Connects to PostgreSQL databases for SQL query execution, table schema inspection, and database connection management...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Sep 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/martymarkenson-postgres-connector",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:59.087278",
+  "metadata": {}
+}

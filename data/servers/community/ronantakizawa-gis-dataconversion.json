@@ -1,0 +1,16 @@
+{
+  "id": "ronantakizawa-gis-dataconversion",
+  "name": "GIS Data Conversion",
+  "provider": "Ronan Takizawa",
+  "description": "Provides a bridge between geographic data formats, enabling seamless conversion between WKT, GeoJSON, CSV, TopoJSON,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/ronantakizawa-gis-dataconversion",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:27.981291",
+  "metadata": {}
+}

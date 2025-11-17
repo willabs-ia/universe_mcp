@@ -1,0 +1,16 @@
+{
+  "id": "davlgd-clever-cloud",
+  "name": "Clever Cloud",
+  "provider": "David Legrand",
+  "description": "Integrates with Clever Cloud's tools and services to enable application deployment, environment management, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/davlgd-clever-cloud",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:50.782261",
+  "metadata": {}
+}

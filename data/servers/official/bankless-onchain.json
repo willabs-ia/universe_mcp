@@ -1,0 +1,19 @@
+{
+  "id": "bankless-onchain",
+  "name": "Bankless Onchain",
+  "provider": "Bankless",
+  "description": "Integrates with blockchain networks to enable smart contract interaction, transaction history access, and on-chain...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 10
+  },
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/bankless-onchain",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:34.943040",
+  "metadata": {}
+}

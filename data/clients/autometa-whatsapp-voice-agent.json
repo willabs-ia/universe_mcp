@@ -1,0 +1,11 @@
+{
+  "id": "autometa-whatsapp-voice-agent",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Voice-enabled WhatsApp client that processes user voice commands through LiveKit, converting speech to text and responses back to voice for natural conversational interactions.",
+  "url": "https://www.pulsemcp.com/clients/autometa-whatsapp-voice-agent",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.428773"
+}

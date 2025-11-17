@@ -1,0 +1,19 @@
+{
+  "id": "lucashild-bigquery",
+  "name": "BigQuery",
+  "provider": "Lucas Hild",
+  "description": "Inspect schemas and execute SQL queries on Google BigQuery.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 93
+  },
+  "release_date": "Dec 3, 2024",
+  "url": "https://www.pulsemcp.com/servers/lucashild-bigquery",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:08.397791",
+  "metadata": {}
+}

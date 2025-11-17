@@ -1,0 +1,19 @@
+{
+  "id": "nbbaier-turso",
+  "name": "Turso",
+  "provider": "Nico Baier",
+  "description": "Connects to Turso-hosted LibSQL databases, enabling direct SQL query execution against cloud-based SQLite databases...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 10
+  },
+  "release_date": "Mar 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/nbbaier-turso",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:34.944392",
+  "metadata": {}
+}

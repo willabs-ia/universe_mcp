@@ -1,0 +1,16 @@
+{
+  "id": "browser-history-analysis",
+  "name": "Browser History Analysis",
+  "provider": "Eleanor Mazzarella",
+  "description": "Analyzes local Firefox and Chrome browser history to provide productivity insights, browsing pattern analysis, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/browser-history-analysis",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:19.906381",
+  "metadata": {}
+}

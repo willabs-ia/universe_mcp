@@ -1,0 +1,16 @@
+{
+  "id": "kevodb",
+  "name": "KevoDB",
+  "provider": "KevoDB",
+  "description": "Provides a standardized key-value database interface for persistent storage with transaction support, enabling read,...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "May 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/kevodb",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:36.857045",
+  "metadata": {}
+}

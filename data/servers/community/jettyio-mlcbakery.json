@@ -1,0 +1,19 @@
+{
+  "id": "jettyio-mlcbakery",
+  "name": "MLCBakery",
+  "provider": "Jetty",
+  "description": "Provides a bridge between AI assistants and machine learning datasets, enabling search, validation, and retrieval of...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "May 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/jettyio-mlcbakery",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:57.405421",
+  "metadata": {}
+}

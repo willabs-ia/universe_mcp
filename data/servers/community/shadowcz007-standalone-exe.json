@@ -1,0 +1,19 @@
+{
+  "id": "shadowcz007-standalone-exe",
+  "name": "Shadow MCP Server",
+  "provider": "shadow",
+  "description": "Standalone MCP server executable for Windows, macOS, and other platforms that uses JavaScript configuration files to...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "May 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/shadowcz007-standalone-exe",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:35.911521",
+  "metadata": {}
+}

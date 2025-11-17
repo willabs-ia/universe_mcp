@@ -1,0 +1,16 @@
+{
+  "id": "shopify-customer-accounts",
+  "name": "Shopify Customer Accounts",
+  "provider": "Shopify",
+  "description": "Integrates with Shopify stores to enable customer-specific order management, account details retrieval, and...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "May 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/shopify-customer-accounts",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:22.828423",
+  "metadata": {}
+}

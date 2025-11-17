@@ -1,0 +1,16 @@
+{
+  "id": "jtucker-untappd1f18",
+  "name": "Untappd",
+  "provider": "Jason Tucker",
+  "description": "Integrates with the Untappd beer database API to retrieve detailed information about specific beers, enabling beer...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/jtucker-untappd1f18",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:12.726711",
+  "metadata": {}
+}

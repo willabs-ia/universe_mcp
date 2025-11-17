@@ -1,0 +1,16 @@
+{
+  "id": "shanksxz-github-repo-context",
+  "name": "GitHub Repository",
+  "provider": "shanksxz",
+  "description": "Provides a GitHub repository context retrieval tool that enables AI models to access repository structures, file...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/shanksxz-github-repo-context",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:57.108143",
+  "metadata": {}
+}

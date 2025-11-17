@@ -1,0 +1,16 @@
+{
+  "id": "everaldo-mistral-ocr",
+  "name": "Mistral OCR",
+  "provider": "Everaldo",
+  "description": "Processes images and PDFs through Mistral AI's OCR API to extract text from visual documents, supporting both local...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/everaldo-mistral-ocr",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:17.244481",
+  "metadata": {}
+}

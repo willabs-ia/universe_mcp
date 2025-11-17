@@ -1,0 +1,19 @@
+{
+  "id": "adawalli-nexus-openrouter-search",
+  "name": "Nexus (OpenRouter Search)",
+  "provider": "adawalli",
+  "description": "Provides web search capabilities through OpenRouter's Perplexity Sonar models, delivering intelligent search results...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Jun 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/adawalli-nexus-openrouter-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:56.925136",
+  "metadata": {}
+}

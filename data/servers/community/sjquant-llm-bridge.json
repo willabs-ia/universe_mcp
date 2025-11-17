@@ -1,0 +1,16 @@
+{
+  "id": "sjquant-llm-bridge",
+  "name": "LLM Bridge",
+  "provider": "Seonu Jang",
+  "description": "Provides a unified interface to multiple large language model providers (OpenAI, Anthropic, Google, DeepSeek) through...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/sjquant-llm-bridge",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:20.719320",
+  "metadata": {}
+}

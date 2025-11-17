@@ -1,0 +1,16 @@
+{
+  "id": "hamflx-imagen3",
+  "name": "Imagen 3",
+  "provider": "hamflx",
+  "description": "Enables AI to generate images from text prompts using Google's Imagen 3 API, handling API communication, image...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/hamflx-imagen3",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:25.898897",
+  "metadata": {}
+}

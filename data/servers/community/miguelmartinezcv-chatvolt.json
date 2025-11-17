@@ -1,0 +1,19 @@
+{
+  "id": "miguelmartinezcv-chatvolt",
+  "name": "Chatvolt",
+  "provider": "Miguel Martinez",
+  "description": "Integrates with Chatvolt's conversational platform to manage agents, datastores, and CRM workflows, enabling creation...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 4
+  },
+  "release_date": "Jul 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/miguelmartinezcv-chatvolt",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:45.824448",
+  "metadata": {}
+}

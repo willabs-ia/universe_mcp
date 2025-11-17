@@ -1,0 +1,16 @@
+{
+  "id": "context-optimizer",
+  "name": "Context Optimizer",
+  "provider": "Malak Sedarous",
+  "description": "Provides targeted file content extraction, secure terminal command execution with intelligent output analysis, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/context-optimizer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:09.350630",
+  "metadata": {}
+}

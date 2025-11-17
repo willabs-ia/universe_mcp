@@ -1,0 +1,16 @@
+{
+  "id": "screenshot",
+  "name": "Screenshot",
+  "provider": "m-mcp",
+  "description": "Enables AI to capture and analyze screenshots from a user's desktop on demand, providing visual context for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/screenshot",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:19.359834",
+  "metadata": {}
+}

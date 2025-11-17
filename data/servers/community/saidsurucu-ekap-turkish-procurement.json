@@ -1,0 +1,19 @@
+{
+  "id": "saidsurucu-ekap-turkish-procurement",
+  "name": "EKAP v2 (Turkish Government Procurement)",
+  "provider": "Said Surucu",
+  "description": "Integrates with Turkey's EKAP v2 government procurement API to search public tenders, announcements, and procurement...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Aug 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/saidsurucu-ekap-turkish-procurement",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:01.868856",
+  "metadata": {}
+}

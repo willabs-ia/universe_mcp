@@ -1,0 +1,16 @@
+{
+  "id": "pgiffy-usgs-water",
+  "name": "USGS Water Data",
+  "provider": "pgiffy",
+  "description": "Integrates with USGS water data services to provide real-time and historical water measurements, flood monitoring,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/pgiffy-usgs-water",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:19.910278",
+  "metadata": {}
+}

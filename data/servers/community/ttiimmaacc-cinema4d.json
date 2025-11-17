@@ -1,0 +1,16 @@
+{
+  "id": "ttiimmaacc-cinema4d",
+  "name": "Cinema 4D",
+  "provider": "ttiimmaacc",
+  "description": "Enables Claude to interact with Cinema 4D through a socket-based communication system for scene manipulation,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/ttiimmaacc-cinema4d",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:34.869765",
+  "metadata": {}
+}

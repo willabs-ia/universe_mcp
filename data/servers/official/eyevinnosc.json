@@ -1,0 +1,19 @@
+{
+  "id": "eyevinnosc",
+  "name": "Eyevinn Open Source Cloud",
+  "provider": "Eyevinn Technology",
+  "description": "EyevinnOSC's MCP server enables AI assistants to provision and manage vendor-independent cloud infrastructure for...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 20
+  },
+  "release_date": "Nov 26, 2024",
+  "url": "https://www.pulsemcp.com/servers/eyevinnosc",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:25.868014",
+  "metadata": {}
+}

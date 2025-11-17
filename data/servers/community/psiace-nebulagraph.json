@@ -1,0 +1,19 @@
+{
+  "id": "psiace-nebulagraph",
+  "name": "NebulaGraph",
+  "provider": "PsiACE",
+  "description": "Provides a lightweight server for seamless access to NebulaGraph 3.x graph databases, enabling graph schema...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 25
+  },
+  "release_date": "Mar 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/psiace-nebulagraph",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:23.521253",
+  "metadata": {}
+}

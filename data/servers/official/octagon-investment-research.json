@@ -1,0 +1,19 @@
+{
+  "id": "octagon-investment-research",
+  "name": "Octagon Investment Research",
+  "provider": "Octagon AI",
+  "description": "Provides specialized investment research tools for analyzing SEC filings, earnings calls, financial data, stock...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 40
+  },
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/octagon-investment-research",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:17.122212",
+  "metadata": {}
+}

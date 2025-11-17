@@ -1,0 +1,16 @@
+{
+  "id": "luigisaetta-oracle-vector-store",
+  "name": "Oracle Vector Store",
+  "provider": "Luigi Saetta",
+  "description": "Integrates with Oracle Vector Store databases to enable semantic search over document collections using vector...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/luigisaetta-oracle-vector-store",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:31.109505",
+  "metadata": {}
+}

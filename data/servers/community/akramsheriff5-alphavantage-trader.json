@@ -1,0 +1,16 @@
+{
+  "id": "akramsheriff5-alphavantage-trader",
+  "name": "AlphaVantage Trader",
+  "provider": "Akram Sheriff",
+  "description": "Integrates with AlphaVantage API to fetch intraday stock data, calculate technical indicators, and generate trade...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/akramsheriff5-alphavantage-trader",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:12.702472",
+  "metadata": {}
+}

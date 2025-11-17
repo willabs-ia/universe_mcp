@@ -1,0 +1,16 @@
+{
+  "id": "tengfone-supabase-nextjs",
+  "name": "Supabase Notes",
+  "provider": "tengfone",
+  "description": "Integrates with Supabase to provide a notes system with creation, listing, and summarization capabilities for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 31, 2024",
+  "url": "https://www.pulsemcp.com/servers/tengfone-supabase-nextjs",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:40.079501",
+  "metadata": {}
+}

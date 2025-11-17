@@ -1,0 +1,16 @@
+{
+  "id": "url-fetch",
+  "name": "URL Fetch",
+  "provider": "Amir Elaguizy",
+  "description": "Enables Claude to retrieve and display web content, JSON data, and images directly within conversations through...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/url-fetch",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:28.257716",
+  "metadata": {}
+}

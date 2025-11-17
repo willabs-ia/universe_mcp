@@ -1,0 +1,19 @@
+{
+  "id": "davinci-resolve",
+  "name": "DaVinci Resolve",
+  "provider": "apvlv",
+  "description": "Enables Claude to directly interact with and control DaVinci Resolve through its Python API, providing tools for...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "Mar 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/davinci-resolve",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:33.784237",
+  "metadata": {}
+}

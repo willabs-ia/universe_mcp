@@ -1,0 +1,16 @@
+{
+  "id": "kiteworks",
+  "name": "Kiteworks",
+  "provider": "Kiteworks",
+  "description": "Integrates with Kiteworks enterprise file sharing platforms through OAuth 2.0 authentication to provide secure file...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Oct 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/kiteworks",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:35.343367",
+  "metadata": {}
+}

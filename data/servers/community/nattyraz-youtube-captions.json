@@ -1,0 +1,16 @@
+{
+  "id": "nattyraz-youtube-captions",
+  "name": "YouTube Captions",
+  "provider": "nattyraz",
+  "description": "Extracts and transforms YouTube video content, providing metadata, multi-language captions, chapter information, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/nattyraz-youtube-captions",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:28.226338",
+  "metadata": {}
+}

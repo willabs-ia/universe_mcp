@@ -1,0 +1,16 @@
+{
+  "id": "jetbrains-ide-plugin",
+  "name": "JetBrains IDE Plugin",
+  "provider": "JetBrains",
+  "description": "Integrates Large Language Models with JetBrains IDEs, enabling custom AI-powered tools for code generation,...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Dec 9, 2024",
+  "url": "https://www.pulsemcp.com/servers/jetbrains-ide-plugin",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:35.726575",
+  "metadata": {}
+}

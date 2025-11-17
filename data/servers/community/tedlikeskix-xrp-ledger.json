@@ -1,0 +1,16 @@
+{
+  "id": "tedlikeskix-xrp-ledger",
+  "name": "XRP Ledger",
+  "provider": "Ted Likes Kix",
+  "description": "Integrates with the XRP Ledger blockchain to enable account management, transaction submission, and ledger data...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/tedlikeskix-xrp-ledger",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:55.073764",
+  "metadata": {}
+}

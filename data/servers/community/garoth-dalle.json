@@ -1,0 +1,16 @@
+{
+  "id": "garoth-dalle",
+  "name": "DALL-E",
+  "provider": "Garoth",
+  "description": "Enables image generation capabilities using OpenAI's DALL-E API with support for creating, editing, and varying...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/garoth-dalle",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:25.729512",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "newbienl-enhanced-google-maps",
+  "name": "Google Maps",
+  "provider": "NewbieNL",
+  "description": "Integrates with Google Maps API to provide geocoding, place search, and routing capabilities for location-based...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 31, 2024",
+  "url": "https://www.pulsemcp.com/servers/newbienl-enhanced-google-maps",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:01.209696",
+  "metadata": {}
+}

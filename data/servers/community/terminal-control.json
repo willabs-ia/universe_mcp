@@ -1,0 +1,19 @@
+{
+  "id": "terminal-control",
+  "name": "Terminal Control",
+  "provider": "Mark Wernsdorfer",
+  "description": "Provides interactive terminal session management through tmux, enabling command execution, multiple shell sessions,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 35
+  },
+  "release_date": "Aug 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/terminal-control",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:19.271697",
+  "metadata": {}
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ashishpatel26-smol-agent",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Python-based framework that orchestrates multiple MCP tool servers with smolagents and LiteLLM, enabling developers to build conversational agents that automatically discover and execute tools from connected servers through terminal interactions.",
+  "url": "https://www.pulsemcp.com/clients/ashishpatel26-smol-agent",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.465562"
+}

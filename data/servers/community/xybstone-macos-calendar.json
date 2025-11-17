@@ -1,0 +1,16 @@
+{
+  "id": "xybstone-macos-calendar",
+  "name": "macOS Calendar",
+  "provider": "xybstone",
+  "description": "Integrates with macOS Calendar through AppleScript automation to enable event management, scheduling operations, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/xybstone-macos-calendar",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:54.105880",
+  "metadata": {}
+}

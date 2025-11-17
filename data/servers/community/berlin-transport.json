@@ -1,0 +1,16 @@
+{
+  "id": "berlin-transport",
+  "name": "Berlin Transport",
+  "provider": "Harshil Agrawal",
+  "description": "Provides direct access to Berlin's public transportation data for searching stops, retrieving real-time departures,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/berlin-transport",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:30.105429",
+  "metadata": {}
+}

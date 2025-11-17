@@ -1,0 +1,16 @@
+{
+  "id": "markov-kernel-databricks",
+  "name": "Databricks",
+  "provider": "markov-kernel",
+  "description": "Integrates with Databricks APIs to manage clusters, jobs, notebooks, DBFS files, and execute SQL queries directly...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/markov-kernel-databricks",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:07.815574",
+  "metadata": {}
+}

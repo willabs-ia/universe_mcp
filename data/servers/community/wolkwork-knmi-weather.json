@@ -1,0 +1,19 @@
+{
+  "id": "wolkwork-knmi-weather",
+  "name": "KNMI Weather",
+  "provider": "Wolk Tech B.V.",
+  "description": "Provides real-time weather data from the Royal Netherlands Meteorological Institute (KNMI) by automatically finding...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 6
+  },
+  "release_date": "Feb 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/wolkwork-knmi-weather",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:41.459994",
+  "metadata": {}
+}

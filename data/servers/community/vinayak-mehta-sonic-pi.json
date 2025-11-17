@@ -1,0 +1,19 @@
+{
+  "id": "vinayak-mehta-sonic-pi",
+  "name": "Sonic Pi",
+  "provider": "Vinayak Mehta",
+  "description": "Connects AI systems to the Sonic Pi music programming environment, enabling creation and control of musical...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 18
+  },
+  "release_date": "Mar 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/vinayak-mehta-sonic-pi",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:27.980557",
+  "metadata": {}
+}

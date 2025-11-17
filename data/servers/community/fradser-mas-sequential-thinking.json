@@ -1,0 +1,19 @@
+{
+  "id": "fradser-mas-sequential-thinking",
+  "name": "Sequential Thinking Multi-Agent System",
+  "provider": "Frad Lee",
+  "description": "Orchestrates a team of specialized agents working in parallel to break down complex problems through structured...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 70
+  },
+  "release_date": "Apr 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/fradser-mas-sequential-thinking",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:10.559411",
+  "metadata": {}
+}

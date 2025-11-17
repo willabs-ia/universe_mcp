@@ -1,0 +1,19 @@
+{
+  "id": "misanthropic-ai-ddg",
+  "name": "DuckDuckGo Search",
+  "provider": "Shannon Sands",
+  "description": "Integrates with DuckDuckGo to provide web, image, news, and video search capabilities with configurable parameters...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 61
+  },
+  "release_date": "Mar 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/misanthropic-ai-ddg",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:12.802166",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "hyperdrive-nodejs-debugger",
+  "name": "Node.js Debugger",
+  "provider": "Hyperdrive",
+  "description": "Connects Claude Code to Node.js's Inspector Protocol for real-time debugging capabilities, enabling breakpoint...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/hyperdrive-nodejs-debugger",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:39.466138",
+  "metadata": {}
+}

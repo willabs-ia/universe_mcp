@@ -1,0 +1,19 @@
+{
+  "id": "gmen1057-headhunter",
+  "name": "HeadHunter (hh.ru)",
+  "provider": "gmen1057",
+  "description": "Integrates with HeadHunter (hh.ru) job search platform to enable vacancy searching with advanced filtering, resume...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Oct 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/gmen1057-headhunter",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:04.057817",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "jboothomas-pure-storage-flashblade",
+  "name": "Pure Storage FlashBlade",
+  "provider": "JB Thomas",
+  "description": "Integrates with Pure Storage FlashBlade arrays to enable real-time monitoring, troubleshooting, and resource management.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/jboothomas-pure-storage-flashblade",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:50.815712",
+  "metadata": {}
+}

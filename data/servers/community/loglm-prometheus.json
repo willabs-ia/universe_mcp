@@ -1,0 +1,16 @@
+{
+  "id": "loglm-prometheus",
+  "name": "Prometheus",
+  "provider": "LogLM",
+  "description": "Bridges Prometheus metrics data to enable easy retrieval and analysis of monitoring information for automated system...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 6, 2024",
+  "url": "https://www.pulsemcp.com/servers/loglm-prometheus",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:35.729290",
+  "metadata": {}
+}

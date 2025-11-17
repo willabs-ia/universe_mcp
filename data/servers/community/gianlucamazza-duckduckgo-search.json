@@ -1,0 +1,16 @@
+{
+  "id": "gianlucamazza-duckduckgo-search",
+  "name": "DuckDuckGo Search",
+  "provider": "Gianluca Mazza",
+  "description": "Integrates with DuckDuckGo's public interface to provide web search functionality, offering advanced features like...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/gianlucamazza-duckduckgo-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:13.012688",
+  "metadata": {}
+}

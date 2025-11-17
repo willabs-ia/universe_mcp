@@ -1,0 +1,16 @@
+{
+  "id": "hrgarber-wagyu-sports",
+  "name": "The Odds API",
+  "provider": "Wagyu Sports Team",
+  "description": "Provides a bridge to The Odds API for accessing sports betting data including available sports, odds comparisons...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/hrgarber-wagyu-sports",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:50.763524",
+  "metadata": {}
+}

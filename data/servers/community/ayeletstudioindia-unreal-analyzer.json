@@ -1,0 +1,19 @@
+{
+  "id": "ayeletstudioindia-unreal-analyzer",
+  "name": "Unreal Engine Analyzer",
+  "provider": "Ayelet Technology Private Limited",
+  "description": "Analyzes Unreal Engine codebases, enabling deep insights into class hierarchies, subsystems, and game patterns.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "Jan 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/ayeletstudioindia-unreal-analyzer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:31.094071",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "docs-rs",
+  "name": "docs.rs",
+  "provider": "Yusuke Nakada",
+  "description": "Integrates with crates.io and docs.rs to search Rust crates, retrieve README content, fetch documentation for...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 23
+  },
+  "release_date": "Aug 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/docs-rs",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:23.553783",
+  "metadata": {}
+}

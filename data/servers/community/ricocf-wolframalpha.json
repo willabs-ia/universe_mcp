@@ -1,0 +1,19 @@
+{
+  "id": "ricocf-wolframalpha",
+  "name": "Wolfram Alpha",
+  "provider": "ricocf",
+  "description": "Connects language models to Wolfram Alpha for performing mathematical calculations, scientific queries, and data...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Apr 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/ricocf-wolframalpha",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:55.313335",
+  "metadata": {}
+}

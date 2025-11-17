@@ -1,0 +1,16 @@
+{
+  "id": "gdamitha-pymol",
+  "name": "PyMOL",
+  "provider": "GDAmitha",
+  "description": "Integrates with PyMOL molecular visualization software to enable interactive protein structure analysis,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/gdamitha-pymol",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:07.878616",
+  "metadata": {}
+}

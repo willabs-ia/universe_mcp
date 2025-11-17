@@ -1,0 +1,16 @@
+{
+  "id": "pulsemcp-hatchbox",
+  "name": "Hatchbox",
+  "provider": "PulseMCP",
+  "description": "Integrates with Hatchbox's hosting platform to manage Rails application environment variables, trigger deployments...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/pulsemcp-hatchbox",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:15.702092",
+  "metadata": {}
+}

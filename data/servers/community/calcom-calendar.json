@@ -1,0 +1,16 @@
+{
+  "id": "calcom-calendar",
+  "name": "Cal.com Calendar",
+  "provider": "mumunha",
+  "description": "Integrates with Cal.com Calendar API to enable appointment scheduling, management, and listing capabilities through...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/calcom-calendar",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:44.166564",
+  "metadata": {}
+}

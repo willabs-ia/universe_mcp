@@ -1,0 +1,19 @@
+{
+  "id": "osdeibi-typebot",
+  "name": "Typebot",
+  "provider": "Osdeibi Acurero",
+  "description": "Integrates with Typebot's chatbot platform using workspace tokens for authentication to enable management of chatbot...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Aug 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/osdeibi-typebot",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:59.068425",
+  "metadata": {}
+}

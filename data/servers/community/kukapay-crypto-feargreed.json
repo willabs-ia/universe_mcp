@@ -1,0 +1,19 @@
+{
+  "id": "kukapay-crypto-feargreed",
+  "name": "Crypto Fear & Greed Index",
+  "provider": "kukapay",
+  "description": "Provides real-time and historical cryptocurrency market sentiment data through the Fear & Greed Index API for...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/kukapay-crypto-feargreed",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:48.808529",
+  "metadata": {}
+}

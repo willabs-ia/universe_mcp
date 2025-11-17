@@ -1,0 +1,16 @@
+{
+  "id": "genm-discord-webhook",
+  "name": "Discord Webhooks",
+  "provider": "genm",
+  "description": "Integrates Discord webhooks to enable sending customized messages and notifications to Discord channels.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/genm-discord-webhook",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:01.244025",
+  "metadata": {}
+}

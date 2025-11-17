@@ -1,0 +1,19 @@
+{
+  "id": "adamwattis-router",
+  "name": "Router",
+  "provider": "Adam Wattis",
+  "description": "Aggregates multiple MCP resource servers into a unified proxy, enabling centralized access, request routing, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Dec 4, 2024",
+  "url": "https://www.pulsemcp.com/servers/adamwattis-router",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:42.324779",
+  "metadata": {}
+}

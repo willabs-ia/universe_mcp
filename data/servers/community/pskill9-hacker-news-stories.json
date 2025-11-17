@@ -1,0 +1,16 @@
+{
+  "id": "pskill9-hacker-news-stories",
+  "name": "Hacker News",
+  "provider": "pskill9",
+  "description": "Fetches and parses Hacker News stories using Cheerio, enabling tech news aggregation and trend analysis.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 28, 2024",
+  "url": "https://www.pulsemcp.com/servers/pskill9-hacker-news-stories",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:40.060679",
+  "metadata": {}
+}

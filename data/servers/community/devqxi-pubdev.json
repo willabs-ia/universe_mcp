@@ -1,0 +1,19 @@
+{
+  "id": "devqxi-pubdev",
+  "name": "pub.dev",
+  "provider": "devqxi",
+  "description": "Integrates with pub.dev to enable package discovery, version management, dependency analysis, and documentation...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 7
+  },
+  "release_date": "Aug 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/devqxi-pubdev",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:41.448987",
+  "metadata": {}
+}

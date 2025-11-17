@@ -1,0 +1,16 @@
+{
+  "id": "ruibaby-1panel",
+  "name": "1Panel Deployment",
+  "provider": "Ryan Wang",
+  "description": "Automates website deployment to 1Panel servers by creating static sites, uploading build files, and providing...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/ruibaby-1panel",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:25.762117",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "sparxhub-makesync",
+  "name": "MakeSync",
+  "provider": "Nadav Daniel",
+  "description": "Integrates with Make.com's automation platform to create, update, and manage workflow scenarios through natural...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/sparxhub-makesync",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:19.270230",
+  "metadata": {}
+}

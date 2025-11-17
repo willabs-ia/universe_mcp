@@ -1,0 +1,19 @@
+{
+  "id": "makafeli-n8n-workflow-builder",
+  "name": "n8n Workflow Builder",
+  "provider": "makafeli",
+  "description": "Enables creation and management of n8n workflows for simplified automation and integration tasks.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 553
+  },
+  "release_date": "Jan 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/makafeli-n8n-workflow-builder",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:24.613312",
+  "metadata": {}
+}

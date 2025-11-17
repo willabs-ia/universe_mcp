@@ -1,0 +1,16 @@
+{
+  "id": "ryancardin-noaa-tides-currents",
+  "name": "NOAA Tides and Currents",
+  "provider": "Ryan Cardin",
+  "description": "Integrates with NOAA's oceanographic and meteorological APIs to provide access to water level data, tide predictions,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/ryancardin-noaa-tides-currents",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:23.601367",
+  "metadata": {}
+}

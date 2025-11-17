@@ -1,0 +1,16 @@
+{
+  "id": "flrngel-painter",
+  "name": "Painter (Canvas Drawing)",
+  "provider": "flrngel",
+  "description": "Provides a drawing interface for creating and manipulating canvas elements with basic shape rendering and PNG export...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/flrngel-painter",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:50.786052",
+  "metadata": {}
+}

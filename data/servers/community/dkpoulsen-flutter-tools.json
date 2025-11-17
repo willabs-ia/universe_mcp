@@ -1,0 +1,16 @@
+{
+  "id": "dkpoulsen-flutter-tools",
+  "name": "Flutter Tools",
+  "provider": "dkpoulsen",
+  "description": "Integrates with the Flutter SDK to analyze and fix Dart/Flutter files, enabling automated code analysis and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/dkpoulsen-flutter-tools",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:57.229830",
+  "metadata": {}
+}

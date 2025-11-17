@@ -1,0 +1,16 @@
+{
+  "id": "cdata-sap-hana-xs-advanced",
+  "name": "SAP HANA",
+  "provider": "CData Software",
+  "description": "Connects to SAP HANA databases through JDBC to enable querying tables, retrieving metadata, and executing SQL...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/cdata-sap-hana-xs-advanced",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:02.972384",
+  "metadata": {}
+}

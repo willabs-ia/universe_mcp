@@ -1,0 +1,19 @@
+{
+  "id": "xiaolaa2-ableton-copilot",
+  "name": "Ableton",
+  "provider": "xiaolaa2",
+  "description": "AI assistant for Ableton Live music production.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 4
+  },
+  "release_date": "Mar 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/xiaolaa2-ableton-copilot",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:45.803215",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "gdrive5fe4",
+  "name": "Google Drive",
+  "provider": "Huagang Xie",
+  "description": "Provides a bridge to Google Drive for searching files and retrieving document content without manual browsing,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/gdrive5fe4",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:21.380613",
+  "metadata": {}
+}

@@ -1,0 +1,11 @@
+{
+  "id": "youshen-lim-tweet-processor",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Automates newsletter-to-Twitter content transformation by reading articles from Google Drive and generating social media posts with scheduled publishing and character validation.",
+  "url": "https://www.pulsemcp.com/clients/youshen-lim-tweet-processor",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.514524"
+}

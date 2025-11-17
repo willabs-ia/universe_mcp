@@ -1,0 +1,16 @@
+{
+  "id": "efikuta-youtube-knowledge",
+  "name": "YouTube Knowledge",
+  "provider": "efikuta",
+  "description": "Transforms YouTube into a queryable knowledge source with video search, content analysis, trending discovery, channel...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/efikuta-youtube-knowledge",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:13.542722",
+  "metadata": {}
+}

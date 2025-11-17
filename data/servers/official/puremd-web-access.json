@@ -1,0 +1,19 @@
+{
+  "id": "puremd-web-access",
+  "name": "pure.md",
+  "provider": "pure.md",
+  "description": "Enables AI access to web content in clean markdown format through unblock-url extraction and search-web capabilities,...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 8
+  },
+  "release_date": "Apr 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/puremd-web-access",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:39.295013",
+  "metadata": {}
+}

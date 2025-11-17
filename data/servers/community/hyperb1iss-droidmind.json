@@ -1,0 +1,19 @@
+{
+  "id": "hyperb1iss-droidmind",
+  "name": "DroidMind",
+  "provider": "Stefanie Jane",
+  "description": "Enables control and interaction with Android devices through secure tools for device management, app installation, UI...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/hyperb1iss-droidmind",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:53.139293",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "spinqtech-quantum-computing",
+  "name": "SpinQ Quantum Computing",
+  "provider": "SpinQ Technology Co., Ltd.",
+  "description": "Integrates with SpinQ's quantum computing cloud platform to enable quantum circuit construction, compilation, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/spinqtech-quantum-computing",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:54.127787",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "qpd-v-delete",
+  "name": "Delete File",
+  "provider": "qpd-v",
+  "description": "File deletion capabilities to safely delete files when needed, with support for both relative and absolute paths.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 12
+  },
+  "release_date": "Dec 14, 2024",
+  "url": "https://www.pulsemcp.com/servers/qpd-v-delete",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:32.733691",
+  "metadata": {}
+}

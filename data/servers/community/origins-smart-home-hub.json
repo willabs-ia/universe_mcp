@@ -1,0 +1,16 @@
+{
+  "id": "origins-smart-home-hub",
+  "name": "Origins Smart Home Hub",
+  "provider": "NikDidIt",
+  "description": "Integrates with Home Assistant, Pi-hole, Plex, and tar1090 through a plugin-based architecture to provide unified...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/origins-smart-home-hub",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:22.128881",
+  "metadata": {}
+}

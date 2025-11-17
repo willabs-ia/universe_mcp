@@ -1,0 +1,11 @@
+{
+  "id": "3choff-mcp-chatbot",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Demo implementation. Chat with LLM's via CLI. Built in Python.",
+  "url": "https://www.pulsemcp.com/clients/3choff-mcp-chatbot",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.393899"
+}

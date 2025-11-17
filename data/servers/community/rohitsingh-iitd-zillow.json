@@ -1,0 +1,16 @@
+{
+  "id": "rohitsingh-iitd-zillow",
+  "name": "Zillow",
+  "provider": "Rohit Singh",
+  "description": "Integrates with Zillow's real estate API to provide property searches, detailed information, Zestimates, market...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/rohitsingh-iitd-zillow",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:38.993878",
+  "metadata": {}
+}

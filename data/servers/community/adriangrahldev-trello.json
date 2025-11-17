@@ -1,0 +1,16 @@
+{
+  "id": "adriangrahldev-trello",
+  "name": "Trello",
+  "provider": "Adrian Grahl",
+  "description": "Integrates with Trello's REST API to manage boards, lists, cards, labels, and actions with batch operations, comment...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/adriangrahldev-trello",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:54.091499",
+  "metadata": {}
+}

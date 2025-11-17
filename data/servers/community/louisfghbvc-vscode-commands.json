@@ -1,0 +1,16 @@
+{
+  "id": "louisfghbvc-vscode-commands",
+  "name": "VSCode Commands",
+  "provider": "louisfghbvc",
+  "description": "Bridges VSCode extensions with external tools by exposing VSCode commands as executable tools, enabling command...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/louisfghbvc-vscode-commands",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:13.561078",
+  "metadata": {}
+}

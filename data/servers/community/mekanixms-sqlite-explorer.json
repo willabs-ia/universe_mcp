@@ -1,0 +1,16 @@
+{
+  "id": "mekanixms-sqlite-explorer",
+  "name": "SQLite Explorer",
+  "provider": "mekanixms",
+  "description": "Integrates with SQLite databases to enable AI-driven schema exploration, querying, updates, and statistical analysis...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/mekanixms-sqlite-explorer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:50.820721",
+  "metadata": {}
+}

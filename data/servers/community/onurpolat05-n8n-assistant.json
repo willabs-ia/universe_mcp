@@ -1,0 +1,16 @@
+{
+  "id": "onurpolat05-n8n-assistant",
+  "name": "n8n Assistant",
+  "provider": "Onur Polat",
+  "description": "Enables searching and retrieving n8n documentation, example workflows, and community forum content through a single...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/onurpolat05-n8n-assistant",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:48.426190",
+  "metadata": {}
+}

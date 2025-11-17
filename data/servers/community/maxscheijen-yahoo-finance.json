@@ -1,0 +1,16 @@
+{
+  "id": "maxscheijen-yahoo-finance",
+  "name": "Yahoo Finance",
+  "provider": "Max Scheijen",
+  "description": "Integrates with Yahoo Finance to provide real-time stock prices, company information, financial statements, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/maxscheijen-yahoo-finance",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:21.372186",
+  "metadata": {}
+}

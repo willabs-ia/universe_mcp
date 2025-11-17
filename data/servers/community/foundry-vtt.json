@@ -1,0 +1,19 @@
+{
+  "id": "foundry-vtt",
+  "name": "Foundry VTT",
+  "provider": "Adam Dooley",
+  "description": "Connects Claude Desktop with Foundry Virtual Tabletop game sessions through Socket.IO to provide access to live...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Aug 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/foundry-vtt",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:01.894766",
+  "metadata": {}
+}

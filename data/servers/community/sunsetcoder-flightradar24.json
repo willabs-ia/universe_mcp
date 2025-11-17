@@ -1,0 +1,16 @@
+{
+  "id": "sunsetcoder-flightradar24",
+  "name": "Flightradar24",
+  "provider": "sunsetcoder",
+  "description": "Integrates Flightradar24 data to provide real-time flight tracking capabilities.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 13, 2024",
+  "url": "https://www.pulsemcp.com/servers/sunsetcoder-flightradar24",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:33.626571",
+  "metadata": {}
+}

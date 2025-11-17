@@ -1,0 +1,16 @@
+{
+  "id": "hypersniper05-jina-web-search",
+  "name": "Jina Web Search",
+  "provider": "hypersniper05",
+  "description": "Provides web crawling and search capabilities through Jina AI's API with URL content extraction and semantic web...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/hypersniper05-jina-web-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:09.352093",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "panzer-jack-feuse",
+  "name": "Feuse (Figma Design-to-Code)",
+  "provider": "Panzer-Jack",
+  "description": "Automates Figma design-to-code workflows by extracting design data, downloading SVG assets, analyzing color...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/panzer-jack-feuse",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:43.326502",
+  "metadata": {}
+}

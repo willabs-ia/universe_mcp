@@ -1,0 +1,16 @@
+{
+  "id": "chatmol-molecule-visualization",
+  "name": "Molecule Visualization (ChimeraX, PyMOL)",
+  "provider": "ChatMol",
+  "description": "Connects AI systems to molecular visualization software like PyMol and ChimeraX, enabling direct command execution...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/chatmol-molecule-visualization",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:30.536615",
+  "metadata": {}
+}

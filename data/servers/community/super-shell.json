@@ -1,0 +1,19 @@
+{
+  "id": "super-shell",
+  "name": "Super Shell",
+  "provider": "Rob Sherman, Onvex AI",
+  "description": "Enables secure execution of shell commands across Windows, macOS, and Linux with a three-tier whitelist security...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 7
+  },
+  "release_date": "Mar 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/super-shell",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:39.328173",
+  "metadata": {}
+}

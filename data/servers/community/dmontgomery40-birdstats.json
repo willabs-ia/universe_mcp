@@ -1,0 +1,19 @@
+{
+  "id": "dmontgomery40-birdstats",
+  "name": "BirdStats",
+  "provider": "DMontgomery40",
+  "description": "Integrates BirdNET-Pi and eBird APIs to enable cross-referencing bird detection data with observation records for...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 2
+  },
+  "release_date": "Dec 6, 2024",
+  "url": "https://www.pulsemcp.com/servers/dmontgomery40-birdstats",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:50.216834",
+  "metadata": {}
+}

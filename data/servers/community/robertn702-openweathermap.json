@@ -1,0 +1,16 @@
+{
+  "id": "robertn702-openweathermap",
+  "name": "OpenWeatherMap",
+  "provider": "Robert Niimi",
+  "description": "Integrates with OpenWeatherMap API to provide current conditions, forecasts, air quality monitoring, weather alerts,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/robertn702-openweathermap",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:49.871541",
+  "metadata": {}
+}

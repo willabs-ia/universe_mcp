@@ -1,0 +1,16 @@
+{
+  "id": "kstrikis-llm-responses",
+  "name": "LLM Responses",
+  "provider": "Kriss Strikis",
+  "description": "Enables multiple LLMs to share and analyze each other's responses to the same prompt, facilitating collaborative...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/kstrikis-llm-responses",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:17.225438",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rexposadas-attendee-bot",
+  "name": "Attendee Bot",
+  "provider": "Rex Posadas",
+  "description": "Automates meeting attendance and transcription across platforms like Zoom and Google Meet, enabling automated...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/rexposadas-attendee-bot",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:45.491401",
+  "metadata": {}
+}

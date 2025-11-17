@@ -1,0 +1,16 @@
+{
+  "id": "aeon-seraph-searxng",
+  "name": "SearXNG",
+  "provider": "aeon-seraph",
+  "description": "Enables language models to perform web searches through SearXNG, a privacy-focused metasearch engine, with...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/aeon-seraph-searxng",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:15.111942",
+  "metadata": {}
+}

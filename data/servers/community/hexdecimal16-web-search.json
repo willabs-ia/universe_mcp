@@ -1,0 +1,16 @@
+{
+  "id": "hexdecimal16-web-search",
+  "name": "Web Search",
+  "provider": "hexdecimal16",
+  "description": "Performs Google searches and crawls content from the top 5 non-social media results, filtering out social platforms...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/hexdecimal16-web-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:26.658191",
+  "metadata": {}
+}

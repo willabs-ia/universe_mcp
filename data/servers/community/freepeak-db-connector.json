@@ -1,0 +1,19 @@
+{
+  "id": "freepeak-db-connector",
+  "name": "DB Connector (MySQL/PostgreSQL)",
+  "provider": "Free Peak",
+  "description": "Enables direct interaction with MySQL and PostgreSQL databases through a Go-based connectivity layer that supports...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 553
+  },
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/freepeak-db-connector",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:24.621464",
+  "metadata": {}
+}

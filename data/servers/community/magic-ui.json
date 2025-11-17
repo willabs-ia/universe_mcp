@@ -1,0 +1,16 @@
+{
+  "id": "magic-ui",
+  "name": "Magic UI",
+  "provider": "IDC Dev",
+  "description": "Fetches and categorizes Magic UI components from GitHub, providing a standardized way for developers to discover and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/magic-ui",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:55.010504",
+  "metadata": {}
+}

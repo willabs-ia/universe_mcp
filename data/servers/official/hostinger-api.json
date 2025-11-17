@@ -1,0 +1,19 @@
+{
+  "id": "hostinger-api",
+  "name": "Hostinger API",
+  "provider": "Hostinger",
+  "description": "Integrates with Hostinger's hosting platform to enable domain registration and DNS management, VPS creation and...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 453
+  },
+  "release_date": "Apr 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/hostinger-api",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:26.710889",
+  "metadata": {}
+}

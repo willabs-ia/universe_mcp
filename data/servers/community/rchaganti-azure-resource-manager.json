@@ -1,0 +1,16 @@
+{
+  "id": "rchaganti-azure-resource-manager",
+  "name": "Azure Resource Manager",
+  "provider": "Ravikanth C",
+  "description": "Exposes Azure cloud resource management capabilities including subscription management, resource group operations,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/rchaganti-azure-resource-manager",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:59.273725",
+  "metadata": {}
+}

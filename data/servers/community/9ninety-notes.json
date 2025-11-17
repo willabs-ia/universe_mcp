@@ -1,0 +1,16 @@
+{
+  "id": "9ninety-notes",
+  "name": "Notes",
+  "provider": "9Ninety",
+  "description": "Integrates note-taking capabilities with AI models using TypeScript and DynamoDB for persistent memory and context...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 23, 2024",
+  "url": "https://www.pulsemcp.com/servers/9ninety-notes",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:37.894695",
+  "metadata": {}
+}

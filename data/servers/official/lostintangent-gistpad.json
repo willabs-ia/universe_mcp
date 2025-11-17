@@ -1,0 +1,19 @@
+{
+  "id": "lostintangent-gistpad",
+  "name": "GistPad (GitHub Gists)",
+  "provider": "lostintangent",
+  "description": "Transforms GitHub Gists into a personal knowledge management system with specialized handling for daily notes,...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 131
+  },
+  "release_date": "Jun 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/lostintangent-gistpad",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:06.199067",
+  "metadata": {}
+}

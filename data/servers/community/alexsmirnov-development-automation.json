@@ -1,0 +1,19 @@
+{
+  "id": "alexsmirnov-development-automation",
+  "name": "Development Automation Server",
+  "provider": "Alexander Smirnov",
+  "description": "Provides a development automation server with modular architecture for fetching web content, accessing documentation,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Feb 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/alexsmirnov-development-automation",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:51.006006",
+  "metadata": {}
+}

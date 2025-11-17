@@ -1,0 +1,16 @@
+{
+  "id": "gxjansen-transistor",
+  "name": "Transistor.fm",
+  "provider": "Guido X Jansen",
+  "description": "Integrates with Transistor.fm's API to manage podcasts, episodes, analytics, and subscribers for automating podcast...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/gxjansen-transistor",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:48.533784",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "tristan-mcinnis-semantic-memory",
+  "name": "Semantic Memory System",
+  "provider": "Tristan McInnis",
+  "description": "Provides persistent semantic memory capabilities through PostgreSQL with pgvector embeddings, enabling project-based...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/tristan-mcinnis-semantic-memory",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:11.478159",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "severity1-argocd",
+  "name": "ArgoCD",
+  "provider": "John Reilly Pospos",
+  "description": "Integrates with ArgoCD to enable natural language control of Kubernetes application deployments through a...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/severity1-argocd",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:48.807365",
+  "metadata": {}
+}

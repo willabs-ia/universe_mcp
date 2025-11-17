@@ -1,0 +1,16 @@
+{
+  "id": "liamcioci-wordpress",
+  "name": "WordPress",
+  "provider": "mzimmer",
+  "description": "Enables AI interaction with WordPress sites through secure authentication and REST API endpoint discovery, allowing...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/liamcioci-wordpress",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:16.442308",
+  "metadata": {}
+}

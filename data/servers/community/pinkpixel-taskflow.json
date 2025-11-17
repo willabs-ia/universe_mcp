@@ -1,0 +1,19 @@
+{
+  "id": "pinkpixel-taskflow",
+  "name": "TaskFlow",
+  "provider": "Pink Pixel",
+  "description": "Task management system that breaks down user requests into structured tasks with subtasks, dependencies, and notes,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 16
+  },
+  "release_date": "May 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/pinkpixel-taskflow",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:28.024494",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "verssae-mssql-database-query",
+  "name": "MSSQL Database Query",
+  "provider": "Verssae",
+  "description": "Enables direct SQL query execution against MSSQL databases through a FastMCP-powered server with Docker...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/verssae-mssql-database-query",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:19.314368",
+  "metadata": {}
+}

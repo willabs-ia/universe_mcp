@@ -1,0 +1,19 @@
+{
+  "id": "freshlife001-poker",
+  "name": "Texas Hold'em Poker",
+  "provider": "freshlife001",
+  "description": "Implements a Texas Hold'em poker game server with betting rounds, hand evaluation, and multi-player table management...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/freshlife001-poker",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:53.143678",
+  "metadata": {}
+}

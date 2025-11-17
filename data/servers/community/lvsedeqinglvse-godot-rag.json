@@ -1,0 +1,16 @@
+{
+  "id": "lvsedeqinglvse-godot-rag",
+  "name": "Godot Documentation RAG",
+  "provider": "lvsedeqinglvse",
+  "description": "Processes Godot game engine documentation by converting RST files to Markdown, chunking text, generating embeddings,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/lvsedeqinglvse-godot-rag",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:35.319092",
+  "metadata": {}
+}

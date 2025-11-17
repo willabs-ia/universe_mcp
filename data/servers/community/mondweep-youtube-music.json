@@ -1,0 +1,19 @@
+{
+  "id": "mondweep-youtube-music",
+  "name": "YouTube Music",
+  "provider": "mondweep",
+  "description": "Enables YouTube Music playback via Google Chrome, allowing voice-activated song selection and mood-based playlists...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Feb 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/mondweep-youtube-music",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:46.621856",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "claude-conversation-logger",
+  "name": "Claude Conversation Logger",
+  "provider": "Luciano Emanuel Ricardo",
+  "description": "Containerized conversation logger that captures and stores Claude Code session data in MongoDB with Redis caching,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/claude-conversation-logger",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:19.947941",
+  "metadata": {}
+}

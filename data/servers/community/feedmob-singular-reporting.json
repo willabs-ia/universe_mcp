@@ -1,0 +1,19 @@
+{
+  "id": "feedmob-singular-reporting",
+  "name": "Singular Reporting",
+  "provider": "FeedMob",
+  "description": "Enables marketers to create, monitor, and download customized Singular marketing analytics reports with campaign...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 12
+  },
+  "release_date": "Apr 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/feedmob-singular-reporting",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:32.761967",
+  "metadata": {}
+}

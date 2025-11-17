@@ -1,0 +1,19 @@
+{
+  "id": "kunihiros-claude-code",
+  "name": "Claude Code",
+  "provider": "Kunihiro Setogawa",
+  "description": "Use Claude Code with less capable LLMs.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 8
+  },
+  "release_date": "Mar 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/kunihiros-claude-code",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:39.293302",
+  "metadata": {}
+}

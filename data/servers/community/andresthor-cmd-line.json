@@ -1,0 +1,16 @@
+{
+  "id": "andresthor-cmd-line",
+  "name": "Command Line",
+  "provider": "Andres Thor",
+  "description": "Safely run command-line arguments for Unix/macOS systems.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/andresthor-cmd-line",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:10.278121",
+  "metadata": {}
+}

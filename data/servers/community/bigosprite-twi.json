@@ -1,0 +1,16 @@
+{
+  "id": "bigosprite-twi",
+  "name": "TWI (Text-to-Image)",
+  "provider": "BigoSprite",
+  "description": "Integrates with machine learning models through the transformers library to generate images from text prompts with...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/bigosprite-twi",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:37.523600",
+  "metadata": {}
+}

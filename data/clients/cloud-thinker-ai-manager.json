@@ -1,0 +1,11 @@
+{
+  "id": "cloud-thinker-ai-manager",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Centralized management daemon for multiple MCP servers with REST API, automatic lifecycle management, and unified tool discovery and execution across all managed servers.",
+  "url": "https://www.pulsemcp.com/clients/cloud-thinker-ai-manager",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.499808"
+}

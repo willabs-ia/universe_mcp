@@ -1,0 +1,11 @@
+{
+  "id": "chatgpt-connectors",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Connectors allow ChatGPT to integrate with and access data from third-party applications and services. These connectors enable users to interact with their files, data, and workflows within other platforms directly within ChatGPT.",
+  "url": "https://www.pulsemcp.com/clients/chatgpt-connectors",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.372700"
+}

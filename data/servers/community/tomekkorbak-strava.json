@@ -1,0 +1,19 @@
+{
+  "id": "tomekkorbak-strava",
+  "name": "Strava",
+  "provider": "Tomek Korbak",
+  "description": "Integrates with the Strava API to retrieve and analyze athlete activities data, enabling fitness tracking and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/tomekkorbak-strava",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:46.656105",
+  "metadata": {}
+}

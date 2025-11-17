@@ -1,0 +1,16 @@
+{
+  "id": "cryppadotta-scryfall",
+  "name": "Scryfall",
+  "provider": "cryppadotta",
+  "description": "Integrates with the Scryfall Magic: The Gathering API to enable card searches, retrieval of card details, rulings,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/cryppadotta-scryfall",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:59.314576",
+  "metadata": {}
+}

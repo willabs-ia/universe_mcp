@@ -1,0 +1,16 @@
+{
+  "id": "austinlparker-honeycomb",
+  "name": "Honeycomb",
+  "provider": "Austin Parker",
+  "description": "Integrates with the Honeycomb API to enable direct querying and analysis of observability data for automated...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 22, 2024",
+  "url": "https://www.pulsemcp.com/servers/austinlparker-honeycomb",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:37.885101",
+  "metadata": {}
+}

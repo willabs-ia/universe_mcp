@@ -1,0 +1,16 @@
+{
+  "id": "bestk-vscode-internal-commands",
+  "name": "VSCode Internal Commands",
+  "provider": "bestK",
+  "description": "VSCode extension that exposes VSCode's internal commands and functionality, enabling direct control of the editor...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/bestk-vscode-internal-commands",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:24.509011",
+  "metadata": {}
+}

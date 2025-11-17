@@ -1,0 +1,16 @@
+{
+  "id": "debedb-rfk-jr-gateway",
+  "name": "RFK Jr Gateway",
+  "provider": "debedb",
+  "description": "Bridges campaign tools and data to enable dynamic tool registration, endpoint discovery, and information retrieval...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/debedb-rfk-jr-gateway",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:03.353956",
+  "metadata": {}
+}

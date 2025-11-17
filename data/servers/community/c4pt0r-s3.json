@@ -1,0 +1,16 @@
+{
+  "id": "c4pt0r-s3",
+  "name": "Amazon S3",
+  "provider": "c4pt0r",
+  "description": "Provides a bridge to Amazon S3 storage services for listing buckets, browsing objects, retrieving file contents,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/c4pt0r-s3",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:03.537349",
+  "metadata": {}
+}

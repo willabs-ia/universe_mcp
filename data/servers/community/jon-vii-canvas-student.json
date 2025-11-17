@@ -1,0 +1,16 @@
+{
+  "id": "jon-vii-canvas-student",
+  "name": "Canvas Student",
+  "provider": "Jon-Vii",
+  "description": "Provides a bridge to Canvas LMS, enabling students to retrieve and manage course data like assignments, files, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/jon-vii-canvas-student",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:54.964197",
+  "metadata": {}
+}

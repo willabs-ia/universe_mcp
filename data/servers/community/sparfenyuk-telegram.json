@@ -1,0 +1,19 @@
+{
+  "id": "sparfenyuk-telegram",
+  "name": "Telegram",
+  "provider": "Sergey Parfenyuk",
+  "description": "Integrates with Telegram via MTProto protocol to enable listing dialogs and messages for automated analysis and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Dec 26, 2024",
+  "url": "https://www.pulsemcp.com/servers/sparfenyuk-telegram",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:44.505399",
+  "metadata": {}
+}

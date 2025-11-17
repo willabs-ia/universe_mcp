@@ -1,0 +1,16 @@
+{
+  "id": "ivarvd-hldng-html-to-pdf-generator",
+  "name": "HTML-to-PDF Generator",
+  "provider": "ivarvd-hldng",
+  "description": "Combines PDFKit and Puppeteer to generate PDFs from HTML content and programmatic layouts, enabling versatile...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 5, 2024",
+  "url": "https://www.pulsemcp.com/servers/ivarvd-hldng-html-to-pdf-generator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:33.658756",
+  "metadata": {}
+}

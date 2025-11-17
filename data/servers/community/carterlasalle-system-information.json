@@ -1,0 +1,16 @@
+{
+  "id": "carterlasalle-system-information",
+  "name": "DevEnvInfoServer",
+  "provider": "Carter Lasalle",
+  "description": "Gathers detailed development environment data to enhance context-aware assistance in code editors, enabling tailored...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/carterlasalle-system-information",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:08.606443",
+  "metadata": {}
+}

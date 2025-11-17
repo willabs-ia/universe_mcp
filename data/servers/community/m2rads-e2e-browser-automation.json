@@ -1,0 +1,16 @@
+{
+  "id": "m2rads-e2e-browser-automation",
+  "name": "E2E Browser Automation",
+  "provider": "m2rads",
+  "description": "Enables end-to-end testing and web automation through browser interaction capabilities for extracting content,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/m2rads-e2e-browser-automation",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:23.614241",
+  "metadata": {}
+}

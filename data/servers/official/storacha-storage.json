@@ -1,0 +1,16 @@
+{
+  "id": "storacha-storage",
+  "name": "Storacha",
+  "provider": "Storacha",
+  "description": "Provides secure, decentralized file storage with UCAN authentication for document management and persistent data...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Mar 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/storacha-storage",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:10.306772",
+  "metadata": {}
+}

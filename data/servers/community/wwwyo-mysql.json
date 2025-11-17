@@ -1,0 +1,19 @@
+{
+  "id": "wwwyo-mysql",
+  "name": "MySQL",
+  "provider": "wwwyo",
+  "description": "Integrates with MySQL databases to enable SQL query execution, connection management, and data retrieval for...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 141
+  },
+  "release_date": "Feb 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/wwwyo-mysql",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:42.300554",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "danhussey-transportnsw",
+  "name": "Transport NSW",
+  "provider": "Dan Hussey",
+  "description": "Integrates with Transport NSW API to provide real-time public transportation data, including nearby stops, service...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/danhussey-transportnsw",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:10.035309",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "johnnyoshika-sqlite-npx",
+  "name": "SQLite (Node.js)",
+  "provider": "Johnny Oshika",
+  "description": "Implements SQLite functionality in Node.js.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 81
+  },
+  "release_date": "Dec 28, 2024",
+  "url": "https://www.pulsemcp.com/servers/johnnyoshika-sqlite-npx",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:10.516952",
+  "metadata": {}
+}

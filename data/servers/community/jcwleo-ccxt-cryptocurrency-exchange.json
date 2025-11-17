@@ -1,0 +1,16 @@
+{
+  "id": "jcwleo-ccxt-cryptocurrency-exchange",
+  "name": "CCXT Cryptocurrency Exchange",
+  "provider": "Chanwoong Joo",
+  "description": "Integrates with cryptocurrency exchanges through CCXT library to provide market data analysis and execute trading...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/jcwleo-ccxt-cryptocurrency-exchange",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:32.231688",
+  "metadata": {}
+}

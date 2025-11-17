@@ -1,0 +1,19 @@
+{
+  "id": "rishijatia-fantasy-premier-league",
+  "name": "Fantasy Premier League",
+  "provider": "Rishi Jatia",
+  "description": "Integrates with Fantasy Premier League data to provide player statistics, team information, and analytical tools for...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 100
+  },
+  "release_date": "Mar 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/rishijatia-fantasy-premier-league",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:08.381266",
+  "metadata": {}
+}

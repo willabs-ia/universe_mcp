@@ -1,0 +1,16 @@
+{
+  "id": "mongodb-atlas",
+  "name": "MongoDB Atlas",
+  "provider": "MongoDB Inc.",
+  "description": "Integrates with MongoDB Atlas to enable creating and managing database resources including clusters, network access,...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Mar 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/mongodb-atlas",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:17.216502",
+  "metadata": {}
+}

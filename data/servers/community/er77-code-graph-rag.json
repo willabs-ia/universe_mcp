@@ -1,0 +1,19 @@
+{
+  "id": "er77-code-graph-rag",
+  "name": "Code Graph RAG",
+  "provider": "er77",
+  "description": "Provides advanced code graph analysis through specialized agents for parsing, indexing, querying, and semantic search...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 13
+  },
+  "release_date": "Sep 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/er77-code-graph-rag",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:32.728496",
+  "metadata": {}
+}

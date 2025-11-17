@@ -1,0 +1,16 @@
+{
+  "id": "ejfox-spotify",
+  "name": "Spotify",
+  "provider": "EJ Fox",
+  "description": "Integrates with Spotify to enable music search, playback control, and playlist management for Premium users through...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/ejfox-spotify",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:44.148126",
+  "metadata": {}
+}

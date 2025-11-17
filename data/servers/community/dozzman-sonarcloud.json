@@ -1,0 +1,16 @@
+{
+  "id": "dozzman-sonarcloud",
+  "name": "SonarCloud",
+  "provider": "dozzman",
+  "description": "Integrates with SonarCloud API to fetch and analyze code quality issues for pull requests, providing detailed issue...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/dozzman-sonarcloud",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:51.996727",
+  "metadata": {}
+}

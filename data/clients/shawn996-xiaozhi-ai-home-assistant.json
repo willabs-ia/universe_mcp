@@ -1,0 +1,11 @@
+{
+  "id": "shawn996-xiaozhi-ai-home-assistant",
+  "name": "Unknown",
+  "provider": null,
+  "description": "WebSocket bridge connecting Home Assistant to Xiaozhi AI for smart home automation with AI capabilities, featuring reliable reconnection and comprehensive error handling.",
+  "url": "https://www.pulsemcp.com/clients/shawn996-xiaozhi-ai-home-assistant",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.415099"
+}

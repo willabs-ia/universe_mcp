@@ -1,0 +1,16 @@
+{
+  "id": "logseq",
+  "name": "Logseq",
+  "provider": "Joshua Omobola",
+  "description": "Integrates with local Logseq instances through the Logseq API to read, create, and modify pages and blocks in your...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/logseq",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:05.072203",
+  "metadata": {}
+}

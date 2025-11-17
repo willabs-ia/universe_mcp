@@ -1,0 +1,11 @@
+{
+  "id": "kicker315-qgis",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Enables interaction with QGIS geographic information systems for managing projects, layers, and maps through a plugin-based architecture with tools for spatial data manipulation and map rendering",
+  "url": "https://www.pulsemcp.com/clients/kicker315-qgis",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.470959"
+}

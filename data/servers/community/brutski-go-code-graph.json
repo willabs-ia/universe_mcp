@@ -1,0 +1,16 @@
+{
+  "id": "brutski-go-code-graph",
+  "name": "Go Code Graph",
+  "provider": "brutski",
+  "description": "Analyzes Go codebases using AST parsing and Neo4j graph storage to enable natural language queries about code...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/brutski-go-code-graph",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:22.108476",
+  "metadata": {}
+}

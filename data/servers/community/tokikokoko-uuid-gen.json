@@ -1,0 +1,16 @@
+{
+  "id": "tokikokoko-uuid-gen",
+  "name": "UUID Generator",
+  "provider": "tokikokoko",
+  "description": "Generates unique UUIDs through a lightweight Deno-based tool interface with comprehensive logging and error handling...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/tokikokoko-uuid-gen",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:05.807537",
+  "metadata": {}
+}

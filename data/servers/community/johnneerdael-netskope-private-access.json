@@ -1,0 +1,16 @@
+{
+  "id": "johnneerdael-netskope-private-access",
+  "name": "Netskope",
+  "provider": "John Neerdael",
+  "description": "Integrates with Netskope API to manage private access infrastructure, enabling automated publisher lifecycle, app...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/johnneerdael-netskope-private-access",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:52.928918",
+  "metadata": {}
+}

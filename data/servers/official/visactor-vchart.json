@@ -1,0 +1,16 @@
+{
+  "id": "visactor-vchart",
+  "name": "VChart",
+  "provider": "VisActor",
+  "description": "Generates interactive charts and visualizations using the VChart library, supporting over 15 chart types from basic...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/visactor-vchart",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:19.930989",
+  "metadata": {}
+}

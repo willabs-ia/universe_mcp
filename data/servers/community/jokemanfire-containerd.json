@@ -1,0 +1,16 @@
+{
+  "id": "jokemanfire-containerd",
+  "name": "Containerd",
+  "provider": "jokemanfire",
+  "description": "Enables container management through natural language commands by bridging Containerd's Container Runtime Interface...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/jokemanfire-containerd",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:07.794490",
+  "metadata": {}
+}

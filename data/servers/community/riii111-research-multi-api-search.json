@@ -1,0 +1,16 @@
+{
+  "id": "riii111-research-multi-api-search",
+  "name": "Research Multi-API Search",
+  "provider": "riii111",
+  "description": "Combines multiple search APIs (Brave Search, Tavily Search, and Wikipedia) to intelligently route queries based on...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/riii111-research-multi-api-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:39.480340",
+  "metadata": {}
+}

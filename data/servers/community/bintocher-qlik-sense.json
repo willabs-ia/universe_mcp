@@ -1,0 +1,19 @@
+{
+  "id": "bintocher-qlik-sense",
+  "name": "Qlik Sense",
+  "provider": "Stanislav Chernov",
+  "description": "Integrates with Qlik Sense Enterprise through Repository and Engine APIs to enable querying data models, managing...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 145
+  },
+  "release_date": "Jul 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/bintocher-qlik-sense",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:42.294491",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "loanpro",
+  "name": "LoanPro",
+  "provider": "MiloCreditPlatform",
+  "description": "Integrates with the LoanPro lending platform API to access loan management data, customer information, payment...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/loanpro",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:47.676436",
+  "metadata": {}
+}

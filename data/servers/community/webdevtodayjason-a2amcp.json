@@ -1,0 +1,19 @@
+{
+  "id": "webdevtodayjason-a2amcp",
+  "name": "A2AMCP",
+  "provider": "Jason Brashear",
+  "description": "Coordinates multiple AI agents working on shared codebases through Redis-backed infrastructure that provides...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 80
+  },
+  "release_date": "Jun 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/webdevtodayjason-a2amcp",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:10.528569",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "shirhatti-imessage",
+  "name": "iMessage",
+  "provider": "Sourabh Shirhatti",
+  "description": "Integrates with Apple's iMessage platform to enable sending and receiving messages.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/shirhatti-imessage",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:50.819400",
+  "metadata": {}
+}

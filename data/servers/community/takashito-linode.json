@@ -1,0 +1,19 @@
+{
+  "id": "takashito-linode",
+  "name": "Linode",
+  "provider": "takashito",
+  "description": "Integrates with Linode's cloud infrastructure API to manage compute instances, volumes, networking, domains,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Apr 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/takashito-linode",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:59.092815",
+  "metadata": {}
+}

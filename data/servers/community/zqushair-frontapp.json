@@ -1,0 +1,19 @@
+{
+  "id": "zqushair-frontapp",
+  "name": "Frontapp",
+  "provider": "Ziad Qushair",
+  "description": "Integrates Claude with Front customer communication platform, enabling AI to manage conversations, contacts, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/zqushair-frontapp",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:50.937238",
+  "metadata": {}
+}

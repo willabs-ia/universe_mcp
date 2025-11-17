@@ -1,0 +1,19 @@
+{
+  "id": "jcr82-bruno",
+  "name": "Bruno",
+  "provider": "Jruiz",
+  "description": "Integrates with Bruno CLI to provide API testing capabilities including request execution, collection management,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Oct 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/jcr82-bruno",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:59.099302",
+  "metadata": {}
+}

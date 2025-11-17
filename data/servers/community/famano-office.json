@@ -1,0 +1,16 @@
+{
+  "id": "famano-office",
+  "name": "MS Word",
+  "provider": "famano",
+  "description": "Integrates with Microsoft Word documents to enable reading, writing, and editing of text, tables, and images for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/famano-office",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:50.801280",
+  "metadata": {}
+}

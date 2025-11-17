@@ -1,0 +1,11 @@
+{
+  "id": "techspawn-turboclient-openai",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Python-based client for interacting with OpenAI's language models via WebSocket, supporting multiple MCP servers simultaneously with license key authentication and tool call processing.",
+  "url": "https://www.pulsemcp.com/clients/techspawn-turboclient-openai",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.526477"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "kloping-spring-boot-bridge",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Spring Boot auto-configuration library that bridges MCP servers with Spring AI applications, automatically converting external MCP tools into Spring AI ToolCallback instances through configurable SSE connections with reconnection capabilities.",
+  "url": "https://www.pulsemcp.com/clients/kloping-spring-boot-bridge",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.515547"
+}

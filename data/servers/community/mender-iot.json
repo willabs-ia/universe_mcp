@@ -1,0 +1,16 @@
+{
+  "id": "mender-iot",
+  "name": "Mender IoT",
+  "provider": "pasinskim",
+  "description": "Integrates with Mender IoT device management platform to provide secure access to device fleets, deployments,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/mender-iot",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:22.126362",
+  "metadata": {}
+}

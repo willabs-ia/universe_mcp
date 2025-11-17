@@ -1,0 +1,16 @@
+{
+  "id": "showfive-playwright-browser-automation",
+  "name": "Playwright",
+  "provider": "showfive",
+  "description": "Integrates Playwright browser automation with AI models to enable intelligent web interactions, testing, and data...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/showfive-playwright-browser-automation",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:57.218205",
+  "metadata": {}
+}

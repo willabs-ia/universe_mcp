@@ -1,0 +1,16 @@
+{
+  "id": "leadmagic-smartlead",
+  "name": "SmartLead",
+  "provider": "LeadMagic Team",
+  "description": "Integrates with SmartLead's cold email outreach platform to manage campaigns, leads, email accounts, and analytics...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/leadmagic-smartlead",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:52.008526",
+  "metadata": {}
+}

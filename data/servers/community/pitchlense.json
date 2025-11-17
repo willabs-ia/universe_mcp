@@ -1,0 +1,19 @@
+{
+  "id": "pitchlense",
+  "name": "PitchLense",
+  "provider": "Aman Ulla",
+  "description": "Analyzes startup risk across 9 categories (market, product, team, financial, customer, operational, competitive,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 446
+  },
+  "release_date": "Sep 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/pitchlense",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:26.715077",
+  "metadata": {}
+}

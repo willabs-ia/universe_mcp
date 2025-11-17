@@ -1,0 +1,16 @@
+{
+  "id": "bigsy-clj-kondo",
+  "name": "clj-kondo",
+  "provider": "Bigsy",
+  "description": "Provides Clojure, ClojureScript, and EDN linting capabilities using the clj-kondo static analyzer to identify code...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/bigsy-clj-kondo",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:03.508966",
+  "metadata": {}
+}

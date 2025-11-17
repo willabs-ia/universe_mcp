@@ -1,0 +1,19 @@
+{
+  "id": "theoklitosbam7-git-commit-generator",
+  "name": "Git Commit Generator",
+  "provider": "Theoklitos Bampouris",
+  "description": "Generates conventional commit messages from staged git changes by analyzing diffs and file status to create properly...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 56
+  },
+  "release_date": "Jul 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/theoklitosbam7-git-commit-generator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:14.932207",
+  "metadata": {}
+}

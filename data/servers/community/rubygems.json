@@ -1,0 +1,16 @@
+{
+  "id": "rubygems",
+  "name": "RubyGems",
+  "provider": "GitHub User 6",
+  "description": "Provides a TypeScript-based server for fetching and querying RubyGems metadata, enabling comprehensive exploration of...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/rubygems",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:20.694653",
+  "metadata": {}
+}

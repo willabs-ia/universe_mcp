@@ -1,0 +1,19 @@
+{
+  "id": "pmmvr-obsidian-api",
+  "name": "Obsidian Local REST API",
+  "provider": "pmmvr",
+  "description": "Integrates with Obsidian vaults through the Local REST API plugin to enable advanced search with flexible filters,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 16
+  },
+  "release_date": "May 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/pmmvr-obsidian-api",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:28.027207",
+  "metadata": {}
+}

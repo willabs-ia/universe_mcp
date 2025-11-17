@@ -1,0 +1,16 @@
+{
+  "id": "kurror-multichat",
+  "name": "Multichat",
+  "provider": "kurror",
+  "description": "Enables parallel communication with multiple unichat-based servers, allowing users to query different language models...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/kurror-multichat",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:34.885632",
+  "metadata": {}
+}

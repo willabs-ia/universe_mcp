@@ -1,0 +1,16 @@
+{
+  "id": "divyam-agg-spotify",
+  "name": "Spotify",
+  "provider": "Divyam Aggarwal",
+  "description": "Provides a bridge to the Spotify API for retrieving artist information, enabling seamless music data exploration...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/divyam-agg-spotify",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:18.559087",
+  "metadata": {}
+}

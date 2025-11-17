@@ -1,0 +1,16 @@
+{
+  "id": "admica-autobuild",
+  "name": "AutoBuild",
+  "provider": "admica",
+  "description": "Provides profile-based build automation with asynchronous queuing, file system watching, and lifecycle management for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/admica-autobuild",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:56.197218",
+  "metadata": {}
+}

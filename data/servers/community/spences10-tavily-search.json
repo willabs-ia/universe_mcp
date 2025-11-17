@@ -1,0 +1,16 @@
+{
+  "id": "spences10-tavily-search",
+  "name": "Tavily Search",
+  "provider": "Scott Spence",
+  "description": "Integrates with Tavily's semantic search API to enable web searches and retrieval of relevant results for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/spences10-tavily-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:48.588206",
+  "metadata": {}
+}

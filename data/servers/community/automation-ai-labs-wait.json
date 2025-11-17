@@ -1,0 +1,19 @@
+{
+  "id": "automation-ai-labs-wait",
+  "name": "Wait",
+  "provider": "Automation AI Labs",
+  "description": "Provides a simple waiting functionality that pauses execution for specified durations (0-300 seconds) with progress...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 4
+  },
+  "release_date": "Mar 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/automation-ai-labs-wait",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:45.804434",
+  "metadata": {}
+}

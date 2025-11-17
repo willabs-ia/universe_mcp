@@ -1,0 +1,16 @@
+{
+  "id": "pdf-reader",
+  "name": "PDF Reader",
+  "provider": "Venelin Valkov",
+  "description": "Extracts text from PDF files using Docling for document conversion, providing tools to list available PDFs and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/pdf-reader",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:07.228511",
+  "metadata": {}
+}

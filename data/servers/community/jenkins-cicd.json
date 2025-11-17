@@ -1,0 +1,19 @@
+{
+  "id": "jenkins-cicd",
+  "name": "Jenkins CI/CD",
+  "provider": "Ashwini Ghuge",
+  "description": "Integrates with Jenkins CI/CD infrastructure to provide complete job management, build monitoring, pipeline...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 3
+  },
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/jenkins-cicd",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:50.198118",
+  "metadata": {}
+}

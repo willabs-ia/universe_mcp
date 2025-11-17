@@ -1,0 +1,16 @@
+{
+  "id": "sinstaller",
+  "name": "SInstaller",
+  "provider": "semcp",
+  "description": "Automates installation and containerization of MCP servers from GitHub repositories by analyzing codebases,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/sinstaller",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:45.520585",
+  "metadata": {}
+}

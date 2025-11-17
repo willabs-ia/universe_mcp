@@ -1,0 +1,11 @@
+{
+  "id": "slipstream-max-msm",
+  "name": "Unknown",
+  "provider": null,
+  "description": "CLI tool for managing MCP servers and AI model workflows through Docker containerization with server registry management, real-time container monitoring, and graph-based task execution.",
+  "url": "https://www.pulsemcp.com/clients/slipstream-max-msm",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.540464"
+}

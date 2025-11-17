@@ -1,0 +1,19 @@
+{
+  "id": "waystation-ai",
+  "name": "WayStation",
+  "provider": "WayStation",
+  "description": "Connects productivity tools like Monday, Asana, Notion, and Slack through a secure integration hub, enabling seamless...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 4
+  },
+  "release_date": "May 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/waystation-ai",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:45.818836",
+  "metadata": {}
+}

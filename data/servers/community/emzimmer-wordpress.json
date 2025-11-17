@@ -1,0 +1,16 @@
+{
+  "id": "emzimmer-wordpress",
+  "name": "WordPress",
+  "provider": "mzimmer",
+  "description": "Integrates with WordPress REST API to enable secure content management, user administration, and site configuration...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 25, 2024",
+  "url": "https://www.pulsemcp.com/servers/emzimmer-wordpress",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:40.024700",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "event-catalog",
+  "name": "EventCatalog",
+  "provider": "David Boyne",
+  "description": "Provides a dynamic event catalog server for querying and retrieving architectural metadata, enabling developers to...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 8
+  },
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/event-catalog",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:37.136671",
+  "metadata": {}
+}

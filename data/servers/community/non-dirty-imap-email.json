@@ -1,0 +1,19 @@
+{
+  "id": "non-dirty-imap-email",
+  "name": "IMAP Workflows",
+  "provider": "Matthew Smith",
+  "description": "Provides robust email interaction capabilities through IMAP, enabling advanced email retrieval, searching, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 415
+  },
+  "release_date": "Mar 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/non-dirty-imap-email",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:26.748216",
+  "metadata": {}
+}

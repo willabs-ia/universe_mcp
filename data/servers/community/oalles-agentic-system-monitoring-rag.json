@@ -1,0 +1,16 @@
+{
+  "id": "oalles-agentic-system-monitoring-rag",
+  "name": "Agentic (System Monitoring & RAG)",
+  "provider": "Omar Alles",
+  "description": "Spring Boot-based server that connects system monitoring tools with a RAG service, enabling real-time access to both...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/oalles-agentic-system-monitoring-rag",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:37.030702",
+  "metadata": {}
+}

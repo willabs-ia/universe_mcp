@@ -1,0 +1,19 @@
+{
+  "id": "alexifeng-chat-logger",
+  "name": "Chat Logger",
+  "provider": "Alexi Feng",
+  "description": "Saves chat conversations as formatted Markdown files with timestamps and role information for record-keeping and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Apr 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/alexifeng-chat-logger",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:55.277599",
+  "metadata": {}
+}

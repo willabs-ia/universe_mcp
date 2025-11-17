@@ -1,0 +1,16 @@
+{
+  "id": "ognis1205-unitycatalog",
+  "name": "Unity Catalog",
+  "provider": "Shingo OKAWA",
+  "description": "Integrates with Unity Catalog to enable seamless execution of database functions, with tools for listing, retrieving,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/ognis1205-unitycatalog",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:21.508408",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "mozicim-node-code-sandbox",
+  "name": "Node.js Code Sandbox",
+  "provider": "mozicim",
+  "description": "Executes Node.js code in isolated Docker containers with automatic dependency management, file system persistence,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/mozicim-node-code-sandbox",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:52.004361",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "shivay-couchbase-vector-search-star-wars-planets",
+  "name": "Star Wars Planet Data (Couchbase)",
+  "provider": "Shivay",
+  "description": "Integrates Couchbase vector search for semantic similarity queries on Star Wars planet data.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/shivay-couchbase-vector-search-star-wars-planets",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:42.176462",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "chaichungsang-supabase-self-host",
+  "name": "Supabase Self-Host",
+  "provider": "Chai Chung Sang",
+  "description": "Self-hosted containerized MCP implementation with PostgreSQL backend for maintaining full control over sensitive data...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/chaichungsang-supabase-self-host",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:30.559925",
+  "metadata": {}
+}

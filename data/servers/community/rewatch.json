@@ -1,0 +1,16 @@
+{
+  "id": "rewatch",
+  "name": "Rewatch",
+  "provider": "Brennan Cheung",
+  "description": "Manages long-running development processes like Next.js and Convex servers with tools for starting, stopping,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/rewatch",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:15.735867",
+  "metadata": {}
+}

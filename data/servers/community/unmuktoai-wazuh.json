@@ -1,0 +1,19 @@
+{
+  "id": "unmuktoai-wazuh",
+  "name": "Wazuh",
+  "provider": "unmukto.ai",
+  "description": "Integrates with Wazuh security platform to provide real-time security alerts and event data from Elasticsearch...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/unmuktoai-wazuh",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:48.794597",
+  "metadata": {}
+}

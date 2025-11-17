@@ -1,0 +1,19 @@
+{
+  "id": "mnhlt-websearch",
+  "name": "WebSearch (Google)",
+  "provider": "Manh La",
+  "description": "Provides real-time web search capabilities via a dedicated crawler service with configurable result limits, language...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 30
+  },
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/mnhlt-websearch",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:21.364317",
+  "metadata": {}
+}

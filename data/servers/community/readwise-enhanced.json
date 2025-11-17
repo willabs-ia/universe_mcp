@@ -1,0 +1,16 @@
+{
+  "id": "readwise-enhanced",
+  "name": "Readwise Enhanced",
+  "provider": "Arnaldo De Lisio",
+  "description": "Integrates with Readwise Reader and Highlights APIs to provide unified access to saved articles, books, highlights,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/readwise-enhanced",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:09.318185",
+  "metadata": {}
+}

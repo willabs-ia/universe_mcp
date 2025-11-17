@@ -1,0 +1,16 @@
+{
+  "id": "yhc984-talk-to-figma",
+  "name": "Talk to Figma",
+  "provider": "Sonny Lazuardi",
+  "description": "Enables AI interaction with Figma designs through a WebSocket bridge that allows reading and modifying elements with...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/yhc984-talk-to-figma",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:37.023891",
+  "metadata": {}
+}

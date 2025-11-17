@@ -1,0 +1,11 @@
+{
+  "id": "jagan-shanmugam-mattermost",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Integrates Mattermost with MCP servers, enabling command execution and tool management through chat channels.",
+  "url": "https://www.pulsemcp.com/clients/jagan-shanmugam-mattermost",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.425801"
+}

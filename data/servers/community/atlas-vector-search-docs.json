@@ -1,0 +1,16 @@
+{
+  "id": "atlas-vector-search-docs",
+  "name": "Atlas Vector Search Docs",
+  "provider": "Pat Wendorf",
+  "description": "Provides semantic search and document retrieval using MongoDB Atlas Vector Search with Voyage AI embeddings, enabling...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/atlas-vector-search-docs",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:05.101812",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "malove86-mysql",
+  "name": "MySQL",
+  "provider": "f4ww4z",
+  "description": "Provides direct interface to MySQL databases for executing SQL queries and retrieving relational data with...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 17
+  },
+  "release_date": "Apr 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/malove86-mysql",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:28.000526",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "fredericosanntana-dpo2u",
+  "name": "DPO2U (LGPD/GDPR Compliance)",
+  "provider": "fredericosanntana",
+  "description": "Automates LGPD/GDPR compliance through homomorphic encryption and zero-knowledge proofs, performing risk assessments,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/fredericosanntana-dpo2u",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:33.198753",
+  "metadata": {}
+}

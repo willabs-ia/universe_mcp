@@ -1,0 +1,16 @@
+{
+  "id": "rebrandly",
+  "name": "Rebrandly",
+  "provider": "Rebrandly",
+  "description": "Integrates with Rebrandly's URL shortening service to create branded short links with custom slashtags, titles, and...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Apr 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/rebrandly",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:22.842818",
+  "metadata": {}
+}

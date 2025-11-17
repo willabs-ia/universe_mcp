@@ -1,0 +1,11 @@
+{
+  "id": "danbri-foaf-rtc",
+  "name": "Unknown",
+  "provider": null,
+  "description": "WebRTC-based peer-to-peer client for direct browser-to-browser and Node.js connections with JSON-RPC messaging, supporting both stdio and HTTP/SSE transports.",
+  "url": "https://www.pulsemcp.com/clients/danbri-foaf-rtc",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.529737"
+}

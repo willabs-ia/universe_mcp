@@ -1,0 +1,16 @@
+{
+  "id": "champierre-image-analysis",
+  "name": "Image Analysis (GPT-4 Vision)",
+  "provider": "champierre",
+  "description": "Enables image analysis using GPT-4-turbo's vision capabilities for extracting information, generating descriptions,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/champierre-image-analysis",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:52.900078",
+  "metadata": {}
+}

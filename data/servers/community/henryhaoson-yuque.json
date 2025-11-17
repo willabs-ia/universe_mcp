@@ -1,0 +1,19 @@
+{
+  "id": "henryhaoson-yuque",
+  "name": "Yuque",
+  "provider": "HenryHaoson",
+  "description": "Integrates with Yuque knowledge base platform to enable document management operations, content search, and team...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/henryhaoson-yuque",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:48.813327",
+  "metadata": {}
+}

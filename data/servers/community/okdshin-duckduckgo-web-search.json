@@ -1,0 +1,16 @@
+{
+  "id": "okdshin-duckduckgo-web-search",
+  "name": "DuckDuckGo Web Search",
+  "provider": "okdshin",
+  "description": "Integrates with DuckDuckGo to provide web search capabilities, enabling quick and easy text searches with...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/okdshin-duckduckgo-web-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:05.772382",
+  "metadata": {}
+}

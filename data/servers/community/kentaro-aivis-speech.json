@@ -1,0 +1,16 @@
+{
+  "id": "kentaro-aivis-speech",
+  "name": "AivisSpeech",
+  "provider": "Kentaro Kuribayashi",
+  "description": "Enables AI systems to generate and play speech audio from text input through the AivisSpeech API, with configurable...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/kentaro-aivis-speech",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:14.314055",
+  "metadata": {}
+}

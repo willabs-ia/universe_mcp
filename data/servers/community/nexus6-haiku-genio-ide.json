@@ -1,0 +1,16 @@
+{
+  "id": "nexus6-haiku-genio-ide",
+  "name": "Genio IDE (Haiku OS)",
+  "provider": "nexus6-haiku",
+  "description": "Integrates with Genio IDE on Haiku OS through native BMessage scripting to provide direct editor manipulation...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/nexus6-haiku-genio-ide",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:37.525032",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "apache-echarts",
+  "name": "Apache ECharts",
+  "provider": "Apache Software Foundation",
+  "description": "Generates data visualization charts by accepting minimal parameters like chart type, data, title, and series name,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "Jul 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/apache-echarts",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:37.987802",
+  "metadata": {}
+}

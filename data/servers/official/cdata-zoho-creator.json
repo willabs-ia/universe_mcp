@@ -1,0 +1,16 @@
+{
+  "id": "cdata-zoho-creator",
+  "name": "Zoho Creator",
+  "provider": "CData Software",
+  "description": "Connects to Zoho Creator databases via JDBC to enable SQL querying, table exploration, and metadata retrieval with...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Jul 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/cdata-zoho-creator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:02.965882",
+  "metadata": {}
+}

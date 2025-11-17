@@ -1,0 +1,19 @@
+{
+  "id": "tanaikech-google-workspace-automation",
+  "name": "Google Workspace Automation",
+  "provider": "Kanshi Tanaike",
+  "description": "Integrates with Google Workspace services through Google Apps Script Web Apps to automate Gmail, Calendar, Drive,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 415
+  },
+  "release_date": "Jul 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/tanaikech-google-workspace-automation",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:28.829298",
+  "metadata": {}
+}

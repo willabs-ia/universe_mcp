@@ -1,0 +1,16 @@
+{
+  "id": "yanjiusheng431-ctp-chinese-futures-trading",
+  "name": "CTP (Chinese Futures Trading)",
+  "provider": "yanjiusheng431",
+  "description": "Integrates with Chinese futures markets through vnpy trading framework to provide real-time market data, account...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/yanjiusheng431-ctp-chinese-futures-trading",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:31.477011",
+  "metadata": {}
+}

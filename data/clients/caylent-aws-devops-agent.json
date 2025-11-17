@@ -1,0 +1,11 @@
+{
+  "id": "caylent-aws-devops-agent",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Production-ready AWS DevOps automation agent that integrates Strands agents with Bedrock Agent Core and specialized MCP servers for cost optimization, security compliance, Infrastructure as Code analysis, and automated report generation across multi-account environments.",
+  "url": "https://www.pulsemcp.com/clients/caylent-aws-devops-agent",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.475493"
+}

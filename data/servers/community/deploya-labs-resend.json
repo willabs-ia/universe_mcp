@@ -1,0 +1,16 @@
+{
+  "id": "deploya-labs-resend",
+  "name": "Resend Email",
+  "provider": "Deploya Labs",
+  "description": "Enables sending emails through the Resend API service with configurable sender addresses, recipient details, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/deploya-labs-resend",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:07.914147",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "abhirockzz-kusto",
+  "name": "Azure Data Explorer (Kusto)",
+  "provider": "Abhishek Gupta",
+  "description": "Integrates with Azure Data Explorer to enable listing databases, retrieving table schemas, and executing KQL queries...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/abhirockzz-kusto",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:10.289940",
+  "metadata": {}
+}

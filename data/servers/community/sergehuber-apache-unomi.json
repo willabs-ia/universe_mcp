@@ -1,0 +1,16 @@
+{
+  "id": "sergehuber-apache-unomi",
+  "name": "Apache Unomi",
+  "provider": "Serge Huber",
+  "description": "Maintain persistent user profiles and context across conversations.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 1, 2024",
+  "url": "https://www.pulsemcp.com/servers/sergehuber-apache-unomi",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:31.482238",
+  "metadata": {}
+}

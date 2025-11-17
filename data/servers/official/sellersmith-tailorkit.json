@@ -1,0 +1,16 @@
+{
+  "id": "sellersmith-tailorkit",
+  "name": "TailorKit",
+  "provider": "Sellersmith",
+  "description": "Provides a bridge to the TailorKit API for managing customizable e-commerce product templates, enabling creation,...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Apr 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/sellersmith-tailorkit",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:23.724757",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "root-signals-evaluators",
+  "name": "Root Signals Evaluators",
+  "provider": "RootSignals",
+  "description": "Exposes Root Signals evaluators as tools for AI assistants & agents, allowing them to evaluate responses against...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Apr 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/root-signals-evaluators",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:25.864515",
+  "metadata": {}
+}

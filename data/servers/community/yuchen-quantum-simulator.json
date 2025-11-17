@@ -1,0 +1,16 @@
+{
+  "id": "yuchen-quantum-simulator",
+  "name": "Quantum Simulator",
+  "provider": "YuChenSSR",
+  "description": "Provides a Docker-based quantum circuit simulator using Qiskit to run, visualize, and analyze quantum computations...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/yuchen-quantum-simulator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:39.504120",
+  "metadata": {}
+}

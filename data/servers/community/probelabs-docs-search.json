@@ -1,0 +1,19 @@
+{
+  "id": "probelabs-docs-search",
+  "name": "Probe Documentation Search",
+  "provider": "Leonid Bugaev",
+  "description": "Makes any codebase or documentation searchable through the Probe search engine with support for both local...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 5
+  },
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/probelabs-docs-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:43.647007",
+  "metadata": {}
+}

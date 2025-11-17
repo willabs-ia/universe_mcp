@@ -1,0 +1,16 @@
+{
+  "id": "eyalzh-kanban",
+  "name": "Kanban",
+  "provider": "Eyal Zehavi",
+  "description": "Task management system for complex multi-session workflows, structured as kanban boards with columns and tasks that...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/eyalzh-kanban",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:27.966773",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "compose-and-dragons-dungeon-explorer",
+  "name": "Dungeon Explorer",
+  "provider": "Compose and Dragons",
+  "description": "Text-based RPG system that loads dungeon layouts from YAML files and maintains player state for exploring...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/compose-and-dragons-dungeon-explorer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:02.978664",
+  "metadata": {}
+}

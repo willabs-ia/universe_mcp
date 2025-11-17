@@ -1,0 +1,19 @@
+{
+  "id": "niyogi-render",
+  "name": "Render",
+  "provider": "Roj Niyogi",
+  "description": "Deployment-related tooling for Render.com.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 4
+  },
+  "release_date": "Mar 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/niyogi-render",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:45.784633",
+  "metadata": {}
+}

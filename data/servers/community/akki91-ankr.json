@@ -1,0 +1,19 @@
+{
+  "id": "akki91-ankr",
+  "name": "Ankr (Blockchain Data)",
+  "provider": "Akshay Khare",
+  "description": "Provides blockchain data access through the Ankr API, enabling wallet balance queries across multiple networks with...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 4
+  },
+  "release_date": "Apr 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/akki91-ankr",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:45.805695",
+  "metadata": {}
+}

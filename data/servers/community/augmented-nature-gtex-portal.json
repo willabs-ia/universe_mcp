@@ -1,0 +1,16 @@
+{
+  "id": "augmented-nature-gtex-portal",
+  "name": "GTEx Portal",
+  "provider": "Moudather Chelbi",
+  "description": "Integrates with GTEx Portal API to provide gene expression analysis, genetic variant associations, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/augmented-nature-gtex-portal",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:26.644082",
+  "metadata": {}
+}

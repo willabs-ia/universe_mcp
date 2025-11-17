@@ -1,0 +1,16 @@
+{
+  "id": "arjshiv-localutils",
+  "name": "Local Utilities",
+  "provider": "arjshiv",
+  "description": "Provides access to system utilities for retrieving local information including time, hostname, IP address, directory...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/arjshiv-localutils",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:15.136635",
+  "metadata": {}
+}

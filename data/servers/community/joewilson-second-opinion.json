@@ -1,0 +1,16 @@
+{
+  "id": "joewilson-second-opinion",
+  "name": "Second Opinion (Code Assistant)",
+  "provider": "Joe Wilson",
+  "description": "Synthesizes insights from multiple AI sources to provide enhanced coding assistance with automatic language detection...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/joewilson-second-opinion",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:46.440836",
+  "metadata": {}
+}

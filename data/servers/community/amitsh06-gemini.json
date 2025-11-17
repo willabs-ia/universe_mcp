@@ -1,0 +1,16 @@
+{
+  "id": "amitsh06-gemini",
+  "name": "Gemini",
+  "provider": "Amit Sharma",
+  "description": "Integrates with Google's Gemini API to enable text generation, analysis, and chat conversations through a Flask-based...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/amitsh06-gemini",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:07.898822",
+  "metadata": {}
+}

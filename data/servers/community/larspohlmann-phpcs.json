@@ -1,0 +1,16 @@
+{
+  "id": "larspohlmann-phpcs",
+  "name": "PHP_CodeSniffer",
+  "provider": "larspohlmann",
+  "description": "Integrates PHP_CodeSniffer and PHP Code Beautifier tools to analyze coding standard violations and automatically fix...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/larspohlmann-phpcs",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:31.468279",
+  "metadata": {}
+}

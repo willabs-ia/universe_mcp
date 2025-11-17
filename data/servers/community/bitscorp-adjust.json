@@ -1,0 +1,16 @@
+{
+  "id": "bitscorp-adjust",
+  "name": "Adjust",
+  "provider": "Bits Corp",
+  "description": "Integrates with Adjust API to enable natural language queries for marketing analytics data, including campaign...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/bitscorp-adjust",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:19.318250",
+  "metadata": {}
+}

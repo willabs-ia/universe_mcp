@@ -1,0 +1,16 @@
+{
+  "id": "agrathwohl-carla-audio-plugin-host",
+  "name": "Carla Audio Plugin Host",
+  "provider": "agrathwohl",
+  "description": "Integrates with Carla audio plugin host to provide complete session management, plugin loading/control, audio...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/agrathwohl-carla-audio-plugin-host",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:35.324899",
+  "metadata": {}
+}

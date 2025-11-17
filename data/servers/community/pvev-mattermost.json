@@ -1,0 +1,16 @@
+{
+  "id": "pvev-mattermost",
+  "name": "Mattermost",
+  "provider": "pvev",
+  "description": "Integrates with Mattermost workspaces to enable channel listing, message history retrieval, posting, thread...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/pvev-mattermost",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:17.212537",
+  "metadata": {}
+}

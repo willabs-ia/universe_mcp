@@ -1,0 +1,16 @@
+{
+  "id": "xelber-newrelic",
+  "name": "New Relic",
+  "provider": "xelber",
+  "description": "Integrates with New Relic's NerdGraph API to provide direct access to log data through custom NRQL queries,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/xelber-newrelic",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:37.550862",
+  "metadata": {}
+}

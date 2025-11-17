@@ -1,0 +1,16 @@
+{
+  "id": "github-gists",
+  "name": "GitHub Gists",
+  "provider": "Barton Rhodes",
+  "description": "Provides a bridge to GitHub Gists for creating, retrieving, updating, listing, and deleting code snippets directly...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/github-gists",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:48.431190",
+  "metadata": {}
+}

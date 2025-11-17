@@ -1,0 +1,19 @@
+{
+  "id": "scosman-hooks",
+  "name": "Hooks",
+  "provider": "Steve Cosman",
+  "description": "Exposes project-specific development tools like tests, linters, and formatters through YAML configuration files,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 30
+  },
+  "release_date": "Aug 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/scosman-hooks",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:21.367890",
+  "metadata": {}
+}

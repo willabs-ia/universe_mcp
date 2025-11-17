@@ -1,0 +1,16 @@
+{
+  "id": "takuya0206-obsidian",
+  "name": "Obsidian",
+  "provider": "Takuya",
+  "description": "Enables Claude to read, search, and modify Obsidian vault notes through a Node.js application that connects to the...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/takuya0206-obsidian",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:30.567932",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "jacklandis29-codechecker",
+  "name": "CodeChecker",
+  "provider": "Jack Landis",
+  "description": "Integrates with Cursor IDE to provide real-time code review capabilities, leveraging GPT models for intelligent...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/jacklandis29-codechecker",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:13.027386",
+  "metadata": {}
+}

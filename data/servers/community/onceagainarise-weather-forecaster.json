@@ -1,0 +1,16 @@
+{
+  "id": "onceagainarise-weather-forecaster",
+  "name": "Weather Forecaster (National Weather Service)",
+  "provider": "onceagainarise",
+  "description": "Integrates with the National Weather Service API to provide real-time weather alerts by US state code with both...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/onceagainarise-weather-forecaster",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:15.720374",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "opentofu-registry",
+  "name": "OpenTofu Registry",
+  "provider": "OpenTofu",
+  "description": "Enables AI systems to search for and retrieve detailed information about OpenTofu Registry components including...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "May 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/opentofu-registry",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:56.911193",
+  "metadata": {}
+}

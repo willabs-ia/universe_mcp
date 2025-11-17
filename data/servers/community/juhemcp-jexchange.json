@@ -1,0 +1,19 @@
+{
+  "id": "juhemcp-jexchange",
+  "name": "JExchange",
+  "provider": "juhemcp",
+  "description": "Provides a lightweight, asynchronous Python server for connecting AI models with external services through a simple,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 13
+  },
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/juhemcp-jexchange",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:30.201503",
+  "metadata": {}
+}

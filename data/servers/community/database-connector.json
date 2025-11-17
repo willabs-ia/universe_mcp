@@ -1,0 +1,16 @@
+{
+  "id": "database-connector",
+  "name": "Database Connector",
+  "provider": "Georgi Terziyski",
+  "description": "Provides a unified interface for connecting to and interacting with multiple database systems (SQLite, PostgreSQL,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/database-connector",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:28.261258",
+  "metadata": {}
+}

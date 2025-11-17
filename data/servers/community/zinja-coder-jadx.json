@@ -1,0 +1,19 @@
+{
+  "id": "zinja-coder-jadx",
+  "name": "JADX (Java Decompiler)",
+  "provider": "zinja-coder",
+  "description": "Integrates with JADX-GUI to enable reverse engineering of Java and Android applications through decompiled code...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 553
+  },
+  "release_date": "Apr 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/zinja-coder-jadx",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:24.636260",
+  "metadata": {}
+}

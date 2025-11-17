@@ -1,0 +1,19 @@
+{
+  "id": "sammcj-github-issue",
+  "name": "GitHub Issue Fetcher",
+  "provider": "Sam McLeod",
+  "description": "Fetches GitHub issues and transforms them into structured task descriptions for software development workflows and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Dec 29, 2024",
+  "url": "https://www.pulsemcp.com/servers/sammcj-github-issue",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:54.732215",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "trxo-ldap",
+  "name": "LDAP",
+  "provider": "trxo",
+  "description": "Integrates with LDAP directories to enable search, retrieval, and management operations including user provisioning,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/trxo-ldap",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:39.794085",
+  "metadata": {}
+}

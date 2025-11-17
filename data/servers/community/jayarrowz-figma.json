@@ -1,0 +1,19 @@
+{
+  "id": "jayarrowz-figma",
+  "name": "Figma",
+  "provider": "JayArrowz",
+  "description": "Integrates with Figma's API to enable viewing, manipulating, and collaborating on design files through comprehensive...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 3
+  },
+  "release_date": "Mar 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/jayarrowz-figma",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:48.033001",
+  "metadata": {}
+}

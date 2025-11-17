@@ -1,0 +1,16 @@
+{
+  "id": "instructa-ai-prompts-finder",
+  "name": "AI Prompts Finder",
+  "provider": "Instructa",
+  "description": "Provides a searchable repository of AI prompts with fuzzy matching capabilities for quick retrieval based on specific...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/instructa-ai-prompts-finder",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:48.432374",
+  "metadata": {}
+}

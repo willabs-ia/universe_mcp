@@ -1,0 +1,16 @@
+{
+  "id": "theapemachine-azure-devops-bridge",
+  "name": "Azure DevOps",
+  "provider": "Daniel Owen van Dommelen",
+  "description": "Integrates with Azure DevOps to manage work items, wikis, and project tasks, enabling AI-driven project management...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/theapemachine-azure-devops-bridge",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:59.345048",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "nomagicln-harbor",
+  "name": "Harbor Container Registry",
+  "provider": "NoMagic",
+  "description": "Enables AI systems to manage Harbor container registry resources including projects, repositories, tags, and Helm...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/nomagicln-harbor",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:30.557158",
+  "metadata": {}
+}

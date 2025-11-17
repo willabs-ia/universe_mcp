@@ -1,0 +1,19 @@
+{
+  "id": "steipete-peekaboo",
+  "name": "Peekaboo (macOS Screen Capture)",
+  "provider": "Peter Steinberger",
+  "description": "Enables macOS screen capture and window management with tools for taking screenshots, analyzing images, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 12
+  },
+  "release_date": "May 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/steipete-peekaboo",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:32.772370",
+  "metadata": {}
+}

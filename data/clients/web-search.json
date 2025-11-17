@@ -1,0 +1,11 @@
+{
+  "id": "web-search",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Python-based client for interacting with MCP servers via CLI or as a module, supporting local and remote connections for flexible development scenarios.",
+  "url": "https://www.pulsemcp.com/clients/web-search",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.494557"
+}

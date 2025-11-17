@@ -1,0 +1,19 @@
+{
+  "id": "misanthropic-ai-playwright",
+  "name": "Playwright Browser Automation",
+  "provider": "Shannon Sands",
+  "description": "Enables LLM-powered browser automation for web tasks including navigation, interaction, and content extraction...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 214
+  },
+  "release_date": "Mar 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/misanthropic-ai-playwright",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:40.193367",
+  "metadata": {}
+}

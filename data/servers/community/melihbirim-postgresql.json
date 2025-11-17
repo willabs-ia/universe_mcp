@@ -1,0 +1,16 @@
+{
+  "id": "melihbirim-postgresql",
+  "name": "PostgreSQL",
+  "provider": "melihbirim",
+  "description": "Connects to PostgreSQL databases for executing SQL queries, retrieving table schemas, and performing database...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/melihbirim-postgresql",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:25.021687",
+  "metadata": {}
+}

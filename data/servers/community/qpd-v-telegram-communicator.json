@@ -1,0 +1,19 @@
+{
+  "id": "qpd-v-telegram-communicator",
+  "name": "Telegram Communicator",
+  "provider": "qpd-v",
+  "description": "Enables real-time communication with Telegram users via bots, supporting asynchronous messaging and secure chat...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 3
+  },
+  "release_date": "Dec 17, 2024",
+  "url": "https://www.pulsemcp.com/servers/qpd-v-telegram-communicator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:48.007629",
+  "metadata": {}
+}

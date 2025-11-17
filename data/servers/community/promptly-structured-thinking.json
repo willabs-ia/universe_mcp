@@ -1,0 +1,19 @@
+{
+  "id": "promptly-structured-thinking",
+  "name": "Structured Thinking",
+  "provider": "Promptly Technologies LLC",
+  "description": "Structures reasoning processes through defined thought stages, managing a history of thoughts with metadata for...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 6
+  },
+  "release_date": "Mar 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/promptly-structured-thinking",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:41.458677",
+  "metadata": {}
+}

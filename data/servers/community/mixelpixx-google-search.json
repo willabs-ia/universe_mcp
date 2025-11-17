@@ -1,0 +1,16 @@
+{
+  "id": "mixelpixx-google-search",
+  "name": "Google Search",
+  "provider": "mixelpixx",
+  "description": "Integrates with Google Custom Search API and web scraping tools to enable web searches, content extraction, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 19, 2024",
+  "url": "https://www.pulsemcp.com/servers/mixelpixx-google-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:35.764011",
+  "metadata": {}
+}

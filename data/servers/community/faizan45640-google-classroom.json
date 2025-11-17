@@ -1,0 +1,16 @@
+{
+  "id": "faizan45640-google-classroom",
+  "name": "Google Classroom",
+  "provider": "Faizan",
+  "description": "Integrates with Google Classroom to retrieve courses, announcements, and assignments using OAuth2 authentication,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/faizan45640-google-classroom",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:39.501619",
+  "metadata": {}
+}

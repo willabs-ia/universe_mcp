@@ -1,0 +1,19 @@
+{
+  "id": "jordanburke-joplin",
+  "name": "Joplin",
+  "provider": "Jordan Burke",
+  "description": "Integrates with Joplin's REST API to enable complete note and notebook management including search, read, create,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 5
+  },
+  "release_date": "Aug 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/jordanburke-joplin",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:43.641759",
+  "metadata": {}
+}

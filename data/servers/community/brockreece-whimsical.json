@@ -1,0 +1,16 @@
+{
+  "id": "brockreece-whimsical",
+  "name": "Whimsical",
+  "provider": "Brock Reece",
+  "description": "Integrates with Whimsical's API to generate diagrams from Mermaid markup, returning both diagram URLs and base64...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/brockreece-whimsical",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:04.165511",
+  "metadata": {}
+}

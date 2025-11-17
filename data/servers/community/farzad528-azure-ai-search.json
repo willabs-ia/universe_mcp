@@ -1,0 +1,16 @@
+{
+  "id": "farzad528-azure-ai-search",
+  "name": "Azure AI Search",
+  "provider": "Farzad",
+  "description": "Integrates with Azure AI Search to enable keyword, vector, and hybrid search capabilities for retrieving information...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/farzad528-azure-ai-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:21.471589",
+  "metadata": {}
+}

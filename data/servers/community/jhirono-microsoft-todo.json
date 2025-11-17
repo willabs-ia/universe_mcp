@@ -1,0 +1,16 @@
+{
+  "id": "jhirono-microsoft-todo",
+  "name": "Microsoft Todo",
+  "provider": "Jun Hirono",
+  "description": "Integrates with Microsoft Todo through Graph API, enabling natural language task management including viewing lists,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/jhirono-microsoft-todo",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:44.134517",
+  "metadata": {}
+}

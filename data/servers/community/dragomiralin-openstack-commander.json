@@ -1,0 +1,19 @@
+{
+  "id": "dragomiralin-openstack-commander",
+  "name": "OpenStack Commander",
+  "provider": "Dragomir Alin",
+  "description": "Enables secure management of OpenStack infrastructure through natural language commands for server, project, flavor,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "Apr 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/dragomiralin-openstack-commander",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:35.873693",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "apple-calendars",
+  "name": "Apple Calendars",
+  "provider": "Nikhil Sonti",
+  "description": "Provides a TypeScript-based server for reading, creating, updating, and deleting macOS calendar events through a...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Mar 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/apple-calendars",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:56.880879",
+  "metadata": {}
+}

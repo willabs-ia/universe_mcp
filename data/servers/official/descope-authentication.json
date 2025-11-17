@@ -1,0 +1,16 @@
+{
+  "id": "descope-authentication",
+  "name": "Descope Authentication",
+  "provider": "Descope",
+  "description": "Integrates with Descope's authentication platform to enable natural language-driven user management, authentication...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Jan 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/descope-authentication",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:55.046400",
+  "metadata": {}
+}

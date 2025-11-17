@@ -1,0 +1,16 @@
+{
+  "id": "estat-japan",
+  "name": "e-Stat Japan",
+  "provider": "Ichiro Murata",
+  "description": "Provides access to Japan's official statistics portal (e-Stat) with tools for searching tables, finding surveys,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/estat-japan",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:39.004468",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kujenga-zotero",
+  "name": "Zotero",
+  "provider": "Aaron Taylor",
+  "description": "Integrates with Zotero to enable searching libraries, retrieving metadata, and accessing full-text content for...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 105
+  },
+  "release_date": "Jan 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/kujenga-zotero",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:06.244452",
+  "metadata": {}
+}

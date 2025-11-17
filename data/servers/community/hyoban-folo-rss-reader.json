@@ -1,0 +1,19 @@
+{
+  "id": "hyoban-folo-rss-reader",
+  "name": "Folo RSS Reader",
+  "provider": "Stephen Zhou",
+  "description": "Integrates with Folo RSS reader to enable querying and managing feed subscriptions, retrieving filtered entries,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 5
+  },
+  "release_date": "Mar 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/hyoban-folo-rss-reader",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:43.620702",
+  "metadata": {}
+}

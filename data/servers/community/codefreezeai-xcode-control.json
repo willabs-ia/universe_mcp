@@ -1,0 +1,16 @@
+{
+  "id": "codefreezeai-xcode-control",
+  "name": "xcf (Xcode)",
+  "provider": "CodeFreeze AI",
+  "description": "Interacts with Xcode to allow fixing of warnings and build errors",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/codefreezeai-xcode-control",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:32.247806",
+  "metadata": {}
+}

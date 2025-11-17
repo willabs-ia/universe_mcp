@@ -1,0 +1,11 @@
+{
+  "id": "mshojaei77-easymcp",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Python client for connecting to multiple MCP server types (SSE, NPX, UV) with a unified interface for server selection, connection management, and tool execution via OpenAI's API.",
+  "url": "https://www.pulsemcp.com/clients/mshojaei77-easymcp",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.443461"
+}

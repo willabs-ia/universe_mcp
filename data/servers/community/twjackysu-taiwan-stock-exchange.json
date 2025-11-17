@@ -1,0 +1,16 @@
+{
+  "id": "twjackysu-taiwan-stock-exchange",
+  "name": "Taiwan Stock Exchange",
+  "provider": "twjackysu",
+  "description": "Integrates with Taiwan Stock Exchange OpenAPI to provide comprehensive stock market data including company...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/twjackysu-taiwan-stock-exchange",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:07.199672",
+  "metadata": {}
+}

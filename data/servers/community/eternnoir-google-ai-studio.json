@@ -1,0 +1,16 @@
+{
+  "id": "eternnoir-google-ai-studio",
+  "name": "Google AI Studio",
+  "provider": "eternnoir",
+  "description": "Integrates with Google AI Studio/Gemini API to process multimodal content including images, videos, audio, PDFs, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/eternnoir-google-ai-studio",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:49.882956",
+  "metadata": {}
+}

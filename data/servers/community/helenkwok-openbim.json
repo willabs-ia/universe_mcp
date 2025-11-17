@@ -1,0 +1,16 @@
+{
+  "id": "helenkwok-openbim",
+  "name": "OpenBIM",
+  "provider": "Helen Kwok",
+  "description": "Converts IFC building files to efficient fragment format and enables querying of BIM elements by category with...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/helenkwok-openbim",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:07.190614",
+  "metadata": {}
+}

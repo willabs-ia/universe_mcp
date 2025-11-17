@@ -1,0 +1,16 @@
+{
+  "id": "mahesh-premachandran-trino",
+  "name": "Trino",
+  "provider": "Mahesh Premachandran",
+  "description": "Enables secure, controlled data exploration by providing tools to list tables, read data, and execute SQL queries...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/mahesh-premachandran-trino",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:57.128808",
+  "metadata": {}
+}

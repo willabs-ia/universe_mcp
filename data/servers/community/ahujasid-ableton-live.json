@@ -1,0 +1,19 @@
+{
+  "id": "ahujasid-ableton-live",
+  "name": "Ableton Live",
+  "provider": "Siddharth Ahuja",
+  "description": "Enables control of Ableton Live music production software through a bidirectional communication system that supports...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 341
+  },
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/ahujasid-ableton-live",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:31.040613",
+  "metadata": {}
+}

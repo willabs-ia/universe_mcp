@@ -1,0 +1,19 @@
+{
+  "id": "thuhoai27-find-files",
+  "name": "FindFiles",
+  "provider": "Kim seungtae",
+  "description": "Powerful file search tool that enables wildcard patterns, attribute filtering, and content searching across multiple...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 5
+  },
+  "release_date": "Mar 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/thuhoai27-find-files",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:43.615424",
+  "metadata": {}
+}

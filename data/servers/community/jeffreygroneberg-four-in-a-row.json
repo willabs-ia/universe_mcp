@@ -1,0 +1,16 @@
+{
+  "id": "jeffreygroneberg-four-in-a-row",
+  "name": "Four-in-a-Row",
+  "provider": "Jeffrey Groneberg",
+  "description": "Implements a Four-in-a-Row (Connect Four) game with RESTful API endpoints for creating games, making moves, checking...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/jeffreygroneberg-four-in-a-row",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:41.182328",
+  "metadata": {}
+}

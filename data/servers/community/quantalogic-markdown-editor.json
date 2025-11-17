@@ -1,0 +1,19 @@
+{
+  "id": "quantalogic-markdown-editor",
+  "name": "Quantalogic Markdown Editor",
+  "provider": "Raphael Mansuy",
+  "description": "Provides safe, structured editing capabilities for Markdown documents through section-based operations like...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 84
+  },
+  "release_date": "Jul 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/quantalogic-markdown-editor",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:10.508207",
+  "metadata": {}
+}

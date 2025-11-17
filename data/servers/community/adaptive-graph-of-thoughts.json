@@ -1,0 +1,16 @@
+{
+  "id": "adaptive-graph-of-thoughts",
+  "name": "Adaptive Graph of Thoughts",
+  "provider": "Sapta Dey",
+  "description": "Processes complex scientific queries through an 8-stage Graph-of-Thoughts pipeline that decomposes questions into...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/adaptive-graph-of-thoughts",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:45.498973",
+  "metadata": {}
+}

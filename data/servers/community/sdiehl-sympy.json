@@ -1,0 +1,19 @@
+{
+  "id": "sdiehl-sympy",
+  "name": "SymPy",
+  "provider": "Stephen Diehl",
+  "description": "Provides a stateful symbolic mathematics engine for precise algebraic operations, calculus, vector analysis, tensor...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "May 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/sdiehl-sympy",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:57.416818",
+  "metadata": {}
+}

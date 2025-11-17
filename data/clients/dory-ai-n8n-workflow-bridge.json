@@ -1,0 +1,11 @@
+{
+  "id": "dory-ai-n8n-workflow-bridge",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Integrates n8n workflows with MCP servers through a lightweight bridge service, enabling seamless discovery and execution of tools from various sources like Todoist, Slack, and Brave Search for enhanced automation capabilities.",
+  "url": "https://www.pulsemcp.com/clients/dory-ai-n8n-workflow-bridge",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.507662"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "stijn-meijers-dracor",
+  "name": "DraCor (Drama Corpora Project)",
+  "provider": "Stijn Meijers",
+  "description": "Integrates with the Drama Corpora Project API to enable analysis of dramatic texts, character networks, and literary...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/stijn-meijers-dracor",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:28.244056",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "tisddm-searxng",
+  "name": "SearXNG",
+  "provider": "tisDDM",
+  "description": "Connects AI systems to SearXNG metasearch engine, enabling privacy-respecting web searches with customizable...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/tisddm-searxng",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:50.957272",
+  "metadata": {}
+}

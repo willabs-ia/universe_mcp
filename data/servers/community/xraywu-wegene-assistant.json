@@ -1,0 +1,16 @@
+{
+  "id": "xraywu-wegene-assistant",
+  "name": "WeGene",
+  "provider": "xraywu",
+  "description": "Integrates with WeGene's genetic testing API to access and analyze users' genetic reports for personalized health and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/xraywu-wegene-assistant",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:57.191959",
+  "metadata": {}
+}

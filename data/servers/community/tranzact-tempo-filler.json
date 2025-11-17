@@ -1,0 +1,16 @@
+{
+  "id": "tranzact-tempo-filler",
+  "name": "Tempo Filler (Atlassian)",
+  "provider": "JuanjoFuchs",
+  "description": "Integrates with Atlassian Tempo's time tracking API to retrieve, create, and delete JIRA worklogs with support for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/tranzact-tempo-filler",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:07.195923",
+  "metadata": {}
+}

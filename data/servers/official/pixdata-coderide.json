@@ -1,0 +1,19 @@
+{
+  "id": "pixdata-coderide",
+  "name": "CodeRide",
+  "provider": "Pix Srl",
+  "description": "Integrates with CodeRide's task management platform to provide project retrieval, task operations, prompt extraction,...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 2
+  },
+  "release_date": "Jun 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/pixdata-coderide",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:52.307708",
+  "metadata": {}
+}

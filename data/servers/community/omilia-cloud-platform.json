@@ -1,0 +1,16 @@
+{
+  "id": "omilia-cloud-platform",
+  "name": "Omilia Cloud Platform",
+  "provider": "Omilia",
+  "description": "Integrates with Omilia Cloud Platform to manage voice applications and dialog systems through miniapp search, prompt...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/omilia-cloud-platform",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:52.024624",
+  "metadata": {}
+}

@@ -1,0 +1,11 @@
+{
+  "id": "open-mcp-dashboard",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Web-based dashboard for managing MCP servers with a user-friendly interface for configuration, monitoring, and chat interactions powered by CopilotKit.",
+  "url": "https://www.pulsemcp.com/clients/open-mcp-dashboard",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.528650"
+}

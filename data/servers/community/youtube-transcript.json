@@ -1,0 +1,16 @@
+{
+  "id": "youtube-transcript",
+  "name": "YouTube Transcript",
+  "provider": "Freddie",
+  "description": "Extracts and retrieves transcripts from YouTube videos using a simple tool that accepts video URLs or IDs with...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/youtube-transcript",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:23.590677",
+  "metadata": {}
+}

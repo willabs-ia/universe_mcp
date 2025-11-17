@@ -1,0 +1,16 @@
+{
+  "id": "lifejwang11-alphavantage",
+  "name": "AlphaVantage",
+  "provider": "lifejwang11",
+  "description": "Bridges AlphaVantage's financial data ecosystem by providing real-time access to stock market, forex, cryptocurrency,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/lifejwang11-alphavantage",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:57.134905",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "tanevanwifferen-inception",
+  "name": "MCP-Inception",
+  "provider": "Tane van Wifferen",
+  "description": "Enables MCP clients communicating with other MCP clients through this MCP server.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/tanevanwifferen-inception",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:52.945215",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "mcp2everything-brave",
+  "name": "Brave Browser",
+  "provider": "mcp2everything",
+  "description": "Integrates with Brave browser to enable web automation tasks like opening tabs, navigating pages, and extracting...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jan 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/mcp2everything-brave",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:44.509404",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kevinwatt-shell",
+  "name": "Shell Command Executor",
+  "provider": "Kevin Watt",
+  "description": "Provides a shell command execution interface for secure and controlled access to local system operations, enabling...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 64
+  },
+  "release_date": "Feb 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/kevinwatt-shell",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:12.784896",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "stk-ansys-agi",
+  "name": "STK (Ansys/AGI Systems Tool Kit)",
+  "provider": "alti3",
+  "description": "Enables natural language control of Ansys/AGI STK for space mission planning, satellite configuration, and orbit...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Apr 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/stk-ansys-agi",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:55.271941",
+  "metadata": {}
+}

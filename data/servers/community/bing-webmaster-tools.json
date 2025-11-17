@@ -1,0 +1,16 @@
+{
+  "id": "bing-webmaster-tools",
+  "name": "Bing Webmaster Tools",
+  "provider": "Kuba Serafinowski",
+  "description": "Integrates with Bing Webmaster Tools API to enable complete site management, URL submission, traffic analysis,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/bing-webmaster-tools",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:12.748034",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "mindsdb",
+  "name": "MindsDB",
+  "provider": "MindsDB",
+  "description": "MindsDB allows applications to answer questions over large-scale federated data—spanning databases, data warehouses,...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Apr 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/mindsdb",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:20.727079",
+  "metadata": {}
+}

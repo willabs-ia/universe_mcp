@@ -1,0 +1,16 @@
+{
+  "id": "agentience-tribal",
+  "name": "Tribal (Error Knowledge Base)",
+  "provider": "Agentience",
+  "description": "Stores and retrieves programming error knowledge through vector similarity search, enabling development teams to...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/agentience-tribal",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:01.392284",
+  "metadata": {}
+}

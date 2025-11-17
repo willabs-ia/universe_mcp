@@ -1,0 +1,16 @@
+{
+  "id": "tejeda-contentful",
+  "name": "Contentful",
+  "provider": "Miguel Tejeda",
+  "description": "Enables Claude to directly interact with Contentful CMS data by providing tools to fetch content types and entries,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/tejeda-contentful",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:54.969587",
+  "metadata": {}
+}

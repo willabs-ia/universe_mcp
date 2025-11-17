@@ -1,0 +1,16 @@
+{
+  "id": "crazyrabbitltc-brex",
+  "name": "Brex",
+  "provider": "Dennison Bertram",
+  "description": "Provides secure access to Brex financial platform data, enabling account information retrieval, transaction analysis,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/crazyrabbitltc-brex",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:37.012366",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cardea-web-search",
+  "name": "Cardea Web Search (Tavily)",
+  "provider": "cardea-mcp",
+  "description": "Provides web search capabilities through the Tavily API, returning structured results with titles, URLs, content...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/cardea-web-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:26.688274",
+  "metadata": {}
+}

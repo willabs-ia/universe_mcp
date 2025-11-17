@@ -1,0 +1,16 @@
+{
+  "id": "mccartykim-honk",
+  "name": "Honk",
+  "provider": "Kim McCarty",
+  "description": "Provides a simple text-to-speech interface for MacOS using the built-in 'say' command, enabling voice output for AI...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/mccartykim-honk",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:03.326439",
+  "metadata": {}
+}

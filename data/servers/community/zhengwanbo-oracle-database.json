@@ -1,0 +1,19 @@
+{
+  "id": "zhengwanbo-oracle-database",
+  "name": "Oracle Database",
+  "provider": "zhengwanbo",
+  "description": "Connects to Oracle databases with intelligent caching and lazy loading to provide schema exploration, query execution...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 21
+  },
+  "release_date": "Jun 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/zhengwanbo-oracle-database",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:25.861496",
+  "metadata": {}
+}

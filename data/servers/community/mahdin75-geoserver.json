@@ -1,0 +1,16 @@
+{
+  "id": "mahdin75-geoserver",
+  "name": "GeoServer",
+  "provider": "Mahdin",
+  "description": "Provides a bridge to GeoServer's REST API for managing geospatial data, enabling workspace management, layer...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/mahdin75-geoserver",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:25.878913",
+  "metadata": {}
+}

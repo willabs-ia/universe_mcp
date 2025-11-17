@@ -1,0 +1,19 @@
+{
+  "id": "adhikasp-linkedin",
+  "name": "LinkedIn",
+  "provider": "Adhika Setya Pramudita",
+  "description": "Integrates with an unofficial LinkedIn API to retrieve feed posts, search jobs, and analyze job matches against resumes.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jan 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/adhikasp-linkedin",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:44.497347",
+  "metadata": {}
+}

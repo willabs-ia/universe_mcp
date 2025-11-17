@@ -1,0 +1,19 @@
+{
+  "id": "qpd-v-wordcounter",
+  "name": "Word Counter",
+  "provider": "qpd-v",
+  "description": "Analyze text documents, including counting words and characters, through Node.js.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 13
+  },
+  "release_date": "Dec 15, 2024",
+  "url": "https://www.pulsemcp.com/servers/qpd-v-wordcounter",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:30.197649",
+  "metadata": {}
+}

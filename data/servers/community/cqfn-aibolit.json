@@ -1,0 +1,16 @@
+{
+  "id": "cqfn-aibolit",
+  "name": "Aibolit Java Code Analyzer",
+  "provider": "Yegor Bugayenko",
+  "description": "Integrates with the Aibolit Java code analyzer to identify critical design issues in Java code, focusing on...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/cqfn-aibolit",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:34.386153",
+  "metadata": {}
+}

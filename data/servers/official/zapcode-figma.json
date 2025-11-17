@@ -1,0 +1,16 @@
+{
+  "id": "zapcode-figma",
+  "name": "Zapcode (Figma-VS Code Bridge)",
+  "provider": "Zapcode",
+  "description": "Bridges Figma designs with coding assistants in VS Code, enabling direct access to visual design context for accurate...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Apr 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/zapcode-figma",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:36.837509",
+  "metadata": {}
+}

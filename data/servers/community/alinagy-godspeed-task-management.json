@@ -1,0 +1,19 @@
+{
+  "id": "alinagy-godspeed-task-management",
+  "name": "Godspeed Task Management",
+  "provider": "Ali Nagy",
+  "description": "Integrates with Godspeed Task Management API to enable listing, creating, updating, and deleting tasks directly from...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Mar 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/alinagy-godspeed-task-management",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:54.760214",
+  "metadata": {}
+}

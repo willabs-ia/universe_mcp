@@ -1,0 +1,16 @@
+{
+  "id": "claude-historian",
+  "name": "Claude Historian",
+  "provider": "Vvkmnn",
+  "description": "Provides intelligent search capabilities across Claude Code conversation history with specialized tools for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/claude-historian",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:58.350313",
+  "metadata": {}
+}

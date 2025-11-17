@@ -1,0 +1,16 @@
+{
+  "id": "liujilong-host-cli",
+  "name": "MCP Host CLI",
+  "provider": "Liu Jilong",
+  "description": "Command-line tool for creating and managing MCP hosts with streamlined setup for developers integrating AI...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/liujilong-host-cli",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:41.621405",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ambivo-crm",
+  "name": "Ambivo",
+  "provider": "Ambivo Development Team",
+  "description": "Integrates with Ambivo's CRM API to enable natural language querying of leads, contacts, opportunities, and other...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 88
+  },
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/ambivo-crm",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:08.418184",
+  "metadata": {}
+}

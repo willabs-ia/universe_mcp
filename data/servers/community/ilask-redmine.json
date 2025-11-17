@@ -1,0 +1,16 @@
+{
+  "id": "ilask-redmine",
+  "name": "Redmine",
+  "provider": "ilask",
+  "description": "Integrates with Redmine to enable project management tasks like accessing project details and creating issues through...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/ilask-redmine",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:04.156541",
+  "metadata": {}
+}

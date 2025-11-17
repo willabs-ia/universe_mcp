@@ -1,0 +1,19 @@
+{
+  "id": "terminalman-wolfram-alpha",
+  "name": "WolframAlpha",
+  "provider": "SecretiveShell",
+  "description": "Integrates with WolframAlpha to enable computational knowledge queries, scientific calculations, and data analysis...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 22
+  },
+  "release_date": "Dec 20, 2024",
+  "url": "https://www.pulsemcp.com/servers/terminalman-wolfram-alpha",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:23.557413",
+  "metadata": {}
+}

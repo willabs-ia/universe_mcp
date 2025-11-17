@@ -1,0 +1,19 @@
+{
+  "id": "duhlink-instagram-analytics",
+  "name": "Instagram Analytics",
+  "provider": "duhlink",
+  "description": "Integrates with Instagram's API and web scraping tools to enable social media analytics, account management, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Dec 14, 2024",
+  "url": "https://www.pulsemcp.com/servers/duhlink-instagram-analytics",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:44.471536",
+  "metadata": {}
+}

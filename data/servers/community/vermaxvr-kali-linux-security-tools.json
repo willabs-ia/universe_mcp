@@ -1,0 +1,16 @@
+{
+  "id": "vermaxvr-kali-linux-security-tools",
+  "name": "Kali Linux Security Tools",
+  "provider": "VERMAXVR",
+  "description": "Provides Kali Linux security tools in a sandboxed Docker environment for network analysis, binary examination, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/vermaxvr-kali-linux-security-tools",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:07.837999",
+  "metadata": {}
+}

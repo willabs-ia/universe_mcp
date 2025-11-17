@@ -1,0 +1,16 @@
+{
+  "id": "fabianh001-threedee-meshy",
+  "name": "Threedee (Meshy)",
+  "provider": "Fabian H",
+  "description": "Enables text-to-3D model generation through the Meshy API with tools for creating previews, refining models with PBR...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/fabianh001-threedee-meshy",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:48.445087",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "nissand-whoop",
+  "name": "WHOOP",
+  "provider": "nissand",
+  "description": "Integrates with WHOOP fitness API to provide access to user profiles, physiological cycles, recovery data, sleep...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/nissand-whoop",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:11.459092",
+  "metadata": {}
+}

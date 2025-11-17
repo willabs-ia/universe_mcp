@@ -1,0 +1,19 @@
+{
+  "id": "sailingcoder-grafana-analyzer",
+  "name": "Grafana",
+  "provider": "SailingCoder",
+  "description": "Connects to Grafana instances via API to enable natural language querying of metrics and dashboard data with...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 415
+  },
+  "release_date": "Jul 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/sailingcoder-grafana-analyzer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:28.836270",
+  "metadata": {}
+}

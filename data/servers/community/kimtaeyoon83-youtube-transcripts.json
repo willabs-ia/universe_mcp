@@ -1,0 +1,19 @@
+{
+  "id": "kimtaeyoon83-youtube-transcripts",
+  "name": "YouTube Transcripts",
+  "provider": "Kim Taeyoon",
+  "description": "Extract and analyze video captions and subtitles in multiple languages.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 94
+  },
+  "release_date": "Nov 29, 2024",
+  "url": "https://www.pulsemcp.com/servers/kimtaeyoon83-youtube-transcripts",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:08.393630",
+  "metadata": {}
+}

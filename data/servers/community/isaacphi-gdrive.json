@@ -1,0 +1,19 @@
+{
+  "id": "isaacphi-gdrive",
+  "name": "Google Drive & Sheets",
+  "provider": "Phil Isaac",
+  "description": "Integrates Google Drive and Sheets functionality for file operations and spreadsheet data manipulation.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 30
+  },
+  "release_date": "Dec 26, 2024",
+  "url": "https://www.pulsemcp.com/servers/isaacphi-gdrive",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:21.362990",
+  "metadata": {}
+}

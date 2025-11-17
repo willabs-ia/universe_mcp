@@ -1,0 +1,11 @@
+{
+  "id": "georgi-terziyski-ollama-sql-translator",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Translates natural language into SQL operations for database interaction via Ollama-served language models, supporting multiple model types and database operations with flexible configuration options.",
+  "url": "https://www.pulsemcp.com/clients/georgi-terziyski-ollama-sql-translator",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.495683"
+}

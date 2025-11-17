@@ -1,0 +1,16 @@
+{
+  "id": "tencent-edgeone-geo",
+  "name": "EdgeOne Geo",
+  "provider": "Tencent EdgeOne",
+  "description": "Provides lightweight geolocation retrieval by exposing an HTTP endpoint that fetches precise user location data for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/tencent-edgeone-geo",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:57.142495",
+  "metadata": {}
+}

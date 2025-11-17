@@ -1,0 +1,19 @@
+{
+  "id": "yuhuacheng-tidal-music",
+  "name": "TIDAL Music",
+  "provider": "Yuhua Cheng",
+  "description": "Integrates with TIDAL music streaming service, enabling authentication, playlist management, and personalized music...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Apr 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/yuhuacheng-tidal-music",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:57.401715",
+  "metadata": {}
+}

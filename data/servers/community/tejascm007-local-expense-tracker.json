@@ -1,0 +1,16 @@
+{
+  "id": "tejascm007-local-expense-tracker",
+  "name": "Local Expense Tracker",
+  "provider": "tejascm007",
+  "description": "Provides local SQLite-based expense tracking with predefined categorization across 19 expense categories, enabling...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/tejascm007-local-expense-tracker",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:37.515736",
+  "metadata": {}
+}

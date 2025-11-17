@@ -1,0 +1,16 @@
+{
+  "id": "nvidia-usdcode",
+  "name": "NVIDIA USDCode",
+  "provider": "ishandotsh",
+  "description": "Integrates with NVIDIA's USDCode Llama 3.1 70B model to provide specialized assistance for Isaac Sim scripting, USD...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/nvidia-usdcode",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:24.491611",
+  "metadata": {}
+}

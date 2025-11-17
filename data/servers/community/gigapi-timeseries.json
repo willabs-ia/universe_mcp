@@ -1,0 +1,19 @@
+{
+  "id": "gigapi-timeseries",
+  "name": "GigAPI",
+  "provider": "GigAPI MCP Team",
+  "description": "Integrates with GigAPI Timeseries Lake to execute SQL queries, manage databases and tables, and write time-series...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 40
+  },
+  "release_date": "Jun 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/gigapi-timeseries",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:19.232291",
+  "metadata": {}
+}

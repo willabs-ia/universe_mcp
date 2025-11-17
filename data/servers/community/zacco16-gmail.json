@@ -1,0 +1,16 @@
+{
+  "id": "zacco16-gmail",
+  "name": "Gmail",
+  "provider": "zacco16",
+  "description": "Integrates with Gmail API to enable email listing, reading, and filtering of emails.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/zacco16-gmail",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:48.542154",
+  "metadata": {}
+}

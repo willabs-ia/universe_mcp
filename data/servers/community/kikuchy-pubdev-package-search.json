@@ -1,0 +1,16 @@
+{
+  "id": "kikuchy-pubdev-package-search",
+  "name": "Pub.dev Package Search",
+  "provider": "kikuchy",
+  "description": "Enables natural language search for Dart and Flutter packages on pub.dev, providing detailed package information,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/kikuchy-pubdev-package-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:10.316944",
+  "metadata": {}
+}

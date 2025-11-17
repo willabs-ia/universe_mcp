@@ -1,0 +1,16 @@
+{
+  "id": "rakeshgangwar-formula-one-racing-data",
+  "name": "Formula One Racing Data (FastF1)",
+  "provider": "Rakesh Gangwar",
+  "description": "Provides Formula One racing data through FastF1 Python library, enabling access to race calendars, event information,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/rakeshgangwar-formula-one-racing-data",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:41.598740",
+  "metadata": {}
+}

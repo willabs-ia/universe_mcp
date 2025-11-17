@@ -1,0 +1,19 @@
+{
+  "id": "arclio-github-projects",
+  "name": "GitHub Projects V2",
+  "provider": "Arclio",
+  "description": "Integrates with GitHub Projects V2 to enable direct management of project boards, issues, and field values through...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 52
+  },
+  "release_date": "May 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/arclio-github-projects",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:14.955352",
+  "metadata": {}
+}

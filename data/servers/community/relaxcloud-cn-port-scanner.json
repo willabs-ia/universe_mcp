@@ -1,0 +1,16 @@
+{
+  "id": "relaxcloud-cn-port-scanner",
+  "name": "Port Scanner",
+  "provider": "relaxcloud-cn",
+  "description": "Provides network port scanning, HTTP service discovery, and admin directory enumeration with banner grabbing, service...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/relaxcloud-cn-port-scanner",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:00.586867",
+  "metadata": {}
+}

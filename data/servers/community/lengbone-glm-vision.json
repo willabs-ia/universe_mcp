@@ -1,0 +1,16 @@
+{
+  "id": "lengbone-glm-vision",
+  "name": "GLM-4.5V Vision",
+  "provider": "lengbone",
+  "description": "Provides image recognition and analysis using GLM-4.5V vision model with tools for general image description, code...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/lengbone-glm-vision",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:15.697729",
+  "metadata": {}
+}

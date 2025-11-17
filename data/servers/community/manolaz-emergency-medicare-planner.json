@@ -1,0 +1,16 @@
+{
+  "id": "manolaz-emergency-medicare-planner",
+  "name": "Emergency Medicare Planner",
+  "provider": "Tristan NGUYEN",
+  "description": "Integrates with Google Maps to locate and evaluate medical facilities in emergencies, providing tools for facility...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/manolaz-emergency-medicare-planner",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:10.863471",
+  "metadata": {}
+}

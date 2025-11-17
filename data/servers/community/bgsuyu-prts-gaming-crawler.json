@@ -1,0 +1,16 @@
+{
+  "id": "bgsuyu-prts-gaming-crawler",
+  "name": "PRTS Gaming Platform",
+  "provider": "BGSUYU",
+  "description": "Provides agent messaging and web crawling capabilities for PRTS gaming platform data extraction using Puppeteer...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/bgsuyu-prts-gaming-crawler",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:41.138130",
+  "metadata": {}
+}

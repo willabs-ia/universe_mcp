@@ -1,0 +1,19 @@
+{
+  "id": "kunihiros-uniquity",
+  "name": "Uniquity",
+  "provider": "Kunihiro Setogawa",
+  "description": "Analyzes GitHub repositories for code similarities, returning detailed reports in Markdown format",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "May 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/kunihiros-uniquity",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:56.907013",
+  "metadata": {}
+}

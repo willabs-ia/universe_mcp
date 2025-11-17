@@ -1,0 +1,11 @@
+{
+  "id": "anycontext-remote-chat",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Demo implementation. Chat with OpenAI via CLI. Uses SSE servers.",
+  "url": "https://www.pulsemcp.com/clients/anycontext-remote-chat",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.476150"
+}

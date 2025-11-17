@@ -1,0 +1,16 @@
+{
+  "id": "cashfree",
+  "name": "Cashfree",
+  "provider": "Cashfree",
+  "description": "Integrates with Cashfree's payment processing APIs to enable creating payment links, managing orders, processing...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "May 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/cashfree",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:36.830022",
+  "metadata": {}
+}

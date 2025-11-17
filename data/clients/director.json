@@ -1,0 +1,11 @@
+{
+  "id": "director",
+  "name": "Unknown",
+  "provider": null,
+  "description": "MCP gateway that aggregates multiple MCP servers into unified endpoints with automatic client configuration management.",
+  "url": "https://www.pulsemcp.com/clients/director",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.321462"
+}

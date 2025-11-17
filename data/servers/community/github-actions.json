@@ -1,0 +1,16 @@
+{
+  "id": "github-actions",
+  "name": "GitHub Actions",
+  "provider": "ko1ynnky",
+  "description": "Enables management of GitHub Actions workflows with tools for listing, viewing, triggering, canceling, and rerunning...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/github-actions",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:37.021265",
+  "metadata": {}
+}

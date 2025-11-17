@@ -1,0 +1,19 @@
+{
+  "id": "cookjohn-zotero",
+  "name": "Zotero",
+  "provider": "cookjohn",
+  "description": "Integrates with Zotero reference management software through a dual-component architecture to provide access to...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 553
+  },
+  "release_date": "Aug 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/cookjohn-zotero",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:24.646734",
+  "metadata": {}
+}

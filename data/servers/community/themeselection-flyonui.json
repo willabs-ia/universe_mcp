@@ -1,0 +1,19 @@
+{
+  "id": "themeselection-flyonui",
+  "name": "FlyonUI",
+  "provider": "themeselection",
+  "description": "Integrates with the FlyonUI component library to provide access to block metadata, component code, and structured...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 239
+  },
+  "release_date": "Jul 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/themeselection-flyonui",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:38.069744",
+  "metadata": {}
+}

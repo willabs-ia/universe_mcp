@@ -1,0 +1,19 @@
+{
+  "id": "financial-modeling-prep",
+  "name": "Financial Modeling Prep",
+  "provider": "Ben Rabi",
+  "description": "Integrates with Financial Modeling Prep API to provide access to real-time and historical financial data across...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 415
+  },
+  "release_date": "May 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/financial-modeling-prep",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:28.821232",
+  "metadata": {}
+}

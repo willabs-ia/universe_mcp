@@ -1,0 +1,16 @@
+{
+  "id": "web-audit",
+  "name": "Web Audit",
+  "provider": "Shen-zhihao",
+  "description": "Provides web-based security audit capabilities for Node.js projects by scanning package.json files, running npm audit...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/web-audit",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:24.503794",
+  "metadata": {}
+}

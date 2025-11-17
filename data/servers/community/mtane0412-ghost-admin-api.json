@@ -1,0 +1,19 @@
+{
+  "id": "mtane0412-ghost-admin-api",
+  "name": "Ghost Admin API",
+  "provider": "mtane0412",
+  "description": "Integrates with Ghost CMS's Admin API to enable automated content management and custom publishing workflows for...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 7
+  },
+  "release_date": "Feb 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/mtane0412-ghost-admin-api",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:39.324226",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "airjlee-stock-yahoo-finance",
+  "name": "Yahoo Finance",
+  "provider": "airjlee",
+  "description": "Integrates with Yahoo Finance to provide real-time stock market data, financial statements, company information,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/airjlee-stock-yahoo-finance",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:12.180151",
+  "metadata": {}
+}

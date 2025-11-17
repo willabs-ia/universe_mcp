@@ -1,0 +1,16 @@
+{
+  "id": "rierino",
+  "name": "Rierino",
+  "provider": "Rierino",
+  "description": "Enables organizations to expose existing APIs, event processing, or CDC flows as MCP tools while maintaining security...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Apr 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/rierino",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:22.804595",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "jerryokk-dify-workflows",
+  "name": "Dify Workflows",
+  "provider": "Jerry",
+  "description": "Enables dynamic tool discovery and execution across multiple Dify AI applications by automatically loading...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/jerryokk-dify-workflows",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:59.239195",
+  "metadata": {}
+}

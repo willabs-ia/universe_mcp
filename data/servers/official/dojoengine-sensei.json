@@ -1,0 +1,19 @@
+{
+  "id": "dojoengine-sensei",
+  "name": "Sensei (Dojo)",
+  "provider": "Dojo Engine",
+  "description": "Provides specialized guidance for Starknet ecosystem development with Cairo programming and Entity Component System...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/dojoengine-sensei",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:50.916861",
+  "metadata": {}
+}

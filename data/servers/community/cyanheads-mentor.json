@@ -1,0 +1,16 @@
+{
+  "id": "cyanheads-mentor",
+  "name": "Mentor (Deepseek)",
+  "provider": "cyanheads",
+  "description": "Integrates with Deepseek API to provide AI-powered mentorship capabilities for code review, design critique, writing...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/cyanheads-mentor",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:52.954192",
+  "metadata": {}
+}

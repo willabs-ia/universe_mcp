@@ -1,0 +1,16 @@
+{
+  "id": "kukapay-dexscreener-liquidity-pools",
+  "name": "DexScreener",
+  "provider": "kukapay",
+  "description": "Integrates with DexScreener API to track and analyze DEX liquidity pools across blockchain networks, providing...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/kukapay-dexscreener-liquidity-pools",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:17.839729",
+  "metadata": {}
+}

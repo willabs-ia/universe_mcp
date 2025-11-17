@@ -1,0 +1,16 @@
+{
+  "id": "chuanmingliu-webresearch",
+  "name": "Web Research",
+  "provider": "Chuanming Liu",
+  "description": "Enables web browsing capabilities through Google searches and webpage content extraction using Playwright for browser...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/chuanmingliu-webresearch",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:21.488892",
+  "metadata": {}
+}

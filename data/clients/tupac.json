@@ -1,0 +1,11 @@
+{
+  "id": "tupac",
+  "name": "Unknown",
+  "provider": null,
+  "description": "CLI tool for interacting with OpenAI's chat completion API while integrating external tools through configurable JSON settings, intelligent resource caching, and retry logic for prototyping AI applications with extended functionality.",
+  "url": "https://www.pulsemcp.com/clients/tupac",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.472742"
+}

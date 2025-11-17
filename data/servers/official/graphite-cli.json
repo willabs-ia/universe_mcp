@@ -1,0 +1,16 @@
+{
+  "id": "graphite-cli",
+  "name": "Graphite",
+  "provider": "Graphite",
+  "description": "Tool for managing code reviews in the age of AI: enable developers (and agents) to work with multiple dependent...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Jul 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/graphite-cli",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:25.014158",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "docnav",
+  "name": "DocNav",
+  "provider": "shenyimings",
+  "description": "Transforms long-form documents into hierarchical tree structures with navigable sections, enabling systematic...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/docnav",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:05.091095",
+  "metadata": {}
+}

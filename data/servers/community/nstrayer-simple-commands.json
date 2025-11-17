@@ -1,0 +1,16 @@
+{
+  "id": "nstrayer-simple-commands",
+  "name": "Simple Commands",
+  "provider": "Nick Strayer",
+  "description": "Enables execution of predefined developer commands and management of long-running processes through JSON...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/nstrayer-simple-commands",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:22.112451",
+  "metadata": {}
+}

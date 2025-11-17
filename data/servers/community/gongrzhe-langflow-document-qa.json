@@ -1,0 +1,16 @@
+{
+  "id": "gongrzhe-langflow-document-qa",
+  "name": "Langflow Document QA",
+  "provider": "gongrzhe",
+  "description": "Connects Claude Desktop to a Langflow-powered document question-answering system through a query_docs tool that...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/gongrzhe-langflow-document-qa",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:34.880288",
+  "metadata": {}
+}

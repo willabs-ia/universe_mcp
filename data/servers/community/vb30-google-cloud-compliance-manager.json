@@ -1,0 +1,16 @@
+{
+  "id": "vb30-google-cloud-compliance-manager",
+  "name": "Google Cloud Compliance Manager",
+  "provider": "Varun Bhardwaj",
+  "description": "Integrates with Google Cloud Compliance Manager to discover, deploy, and manage compliance frameworks like CIS, NIST,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/vb30-google-cloud-compliance-manager",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:35.310001",
+  "metadata": {}
+}

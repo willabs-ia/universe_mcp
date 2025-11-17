@@ -1,0 +1,19 @@
+{
+  "id": "ttjslbz001-akshare",
+  "name": "AKShare (Chinese Financial Data)",
+  "provider": "ttjslbz001",
+  "description": "Integrates with AKShare to provide real-time financial data and analysis tools for Chinese and global markets,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/ttjslbz001-akshare",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:46.664271",
+  "metadata": {}
+}

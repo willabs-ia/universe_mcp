@@ -1,0 +1,16 @@
+{
+  "id": "rayyokoyama-qase",
+  "name": "Qase",
+  "provider": "Ray Yokoyama",
+  "description": "Provides a bridge to Qase test management platform for automated test case management and reporting through the Qase API",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/rayyokoyama-qase",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:52.890821",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "gradion-ai-ipybox",
+  "name": "ipybox",
+  "provider": "Gradion AI",
+  "description": "Provides secure Python code execution in Docker containers with stateful IPython kernels, real-time output streaming,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 537
+  },
+  "release_date": "Aug 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/gradion-ai-ipybox",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:24.652003",
+  "metadata": {}
+}

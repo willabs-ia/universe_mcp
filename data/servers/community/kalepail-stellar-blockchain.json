@@ -1,0 +1,16 @@
+{
+  "id": "kalepail-stellar-blockchain",
+  "name": "Stellar Blockchain",
+  "provider": "kalepail",
+  "description": "Integrates with Stellar blockchain to enable wallet management, token deployment, and smart contract interactions on...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/kalepail-stellar-blockchain",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:12.733606",
+  "metadata": {}
+}

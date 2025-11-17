@@ -1,0 +1,16 @@
+{
+  "id": "supertypeai-sectors-financial-data",
+  "name": "Sectors Financial Data",
+  "provider": "Supertype",
+  "description": "Provides structured access to financial sector data through tools for retrieving subsectors, industries, index data,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/supertypeai-sectors-financial-data",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:34.893597",
+  "metadata": {}
+}

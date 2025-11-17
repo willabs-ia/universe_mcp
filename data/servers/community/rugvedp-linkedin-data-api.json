@@ -1,0 +1,16 @@
+{
+  "id": "rugvedp-linkedin-data-api",
+  "name": "LinkedIn Data API",
+  "provider": "Rugved Patil",
+  "description": "Integrates with LinkedIn Data API to fetch, analyze, and search posts by username, keywords, date ranges, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/rugvedp-linkedin-data-api",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:23.616866",
+  "metadata": {}
+}

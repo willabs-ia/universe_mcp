@@ -1,0 +1,16 @@
+{
+  "id": "aws-kb",
+  "name": "AWS Knowledge Base",
+  "provider": "Sam McLeod",
+  "description": "Integrates with AWS Knowledge Bases to retrieve information using Bedrock Agent Runtime, enabling RAG operations with...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/aws-kb",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:07.884976",
+  "metadata": {}
+}

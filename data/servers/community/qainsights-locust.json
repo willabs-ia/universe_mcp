@@ -1,0 +1,16 @@
+{
+  "id": "qainsights-locust",
+  "name": "Locust",
+  "provider": "NaveenKumar Namachivayam",
+  "description": "Enables natural language control of Locust load testing operations, allowing configuration and execution of...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/qainsights-locust",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:03.506340",
+  "metadata": {}
+}

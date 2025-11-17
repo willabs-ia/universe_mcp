@@ -1,0 +1,19 @@
+{
+  "id": "jkawamoto-youtube-transcript",
+  "name": "YouTube Transcripts",
+  "provider": "Junpei Kawamoto",
+  "description": "Integrates with YouTube's transcript API to retrieve and process captions from video URLs, enabling content analysis...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 553
+  },
+  "release_date": "Feb 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/jkawamoto-youtube-transcript",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:24.614869",
+  "metadata": {}
+}

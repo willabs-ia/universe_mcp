@@ -1,0 +1,19 @@
+{
+  "id": "sunriseapps-imagesorcery",
+  "name": "ImageSorcery",
+  "provider": "Sunrise Apps",
+  "description": "Provides powerful image manipulation capabilities including resizing, cropping, object detection, OCR text...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 391
+  },
+  "release_date": "May 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/sunriseapps-imagesorcery",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:28.854792",
+  "metadata": {}
+}

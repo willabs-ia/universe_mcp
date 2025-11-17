@@ -1,0 +1,16 @@
+{
+  "id": "keonchennl-graphdb",
+  "name": "GraphDB",
+  "provider": "Keon Chen",
+  "description": "Provides read-only access to Ontotext GraphDB repositories, enabling exploration of RDF graphs through SPARQL queries...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/keonchennl-graphdb",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:46.268817",
+  "metadata": {}
+}

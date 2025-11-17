@@ -1,0 +1,16 @@
+{
+  "id": "veoery-grasshopper-3d",
+  "name": "Grasshopper 3D",
+  "provider": "veoery",
+  "description": "Integrates with Rhino/Grasshopper 3D modeling software to enable parametric design and geometric analysis through...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/veoery-grasshopper-3d",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:32.694069",
+  "metadata": {}
+}

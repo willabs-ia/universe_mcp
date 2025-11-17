@@ -1,0 +1,19 @@
+{
+  "id": "baryhuang-any-openapi",
+  "name": "Any OpenAPI",
+  "provider": "Bary Huang",
+  "description": "Integrates with any OpenAPI-compliant service using dynamic tool generation and vector-based semantic search for...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Feb 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/baryhuang-any-openapi",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:46.627226",
+  "metadata": {}
+}

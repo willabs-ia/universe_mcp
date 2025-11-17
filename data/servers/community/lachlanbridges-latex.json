@@ -1,0 +1,16 @@
+{
+  "id": "lachlanbridges-latex",
+  "name": "LaTeX Document Compiler",
+  "provider": "Lachlan Bridges",
+  "description": "Provides complete LaTeX document compilation and generation capabilities through a Docker-containerized TeXLive...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/lachlanbridges-latex",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:19.899343",
+  "metadata": {}
+}

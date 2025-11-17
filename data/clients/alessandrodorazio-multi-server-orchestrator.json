@@ -1,0 +1,11 @@
+{
+  "id": "alessandrodorazio-multi-server-orchestrator",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Enables Claude to interact with MCP servers, leveraging their tools for enhanced capabilities via a command-line interface supporting Python and JavaScript servers.",
+  "url": "https://www.pulsemcp.com/clients/alessandrodorazio-multi-server-orchestrator",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.519511"
+}

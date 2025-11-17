@@ -1,0 +1,19 @@
+{
+  "id": "iqai-iqwiki",
+  "name": "IQ.wiki",
+  "provider": "IQAI",
+  "description": "Provides structured access to IQ.wiki's blockchain encyclopedia data through GraphQL queries for retrieving specific...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "May 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/iqai-iqwiki",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:56.909910",
+  "metadata": {}
+}

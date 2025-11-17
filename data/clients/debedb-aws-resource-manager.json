@@ -1,0 +1,11 @@
+{
+  "id": "debedb-aws-resource-manager",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Integrates with AWS services to manage resources like S3 buckets and Fargate deployments using AWS CLI or boto3, supporting multiple AWS profiles.",
+  "url": "https://www.pulsemcp.com/clients/debedb-aws-resource-manager",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.550689"
+}

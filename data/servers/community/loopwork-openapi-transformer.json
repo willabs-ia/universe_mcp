@@ -1,0 +1,19 @@
+{
+  "id": "loopwork-openapi-transformer",
+  "name": "OpenAPI Transformer",
+  "provider": "Loopwork",
+  "description": "Transforms OpenAPI specifications into ready-to-use tools that enable seamless interaction with REST APIs through...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 553
+  },
+  "release_date": "Apr 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/loopwork-openapi-transformer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:24.637706",
+  "metadata": {}
+}

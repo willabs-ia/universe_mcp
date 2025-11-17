@@ -1,0 +1,16 @@
+{
+  "id": "tailabs-milvus",
+  "name": "Milvus",
+  "provider": "TaiLabs",
+  "description": "Integrates with Milvus vector database to enable collection creation with custom schemas, vector similarity search...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/tailabs-milvus",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:52.028652",
+  "metadata": {}
+}

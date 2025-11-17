@@ -1,0 +1,19 @@
+{
+  "id": "coji-journal",
+  "name": "Journal",
+  "provider": "coji",
+  "description": "Provides personal journaling capabilities through markdown file storage with time-stamped entries, automatic hashtag...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/coji-journal",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:59.071455",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "uraoz-bouyomi-chan",
+  "name": "Bouyomi-chan",
+  "provider": "uraoz",
+  "description": "Integrates with Bouyomi-chan Japanese TTS software to convert text into spoken audio with configurable voice...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/uraoz-bouyomi-chan",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:19.928391",
+  "metadata": {}
+}

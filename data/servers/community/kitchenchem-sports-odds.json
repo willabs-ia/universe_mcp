@@ -1,0 +1,16 @@
+{
+  "id": "kitchenchem-sports-odds",
+  "name": "The Odds API",
+  "provider": "kitchenchem",
+  "description": "Provides a bridge to The Odds API for accessing sports betting data including available sports, odds comparisons...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/kitchenchem-sports-odds",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:54.984586",
+  "metadata": {}
+}

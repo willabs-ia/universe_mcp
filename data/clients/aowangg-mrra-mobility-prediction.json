@@ -1,0 +1,11 @@
+{
+  "id": "aowangg-mrra-mobility-prediction",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Multi-agent mobility prediction system that constructs graph representations from GPS trajectory data and uses specialized reflection agents to predict next positions, forecast future locations, and generate complete daily movement patterns through GraphRAG retrieval and confidence-weighted voting.",
+  "url": "https://www.pulsemcp.com/clients/aowangg-mrra-mobility-prediction",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.491273"
+}

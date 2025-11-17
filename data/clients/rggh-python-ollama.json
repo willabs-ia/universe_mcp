@@ -1,0 +1,11 @@
+{
+  "id": "rggh-python-ollama",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Enables interaction with multiple MCP servers using Docker containers, integrating SQLite, PostgreSQL, and a fetch tool for natural language-driven tasks via the OpenAI API.",
+  "url": "https://www.pulsemcp.com/clients/rggh-python-ollama",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.521963"
+}

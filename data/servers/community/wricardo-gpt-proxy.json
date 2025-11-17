@@ -1,0 +1,16 @@
+{
+  "id": "wricardo-gpt-proxy",
+  "name": "GPT-MCP-Proxy",
+  "provider": "wricardo",
+  "description": "Bridges HTTP clients with tool servers, enabling tool discovery and execution via REST endpoints, featuring automatic...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/wricardo-gpt-proxy",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:12.980770",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "aarushkx-covid-statistics",
+  "name": "COVID-19 Statistics",
+  "provider": "Aarush K",
+  "description": "Provides real-time COVID-19 statistics by connecting to the disease.sh API, delivering case counts, deaths,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/aarushkx-covid-statistics",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:32.709356",
+  "metadata": {}
+}

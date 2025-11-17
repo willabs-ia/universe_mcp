@@ -1,0 +1,19 @@
+{
+  "id": "last9-observability",
+  "name": "Last9 Observability",
+  "provider": "Last9",
+  "description": "Integrates with Last9's observability platform to enable exception retrieval and service dependency analysis for...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/last9-observability",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:53.172309",
+  "metadata": {}
+}

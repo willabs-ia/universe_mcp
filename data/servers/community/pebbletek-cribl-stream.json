@@ -1,0 +1,19 @@
+{
+  "id": "pebbletek-cribl-stream",
+  "name": "Cribl Stream",
+  "provider": "PebbleTek",
+  "description": "Integrates with Cribl Stream deployments to enable management of configurations, pipelines, sources, and system...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 3
+  },
+  "release_date": "Apr 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/pebbletek-cribl-stream",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:50.173702",
+  "metadata": {}
+}

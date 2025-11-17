@@ -1,0 +1,16 @@
+{
+  "id": "askjohngeorge-doc-scraper",
+  "name": "Doc Scraper (Jina.ai)",
+  "provider": "John George",
+  "description": "Converts web documentation to clean markdown using Jina.ai's API, enabling easy transformation of online docs for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/askjohngeorge-doc-scraper",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:50.793404",
+  "metadata": {}
+}

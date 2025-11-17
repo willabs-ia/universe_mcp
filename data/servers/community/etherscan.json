@@ -1,0 +1,16 @@
+{
+  "id": "etherscan",
+  "name": "Etherscan",
+  "provider": "OTC AI",
+  "description": "Integrates with Etherscan's API to provide Ethereum blockchain data tools for checking balances, viewing...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/etherscan",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:12.211324",
+  "metadata": {}
+}

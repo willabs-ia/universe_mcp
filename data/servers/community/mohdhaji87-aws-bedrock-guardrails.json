@@ -1,0 +1,16 @@
+{
+  "id": "mohdhaji87-aws-bedrock-guardrails",
+  "name": "AWS Bedrock Guardrails",
+  "provider": "mohdhaji87",
+  "description": "Provides complete AWS Bedrock Guardrails management with full CRUD operations for all policy types including content...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/mohdhaji87-aws-bedrock-guardrails",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:25.009810",
+  "metadata": {}
+}

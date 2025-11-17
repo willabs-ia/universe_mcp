@@ -1,0 +1,16 @@
+{
+  "id": "seriawei-developer-name",
+  "name": "Developer Name",
+  "provider": "Wayne Wei",
+  "description": "Provides customizable developer information through a lightweight Node.js server that can be run via npx command or...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/seriawei-developer-name",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:21.514898",
+  "metadata": {}
+}

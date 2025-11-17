@@ -1,0 +1,16 @@
+{
+  "id": "runninghare-typescript-definition-finder",
+  "name": "TypeScript Definition Finder",
+  "provider": "runninghare",
+  "description": "Provides TypeScript symbol definition lookup by leveraging the TypeScript Language Service to locate original...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/runninghare-typescript-definition-finder",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:16.411706",
+  "metadata": {}
+}

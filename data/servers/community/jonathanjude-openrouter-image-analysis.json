@@ -1,0 +1,19 @@
+{
+  "id": "jonathanjude-openrouter-image-analysis",
+  "name": "OpenRouter Image Analysis",
+  "provider": "JonathanJude",
+  "description": "Provides image analysis capabilities through OpenRouter's vision models, supporting base64, file paths, and URLs with...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 2
+  },
+  "release_date": "Oct 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/jonathanjude-openrouter-image-analysis",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:54.721376",
+  "metadata": {}
+}

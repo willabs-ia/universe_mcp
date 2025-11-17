@@ -1,0 +1,19 @@
+{
+  "id": "ecnu3d-universal-image-generator",
+  "name": "Universal Image Generator",
+  "provider": "Tony Wang",
+  "description": "Provides multi-provider image generation and transformation capabilities across Google Gemini, ZhipuAI, and Alibaba...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 38
+  },
+  "release_date": "Jul 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/ecnu3d-universal-image-generator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:19.242118",
+  "metadata": {}
+}

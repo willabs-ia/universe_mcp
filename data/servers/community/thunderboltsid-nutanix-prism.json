@@ -1,0 +1,16 @@
+{
+  "id": "thunderboltsid-nutanix-prism",
+  "name": "Nutanix Prism Central",
+  "provider": "Sid Shukla",
+  "description": "Bridges to Nutanix's Prism Central API, enabling infrastructure teams to query and monitor virtualized resources like...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/thunderboltsid-nutanix-prism",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:05.662426",
+  "metadata": {}
+}

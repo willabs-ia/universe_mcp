@@ -1,0 +1,16 @@
+{
+  "id": "cdata-ebay-jdbc",
+  "name": "eBay (CData JDBC)",
+  "provider": "CData Software",
+  "description": "Provides access to eBay data through JDBC connections, enabling SQL queries for data discovery, metadata retrieval,...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/cdata-ebay-jdbc",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:17.786303",
+  "metadata": {}
+}

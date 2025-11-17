@@ -1,0 +1,16 @@
+{
+  "id": "yuzongmin-memory-manager",
+  "name": "Memory Manager",
+  "provider": "YU Zongmin",
+  "description": "Manages and switches between memory paths for clients, enabling organized context management across multiple AI...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/yuzongmin-memory-manager",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:01.228735",
+  "metadata": {}
+}

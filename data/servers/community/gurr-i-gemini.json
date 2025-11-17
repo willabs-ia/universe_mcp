@@ -1,0 +1,16 @@
+{
+  "id": "gurr-i-gemini",
+  "name": "Gemini",
+  "provider": "Gurveer",
+  "description": "Integrates with Google's Gemini AI models including the 2.5 series with thinking capabilities, vision models, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/gurr-i-gemini",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:05.105734",
+  "metadata": {}
+}

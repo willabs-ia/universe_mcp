@@ -1,0 +1,16 @@
+{
+  "id": "vikrant-khedkar-api-tester-openai",
+  "name": "API Tester (OpenAI)",
+  "provider": "Vikrant Khedkar",
+  "description": "Integrates with OpenAI's APIs to provide tools for API testing, text generation, image creation, and HTTP request...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/vikrant-khedkar-api-tester-openai",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:05.765437",
+  "metadata": {}
+}

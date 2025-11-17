@@ -1,0 +1,19 @@
+{
+  "id": "dhakalnirajan-blender",
+  "name": "Blender Open MCP",
+  "provider": "Nirajan Dhakal",
+  "description": "Integrates Blender with local AI models via Ollama, enabling natural language control of 3D modeling tasks including...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "Mar 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/dhakalnirajan-blender",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:33.787816",
+  "metadata": {}
+}

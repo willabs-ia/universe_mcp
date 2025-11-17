@@ -1,0 +1,16 @@
+{
+  "id": "davidorex-git-forensics",
+  "name": "Git Forensics",
+  "provider": "David Orex",
+  "description": "Provides deep git repository analysis tools for branch overview, time period examination, and merge recommendations...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/davidorex-git-forensics",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:57.197004",
+  "metadata": {}
+}

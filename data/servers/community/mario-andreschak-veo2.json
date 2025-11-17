@@ -1,0 +1,16 @@
+{
+  "id": "mario-andreschak-veo2",
+  "name": "Veo2 Video Generation",
+  "provider": "Mario Andreschak",
+  "description": "Enables video generation from text prompts or images with configurable options like aspect ratio and duration,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/mario-andreschak-veo2",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:23.736511",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rekklesnna-proxmox",
+  "name": "Proxmox",
+  "provider": "Kevin",
+  "description": "Enables AI systems to manage Proxmox virtualization environments with tools for monitoring nodes, controlling virtual...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 415
+  },
+  "release_date": "May 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/rekklesnna-proxmox",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:28.818394",
+  "metadata": {}
+}

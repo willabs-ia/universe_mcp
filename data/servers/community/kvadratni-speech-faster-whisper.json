@@ -1,0 +1,19 @@
+{
+  "id": "kvadratni-speech-faster-whisper",
+  "name": "Speech Interface (Faster Whisper)",
+  "provider": "Max Novich",
+  "description": "Integrates voice interaction capabilities using faster-whisper and PyAudio for speech recognition and synthesis,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 124
+  },
+  "release_date": "Mar 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/kvadratni-speech-faster-whisper",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:06.209420",
+  "metadata": {}
+}

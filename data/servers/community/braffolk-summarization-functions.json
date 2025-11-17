@@ -1,0 +1,19 @@
+{
+  "id": "braffolk-summarization-functions",
+  "name": "Summarization",
+  "provider": "Remi Sebastian Kits",
+  "description": "Provides summarized output from various actions, optimizing token usage for efficient processing of large datasets...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Dec 26, 2024",
+  "url": "https://www.pulsemcp.com/servers/braffolk-summarization-functions",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:54.734022",
+  "metadata": {}
+}

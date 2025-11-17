@@ -1,0 +1,16 @@
+{
+  "id": "interactive-feedback",
+  "name": "Interactive Feedback",
+  "provider": "zivhdinfo",
+  "description": "Enables human-in-the-loop workflows by launching a browser interface where users can provide interactive feedback...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/interactive-feedback",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:05.096541",
+  "metadata": {}
+}

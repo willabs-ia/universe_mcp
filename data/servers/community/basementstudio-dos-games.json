@@ -1,0 +1,19 @@
+{
+  "id": "basementstudio-dos-games",
+  "name": "DOS Games",
+  "provider": "Basement Studio",
+  "description": "Provides access to classic DOS games including DOOM, Super Mario, Tetris, and Duke Nukem 3D through a web-based...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 2
+  },
+  "release_date": "Jul 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/basementstudio-dos-games",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:52.314549",
+  "metadata": {}
+}

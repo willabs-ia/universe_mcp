@@ -1,0 +1,16 @@
+{
+  "id": "jetbalsa-opensearch-analytics",
+  "name": "Wazuh OpenSearch Analytics",
+  "provider": "jetbalsa",
+  "description": "Enables security analysts to query, analyze, and visualize Wazuh security logs stored in OpenSearch databases for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/jetbalsa-opensearch-analytics",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:48.411425",
+  "metadata": {}
+}

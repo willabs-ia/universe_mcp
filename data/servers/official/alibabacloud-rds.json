@@ -1,0 +1,16 @@
+{
+  "id": "alibabacloud-rds",
+  "name": "Alibaba Cloud RDS",
+  "provider": "Alibaba Cloud",
+  "description": "Provides a bridge to Alibaba Cloud's Relational Database Service (RDS) for managing database instances, monitoring...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Apr 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/alibabacloud-rds",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:21.347878",
+  "metadata": {}
+}

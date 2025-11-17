@@ -1,0 +1,16 @@
+{
+  "id": "tonypan2-minesweeper",
+  "name": "Minesweeper",
+  "provider": "Tony Pan",
+  "description": "Enables Claude to play Minesweeper through a bridge that translates game actions into API calls and returns game...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/tonypan2-minesweeper",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:30.544910",
+  "metadata": {}
+}

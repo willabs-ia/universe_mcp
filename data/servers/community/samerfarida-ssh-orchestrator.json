@@ -1,0 +1,16 @@
+{
+  "id": "samerfarida-ssh-orchestrator",
+  "name": "SSH Orchestrator",
+  "provider": "Sammy Farida",
+  "description": "Provides secure SSH fleet orchestration with policy-enforced command execution across multiple servers, featuring...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/samerfarida-ssh-orchestrator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:37.529278",
+  "metadata": {}
+}

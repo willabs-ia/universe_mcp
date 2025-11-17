@@ -1,0 +1,11 @@
+{
+  "id": "jeomon-agent",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Intelligent agent framework that dynamically connects to multiple MCP servers, automatically discovers and installs tools from GitHub repositories, and orchestrates complex workflows using episodic memory and reasoning-action-observation loops across various LLM providers.",
+  "url": "https://www.pulsemcp.com/clients/jeomon-agent",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.464887"
+}

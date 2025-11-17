@@ -1,0 +1,16 @@
+{
+  "id": "hkopenai-hk-transportation",
+  "name": "Hong Kong Immigration Department",
+  "provider": "Neo Chow",
+  "description": "Provides access to Hong Kong Immigration Department daily passenger traffic statistics since 2021, breaking down...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/hkopenai-hk-transportation",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:22.833730",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "wrale-tree-sitter",
+  "name": "Tree-sitter",
+  "provider": "Joshua M. Dotson",
+  "description": "Provides code analysis capabilities through tree-sitter parsing, enabling structured understanding and manipulation...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 507
+  },
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/wrale-tree-sitter",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:24.657194",
+  "metadata": {}
+}

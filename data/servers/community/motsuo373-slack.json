@@ -1,0 +1,16 @@
+{
+  "id": "motsuo373-slack",
+  "name": "Slack",
+  "provider": "motsuo373",
+  "description": "Integrates with Slack workspaces to enable channel management, message posting, thread handling, reaction adding,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/motsuo373-slack",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:18.536187",
+  "metadata": {}
+}

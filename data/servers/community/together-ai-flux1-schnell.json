@@ -1,0 +1,19 @@
+{
+  "id": "together-ai-flux1-schnell",
+  "name": "Together AI (Flux.1 Schnell)",
+  "provider": "Manas Bavaskar",
+  "description": "Integrates with Together AI's Flux.1 Schnell model to provide high-quality image generation with customizable...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 32
+  },
+  "release_date": "Feb 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/together-ai-flux1-schnell",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:21.347674",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "arjunkmrm-singapore-lta",
+  "name": "Singapore LTA",
+  "provider": "Arjun Kumar M",
+  "description": "Integrates with Singapore's Land Transport Authority DataMall API to provide real-time transportation information for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/arjunkmrm-singapore-lta",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:59.317464",
+  "metadata": {}
+}

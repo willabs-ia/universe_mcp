@@ -1,0 +1,19 @@
+{
+  "id": "k-dense-ai-claude-skills",
+  "name": "Claude Skills",
+  "provider": "K-Dense AI",
+  "description": "Enables semantic search and retrieval of specialized coding skills from GitHub repositories and local directories,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 332
+  },
+  "release_date": "Oct 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/k-dense-ai-claude-skills",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:31.047660",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "huccihuang-bilibili-search",
+  "name": "Bilibili Search",
+  "provider": "Hucci Huang",
+  "description": "Enables search across Bilibili's Chinese video platform through a lightweight FastMCP interface that retrieves video...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/huccihuang-bilibili-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:32.690209",
+  "metadata": {}
+}

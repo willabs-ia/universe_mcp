@@ -1,0 +1,16 @@
+{
+  "id": "ticketmaster-live-events",
+  "name": "Ticketmaster Live Events",
+  "provider": "Matt Lane",
+  "description": "Connects AI assistants to Ticketmaster's API for searching and discovering upcoming music events by location, date...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/ticketmaster-live-events",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:48.439812",
+  "metadata": {}
+}

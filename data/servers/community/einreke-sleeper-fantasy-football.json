@@ -1,0 +1,16 @@
+{
+  "id": "einreke-sleeper-fantasy-football",
+  "name": "Sleeper Fantasy Football",
+  "provider": "einreke",
+  "description": "Integrates with Sleeper Fantasy Football API to provide complete access to user profiles, league data, rosters,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/einreke-sleeper-fantasy-football",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:17.801194",
+  "metadata": {}
+}

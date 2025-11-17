@@ -1,0 +1,16 @@
+{
+  "id": "zxsimple-fetch-tool",
+  "name": "Simple Fetch Tool",
+  "provider": "gh-zxsimple",
+  "description": "Exposes a website fetching tool.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/zxsimple-fetch-tool",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:20.725809",
+  "metadata": {}
+}

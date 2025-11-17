@@ -1,0 +1,16 @@
+{
+  "id": "contemplation",
+  "name": "Contemplation",
+  "provider": "MikeyBeez",
+  "description": "Provides continuous background cognitive processing through local Ollama models that analyze conversations for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/contemplation",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:58.319093",
+  "metadata": {}
+}

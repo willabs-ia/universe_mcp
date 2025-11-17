@@ -1,0 +1,19 @@
+{
+  "id": "michaelneale-deepseek-r1-reasoner",
+  "name": "Deepseek R1 Reasoner",
+  "provider": "Michael Neale",
+  "description": "Leverages Deepseek r1 for local reasoning and task planning, enabling autonomous decision-making while maintaining...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 2
+  },
+  "release_date": "Feb 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/michaelneale-deepseek-r1-reasoner",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:50.223784",
+  "metadata": {}
+}

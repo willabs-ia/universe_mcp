@@ -1,0 +1,16 @@
+{
+  "id": "atlan-data-catalog",
+  "name": "Atlan Data Catalog",
+  "provider": "Atlan",
+  "description": "Provides a bridge between AI agents and Atlan data catalog services for searching, retrieving, traversing lineage,...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Apr 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/atlan-data-catalog",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:23.751947",
+  "metadata": {}
+}

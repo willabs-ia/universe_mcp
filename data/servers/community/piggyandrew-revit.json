@@ -1,0 +1,16 @@
+{
+  "id": "piggyandrew-revit",
+  "name": "Revit",
+  "provider": "PiggyYan",
+  "description": "Integrates with Autodesk Revit through WebSocket communication to enable real-time access to BIM model data, element...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/piggyandrew-revit",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:27.153649",
+  "metadata": {}
+}

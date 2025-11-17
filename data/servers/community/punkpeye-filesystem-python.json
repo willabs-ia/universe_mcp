@@ -1,0 +1,16 @@
+{
+  "id": "punkpeye-filesystem-python",
+  "name": "Filesystem (Python)",
+  "provider": "punkpeye",
+  "description": "Provides secure, read-only access to local files, enabling file search and analysis while respecting .gitignore...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/punkpeye-filesystem-python",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:42.199720",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cyanheads-github",
+  "name": "GitHub",
+  "provider": "cyanheads",
+  "description": "Integrates with GitHub's API to enable repository management, code manipulation, issue tracking, and pull request...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/cyanheads-github",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:41.622747",
+  "metadata": {}
+}

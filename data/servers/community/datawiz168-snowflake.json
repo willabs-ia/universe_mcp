@@ -1,0 +1,16 @@
+{
+  "id": "datawiz168-snowflake",
+  "name": "Snowflake",
+  "provider": "datawiz168",
+  "description": "Integration with Snowflake databases, enabling execution of SQL queries and analysis of enterprise data.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 7, 2024",
+  "url": "https://www.pulsemcp.com/servers/datawiz168-snowflake",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:31.511961",
+  "metadata": {}
+}

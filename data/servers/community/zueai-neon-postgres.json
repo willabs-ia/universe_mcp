@@ -1,0 +1,16 @@
+{
+  "id": "zueai-neon-postgres",
+  "name": "Neon Postgres",
+  "provider": "zueai",
+  "description": "Provides a lightweight interface to Neon's serverless Postgres database, enabling project, branch, and endpoint...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/zueai-neon-postgres",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:04.161320",
+  "metadata": {}
+}

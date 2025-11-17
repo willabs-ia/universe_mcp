@@ -1,0 +1,19 @@
+{
+  "id": "dhravya-apple-native-tools",
+  "name": "Apple Native Tools",
+  "provider": "Dhravya Shah",
+  "description": "Integrates with Apple's native applications to enable searching contacts, managing notes, and sending messages within...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 18
+  },
+  "release_date": "Feb 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/dhravya-apple-native-tools",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:25.902660",
+  "metadata": {}
+}

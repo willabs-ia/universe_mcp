@@ -1,0 +1,16 @@
+{
+  "id": "akashcf-dotnet-mssql",
+  "name": "SQL Server",
+  "provider": "akashCF",
+  "description": "Integrates with SQL Server databases to execute queries, manage schemas, run stored procedures, and perform data...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/akashcf-dotnet-mssql",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:45.488931",
+  "metadata": {}
+}

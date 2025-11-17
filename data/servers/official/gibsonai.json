@@ -1,0 +1,16 @@
+{
+  "id": "gibsonai",
+  "name": "Gibson AI",
+  "provider": "Gibson AI",
+  "description": "Allows interaction with GibsonAI cloud databases.",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Apr 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/gibsonai",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:22.796738",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "eliasuran-google-calendar",
+  "name": "Google Calendar",
+  "provider": "Elias Rissanen Uran",
+  "description": "Integrates the Google Calendar API to enable querying, creation, and modification of calendar entries and events.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 2
+  },
+  "release_date": "Dec 13, 2024",
+  "url": "https://www.pulsemcp.com/servers/eliasuran-google-calendar",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:50.215504",
+  "metadata": {}
+}

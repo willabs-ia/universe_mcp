@@ -1,0 +1,19 @@
+{
+  "id": "btwiuse-npm-search",
+  "name": "Npm Search",
+  "provider": "btwiuse",
+  "description": "Enables npm package searches via CLI, facilitating JavaScript library discovery and dependency management",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 155
+  },
+  "release_date": "Jan 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/btwiuse-npm-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:42.281778",
+  "metadata": {}
+}

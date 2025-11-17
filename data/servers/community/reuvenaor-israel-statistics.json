@@ -1,0 +1,19 @@
+{
+  "id": "reuvenaor-israel-statistics",
+  "name": "Israel Statistics (CBS)",
+  "provider": "Reuven Naor",
+  "description": "Integrates with the Israeli Central Bureau of Statistics API to retrieve economic data including consumer price...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 5
+  },
+  "release_date": "Aug 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/reuvenaor-israel-statistics",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:43.644443",
+  "metadata": {}
+}

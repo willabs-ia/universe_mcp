@@ -1,0 +1,19 @@
+{
+  "id": "sonirico-shell",
+  "name": "Shell Command Executor",
+  "provider": "Marquitos",
+  "description": "Provides a secure interface for executing controlled shell commands with comprehensive security features including...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "May 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/sonirico-shell",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:57.426119",
+  "metadata": {}
+}

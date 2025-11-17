@@ -1,0 +1,16 @@
+{
+  "id": "oxc-ast",
+  "name": "OXC AST Parser",
+  "provider": "leaysgur",
+  "description": "Provides direct access to the OXC JavaScript/TypeScript parser for parsing code into ASTs, validating syntax and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/oxc-ast",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:05.097901",
+  "metadata": {}
+}

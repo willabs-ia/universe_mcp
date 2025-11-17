@@ -1,0 +1,16 @@
+{
+  "id": "amotivv-cloudflare-browser-rendering",
+  "name": "Cloudflare Browser Rendering",
+  "provider": "Amotivv",
+  "description": "Integrates with Cloudflare's Browser Rendering API to enable web scraping and screenshot capture using Puppeteer for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/amotivv-cloudflare-browser-rendering",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:06.440905",
+  "metadata": {}
+}

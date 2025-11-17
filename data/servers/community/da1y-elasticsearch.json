@@ -1,0 +1,16 @@
+{
+  "id": "da1y-elasticsearch",
+  "name": "Elasticsearch",
+  "provider": "da1y",
+  "description": "Integrates with Elasticsearch to enable index management, document indexing, and powerful search capabilities across...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 2, 2024",
+  "url": "https://www.pulsemcp.com/servers/da1y-elasticsearch",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:35.740931",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "gujord-openapi",
+  "name": "OpenAPI",
+  "provider": "Roger Gujord",
+  "description": "Automatically generates MCP tools from OpenAPI specifications, enabling direct access to third-party REST APIs with...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/gujord-openapi",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:32.715702",
+  "metadata": {}
+}

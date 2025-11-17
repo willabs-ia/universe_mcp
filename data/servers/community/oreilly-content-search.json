@@ -1,0 +1,16 @@
+{
+  "id": "oreilly-content-search",
+  "name": "O'Reilly Content Search",
+  "provider": "Andrew Odewahn",
+  "description": "Connects to O'Reilly Media's content search API for discovering relevant books, articles, and technical resources...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/oreilly-content-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:32.692714",
+  "metadata": {}
+}

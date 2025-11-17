@@ -1,0 +1,16 @@
+{
+  "id": "r3-yamauchi-kintone",
+  "name": "Kintone",
+  "provider": "r3-yamauchi",
+  "description": "Integrates with Kintone's low-code platform API, enabling data retrieval, record creation, and workflow automation in...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/r3-yamauchi-kintone",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:52.952970",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "deepspiringai-search",
+  "name": "Web Search and Semantic Similarity",
+  "provider": "DeepSpring AI",
+  "description": "Provides web search and information extraction capabilities using SearchAPI.io for queries, Firecrawl for content...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/deepspiringai-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:21.357546",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cyberchitta-scrapling-fetch",
+  "name": "Scrapling Fetch",
+  "provider": "cyberchitta",
+  "description": "Enables AI to access text content from websites protected by bot detection mechanisms through three protection levels...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 110
+  },
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/cyberchitta-scrapling-fetch",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:06.230135",
+  "metadata": {}
+}

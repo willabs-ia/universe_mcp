@@ -1,0 +1,19 @@
+{
+  "id": "tosin2013-codebase-insight",
+  "name": "Codebase Insight",
+  "provider": "Tosin Akinosho",
+  "description": "Provides deep code analysis capabilities for software repositories, enabling pattern detection, architecture...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 58
+  },
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/tosin2013-codebase-insight",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:12.815238",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "lalanikarim-comfy",
+  "name": "Comfy (Stable Diffusion)",
+  "provider": "Karim Lalani",
+  "description": "Integrates with ComfyUI to enable text-to-image generation using customizable Stable Diffusion workflows.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 84
+  },
+  "release_date": "Feb 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/lalanikarim-comfy",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:08.428295",
+  "metadata": {}
+}

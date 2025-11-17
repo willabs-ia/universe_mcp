@@ -1,0 +1,16 @@
+{
+  "id": "bocha-search",
+  "name": "Bocha Search",
+  "provider": "Bocha AI",
+  "description": "Integrates with Bocha, a Chinese search engine, to provide web search capabilities with rich structured data from...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Apr 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/bocha-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:19.268687",
+  "metadata": {}
+}

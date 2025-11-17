@@ -1,0 +1,19 @@
+{
+  "id": "biegehydra-bifrost",
+  "name": "Bifrost (VS Code Dev Tools)",
+  "provider": "Connor Hallman",
+  "description": "VS Code extension that exposes semantic tools like Find Usages and Rename",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 553
+  },
+  "release_date": "Mar 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/biegehydra-bifrost",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:24.617561",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "nim444-android-uiautomator2",
+  "name": "Android UIAutomator2",
+  "provider": "nim444",
+  "description": "Provides a bridge between Android devices and automation tools for controlling apps, interacting with UI elements,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/nim444-android-uiautomator2",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:32.221829",
+  "metadata": {}
+}

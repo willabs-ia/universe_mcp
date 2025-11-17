@@ -1,0 +1,19 @@
+{
+  "id": "winterjung-korean-spell",
+  "name": "Korean Spell Checker (Naver)",
+  "provider": "Gyeoul Jung",
+  "description": "Integrates with Naver's spelling service to automatically correct grammatical errors, typos, and linguistic issues in...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 4
+  },
+  "release_date": "Apr 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/winterjung-korean-spell",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:45.809427",
+  "metadata": {}
+}

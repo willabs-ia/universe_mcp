@@ -1,0 +1,16 @@
+{
+  "id": "fal-ai-video-generator",
+  "name": "Fal.ai Video Generator",
+  "provider": "el-el-san",
+  "description": "Provides a bridge to fal.ai's video generation models, enabling creation of customized videos from text prompts and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/fal-ai-video-generator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:12.709539",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cpropster-linear",
+  "name": "Linear",
+  "provider": "Cline",
+  "description": "Integrates with Linear's project management platform, enabling AI-assisted workflows for team, issue, project, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/cpropster-linear",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:13.022417",
+  "metadata": {}
+}

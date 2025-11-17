@@ -1,0 +1,16 @@
+{
+  "id": "kablewy-fred-economic-data",
+  "name": "FRED Economic Data",
+  "provider": "kablewy",
+  "description": "Integrates with FRED API to provide economic data retrieval, search, and metadata access for economic analysis and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 10, 2024",
+  "url": "https://www.pulsemcp.com/servers/kablewy-fred-economic-data",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:35.744520",
+  "metadata": {}
+}

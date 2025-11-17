@@ -1,0 +1,16 @@
+{
+  "id": "dannysubsense-youtube-data",
+  "name": "YouTube Data API",
+  "provider": "dannySubsense",
+  "description": "Integrates with YouTube's Data API v3 and transcript extraction to provide video analysis, channel management,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/dannysubsense-youtube-data",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:54.128998",
+  "metadata": {}
+}

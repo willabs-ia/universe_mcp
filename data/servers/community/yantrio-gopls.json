@@ -1,0 +1,16 @@
+{
+  "id": "yantrio-gopls",
+  "name": "gopls (Go Language Server)",
+  "provider": "Yantrio",
+  "description": "Wraps gopls (Go language server) to provide Go development tools including go-to-definition, find references, hover...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/yantrio-gopls",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:43.379897",
+  "metadata": {}
+}

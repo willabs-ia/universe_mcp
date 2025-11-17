@@ -1,0 +1,16 @@
+{
+  "id": "datawhisker-x",
+  "name": "X (Twitter)",
+  "provider": "DataWhisker",
+  "description": "Integrates with the X (Twitter) API to enable posting tweets, retrieving user data, and analyzing trends.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 21, 2024",
+  "url": "https://www.pulsemcp.com/servers/datawhisker-x",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:37.878138",
+  "metadata": {}
+}

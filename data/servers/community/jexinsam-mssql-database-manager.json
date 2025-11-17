@@ -1,0 +1,16 @@
+{
+  "id": "jexinsam-mssql-database-manager",
+  "name": "MSSQL Database Manager",
+  "provider": "Jexin Sam",
+  "description": "Enables secure interactions with Microsoft SQL Server databases for automated data analysis, dynamic reporting, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/jexinsam-mssql-database-manager",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:01.250498",
+  "metadata": {}
+}

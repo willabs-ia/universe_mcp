@@ -1,0 +1,16 @@
+{
+  "id": "d-klotz-perplexity",
+  "name": "Perplexity",
+  "provider": "Danilo Klotz",
+  "description": "Provides AI assistants with direct access to Perplexity's web search capabilities, returning AI-generated answers...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/d-klotz-perplexity",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:48.447962",
+  "metadata": {}
+}

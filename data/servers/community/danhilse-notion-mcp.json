@@ -1,0 +1,16 @@
+{
+  "id": "danhilse-notion-mcp",
+  "name": "Notion Todo",
+  "provider": "Dan Hilse",
+  "description": "MCP server that enables AI assistants to manage a minimalist Notion todo list through a simple API interface.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Nov 30, 2024",
+  "url": "https://www.pulsemcp.com/servers/danhilse-notion-mcp",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:31.493683",
+  "metadata": {}
+}

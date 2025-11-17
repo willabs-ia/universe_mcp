@@ -1,0 +1,16 @@
+{
+  "id": "lcbro-browser-automation",
+  "name": "LCBRO (Browser Automation)",
+  "provider": "Max",
+  "description": "Provides browser automation and web scraping through Playwright with Chrome DevTools Protocol support, featuring...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/lcbro-browser-automation",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:26.659942",
+  "metadata": {}
+}

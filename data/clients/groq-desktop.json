@@ -1,0 +1,11 @@
+{
+  "id": "groq-desktop",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Desktop application for interacting with Groq's AI models, featuring a chat interface with streaming responses, tool execution, and cross-platform script handling.",
+  "url": "https://www.pulsemcp.com/clients/groq-desktop",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.322511"
+}

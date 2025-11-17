@@ -1,0 +1,16 @@
+{
+  "id": "bschauer-strapi",
+  "name": "Strapi CMS",
+  "provider": "bschauer",
+  "description": "Integrates Strapi CMS content into workflows, enabling manipulation of data for content management and querying in...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/bschauer-strapi",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:46.402709",
+  "metadata": {}
+}

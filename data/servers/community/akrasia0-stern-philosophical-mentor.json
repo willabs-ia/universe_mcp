@@ -1,0 +1,19 @@
+{
+  "id": "akrasia0-stern-philosophical-mentor",
+  "name": "Stern Philosophical Mentor",
+  "provider": "gh-Akrasia0",
+  "description": "Provides a philosophical mentor named Stern who combines rationalist thinking, stoic philosophy, and psychological...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 17
+  },
+  "release_date": "Apr 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/akrasia0-stern-philosophical-mentor",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:28.001775",
+  "metadata": {}
+}

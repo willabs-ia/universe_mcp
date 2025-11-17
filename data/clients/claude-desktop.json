@@ -1,0 +1,11 @@
+{
+  "id": "claude-desktop",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Chat with Claude. Anthropic's native implementation for macOS and Windows.",
+  "url": "https://www.pulsemcp.com/clients/claude-desktop",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.326443"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "dshvadskiy-garmin-connect",
+  "name": "Garmin Connect",
+  "provider": "Dmitry Shvadskiy",
+  "description": "Integrates with the Garmin Connect API to retrieve and analyze personal fitness data, enabling detailed tracking of...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/dshvadskiy-garmin-connect",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:08.572155",
+  "metadata": {}
+}

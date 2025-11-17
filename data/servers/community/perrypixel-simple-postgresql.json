@@ -1,0 +1,16 @@
+{
+  "id": "perrypixel-simple-postgresql",
+  "name": "Simple PostgreSQL",
+  "provider": "perrypixel",
+  "description": "Provides direct SQL query execution against PostgreSQL databases with configurable read-only and write operation...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/perrypixel-simple-postgresql",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:49.852694",
+  "metadata": {}
+}

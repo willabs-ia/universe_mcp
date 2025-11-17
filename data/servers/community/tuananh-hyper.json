@@ -1,0 +1,19 @@
+{
+  "id": "tuananh-hyper",
+  "name": "Hyper",
+  "provider": "Tuan Anh",
+  "description": "Enhance this server with plugins written in any WebAssembly-compatible programming language.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 553
+  },
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/tuananh-hyper",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:24.627947",
+  "metadata": {}
+}

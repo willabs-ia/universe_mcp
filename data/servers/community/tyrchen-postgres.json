@@ -1,0 +1,19 @@
+{
+  "id": "tyrchen-postgres",
+  "name": "PostgreSQL",
+  "provider": "Tyr Chen",
+  "description": "Enables secure SQL operations on PostgreSQL databases through a validated API that supports connection management,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/tyrchen-postgres",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:53.186047",
+  "metadata": {}
+}

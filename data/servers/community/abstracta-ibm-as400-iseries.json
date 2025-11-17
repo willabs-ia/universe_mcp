@@ -1,0 +1,16 @@
+{
+  "id": "abstracta-ibm-as400-iseries",
+  "name": "IBM AS/400 iSeries",
+  "provider": "Abstracta",
+  "description": "Connects to IBM AS/400 and iSeries mainframe systems through RTE protocols (TN5250, TN3270, VT420) with...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/abstracta-ibm-as400-iseries",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:07.206588",
+  "metadata": {}
+}

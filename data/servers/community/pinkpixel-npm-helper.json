@@ -1,0 +1,19 @@
+{
+  "id": "pinkpixel-npm-helper",
+  "name": "NPM Helper",
+  "provider": "Pink Pixel",
+  "description": "Provides specialized tools for searching npm packages, fetching documentation, checking outdated dependencies, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 5
+  },
+  "release_date": "May 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/pinkpixel-npm-helper",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:43.630929",
+  "metadata": {}
+}

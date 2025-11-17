@@ -1,0 +1,16 @@
+{
+  "id": "hummusonrails-couchbase",
+  "name": "Couchbase",
+  "provider": "Ben Greenberg",
+  "description": "Enables natural language querying of Couchbase databases through SQL++ execution with built-in authentication,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/hummusonrails-couchbase",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:52.888009",
+  "metadata": {}
+}

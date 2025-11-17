@@ -1,0 +1,19 @@
+{
+  "id": "nicavcrm-memory-bank",
+  "name": "Memory Bank",
+  "provider": "Nick Cao",
+  "description": "Implements a structured development workflow system with five operational modes (VAN, PLAN, CREATIVE, IMPLEMENT,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 90
+  },
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/nicavcrm-memory-bank",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:08.406798",
+  "metadata": {}
+}

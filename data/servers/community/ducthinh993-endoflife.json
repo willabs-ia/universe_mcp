@@ -1,0 +1,19 @@
+{
+  "id": "ducthinh993-endoflife",
+  "name": "End-of-Life API",
+  "provider": "Duc Thinh",
+  "description": "Integrates with the endoflife.date API to provide software end-of-life status checks for dependency management,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jan 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/ducthinh993-endoflife",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:46.608646",
+  "metadata": {}
+}

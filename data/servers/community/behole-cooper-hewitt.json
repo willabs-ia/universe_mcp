@@ -1,0 +1,16 @@
+{
+  "id": "behole-cooper-hewitt",
+  "name": "Cooper Hewitt",
+  "provider": "behole",
+  "description": "Integrates with Cooper Hewitt Museum's collection API to enable searching and retrieving detailed information about...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/behole-cooper-hewitt",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:50.775034",
+  "metadata": {}
+}

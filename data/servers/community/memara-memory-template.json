@@ -1,0 +1,16 @@
+{
+  "id": "memara-memory-template",
+  "name": "Memara Memory",
+  "provider": "memara-memory",
+  "description": "Provides a minimal foundation structure with only a README.md file, serving as a basic template for developers to...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/memara-memory-template",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:56.223650",
+  "metadata": {}
+}

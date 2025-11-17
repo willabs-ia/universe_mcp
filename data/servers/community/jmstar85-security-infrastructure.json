@@ -1,0 +1,16 @@
+{
+  "id": "jmstar85-security-infrastructure",
+  "name": "Security Infrastructure",
+  "provider": "jmstar85",
+  "description": "Integrates with Splunk SIEM, CrowdStrike EDR, and Microsoft MISP to enable cross-platform threat hunting, security...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/jmstar85-security-infrastructure",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:47.720662",
+  "metadata": {}
+}

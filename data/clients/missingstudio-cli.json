@@ -1,0 +1,11 @@
+{
+  "id": "missingstudio-cli",
+  "name": "Unknown",
+  "provider": null,
+  "description": "CLI tool for interacting with MCP servers via interactive terminal interface with TypeScript-based architecture and comprehensive development tooling.",
+  "url": "https://www.pulsemcp.com/clients/missingstudio-cli",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.501477"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "upstash-redis",
+  "name": "Upstash",
+  "provider": "Upstash",
+  "description": "Integrates with Upstash's Developer APIs to enable natural language management of Redis databases.",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Dec 17, 2024",
+  "url": "https://www.pulsemcp.com/servers/upstash-redis",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:46.416229",
+  "metadata": {}
+}

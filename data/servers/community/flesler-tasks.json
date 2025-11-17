@@ -1,0 +1,19 @@
+{
+  "id": "flesler-tasks",
+  "name": "Tasks",
+  "provider": "Ariel Flesler",
+  "description": "Provides task management capabilities across Markdown, JSON, and YAML files with tools for creating, searching,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 12
+  },
+  "release_date": "Jul 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/flesler-tasks",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:34.897652",
+  "metadata": {}
+}

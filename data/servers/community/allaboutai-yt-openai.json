@@ -1,0 +1,16 @@
+{
+  "id": "allaboutai-yt-openai",
+  "name": "OpenAI Chat Completions",
+  "provider": "AllAboutAI-YT",
+  "description": "Make calls to OpenAI's chat completions.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 2, 2024",
+  "url": "https://www.pulsemcp.com/servers/allaboutai-yt-openai",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:33.632026",
+  "metadata": {}
+}

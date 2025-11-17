@@ -1,0 +1,16 @@
+{
+  "id": "jonfreeland-mongodb",
+  "name": "MongoDB",
+  "provider": "Jonathan Freeland",
+  "description": "Enables querying and analyzing MongoDB databases with read-only access, providing operations for exploration, schema...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/jonfreeland-mongodb",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:10.872409",
+  "metadata": {}
+}

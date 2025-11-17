@@ -1,0 +1,19 @@
+{
+  "id": "nguyenvanduocit-all-in-one-devtools",
+  "name": "All-In-One DevTools",
+  "provider": "Duoc Nguyen",
+  "description": "Juggles development tool integrations like Confluence, GitLab, Jira, and CLI scripts.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Dec 12, 2024",
+  "url": "https://www.pulsemcp.com/servers/nguyenvanduocit-all-in-one-devtools",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:42.320544",
+  "metadata": {}
+}

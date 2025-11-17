@@ -1,0 +1,16 @@
+{
+  "id": "alx99-db-query",
+  "name": "DB Query",
+  "provider": "ALX99",
+  "description": "Connects AI models to multiple database systems for executing queries and retrieving results across PostgreSQL,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/alx99-db-query",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:59.316161",
+  "metadata": {}
+}

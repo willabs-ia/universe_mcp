@@ -1,0 +1,16 @@
+{
+  "id": "streen9-terminal",
+  "name": "Terminal",
+  "provider": "Streen9",
+  "description": "Provides a secure interface for executing commands, managing processes, and retrieving outputs in terminal or...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/streen9-terminal",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:10.857682",
+  "metadata": {}
+}

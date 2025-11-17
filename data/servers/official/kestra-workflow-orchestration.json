@@ -1,0 +1,16 @@
+{
+  "id": "kestra-workflow-orchestration",
+  "name": "Kestra",
+  "provider": "Kestra",
+  "description": "Integrates with Kestra workflow orchestration platform to enable natural language control of data pipelines,...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Jun 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/kestra-workflow-orchestration",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:49.855246",
+  "metadata": {}
+}

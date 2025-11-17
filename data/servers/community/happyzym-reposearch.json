@@ -1,0 +1,16 @@
+{
+  "id": "happyzym-reposearch",
+  "name": "Repository Search",
+  "provider": "happyZYM",
+  "description": "Provides efficient file search functionality within repositories, respecting ignore patterns and offering...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/happyzym-reposearch",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:01.588227",
+  "metadata": {}
+}

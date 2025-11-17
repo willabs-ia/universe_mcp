@@ -1,0 +1,16 @@
+{
+  "id": "reaper-daw",
+  "name": "REAPER DAW",
+  "provider": "steve hiehn",
+  "description": "Provides complete control over REAPER DAW through a Lua bridge script, enabling track management, MIDI operations, FX...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/reaper-daw",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:56.239100",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "hal-wecom-bot",
+  "name": "WeCom",
+  "provider": "Hal",
+  "description": "Integrates WeCom (WeChat Work) bot functionality for enterprise messaging, notifications, and interactive chatbots.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 229
+  },
+  "release_date": "Jan 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/hal-wecom-bot",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:38.074198",
+  "metadata": {}
+}

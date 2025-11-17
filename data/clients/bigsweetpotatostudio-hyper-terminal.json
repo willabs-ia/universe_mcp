@@ -1,0 +1,11 @@
+{
+  "id": "bigsweetpotatostudio-hyper-terminal",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Web-based terminal interface for accessing command-line tools through xterm.js and socket.io with real-time communication capabilities.",
+  "url": "https://www.pulsemcp.com/clients/bigsweetpotatostudio-hyper-terminal",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.427541"
+}

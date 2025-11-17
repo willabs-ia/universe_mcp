@@ -1,0 +1,16 @@
+{
+  "id": "endaoment-postgres",
+  "name": "PostgreSQL Database",
+  "provider": "Endaoment",
+  "description": "Enables interaction with PostgreSQL databases for executing SQL queries, exploring table schemas, and performing data...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/endaoment-postgres",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:17.206167",
+  "metadata": {}
+}

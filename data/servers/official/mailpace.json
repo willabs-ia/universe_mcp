@@ -1,0 +1,16 @@
+{
+  "id": "mailpace",
+  "name": "MailPace",
+  "provider": "MailPace",
+  "description": "Provides a bridge to MailPace's transactional email API for sending HTML/text emails with attachments, custom...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/mailpace",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:50.808837",
+  "metadata": {}
+}

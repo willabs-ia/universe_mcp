@@ -1,0 +1,19 @@
+{
+  "id": "moussaabbadla-code-screenshot",
+  "name": "Code Screenshot Generator",
+  "provider": "Moussaab Badla",
+  "description": "Generates beautiful, syntax-highlighted code screenshots with professional themes, automatic language detection for...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Oct 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/moussaabbadla-code-screenshot",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:59.098063",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "304techmaven-plaid-finance",
+  "name": "Plaid",
+  "provider": "304 Tech Maven",
+  "description": "Provides a robust bridge to the Plaid financial API, enabling secure access to bank account data, transactions, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/304techmaven-plaid-finance",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:55.011838",
+  "metadata": {}
+}

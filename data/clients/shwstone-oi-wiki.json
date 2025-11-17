@@ -1,0 +1,11 @@
+{
+  "id": "shwstone-oi-wiki",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Specialized client for accessing and searching OI-Wiki content through vector embeddings, enabling efficient retrieval of competitive programming and algorithm information.",
+  "url": "https://www.pulsemcp.com/clients/shwstone-oi-wiki",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.429303"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "makingchatbots-genesys-cloud",
+  "name": "Genesys Cloud",
+  "provider": "Lucas Woodward",
+  "description": "Provides a bridge between contact center analytics and routing data in Genesys Cloud, enabling conversational...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 5
+  },
+  "release_date": "Apr 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/makingchatbots-genesys-cloud",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:43.632387",
+  "metadata": {}
+}

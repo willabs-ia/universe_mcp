@@ -1,0 +1,16 @@
+{
+  "id": "taichi-ho-k8s-interactive",
+  "name": "Kubernetes",
+  "provider": "Taichi Ho",
+  "description": "Integrates with Kubernetes to enable natural language-based cluster management and command execution for streamlined...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/taichi-ho-k8s-interactive",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:44.299799",
+  "metadata": {}
+}

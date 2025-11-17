@@ -1,0 +1,11 @@
+{
+  "id": "pietrozullo-langchain-adapter",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Python library that unifies LangChain adapters for connecting LLMs to MCP tools, supporting multiple transport mechanisms and providing ready-to-use agent implementations for tasks like browser automation and filesystem operations.",
+  "url": "https://www.pulsemcp.com/clients/pietrozullo-langchain-adapter",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.313491"
+}

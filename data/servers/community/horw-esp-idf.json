@@ -1,0 +1,16 @@
+{
+  "id": "horw-esp-idf",
+  "name": "ESP-IDF",
+  "provider": "horw",
+  "description": "Streamlines ESP-IDF project building with automatic environment setup and error handling for ESP32 microcontroller...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/horw-esp-idf",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:05.641100",
+  "metadata": {}
+}

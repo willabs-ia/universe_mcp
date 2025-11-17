@@ -1,0 +1,16 @@
+{
+  "id": "tlofreso-youtube-transcript-extractor",
+  "name": "YouTube Transcript Extractor",
+  "provider": "tlofreso",
+  "description": "Extracts YouTube video transcripts from various URL formats using a command-line tool, enabling content analysis and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/tlofreso-youtube-transcript-extractor",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:42.169936",
+  "metadata": {}
+}

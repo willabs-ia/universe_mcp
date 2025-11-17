@@ -1,0 +1,19 @@
+{
+  "id": "findmine-shopping-stylist",
+  "name": "FindMine Shopping Stylist",
+  "provider": "FindMine",
+  "description": "Integrates with FindMine's product styling API to enable fashion recommendations, outfit creation, product browsing,...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 13
+  },
+  "release_date": "Mar 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/findmine-shopping-stylist",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:30.200208",
+  "metadata": {}
+}

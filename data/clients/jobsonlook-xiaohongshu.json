@@ -1,0 +1,11 @@
+{
+  "id": "jobsonlook-xiaohongshu",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Provides a bridge between Xiaohongshu (Little Red Book) social media platform and conversational interfaces, enabling note searching, content retrieval, user information access, and comment management through authenticated API interactions.",
+  "url": "https://www.pulsemcp.com/clients/jobsonlook-xiaohongshu",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.391757"
+}

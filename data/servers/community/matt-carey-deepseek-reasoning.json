@@ -1,0 +1,16 @@
+{
+  "id": "matt-carey-deepseek-reasoning",
+  "name": "Deepseek",
+  "provider": "Matt Carey",
+  "description": "Extracts reasoning chains from Deepseek R1 model, enabling complex problem-solving and explainable AI.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/matt-carey-deepseek-reasoning",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:52.930633",
+  "metadata": {}
+}

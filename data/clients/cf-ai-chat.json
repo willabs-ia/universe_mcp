@@ -1,0 +1,11 @@
+{
+  "id": "cf-ai-chat",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Spring-based chatbot application for Cloud Foundry that enables document upload and AI-powered conversations through service bindings to LLM models, agents, and extended memory capabilities.",
+  "url": "https://www.pulsemcp.com/clients/cf-ai-chat",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.430940"
+}

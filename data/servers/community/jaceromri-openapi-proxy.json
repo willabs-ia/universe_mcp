@@ -1,0 +1,16 @@
+{
+  "id": "jaceromri-openapi-proxy",
+  "name": "OpenAPI Proxy",
+  "provider": "Jacer Omri",
+  "description": "Transforms OpenAPI specifications into MCP tools, enabling AI assistants to interact with existing REST APIs without...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/jaceromri-openapi-proxy",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:23.766287",
+  "metadata": {}
+}

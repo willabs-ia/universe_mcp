@@ -1,0 +1,16 @@
+{
+  "id": "rakeshgangwar-tmdb",
+  "name": "TMDB (The Movie Database)",
+  "provider": "Rakesh Gangwar",
+  "description": "Provides a bridge to The Movie Database API for searching and retrieving detailed movie information with filtering by...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/rakeshgangwar-tmdb",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:52.889411",
+  "metadata": {}
+}

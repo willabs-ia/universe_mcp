@@ -1,0 +1,16 @@
+{
+  "id": "vivekhaldar-emacs-lisp-generator",
+  "name": "Emacs Lisp Generator",
+  "provider": "Vivek Haldar",
+  "description": "Enables AI to interact with Emacs by generating and executing Elisp code for buffer manipulation, text editing, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/vivekhaldar-emacs-lisp-generator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:10.326026",
+  "metadata": {}
+}

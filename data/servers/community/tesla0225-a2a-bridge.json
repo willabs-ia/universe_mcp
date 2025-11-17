@@ -1,0 +1,16 @@
+{
+  "id": "tesla0225-a2a-bridge",
+  "name": "A2A Bridge",
+  "provider": "tesla0225",
+  "description": "Bridges LLMs with Agent-to-Agent protocol-compatible agents, enabling delegation of complex tasks to specialized...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/tesla0225-a2a-bridge",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:17.118764",
+  "metadata": {}
+}

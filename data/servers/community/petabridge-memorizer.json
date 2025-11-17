@@ -1,0 +1,19 @@
+{
+  "id": "petabridge-memorizer",
+  "name": "Memorizer",
+  "provider": "Petabridge",
+  "description": "Provides persistent memory storage with semantic search capabilities through PostgreSQL and pgvector, enabling...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jul 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/petabridge-memorizer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:59.604661",
+  "metadata": {}
+}

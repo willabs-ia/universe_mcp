@@ -1,0 +1,16 @@
+{
+  "id": "shoofio-brave-search-sse",
+  "name": "Brave Search",
+  "provider": "Shoofio",
+  "description": "Integrates with Brave Search to provide web and local search capabilities with automatic fallback, rate limiting, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/shoofio-brave-search-sse",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:52.910459",
+  "metadata": {}
+}

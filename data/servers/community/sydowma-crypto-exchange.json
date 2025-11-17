@@ -1,0 +1,16 @@
+{
+  "id": "sydowma-crypto-exchange",
+  "name": "Crypto Exchange",
+  "provider": "Ma Sydow",
+  "description": "Provides real-time cryptocurrency market data from major exchanges (Bybit, OKX, Binance) including prices, order...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/sydowma-crypto-exchange",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:07.836671",
+  "metadata": {}
+}

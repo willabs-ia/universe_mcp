@@ -1,0 +1,16 @@
+{
+  "id": "box-community-box",
+  "name": "Box",
+  "provider": "Box",
+  "description": "Integrates with Box API to enable document search, text extraction, content analysis, and structured data retrieval...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/box-community-box",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:34.839038",
+  "metadata": {}
+}

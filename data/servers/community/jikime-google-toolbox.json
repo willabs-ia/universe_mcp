@@ -1,0 +1,19 @@
+{
+  "id": "jikime-google-toolbox",
+  "name": "Google Toolbox",
+  "provider": "Anthony Kim",
+  "description": "Integrates with Google services including Gmail, Calendar, Drive, and Search through OAuth 2.0 authentication,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "May 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/jikime-google-toolbox",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:57.402977",
+  "metadata": {}
+}

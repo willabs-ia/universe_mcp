@@ -1,0 +1,19 @@
+{
+  "id": "chatmcp-router",
+  "name": "Router",
+  "provider": "Gitee",
+  "description": "Provides a proxy service that connects local MCP clients to remote tool servers through a central routing service,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 12
+  },
+  "release_date": "Mar 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/chatmcp-router",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:32.756928",
+  "metadata": {}
+}

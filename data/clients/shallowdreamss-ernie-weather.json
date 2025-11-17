@@ -1,0 +1,11 @@
+{
+  "id": "shallowdreamss-ernie-weather",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Integrates Baidu's Ernie model with weather querying capabilities through dialogue-based interactions, featuring intelligent query detection, city name translation, and contextual weather analysis for outdoor activities.",
+  "url": "https://www.pulsemcp.com/clients/shallowdreamss-ernie-weather",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.490727"
+}

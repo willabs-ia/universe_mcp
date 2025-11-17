@@ -1,0 +1,16 @@
+{
+  "id": "lumifai-cryptocurrency-technical-analysis",
+  "name": "Cryptocurrency Technical Analysis",
+  "provider": "Lumif AI",
+  "description": "Provides real-time cryptocurrency technical analysis through FastMCP, calculating 12 and 26-period EMAs for Binance...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/lumifai-cryptocurrency-technical-analysis",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:15.135481",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "parassolanki-jira",
+  "name": "Jira",
+  "provider": "Paras Solanki",
+  "description": "Integrates with Jira API to enable issue tracking, sprint planning, and project management tasks directly within...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/parassolanki-jira",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:23.596062",
+  "metadata": {}
+}

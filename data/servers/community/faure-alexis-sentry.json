@@ -1,0 +1,16 @@
+{
+  "id": "faure-alexis-sentry",
+  "name": "Sentry",
+  "provider": "Alexis Faure",
+  "description": "Connects AI to Sentry error tracking platform for retrieving and analyzing application errors, including stacktraces,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/faure-alexis-sentry",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:50.774897",
+  "metadata": {}
+}

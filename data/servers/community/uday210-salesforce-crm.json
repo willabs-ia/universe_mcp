@@ -1,0 +1,16 @@
+{
+  "id": "uday210-salesforce-crm",
+  "name": "Salesforce CRM",
+  "provider": "Uday",
+  "description": "Integrates with Salesforce CRM to enable querying data, retrieving object metadata, and performing CRUD operations on...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/uday210-salesforce-crm",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:10.007462",
+  "metadata": {}
+}

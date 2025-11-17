@@ -1,0 +1,16 @@
+{
+  "id": "mkusaka-shell",
+  "name": "Shell Command Executor",
+  "provider": "mkusaka",
+  "description": "Provides a secure bridge for executing shell commands on the host system with automatic environment detection,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/mkusaka-shell",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:37.013727",
+  "metadata": {}
+}

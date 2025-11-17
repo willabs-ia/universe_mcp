@@ -1,0 +1,11 @@
+{
+  "id": "claude-code",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster through natural language commands.",
+  "url": "https://www.pulsemcp.com/clients/claude-code",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.364656"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cdata-jdbc-database-bridge",
+  "name": "JDBC Database Bridge",
+  "provider": "CData Software",
+  "description": "Provides a generic bridge to any JDBC-compatible data source, enabling natural language querying of databases through...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/cdata-jdbc-database-bridge",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:05.092376",
+  "metadata": {}
+}

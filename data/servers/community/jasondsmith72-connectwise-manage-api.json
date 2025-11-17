@@ -1,0 +1,16 @@
+{
+  "id": "jasondsmith72-connectwise-manage-api",
+  "name": "ConnectWise Manage API",
+  "provider": "Jason Smith",
+  "description": "Bridges Claude with the ConnectWise Manage API through a SQLite database built from API definitions, enabling natural...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/jasondsmith72-connectwise-manage-api",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:28.263712",
+  "metadata": {}
+}

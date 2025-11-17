@@ -1,0 +1,16 @@
+{
+  "id": "jay4242-searxng-search",
+  "name": "SearxNG Search",
+  "provider": "Jay4242",
+  "description": "Enables web searches through a user-specified SearxNG instance, returning structured results with titles, URLs, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/jay4242-searxng-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:12.192781",
+  "metadata": {}
+}

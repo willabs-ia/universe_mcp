@@ -1,0 +1,11 @@
+{
+  "id": "faraazahmad-debug",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Web-based interface for testing and debugging MCP servers, featuring real-time chat integration with Claude that automatically utilizes available tools through a bridge server architecture.",
+  "url": "https://www.pulsemcp.com/clients/faraazahmad-debug",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.445964"
+}

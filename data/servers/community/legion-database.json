@@ -1,0 +1,19 @@
+{
+  "id": "legion-database",
+  "name": "Legion Database",
+  "provider": "Legion AI",
+  "description": "Enables natural language querying and management of multiple database types (PostgreSQL, MySQL, SQL Server, BigQuery)...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 127
+  },
+  "release_date": "Mar 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/legion-database",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:06.206618",
+  "metadata": {}
+}

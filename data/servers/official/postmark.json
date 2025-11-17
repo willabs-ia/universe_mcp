@@ -1,0 +1,16 @@
+{
+  "id": "postmark",
+  "name": "Postmark",
+  "provider": "ActiveCampaign",
+  "description": "Integrates with Postmark's email delivery service to send transactional emails with template support, track delivery...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "May 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/postmark",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:47.700439",
+  "metadata": {}
+}

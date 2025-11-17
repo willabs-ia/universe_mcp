@@ -1,0 +1,19 @@
+{
+  "id": "cappahccino-supabase",
+  "name": "Supabase",
+  "provider": "Cappahccino",
+  "description": "Enables Claude and other LLMs to interact with Supabase databases and Edge Functions through a secure API for...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 384
+  },
+  "release_date": "Mar 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/cappahccino-supabase",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:28.857627",
+  "metadata": {}
+}

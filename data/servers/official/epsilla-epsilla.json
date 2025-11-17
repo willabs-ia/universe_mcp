@@ -1,0 +1,16 @@
+{
+  "id": "epsilla-epsilla",
+  "name": "Epsilla",
+  "provider": "Epsilla",
+  "description": "Integrates with Epsilla databases using pyepsilla to enable efficient creation, manipulation, and querying of vector...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Dec 25, 2024",
+  "url": "https://www.pulsemcp.com/servers/epsilla-epsilla",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:59.120853",
+  "metadata": {}
+}

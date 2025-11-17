@@ -1,0 +1,19 @@
+{
+  "id": "member-berries-apple",
+  "name": "Member Berries (Apple Productivity)",
+  "provider": "M-Pineapple",
+  "description": "Integrates with Apple's native productivity apps (Notes, Reminders, Calendar) on macOS to create, search, and manage...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jun 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/member-berries-apple",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:57.440490",
+  "metadata": {}
+}

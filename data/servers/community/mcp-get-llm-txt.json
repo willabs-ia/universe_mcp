@@ -1,0 +1,19 @@
+{
+  "id": "mcp-get-llm-txt",
+  "name": "LLM.txt Directory",
+  "provider": "MCP Get",
+  "description": "Access up-to-date API documentation efficiently.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 5
+  },
+  "release_date": "Dec 4, 2024",
+  "url": "https://www.pulsemcp.com/servers/mcp-get-llm-txt",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:43.599778",
+  "metadata": {}
+}

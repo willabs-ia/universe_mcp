@@ -1,0 +1,19 @@
+{
+  "id": "yunfeizhu-email-imap-smtp",
+  "name": "Email (IMAP/SMTP)",
+  "provider": "Euan Zhu",
+  "description": "Provides IMAP/SMTP email access for reading messages and sending emails with secure connection support and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 9
+  },
+  "release_date": "Jul 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/yunfeizhu-email-imap-smtp",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:37.118711",
+  "metadata": {}
+}

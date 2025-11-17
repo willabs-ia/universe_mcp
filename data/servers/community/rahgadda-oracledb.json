@@ -1,0 +1,19 @@
+{
+  "id": "rahgadda-oracledb",
+  "name": "OracleDB",
+  "provider": "Rahul Kiran Gaddam",
+  "description": "Provides a bridge to Oracle Database, enabling dynamic table and column discovery, secure query execution, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 34
+  },
+  "release_date": "Mar 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/rahgadda-oracledb",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:19.278901",
+  "metadata": {}
+}

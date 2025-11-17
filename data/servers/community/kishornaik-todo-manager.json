@@ -1,0 +1,16 @@
+{
+  "id": "kishornaik-todo-manager",
+  "name": "Todo Manager",
+  "provider": "Kishor Naik",
+  "description": "Provides a secure, structured microservice for managing todo items with features like AES encryption, PostgreSQL...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/kishornaik-todo-manager",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:34.397620",
+  "metadata": {}
+}

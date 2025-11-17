@@ -1,0 +1,16 @@
+{
+  "id": "masx200-webdav",
+  "name": "WebDAV",
+  "provider": "masx200",
+  "description": "Connects to WebDAV-enabled storage systems with authenticated access and bcrypt encryption, providing file and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/masx200-webdav",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:35.323172",
+  "metadata": {}
+}

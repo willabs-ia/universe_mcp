@@ -1,0 +1,16 @@
+{
+  "id": "fugle-taiwan-stock-market",
+  "name": "Fugle Taiwan Stock Market Data",
+  "provider": "Fortuna Intelligence Co., Ltd.",
+  "description": "Integrates with Fugle's Taiwan stock market data API to provide historical candles, real-time intraday quotes,...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Mar 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/fugle-taiwan-stock-market",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:56.198997",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "patrickdappollonio-domaintools-whois-dns",
+  "name": "Domain Tools (WHOIS + DNS)",
+  "provider": "Patrick D'appollonio",
+  "description": "Provides DNS and WHOIS query capabilities for AI assistants. It enables AI models to perform DNS lookups both via...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/patrickdappollonio-domaintools-whois-dns",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:34.404315",
+  "metadata": {}
+}

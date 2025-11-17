@@ -1,0 +1,16 @@
+{
+  "id": "9olidity-web-security-scanner",
+  "name": "Web Security Scanner",
+  "provider": "9olidity",
+  "description": "Enables automated web security testing for XSS and SQL injection vulnerabilities through Playwright-powered browser...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/9olidity-web-security-scanner",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:46.287078",
+  "metadata": {}
+}

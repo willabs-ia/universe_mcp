@@ -1,0 +1,16 @@
+{
+  "id": "monostate-solana-token-sniper",
+  "name": "Solana Token Sniper",
+  "provider": "monostate",
+  "description": "Enables high-speed trading of Solana blockchain tokens through distributed WebSocket monitoring of Raydium AMM pools...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/monostate-solana-token-sniper",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:46.264633",
+  "metadata": {}
+}

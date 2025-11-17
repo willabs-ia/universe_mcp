@@ -1,0 +1,16 @@
+{
+  "id": "jktfe-servemyapi-macos-keychain",
+  "name": "ServeMyAPI (macOS Keychain)",
+  "provider": "James King",
+  "description": "Securely stores and retrieves API keys using macOS Keychain, allowing natural language access to credentials without...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/jktfe-servemyapi-macos-keychain",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:21.500815",
+  "metadata": {}
+}

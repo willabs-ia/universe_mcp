@@ -1,0 +1,16 @@
+{
+  "id": "gotalab-bigquery-analysis",
+  "name": "BigQuery Analysis",
+  "provider": "Gota Lab",
+  "description": "Enables safe SQL query execution on Google BigQuery datasets with built-in safeguards that prevent data manipulation...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/gotalab-bigquery-analysis",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:44.165352",
+  "metadata": {}
+}

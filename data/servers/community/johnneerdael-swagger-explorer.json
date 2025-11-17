@@ -1,0 +1,16 @@
+{
+  "id": "johnneerdael-swagger-explorer",
+  "name": "Swagger Explorer",
+  "provider": "John Neerdael",
+  "description": "Analyzes and interacts with Swagger/OpenAPI specifications to enable dynamic API exploration, endpoint filtering, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/johnneerdael-swagger-explorer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:55.049017",
+  "metadata": {}
+}

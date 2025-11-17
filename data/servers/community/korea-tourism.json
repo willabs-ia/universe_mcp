@@ -1,0 +1,16 @@
+{
+  "id": "korea-tourism",
+  "name": "Korea Tourism API",
+  "provider": "Pyungjoo Kim",
+  "description": "Provides access to Korean tourism information through the TOUR API, enabling area code lookup, regional searches, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/korea-tourism",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:14.979000",
+  "metadata": {}
+}

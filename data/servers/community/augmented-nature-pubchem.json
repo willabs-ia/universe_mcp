@@ -1,0 +1,19 @@
+{
+  "id": "augmented-nature-pubchem",
+  "name": "PubChem",
+  "provider": "Augmented Nature",
+  "description": "Integrates with PubChem chemical database to provide compound search, structure analysis, property calculation,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "May 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/augmented-nature-pubchem",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:35.915372",
+  "metadata": {}
+}

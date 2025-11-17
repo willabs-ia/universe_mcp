@@ -1,0 +1,16 @@
+{
+  "id": "caicongyang-mysql",
+  "name": "MySQL",
+  "provider": "Cai Congyang",
+  "description": "Provides secure MySQL database access through a FastAPI server with SQLAlchemy and PyMySQL, enabling configurable...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/caicongyang-mysql",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:57.127567",
+  "metadata": {}
+}

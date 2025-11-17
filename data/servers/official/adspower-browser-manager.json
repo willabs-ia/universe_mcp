@@ -1,0 +1,19 @@
+{
+  "id": "adspower-browser-manager",
+  "name": "AdsPower Browser Manager",
+  "provider": "AdsPower",
+  "description": "Enables AI-driven browser profile management through AdsPower's local API, providing tools for creating, updating,...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/adspower-browser-manager",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:53.175101",
+  "metadata": {}
+}

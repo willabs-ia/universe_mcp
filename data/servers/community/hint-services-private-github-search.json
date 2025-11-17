@@ -1,0 +1,16 @@
+{
+  "id": "hint-services-private-github-search",
+  "name": "Private GitHub Search",
+  "provider": "Ben Hofferber",
+  "description": "Provides authenticated access to a specific private GitHub repository for file content retrieval, code search, issue...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/hint-services-private-github-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:41.144881",
+  "metadata": {}
+}

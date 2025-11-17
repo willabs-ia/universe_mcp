@@ -1,0 +1,16 @@
+{
+  "id": "infobip",
+  "name": "Infobip",
+  "provider": "Infobip",
+  "description": "Integration with the Infobip communication platform that allows you to reach your customers globally across any channel.",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Aug 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/infobip",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:33.238163",
+  "metadata": {}
+}

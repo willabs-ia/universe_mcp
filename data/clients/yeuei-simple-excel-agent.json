@@ -1,0 +1,11 @@
+{
+  "id": "yeuei-simple-excel-agent",
+  "name": "Unknown",
+  "provider": null,
+  "description": "LangGraph-based Excel manipulation system that processes spreadsheet files through image recognition and provides tools for workbook creation, data manipulation, formula application, chart generation, and pivot table operations via a Next.js chat interface.",
+  "url": "https://www.pulsemcp.com/clients/yeuei-simple-excel-agent",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.490262"
+}

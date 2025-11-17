@@ -1,0 +1,19 @@
+{
+  "id": "pluggyai-pluggy",
+  "name": "Pluggy",
+  "provider": "pluggyai",
+  "description": "Integrates with Pluggy's open banking platform to access financial account data and list available connectors across...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jun 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/pluggyai-pluggy",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:57.439229",
+  "metadata": {}
+}

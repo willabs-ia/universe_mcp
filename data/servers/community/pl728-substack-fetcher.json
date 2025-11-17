@@ -1,0 +1,16 @@
+{
+  "id": "pl728-substack-fetcher",
+  "name": "Trade Companion (Substack)",
+  "provider": "pl728",
+  "description": "Integrates with Trade Companion by Adam Mancini on Substack, enabling authenticated article retrieval and content...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/pl728-substack-fetcher",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:13.007807",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "eiceblue-spire-xls",
+  "name": "Spire.XLS",
+  "provider": "E-iceblue",
+  "description": "Provides Excel file manipulation through the Spire.XLS library, enabling creation, reading, modification, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/eiceblue-spire-xls",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:43.369517",
+  "metadata": {}
+}

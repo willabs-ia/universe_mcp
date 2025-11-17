@@ -1,0 +1,16 @@
+{
+  "id": "integration-app",
+  "name": "Integration.app",
+  "provider": "Integration App",
+  "description": "Integrates with Integration App's API to expose workflow automation capabilities as tools for triggering and managing...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Jan 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/integration-app",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:48.575682",
+  "metadata": {}
+}

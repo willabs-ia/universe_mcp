@@ -1,0 +1,16 @@
+{
+  "id": "bonanip512-dataverse-powerplatform",
+  "name": "Dataverse (Microsoft PowerPlatform)",
+  "provider": "bonanip512",
+  "description": "Integrates with Microsoft's PowerPlatform API to enable querying and interaction with Dataverse entities, providing...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/bonanip512-dataverse-powerplatform",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:36.833558",
+  "metadata": {}
+}

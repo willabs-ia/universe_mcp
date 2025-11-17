@@ -1,0 +1,19 @@
+{
+  "id": "inspirit941-kakao-talk",
+  "name": "Kakao Talk",
+  "provider": "Donggeon Lee",
+  "description": "Enables sending rich, interactive message templates to Kakao Talk users with OAuth2 authentication for notification...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "May 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/inspirit941-kakao-talk",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:35.902886",
+  "metadata": {}
+}

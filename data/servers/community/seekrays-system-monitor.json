@@ -1,0 +1,16 @@
+{
+  "id": "seekrays-system-monitor",
+  "name": "System Monitor",
+  "provider": "Seekrays",
+  "description": "Provides real-time system metrics for CPU, memory, disk, network, host, and process statistics using Go and gopsutil,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/seekrays-system-monitor",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:25.759597",
+  "metadata": {}
+}

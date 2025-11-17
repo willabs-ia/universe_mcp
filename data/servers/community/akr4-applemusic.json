@@ -1,0 +1,16 @@
+{
+  "id": "akr4-applemusic",
+  "name": "Apple Music",
+  "provider": "UEDA Akira",
+  "description": "Integrates with Apple Music API to enable song searching and playback link generation for music discovery applications",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/akr4-applemusic",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:07.818231",
+  "metadata": {}
+}

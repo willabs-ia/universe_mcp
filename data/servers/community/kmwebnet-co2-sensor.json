@@ -1,0 +1,16 @@
+{
+  "id": "kmwebnet-co2-sensor",
+  "name": "CO2 Sensor",
+  "provider": "kmwebnet",
+  "description": "Simulates or interfaces with a CO2 sensor device, providing JSON-RPC endpoints for device information, sensor data,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/kmwebnet-co2-sensor",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:17.222750",
+  "metadata": {}
+}

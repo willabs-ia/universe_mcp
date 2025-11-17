@@ -1,0 +1,19 @@
+{
+  "id": "fewsats-sherlock-domains",
+  "name": "Sherlock Domains",
+  "provider": "Fewsats",
+  "description": "Enables AI to search, purchase, and manage internet domains through Sherlock Domains API, handling authentication,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 44
+  },
+  "release_date": "Mar 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/fewsats-sherlock-domains",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:17.090700",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "sailaoda-search-fusion",
+  "name": "Search Fusion",
+  "provider": "sailaoda",
+  "description": "Aggregates multiple search engines including Google Custom Search, Jina AI, DuckDuckGo, Bing, Baidu, and Exa AI with...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 68
+  },
+  "release_date": "Aug 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/sailaoda-search-fusion",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:12.767866",
+  "metadata": {}
+}

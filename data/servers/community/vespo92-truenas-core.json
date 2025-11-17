@@ -1,0 +1,16 @@
+{
+  "id": "vespo92-truenas-core",
+  "name": "TrueNAS Core",
+  "provider": "Vinnie Esposito",
+  "description": "Integrates with TrueNAS Core storage systems to enable natural language control of user management, pool monitoring,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/vespo92-truenas-core",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:47.698078",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "freedanfan-multi-llm-api-gateway",
+  "name": "Multi-LLM API Gateway",
+  "provider": "freedanfan",
+  "description": "Provides a unified FastAPI server for interacting with multiple language model APIs, enabling seamless switching...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/freedanfan-multi-llm-api-gateway",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:15.132931",
+  "metadata": {}
+}

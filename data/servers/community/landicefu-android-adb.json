@@ -1,0 +1,19 @@
+{
+  "id": "landicefu-android-adb",
+  "name": "Android ADB",
+  "provider": "Landice Fu",
+  "description": "Provides a bridge to Android devices through ADB, enabling device management, shell command execution, app...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 9
+  },
+  "release_date": "Mar 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/landicefu-android-adb",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:37.101627",
+  "metadata": {}
+}

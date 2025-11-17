@@ -1,0 +1,19 @@
+{
+  "id": "payne-weibo",
+  "name": "Weibo",
+  "provider": "Payne",
+  "description": "Bridges to China's Weibo social media platform, enabling user search, profile retrieval, and post extraction through...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/payne-weibo",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:50.935596",
+  "metadata": {}
+}

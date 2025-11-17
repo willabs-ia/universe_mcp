@@ -1,0 +1,16 @@
+{
+  "id": "emmett-deen-linear",
+  "name": "Linear",
+  "provider": "Emmett Deen",
+  "description": "Integrates with Linear project management systems to retrieve and modify data related to users, teams, projects, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/emmett-deen-linear",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:25.749700",
+  "metadata": {}
+}

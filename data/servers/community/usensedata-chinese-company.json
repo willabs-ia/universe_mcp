@@ -1,0 +1,16 @@
+{
+  "id": "usensedata-chinese-company",
+  "name": "Usense Chinese Company Data",
+  "provider": "Steven",
+  "description": "Integrates with Usense's Chinese company data services to provide comprehensive business information including...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/usensedata-chinese-company",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:02.963503",
+  "metadata": {}
+}

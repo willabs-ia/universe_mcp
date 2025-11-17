@@ -1,0 +1,16 @@
+{
+  "id": "cyqlelabs-dual-cycle-reasoner",
+  "name": "Dual-Cycle Reasoner",
+  "provider": "Nicolas Iglesias",
+  "description": "Provides dual-cycle metacognitive reasoning framework that detects when autonomous agents get stuck in repetitive...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/cyqlelabs-dual-cycle-reasoner",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:58.332272",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "easy-autocad",
+  "name": "Easy AutoCAD",
+  "provider": "zh19980811",
+  "description": "Enables programmatic interaction with AutoCAD by providing a Python-based server that supports database management...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/easy-autocad",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:53.154032",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "malaysia-prayer-time",
+  "name": "Malaysia Prayer Time",
+  "provider": "aman Asmuei",
+  "description": "Provides accurate Islamic prayer times for Malaysia by integrating with the waktusolat.app API, offering tools to...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/malaysia-prayer-time",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:14.326948",
+  "metadata": {}
+}

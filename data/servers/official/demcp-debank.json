@@ -1,0 +1,16 @@
+{
+  "id": "demcp-debank",
+  "name": "DeBanK",
+  "provider": "DeBanK",
+  "description": "Provides a bridge to blockchain and DeFi data across multiple chains, enabling access to information about protocols,...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Apr 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/demcp-debank",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:25.900115",
+  "metadata": {}
+}

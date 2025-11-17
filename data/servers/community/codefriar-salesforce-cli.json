@@ -1,0 +1,19 @@
+{
+  "id": "codefriar-salesforce-cli",
+  "name": "Salesforce CLI",
+  "provider": "Kevin Poorman",
+  "description": "Exposes Salesforce CLI functionality for interacting with Salesforce orgs, enabling developers to query data, deploy...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 3
+  },
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/codefriar-salesforce-cli",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:48.045403",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "aliyun-polardbx",
+  "name": "PolarDB-X",
+  "provider": "Alibaba Cloud",
+  "description": "Integrates with Alibaba Cloud's PolarDB-X distributed database system to provide SQL query execution, database status...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "May 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/aliyun-polardbx",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:43.339469",
+  "metadata": {}
+}

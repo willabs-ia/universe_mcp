@@ -1,0 +1,16 @@
+{
+  "id": "monsterxx03-gospy",
+  "name": "GoSpy",
+  "provider": "monsterxx03",
+  "description": "Inspects and analyzes running Go processes by directly reading memory on Linux and macOS systems, providing deep...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/monsterxx03-gospy",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:34.352685",
+  "metadata": {}
+}

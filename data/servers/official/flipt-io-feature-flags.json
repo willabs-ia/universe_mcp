@@ -1,0 +1,19 @@
+{
+  "id": "flipt-io-feature-flags",
+  "name": "Flipt (Feature Flag Management)",
+  "provider": "Flipt",
+  "description": "Integrates with Flipt feature flag management to enable listing, creating, updating, and deleting namespaces, flags,...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 5
+  },
+  "release_date": "Apr 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/flipt-io-feature-flags",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:43.621966",
+  "metadata": {}
+}

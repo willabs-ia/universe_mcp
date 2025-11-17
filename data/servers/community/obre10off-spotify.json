@@ -1,0 +1,16 @@
+{
+  "id": "obre10off-spotify",
+  "name": "Spotify",
+  "provider": "obre10off",
+  "description": "Enables natural language control of Spotify playback with tools for playing tracks, pausing music, skipping songs,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/obre10off-spotify",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:30.571803",
+  "metadata": {}
+}

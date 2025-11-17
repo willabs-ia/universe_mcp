@@ -1,0 +1,16 @@
+{
+  "id": "chris-miaskowski-gitlab",
+  "name": "GitLab",
+  "provider": "Chris Miaskowski",
+  "description": "Integrates with GitLab repositories to enable searching, file management, issue creation, merge requests, forking,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/chris-miaskowski-gitlab",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:15.121959",
+  "metadata": {}
+}

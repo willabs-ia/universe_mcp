@@ -1,0 +1,16 @@
+{
+  "id": "grovesjosephn-pokemon",
+  "name": "Pokemon",
+  "provider": "grovesjosephn",
+  "description": "Provides Pokemon data access through a local SQLite database with tools for information retrieval, comparison,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/grovesjosephn-pokemon",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:49.834285",
+  "metadata": {}
+}

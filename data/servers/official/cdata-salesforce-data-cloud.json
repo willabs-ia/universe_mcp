@@ -1,0 +1,16 @@
+{
+  "id": "cdata-salesforce-data-cloud",
+  "name": "Salesforce Data Cloud",
+  "provider": "CData Software",
+  "description": "Connects to Salesforce Data Cloud through JDBC to enable SQL-based querying, table discovery, and metadata retrieval...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/cdata-salesforce-data-cloud",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:17.818822",
+  "metadata": {}
+}

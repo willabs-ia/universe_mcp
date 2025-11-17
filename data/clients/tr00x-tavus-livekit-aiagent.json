@@ -1,0 +1,11 @@
+{
+  "id": "tr00x-tavus-livekit-aiagent",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Integrates LiveKit AI agents with Tavus avatar sessions to create interactive video conversations that combine OpenAI's realtime model with visual avatars, connecting to MCP servers for dynamic tool capabilities during lifelike video calls for customer service, medical consultations, or interactive support scenarios.",
+  "url": "https://www.pulsemcp.com/clients/tr00x-tavus-livekit-aiagent",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.503009"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "mgraczyk-json-query",
+  "name": "JSON Query",
+  "provider": "Michael Graczyk",
+  "description": "Provides tools for efficiently querying, searching, and extracting specific information from large JSON files without...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/mgraczyk-json-query",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:21.370971",
+  "metadata": {}
+}

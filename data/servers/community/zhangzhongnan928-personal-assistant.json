@@ -1,0 +1,16 @@
+{
+  "id": "zhangzhongnan928-personal-assistant",
+  "name": "Personal Assistant",
+  "provider": "zhangzhongnan928",
+  "description": "Integrates with external services like Google APIs, Home Assistant, and DuckDuckGo to provide a modular framework for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/zhangzhongnan928-personal-assistant",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:08.618001",
+  "metadata": {}
+}

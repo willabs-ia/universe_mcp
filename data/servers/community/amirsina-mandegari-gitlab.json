@@ -1,0 +1,19 @@
+{
+  "id": "amirsina-mandegari-gitlab",
+  "name": "GitLab",
+  "provider": "amirsina-mandegari",
+  "description": "Integrates with GitLab's API to provide merge request management, code review workflows, and branch-based development...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jul 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/amirsina-mandegari-gitlab",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:59.603564",
+  "metadata": {}
+}

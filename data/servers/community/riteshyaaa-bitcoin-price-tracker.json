@@ -1,0 +1,16 @@
+{
+  "id": "riteshyaaa-bitcoin-price-tracker",
+  "name": "Bitcoin Price Tracker",
+  "provider": "Ritesh Yadav",
+  "description": "Provides real-time Bitcoin market data including current price, 24-hour change percentage, and market cap through...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/riteshyaaa-bitcoin-price-tracker",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:03.536046",
+  "metadata": {}
+}

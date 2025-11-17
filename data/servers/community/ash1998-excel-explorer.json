@@ -1,0 +1,16 @@
+{
+  "id": "ash1998-excel-explorer",
+  "name": "Excel Explorer",
+  "provider": "ASH1998",
+  "description": "Provides Excel file analysis through pandas-powered tools for loading spreadsheets, extracting schemas, sampling...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/ash1998-excel-explorer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:07.189296",
+  "metadata": {}
+}

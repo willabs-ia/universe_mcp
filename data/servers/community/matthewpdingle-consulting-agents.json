@@ -1,0 +1,16 @@
+{
+  "id": "matthewpdingle-consulting-agents",
+  "name": "Consulting Agents",
+  "provider": "Matthew P Dingle",
+  "description": "Enables Claude Code to consult with multiple expert coding agents powered by OpenAI's o3-mini and Claude 3.7 Sonnet...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/matthewpdingle-consulting-agents",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:17.248196",
+  "metadata": {}
+}

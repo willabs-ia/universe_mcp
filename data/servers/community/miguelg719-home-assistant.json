@@ -1,0 +1,16 @@
+{
+  "id": "miguelg719-home-assistant",
+  "name": "Home Assistant",
+  "provider": "Miguel",
+  "description": "Integrates Home Assistant devices and automation into workflows, enabling control and monitoring of smart home...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 26, 2024",
+  "url": "https://www.pulsemcp.com/servers/miguelg719-home-assistant",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:46.409863",
+  "metadata": {}
+}

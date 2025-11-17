@@ -1,0 +1,16 @@
+{
+  "id": "recursive-companion",
+  "name": "Recursive Companion",
+  "provider": "Jeremy Green",
+  "description": "Implements iterative content refinement through self-critique cycles using AWS Bedrock, providing session-based...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/recursive-companion",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:52.020678",
+  "metadata": {}
+}

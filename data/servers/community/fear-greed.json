@@ -1,0 +1,19 @@
+{
+  "id": "fear-greed",
+  "name": "Fear & Greed Index",
+  "provider": "ycjcl868",
+  "description": "Provides real-time access to CNN's Fear & Greed Index for US stock market sentiment analysis, retrieving current...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 8
+  },
+  "release_date": "Jul 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/fear-greed",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:39.315085",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "shreyansh-ghl-mysql",
+  "name": "MySQL",
+  "provider": "Shreyansh Gupta",
+  "description": "Provides a lightweight bridge to MySQL databases, enabling read-only database resource introspection and query...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/shreyansh-ghl-mysql",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:57.150197",
+  "metadata": {}
+}

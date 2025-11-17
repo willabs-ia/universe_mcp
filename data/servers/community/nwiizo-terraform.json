@@ -1,0 +1,19 @@
+{
+  "id": "nwiizo-terraform",
+  "name": "tfmcp",
+  "provider": "nwiizo",
+  "description": "Rust-based Terraform infrastructure management server that enables resource listing, configuration validation, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/nwiizo-terraform",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:53.161758",
+  "metadata": {}
+}

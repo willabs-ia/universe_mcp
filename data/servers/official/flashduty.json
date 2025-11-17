@@ -1,0 +1,16 @@
+{
+  "id": "flashduty",
+  "name": "Flashduty",
+  "provider": "Flashcat",
+  "description": "Integrates with Flashduty's incident management platform to create, acknowledge, resolve, and manage incidents with...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Jul 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/flashduty",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:54.088704",
+  "metadata": {}
+}

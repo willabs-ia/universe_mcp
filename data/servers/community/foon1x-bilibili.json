@@ -1,0 +1,16 @@
+{
+  "id": "foon1x-bilibili",
+  "name": "Bilibili",
+  "provider": "FoON1x",
+  "description": "Integrates with Bilibili's search API to find videos, users, and content on China's popular video platform by keyword...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/foon1x-bilibili",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:33.208523",
+  "metadata": {}
+}

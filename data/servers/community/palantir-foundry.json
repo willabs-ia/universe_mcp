@@ -1,0 +1,16 @@
+{
+  "id": "palantir-foundry",
+  "name": "Palantir Foundry",
+  "provider": "Dana K. Williams",
+  "description": "Bridges to Palantir Foundry platform, enabling ontology data interaction and SQL query execution against datasets...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/palantir-foundry",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:01.410191",
+  "metadata": {}
+}

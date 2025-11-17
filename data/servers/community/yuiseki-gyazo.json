@@ -1,0 +1,16 @@
+{
+  "id": "yuiseki-gyazo",
+  "name": "Gyazo",
+  "provider": "yuiseki",
+  "description": "Integrates with Gyazo to retrieve Gyazo images and metadata, enabling image analysis and content processing.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/yuiseki-gyazo",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:52.951505",
+  "metadata": {}
+}

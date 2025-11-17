@@ -1,0 +1,16 @@
+{
+  "id": "nextdrive-github-action-trigger",
+  "name": "GitHub Actions Trigger",
+  "provider": "NextDrive Team",
+  "description": "Enables GitHub Actions integration for triggering workflows, fetching action details, and retrieving repository...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/nextdrive-github-action-trigger",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:07.795819",
+  "metadata": {}
+}

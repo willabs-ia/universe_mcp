@@ -1,0 +1,16 @@
+{
+  "id": "agentx-ai-mailchimp",
+  "name": "Mailchimp",
+  "provider": "Robin",
+  "description": "Integrates with Mailchimp's Marketing API to provide read-only access to automation management, campaign analytics,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/agentx-ai-mailchimp",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:58.345521",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "dummyjson-user-management",
+  "name": "DummyJSON User Management",
+  "provider": "Amit Wani",
+  "description": "Java-based user management server that integrates with DummyJSON API to provide retrieval, search, creation,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/dummyjson-user-management",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:59.269968",
+  "metadata": {}
+}

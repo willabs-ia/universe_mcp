@@ -1,0 +1,16 @@
+{
+  "id": "openshift-pipelines-tekton",
+  "name": "Tekton CI/CD",
+  "provider": "OpenShift Pipelines",
+  "description": "Enables DevOps teams to start and monitor Tekton CI/CD pipelines in Kubernetes environments through natural language...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/openshift-pipelines-tekton",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:14.970347",
+  "metadata": {}
+}

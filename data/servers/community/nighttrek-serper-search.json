@@ -1,0 +1,16 @@
+{
+  "id": "nighttrek-serper-search",
+  "name": "Serper Search",
+  "provider": "NightTrek",
+  "description": "Integrates with Serper API to provide web search capabilities through standard Google search and Deep Research tools...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/nighttrek-serper-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:50.756301",
+  "metadata": {}
+}

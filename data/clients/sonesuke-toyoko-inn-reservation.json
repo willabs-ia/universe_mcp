@@ -1,0 +1,11 @@
+{
+  "id": "sonesuke-toyoko-inn-reservation",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Automates hotel bookings with the Toyoko Inn reservation system using Playwright for website navigation, login, search, and reservation processes.",
+  "url": "https://www.pulsemcp.com/clients/sonesuke-toyoko-inn-reservation",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.557850"
+}

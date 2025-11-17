@@ -1,0 +1,16 @@
+{
+  "id": "streen9-azure-resource-management",
+  "name": "Azure Resource Management",
+  "provider": "Streen9",
+  "description": "Integrates with Azure services to enable cloud resource management, including provisioning virtual machines,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/streen9-azure-resource-management",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:01.624721",
+  "metadata": {}
+}

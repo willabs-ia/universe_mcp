@@ -1,0 +1,19 @@
+{
+  "id": "cyanheads-obsidian",
+  "name": "Obsidian Vault",
+  "provider": "cyanheads",
+  "description": "Enables interaction with Obsidian vaults for file operations, content search, and metadata management, facilitating...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 67
+  },
+  "release_date": "Jan 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/cyanheads-obsidian",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:12.770559",
+  "metadata": {}
+}

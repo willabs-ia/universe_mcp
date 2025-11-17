@@ -1,0 +1,16 @@
+{
+  "id": "serkanh-cloudwatch-logs",
+  "name": "CloudWatch Logs",
+  "provider": "Serkan Holat",
+  "description": "Provides direct access to AWS CloudWatch logs with tools for listing log groups and retrieving filtered log entries...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/serkanh-cloudwatch-logs",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:03.497732",
+  "metadata": {}
+}

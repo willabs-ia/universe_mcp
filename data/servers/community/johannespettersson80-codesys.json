@@ -1,0 +1,19 @@
+{
+  "id": "johannespettersson80-codesys",
+  "name": "CODESYS",
+  "provider": "johannesPettersson80",
+  "description": "Integrates with CODESYS V3 automation programming environments through Python scripting to enable project management,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 13
+  },
+  "release_date": "May 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/johannespettersson80-codesys",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:32.718962",
+  "metadata": {}
+}

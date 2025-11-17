@@ -1,0 +1,19 @@
+{
+  "id": "syucream-lightdash",
+  "name": "Lightdash",
+  "provider": "Ryo Okubo",
+  "description": "Integrates with Lightdash to enable automated reporting, data exploration, and analytics-driven decision making.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jan 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/syucream-lightdash",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:44.490558",
+  "metadata": {}
+}

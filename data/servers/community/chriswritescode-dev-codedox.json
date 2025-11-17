@@ -1,0 +1,16 @@
+{
+  "id": "chriswritescode-dev-codedox",
+  "name": "CodeDox",
+  "provider": "Chris Scott",
+  "description": "Crawls documentation websites and extracts code snippets using tree-sitter parsing, automatically categorizing and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/chriswritescode-dev-codedox",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:58.327605",
+  "metadata": {}
+}

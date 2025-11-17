@@ -1,0 +1,19 @@
+{
+  "id": "smartlittleapps-local-speech-to-text",
+  "name": "Local Speech-to-Text",
+  "provider": "SmartLittleApps",
+  "description": "Provides local speech-to-text transcription using whisper.cpp with automatic audio format conversion, intelligent...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jun 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/smartlittleapps-local-speech-to-text",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:57.437903",
+  "metadata": {}
+}

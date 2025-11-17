@@ -1,0 +1,16 @@
+{
+  "id": "dmontgomery40-birdnet-pi",
+  "name": "BirdNet-Pi",
+  "provider": "DMontgomery40",
+  "description": "Integrates BirdNet-Pi's bird detection capabilities with a JSON-RPC interface, enabling retrieval and analysis of...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Nov 27, 2024",
+  "url": "https://www.pulsemcp.com/servers/dmontgomery40-birdnet-pi",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:35.727896",
+  "metadata": {}
+}

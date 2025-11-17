@@ -1,0 +1,16 @@
+{
+  "id": "disrex-plane",
+  "name": "Plane",
+  "provider": "Disrex Group",
+  "description": "Integrates with Plane's project management platform through 76 specialized tools for complete issue, project, module,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/disrex-plane",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:13.584722",
+  "metadata": {}
+}

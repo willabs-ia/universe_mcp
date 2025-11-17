@@ -1,0 +1,19 @@
+{
+  "id": "dasheck0-face-generator",
+  "name": "Face Generator",
+  "provider": "Stefan Neidig",
+  "description": "Generates customizable human face images using thispersondoesnotexist.com, offering options for shape, dimensions,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 12
+  },
+  "release_date": "Dec 29, 2024",
+  "url": "https://www.pulsemcp.com/servers/dasheck0-face-generator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:32.738556",
+  "metadata": {}
+}

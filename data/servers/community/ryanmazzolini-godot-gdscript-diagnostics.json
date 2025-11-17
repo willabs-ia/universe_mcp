@@ -1,0 +1,16 @@
+{
+  "id": "ryanmazzolini-godot-gdscript-diagnostics",
+  "name": "Godot GDScript Diagnostics",
+  "provider": "ryanmazzolini",
+  "description": "Connects directly to Godot's Language Server Protocol to provide real-time GDScript syntax validation and error...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/ryanmazzolini-godot-gdscript-diagnostics",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:29.272470",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "giannisanni-kokoro-tts",
+  "name": "Kokoro TTS",
+  "provider": "Giannis Anni",
+  "description": "Integrates with the Kokoro TTS engine to provide customizable text-to-speech capabilities, supporting cross-platform...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/giannisanni-kokoro-tts",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:13.005429",
+  "metadata": {}
+}

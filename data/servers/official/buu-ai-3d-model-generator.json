@@ -1,0 +1,16 @@
+{
+  "id": "buu-ai-3d-model-generator",
+  "name": "Buu AI 3D Model Generator",
+  "provider": "Buu AI",
+  "description": "Provides a bridge to the Buu AI platform for generating 3D models from text prompts in various styles including...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Apr 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/buu-ai-3d-model-generator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:22.806127",
+  "metadata": {}
+}

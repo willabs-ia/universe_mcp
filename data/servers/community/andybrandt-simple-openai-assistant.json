@@ -1,0 +1,19 @@
+{
+  "id": "andybrandt-simple-openai-assistant",
+  "name": "Simple OpenAI Assistant",
+  "provider": "Andy Brandt",
+  "description": "Create and manage conversations with OpenAI assistants.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 47
+  },
+  "release_date": "Dec 5, 2024",
+  "url": "https://www.pulsemcp.com/servers/andybrandt-simple-openai-assistant",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:14.979877",
+  "metadata": {}
+}

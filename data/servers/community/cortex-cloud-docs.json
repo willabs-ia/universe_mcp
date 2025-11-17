@@ -1,0 +1,19 @@
+{
+  "id": "cortex-cloud-docs",
+  "name": "Cortex Cloud Docs",
+  "provider": "Matt Clarke",
+  "description": "Provides conversational access to Palo Alto Networks Cortex Cloud platform documentation through web scraping and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 40
+  },
+  "release_date": "Aug 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/cortex-cloud-docs",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:19.234951",
+  "metadata": {}
+}

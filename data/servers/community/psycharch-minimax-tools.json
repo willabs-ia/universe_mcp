@@ -1,0 +1,16 @@
+{
+  "id": "psycharch-minimax-tools",
+  "name": "Minimax AI",
+  "provider": "PsychArch",
+  "description": "Integrates with Minimax's AI services to provide image generation and text-to-speech capabilities through a Node.js...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/psycharch-minimax-tools",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:19.349178",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "josmithiii-juce-docs",
+  "name": "JUCE Docs",
+  "provider": "Julius Smith",
+  "description": "Parses JUCE Framework HTML documentation from Stanford CCRMA's website, converting class details into...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/josmithiii-juce-docs",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:59.229460",
+  "metadata": {}
+}

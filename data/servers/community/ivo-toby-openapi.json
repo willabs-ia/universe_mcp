@@ -1,0 +1,19 @@
+{
+  "id": "ivo-toby-openapi",
+  "name": "OpenAPI",
+  "provider": "Ivo Toby",
+  "description": "Integrates with OpenAPI specifications to expose REST API endpoints as MCP resources, enabling dynamic discovery and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Dec 5, 2024",
+  "url": "https://www.pulsemcp.com/servers/ivo-toby-openapi",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:44.474508",
+  "metadata": {}
+}

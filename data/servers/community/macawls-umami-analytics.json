@@ -1,0 +1,16 @@
+{
+  "id": "macawls-umami-analytics",
+  "name": "Umami Analytics",
+  "provider": "Macawls",
+  "description": "Integrates with Umami Analytics to provide website statistics, visitor metrics, page views, traffic sources, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/macawls-umami-analytics",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:51.984800",
+  "metadata": {}
+}

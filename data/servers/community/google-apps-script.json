@@ -1,0 +1,19 @@
+{
+  "id": "google-apps-script",
+  "name": "Google Apps Script API",
+  "provider": "mohalmah",
+  "description": "Integrates with Google Apps Script API through 17 specialized tools for project management, deployment operations,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jun 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/google-apps-script",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:57.434271",
+  "metadata": {}
+}

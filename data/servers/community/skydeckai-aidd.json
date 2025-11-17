@@ -1,0 +1,19 @@
+{
+  "id": "skydeckai-aidd",
+  "name": "AiDD (Dev Workflows)",
+  "provider": "Skydeck AI",
+  "description": "Integrates file system, code analysis, Git, and execution capabilities to enable AI-driven development workflows...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 107
+  },
+  "release_date": "Jan 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/skydeckai-aidd",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:06.238022",
+  "metadata": {}
+}

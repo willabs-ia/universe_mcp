@@ -1,0 +1,16 @@
+{
+  "id": "ifmelate-image-extractor",
+  "name": "Image Extractor",
+  "provider": "ifmelate",
+  "description": "Enables image processing and analysis by extracting images from URLs or base64 data, with features for resizing,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/ifmelate-image-extractor",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:21.495406",
+  "metadata": {}
+}

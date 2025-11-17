@@ -1,0 +1,16 @@
+{
+  "id": "sunwood-ai-labs-obsidian",
+  "name": "Obsidian",
+  "provider": "Sunwood AI Labs",
+  "description": "Integrates with Obsidian vaults to enable querying, creating, and modifying notes for enhanced personal knowledge...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/sunwood-ai-labs-obsidian",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:42.202066",
+  "metadata": {}
+}

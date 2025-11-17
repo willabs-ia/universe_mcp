@@ -1,0 +1,19 @@
+{
+  "id": "chaindead-telegram",
+  "name": "Telegram",
+  "provider": "Bary Huang",
+  "description": "Bridges AI with Telegram to enable monitoring, organizing, and responding to messages through account access, dialog...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 155
+  },
+  "release_date": "Apr 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/chaindead-telegram",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:42.284783",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "alibabacloud-core",
+  "name": "Alibaba Cloud",
+  "provider": "Alibaba Cloud",
+  "description": "Provides a bridge to Alibaba Cloud services for managing ECS instances, viewing resources, monitoring metrics, and...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 42
+  },
+  "release_date": "Apr 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/alibabacloud-core",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:17.103414",
+  "metadata": {}
+}

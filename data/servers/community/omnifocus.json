@@ -1,0 +1,19 @@
+{
+  "id": "omnifocus",
+  "name": "OmniFocus",
+  "provider": "mdoel",
+  "description": "Integrates with OmniFocus task management on macOS using JavaScript for Automation to retrieve tasks, projects, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 10
+  },
+  "release_date": "Jun 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/omnifocus",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:34.949876",
+  "metadata": {}
+}

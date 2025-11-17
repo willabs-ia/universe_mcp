@@ -1,0 +1,16 @@
+{
+  "id": "urlscan",
+  "name": "URLScan",
+  "provider": "Onur Ucar",
+  "description": "Provides a bridge to urlscan.io for analyzing website security and content information through a single tool that...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/urlscan",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:16.458562",
+  "metadata": {}
+}

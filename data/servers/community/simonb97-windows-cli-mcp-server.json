@@ -1,0 +1,19 @@
+{
+  "id": "simonb97-windows-cli-mcp-server",
+  "name": "Windows CLI",
+  "provider": "Simon B",
+  "description": "Control Windows command-line interfaces securely.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 96
+  },
+  "release_date": "Dec 4, 2024",
+  "url": "https://www.pulsemcp.com/servers/simonb97-windows-cli-mcp-server",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:08.388993",
+  "metadata": {}
+}

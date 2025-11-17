@@ -1,0 +1,16 @@
+{
+  "id": "sonofagl1tch-ulysses",
+  "name": "Ulysses",
+  "provider": "sonofagl1tch",
+  "description": "Integrates with Ulysses writing application on macOS through x-callback-url API to create sheets, manage groups,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/sonofagl1tch-ulysses",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:37.554878",
+  "metadata": {}
+}

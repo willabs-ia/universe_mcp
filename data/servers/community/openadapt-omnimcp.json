@@ -1,0 +1,19 @@
+{
+  "id": "openadapt-omnimcp",
+  "name": "OmniParser",
+  "provider": "Richard Abrich",
+  "description": "Provides a robust UI automation framework leveraging advanced computer vision techniques for precise element...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/openadapt-omnimcp",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:33.781667",
+  "metadata": {}
+}

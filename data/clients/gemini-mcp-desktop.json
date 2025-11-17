@@ -1,0 +1,11 @@
+{
+  "id": "gemini-mcp-desktop",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Electron-based desktop application that connects Google's Gemini models to multiple MCP servers, enabling enhanced AI interactions with specialized tools through a configurable chat interface.",
+  "url": "https://www.pulsemcp.com/clients/gemini-mcp-desktop",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.405248"
+}

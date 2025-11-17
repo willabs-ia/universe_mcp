@@ -1,0 +1,16 @@
+{
+  "id": "sedwardstx-log-analyzer",
+  "name": "Log Analyzer",
+  "provider": "Steve Edwards",
+  "description": "Analyzes Windows Event Logs, ETL files, structured logs, and unstructured text through specialized parsers with...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/sedwardstx-log-analyzer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:00.617652",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "watchdealer-pavel-deepl-translator",
+  "name": "DeepL Translator",
+  "provider": "watchdealer-pavel",
+  "description": "Integrates with DeepL API to provide high-quality text translation between multiple languages with comprehensive...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/watchdealer-pavel-deepl-translator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:17.091392",
+  "metadata": {}
+}

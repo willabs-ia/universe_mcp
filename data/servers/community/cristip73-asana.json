@@ -1,0 +1,19 @@
+{
+  "id": "cristip73-asana",
+  "name": "Asana",
+  "provider": "cristip73",
+  "description": "Integrates with Asana's API to enable task management, project organization, and collaboration workflows through 30+...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 8
+  },
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/cristip73-asana",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:37.130195",
+  "metadata": {}
+}

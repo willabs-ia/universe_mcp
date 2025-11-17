@@ -1,0 +1,16 @@
+{
+  "id": "kukapay-web3-jobs",
+  "name": "Web3 Career",
+  "provider": "kukapay",
+  "description": "Integrates with the web3.career API to search and filter cryptocurrency and blockchain job opportunities with...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/kukapay-web3-jobs",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:45.504461",
+  "metadata": {}
+}

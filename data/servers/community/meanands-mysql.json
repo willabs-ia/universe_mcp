@@ -1,0 +1,16 @@
+{
+  "id": "meanands-mysql",
+  "name": "MySQL",
+  "provider": "Anand S",
+  "description": "Enables natural language interaction with MySQL databases through Python and SQLAlchemy, providing secure query...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/meanands-mysql",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:17.220353",
+  "metadata": {}
+}

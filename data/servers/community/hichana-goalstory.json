@@ -1,0 +1,16 @@
+{
+  "id": "hichana-goalstory",
+  "name": "Goal Story",
+  "provider": "hichana",
+  "description": "Integrates with Goal Story to enable personal goal management, step-by-step planning, and motivational narrative...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/hichana-goalstory",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:23.633060",
+  "metadata": {}
+}

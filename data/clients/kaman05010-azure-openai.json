@@ -1,0 +1,11 @@
+{
+  "id": "kaman05010-azure-openai",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Bridges Azure OpenAI with MCP servers using Azure AD authentication to enable AI assistants to dynamically discover and execute tools for enterprise automation workflows.",
+  "url": "https://www.pulsemcp.com/clients/kaman05010-azure-openai",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.539356"
+}

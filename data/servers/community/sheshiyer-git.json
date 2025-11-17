@@ -1,0 +1,16 @@
+{
+  "id": "sheshiyer-git",
+  "name": "Git",
+  "provider": "Sheshiyer",
+  "description": "Integrates with Git repositories to enable version control operations, code management, and collaborative development...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/sheshiyer-git",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:59.319013",
+  "metadata": {}
+}

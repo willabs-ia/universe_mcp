@@ -1,0 +1,16 @@
+{
+  "id": "imatrixme-pocketbase",
+  "name": "PocketBase",
+  "provider": "Dynamic Endpoints",
+  "description": "Provides direct access to PocketBase databases with tools for collection management, record operations, user...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/imatrixme-pocketbase",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:14.311636",
+  "metadata": {}
+}

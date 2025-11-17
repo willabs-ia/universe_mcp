@@ -1,0 +1,19 @@
+{
+  "id": "tushar-badhwar-nlsql",
+  "name": "NLSQL",
+  "provider": "Tushar Badhwar",
+  "description": "Node.js wrapper that converts natural language queries into SQL operations for SQLite, PostgreSQL, and MySQL...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jul 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/tushar-badhwar-nlsql",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:59.590461",
+  "metadata": {}
+}

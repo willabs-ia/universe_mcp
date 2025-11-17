@@ -1,0 +1,16 @@
+{
+  "id": "dogukanakkaya-pulumi",
+  "name": "Pulumi",
+  "provider": "Dogukan Akkaya",
+  "description": "Enables AI assistants to manage infrastructure as code through Pulumi Cloud API, providing capabilities to create and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/dogukanakkaya-pulumi",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:32.705469",
+  "metadata": {}
+}

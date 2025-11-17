@@ -1,0 +1,16 @@
+{
+  "id": "devrev",
+  "name": "DevRev",
+  "provider": "DevRev",
+  "description": "Integrates with DevRev platform to enable searching, retrieving, creating, and updating issues and tickets through...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Dec 20, 2024",
+  "url": "https://www.pulsemcp.com/servers/devrev",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:38.991186",
+  "metadata": {}
+}

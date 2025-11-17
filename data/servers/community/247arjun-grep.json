@@ -1,0 +1,19 @@
+{
+  "id": "247arjun-grep",
+  "name": "Grep",
+  "provider": "247arjun",
+  "description": "Converts natural language search queries like 'email addresses' or 'TODO comments' into regex patterns and executes...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 2
+  },
+  "release_date": "Aug 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/247arjun-grep",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:52.322284",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "jedrazb-elastic-semantic-search",
+  "name": "Elastic Semantic Search",
+  "provider": "Jedrzej Bialkowski",
+  "description": "Integrates with Elasticsearch to provide semantic search functionality for blog posts, returning formatted results...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/jedrazb-elastic-semantic-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:13.000176",
+  "metadata": {}
+}

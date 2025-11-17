@@ -1,0 +1,16 @@
+{
+  "id": "pkgxdev-pkgx",
+  "name": "pkgx",
+  "provider": "pkgx",
+  "description": "Provides secure access to thousands of open-source command-line tools through pkgx, executing commands in a sandboxed...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "May 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/pkgxdev-pkgx",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:30.113146",
+  "metadata": {}
+}

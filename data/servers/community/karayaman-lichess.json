@@ -1,0 +1,16 @@
+{
+  "id": "karayaman-lichess",
+  "name": "Lichess",
+  "provider": "Alper Karayaman",
+  "description": "Integrates with the Lichess chess platform to enable natural language-driven gameplay, analysis, and tournament...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/karayaman-lichess",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:04.193493",
+  "metadata": {}
+}

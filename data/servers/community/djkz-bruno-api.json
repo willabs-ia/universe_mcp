@@ -1,0 +1,16 @@
+{
+  "id": "djkz-bruno-api",
+  "name": "Bruno API",
+  "provider": "djkz",
+  "description": "Bridges AI systems with Bruno API collections, enabling direct execution of HTTP requests defined in .bru format with...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/djkz-bruno-api",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:44.145670",
+  "metadata": {}
+}

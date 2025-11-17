@@ -1,0 +1,19 @@
+{
+  "id": "alec2435-python-local",
+  "name": "Python REPL",
+  "provider": "Alex Velikanov",
+  "description": "Provides an interactive Python REPL environment for executing code within conversations, maintaining separate state...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 14
+  },
+  "release_date": "Dec 26, 2024",
+  "url": "https://www.pulsemcp.com/servers/alec2435-python-local",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:30.164822",
+  "metadata": {}
+}

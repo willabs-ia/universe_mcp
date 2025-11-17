@@ -1,0 +1,16 @@
+{
+  "id": "gldc-postgres-explorer",
+  "name": "PostgreSQL Explorer",
+  "provider": "gldc",
+  "description": "Enables natural language interaction with PostgreSQL databases through tools for schema exploration, table...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/gldc-postgres-explorer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:01.414134",
+  "metadata": {}
+}

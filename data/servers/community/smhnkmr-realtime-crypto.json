@@ -1,0 +1,16 @@
+{
+  "id": "smhnkmr-realtime-crypto",
+  "name": "Realtime Crypto (CoinCap)",
+  "provider": "Mohan Kumar",
+  "description": "Provides real-time cryptocurrency data through the CoinCap API, offering detailed exchange information and current...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/smhnkmr-realtime-crypto",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:10.299133",
+  "metadata": {}
+}

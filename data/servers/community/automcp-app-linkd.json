@@ -1,0 +1,16 @@
+{
+  "id": "automcp-app-linkd",
+  "name": "Linkd",
+  "provider": "automcp-app",
+  "description": "Integrates with Linkd API to extract LinkedIn user and company profiles, search contacts, retrieve email addresses,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/automcp-app-linkd",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:41.157036",
+  "metadata": {}
+}

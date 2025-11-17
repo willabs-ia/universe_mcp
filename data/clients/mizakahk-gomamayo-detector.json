@@ -1,0 +1,11 @@
+{
+  "id": "mizakahk-gomamayo-detector",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Detects and analyzes 'gomamayo' Japanese wordplay patterns where consecutive morae share the same vowel, useful for language analysis and content creation.",
+  "url": "https://www.pulsemcp.com/clients/mizakahk-gomamayo-detector",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.498157"
+}

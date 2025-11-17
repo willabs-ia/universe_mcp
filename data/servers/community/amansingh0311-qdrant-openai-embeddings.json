@@ -1,0 +1,16 @@
+{
+  "id": "amansingh0311-qdrant-openai-embeddings",
+  "name": "Qdrant with OpenAI Embeddings",
+  "provider": "Aman Singh",
+  "description": "Connects AI systems to Qdrant vector databases for semantic search using OpenAI embeddings, enabling contextual...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/amansingh0311-qdrant-openai-embeddings",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:48.402031",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "doubao-image",
+  "name": "Doubao Image Generation",
+  "provider": "suibin521",
+  "description": "Integrates with ByteDance's Doubao API to generate images from text prompts with configurable dimensions and quality...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/doubao-image",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:25.034831",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "nalyk-gitlab",
+  "name": "GitLab",
+  "provider": "Ion (Nalyk) Calmis",
+  "description": "GitLab MCP Server provides robust integration with the GitLab API, enabling developers to interact with repositories,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 7
+  },
+  "release_date": "Mar 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/nalyk-gitlab",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:39.341110",
+  "metadata": {}
+}

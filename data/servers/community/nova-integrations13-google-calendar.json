@@ -1,0 +1,16 @@
+{
+  "id": "nova-integrations13-google-calendar",
+  "name": "Google Calendar",
+  "provider": "Nova Integrations",
+  "description": "Integrates with Google Calendar API to create events, schedule meetings, and manage appointments through natural...",
+  "classification": null,
+  "weekly_metric": null,
+  "release_date": "Sep 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/nova-integrations13-google-calendar",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:27.165863",
+  "metadata": {}
+}

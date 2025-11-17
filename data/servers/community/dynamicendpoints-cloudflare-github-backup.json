@@ -1,0 +1,16 @@
+{
+  "id": "dynamicendpoints-cloudflare-github-backup",
+  "name": "Cloudflare Backup",
+  "provider": "Dynamic Endpoints",
+  "description": "Automates backing up Cloudflare configurations to GitHub repositories, enabling version control and disaster recovery...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 24, 2024",
+  "url": "https://www.pulsemcp.com/servers/dynamicendpoints-cloudflare-github-backup",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:01.202495",
+  "metadata": {}
+}

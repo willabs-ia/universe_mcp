@@ -1,0 +1,16 @@
+{
+  "id": "ynu",
+  "name": "YNU",
+  "provider": "liudonghua",
+  "description": "Modular framework for exposing tools, resources, and prompts through FastMCP, featuring dynamic module loading,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/ynu",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:16.424619",
+  "metadata": {}
+}

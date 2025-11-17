@@ -1,0 +1,16 @@
+{
+  "id": "kennyckk-hkbus",
+  "name": "Hong Kong Bus",
+  "provider": "kennyckk",
+  "description": "Provides real-time Hong Kong bus information through KMB API integration, enabling users to find routes, locate...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/kennyckk-hkbus",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:03.503821",
+  "metadata": {}
+}

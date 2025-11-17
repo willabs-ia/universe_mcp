@@ -1,0 +1,19 @@
+{
+  "id": "v9rt3x-cs2-rcon",
+  "name": "CS2 RCON",
+  "provider": "v9rt3x",
+  "description": "Enables Counter-Strike 2 server administration through RCON commands, allowing execution of administrative tasks,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "Apr 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/v9rt3x-cs2-rcon",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:35.886571",
+  "metadata": {}
+}

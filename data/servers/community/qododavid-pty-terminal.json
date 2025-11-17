@@ -1,0 +1,16 @@
+{
+  "id": "qododavid-pty-terminal",
+  "name": "PTY Terminal",
+  "provider": "David Wurtz",
+  "description": "Provides a stateful terminal interface for maintaining session context and executing complex, multi-step operations...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/qododavid-pty-terminal",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:57.227337",
+  "metadata": {}
+}

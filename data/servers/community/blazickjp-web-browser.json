@@ -1,0 +1,19 @@
+{
+  "id": "blazickjp-web-browser",
+  "name": "Web Browser",
+  "provider": "John Blazick",
+  "description": "Integrates web browsing capabilities for realtime data retrieval, content extraction, and task automation using...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 27
+  },
+  "release_date": "Nov 29, 2024",
+  "url": "https://www.pulsemcp.com/servers/blazickjp-web-browser",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:21.388148",
+  "metadata": {}
+}

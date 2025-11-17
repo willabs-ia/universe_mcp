@@ -1,0 +1,19 @@
+{
+  "id": "licensespring",
+  "name": "LicenseSpring",
+  "provider": "stier1ba",
+  "description": "Integrates with LicenseSpring's license management platform to enable software license activation, validation,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Jun 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/licensespring",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:56.927812",
+  "metadata": {}
+}

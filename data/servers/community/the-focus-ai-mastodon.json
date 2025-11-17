@@ -1,0 +1,16 @@
+{
+  "id": "the-focus-ai-mastodon",
+  "name": "Mastodon",
+  "provider": "The Focus AI",
+  "description": "Integrates with Mastodon social media platforms for creating posts with customizable visibility settings and media...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/the-focus-ai-mastodon",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:36.993573",
+  "metadata": {}
+}

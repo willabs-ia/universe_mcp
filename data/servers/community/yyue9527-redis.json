@@ -1,0 +1,16 @@
+{
+  "id": "yyue9527-redis",
+  "name": "Redis",
+  "provider": "yyue9527",
+  "description": "Enables AI tools to interact with Redis databases through key-value operations, pattern-based key listing, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/yyue9527-redis",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:21.337474",
+  "metadata": {}
+}

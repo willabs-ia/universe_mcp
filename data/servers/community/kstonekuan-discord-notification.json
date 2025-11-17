@@ -1,0 +1,16 @@
+{
+  "id": "kstonekuan-discord-notification",
+  "name": "Discord Notification",
+  "provider": "kstonekuan",
+  "description": "Sends messages directly to Discord channels through webhook integration for automated notifications, alerts, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/kstonekuan-discord-notification",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:09.299449",
+  "metadata": {}
+}

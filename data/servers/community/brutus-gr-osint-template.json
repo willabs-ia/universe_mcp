@@ -1,0 +1,16 @@
+{
+  "id": "brutus-gr-osint-template",
+  "name": "OSINT",
+  "provider": "brutus-gr",
+  "description": "Real-time OSINT intelligence platform for global security monitoring.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/brutus-gr-osint-template",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:33.236884",
+  "metadata": {}
+}

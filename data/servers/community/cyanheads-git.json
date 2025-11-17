@@ -1,0 +1,19 @@
+{
+  "id": "cyanheads-git",
+  "name": "Git",
+  "provider": "cyanheads",
+  "description": "Integrates with Git repositories using simple-git to enable core version control operations like cloning, committing,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "Dec 16, 2024",
+  "url": "https://www.pulsemcp.com/servers/cyanheads-git",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:31.082068",
+  "metadata": {}
+}

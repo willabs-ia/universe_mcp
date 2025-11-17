@@ -1,0 +1,16 @@
+{
+  "id": "project-synapse",
+  "name": "Project Synapse",
+  "provider": "angrysky56",
+  "description": "Transforms raw text into interconnected knowledge graphs using semantic parsing, Zettelkasten methodology, and Neo4j...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/project-synapse",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:52.009752",
+  "metadata": {}
+}

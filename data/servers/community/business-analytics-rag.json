@@ -1,0 +1,16 @@
+{
+  "id": "business-analytics-rag",
+  "name": "Business Analytics RAG",
+  "provider": "ANSH-RIYAL",
+  "description": "Combines business analytics capabilities for statistical operations on CSV data with RAG-powered knowledge retrieval...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/business-analytics-rag",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:07.210766",
+  "metadata": {}
+}

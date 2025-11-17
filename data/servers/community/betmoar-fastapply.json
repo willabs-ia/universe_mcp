@@ -1,0 +1,19 @@
+{
+  "id": "betmoar-fastapply",
+  "name": "FastApply",
+  "provider": "betmoar",
+  "description": "Provides intelligent code editing capabilities through local language models, combining AST-grep pattern matching and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Sep 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/betmoar-fastapply",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:04.044014",
+  "metadata": {}
+}

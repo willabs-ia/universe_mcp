@@ -1,0 +1,16 @@
+{
+  "id": "maton",
+  "name": "Maton",
+  "provider": "Maton AI",
+  "description": "Integrate with Maton APIs through function calling. This protocol supports various apps and actions to interact with...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/maton",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:34.843018",
+  "metadata": {}
+}

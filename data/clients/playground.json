@@ -1,0 +1,11 @@
+{
+  "id": "playground",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Desktop application for testing and debugging MCP implementations with support for multiple AI providers, server exploration, and tool visualization.",
+  "url": "https://www.pulsemcp.com/clients/playground",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.423427"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "prayanks-sqlite-explorer",
+  "name": "SQLite Explorer",
+  "provider": "Prayank Swaroop",
+  "description": "Provides a bridge to SQLite databases for querying and analyzing data through SQL execution, enabling data...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/prayanks-sqlite-explorer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:19.292142",
+  "metadata": {}
+}

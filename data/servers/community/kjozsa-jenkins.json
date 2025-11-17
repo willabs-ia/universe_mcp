@@ -1,0 +1,16 @@
+{
+  "id": "kjozsa-jenkins",
+  "name": "Jenkins",
+  "provider": "Kristof Jozsa",
+  "description": "Integrates with Jenkins CI/CD operations, enabling job listing, build triggering, and status checking for streamlined...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/kjozsa-jenkins",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:01.626014",
+  "metadata": {}
+}

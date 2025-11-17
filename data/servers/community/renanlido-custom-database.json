@@ -1,0 +1,16 @@
+{
+  "id": "renanlido-custom-database",
+  "name": "Custom Database",
+  "provider": "renanlido",
+  "description": "Provides secure database access across PostgreSQL, MySQL, MongoDB, and Oracle databases with credential management,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/renanlido-custom-database",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:56.216304",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "kimi-ai",
+  "name": "KIMI AI",
+  "provider": "AdamLeeN",
+  "description": "Integrates with KIMI AI services through OpenAI-compatible API endpoints, providing text generation using...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/kimi-ai",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:22.132730",
+  "metadata": {}
+}

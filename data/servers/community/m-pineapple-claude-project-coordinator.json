@@ -1,0 +1,16 @@
+{
+  "id": "m-pineapple-claude-project-coordinator",
+  "name": "Claude Project Coordinator",
+  "provider": "M-Pineapple",
+  "description": "Provides Xcode and Swift project management with lifecycle tracking, task management, technology stack detection,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/m-pineapple-claude-project-coordinator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:49.863724",
+  "metadata": {}
+}

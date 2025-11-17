@@ -1,0 +1,16 @@
+{
+  "id": "dexoryn-pumpfun",
+  "name": "Pump.fun",
+  "provider": "dexoryn",
+  "description": "Integrates with Pump.fun platform on Solana to create, buy, and sell meme tokens with automated keypair management,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/dexoryn-pumpfun",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:35.321895",
+  "metadata": {}
+}

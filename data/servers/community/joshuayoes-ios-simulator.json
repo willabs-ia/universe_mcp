@@ -1,0 +1,19 @@
+{
+  "id": "joshuayoes-ios-simulator",
+  "name": "iOS Simulator",
+  "provider": "Joshua Yoes",
+  "description": "Enables Claude to control iOS simulators for testing and debugging applications by providing tools for UI...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 81
+  },
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/joshuayoes-ios-simulator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:10.518315",
+  "metadata": {}
+}

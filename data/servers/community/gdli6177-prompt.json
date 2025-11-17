@@ -1,0 +1,16 @@
+{
+  "id": "gdli6177-prompt",
+  "name": "Software Development Prompts",
+  "provider": "gdli6177",
+  "description": "Provides pre-defined YAML prompts for common software development tasks as tools, including code review, refactoring,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/gdli6177-prompt",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:46.277188",
+  "metadata": {}
+}

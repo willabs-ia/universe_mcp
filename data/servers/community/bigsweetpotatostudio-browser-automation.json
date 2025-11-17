@@ -1,0 +1,19 @@
+{
+  "id": "bigsweetpotatostudio-browser-automation",
+  "name": "Browser Automation",
+  "provider": "Big Sweet Potato Studio",
+  "description": "Enables web browsing capabilities through Puppeteer and Chrome, allowing navigation, content extraction, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/bigsweetpotatostudio-browser-automation",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:54.750397",
+  "metadata": {}
+}

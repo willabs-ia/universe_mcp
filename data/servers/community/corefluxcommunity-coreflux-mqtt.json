@@ -1,0 +1,16 @@
+{
+  "id": "corefluxcommunity-coreflux-mqtt",
+  "name": "Coreflux MQTT",
+  "provider": "CorefluxCommunity",
+  "description": "Integrates with Coreflux IoT platform through MQTT broker connections to enable dynamic discovery and execution of...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/corefluxcommunity-coreflux-mqtt",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:41.140791",
+  "metadata": {}
+}

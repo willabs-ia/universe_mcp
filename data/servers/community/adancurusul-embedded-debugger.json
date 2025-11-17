@@ -1,0 +1,19 @@
+{
+  "id": "adancurusul-embedded-debugger",
+  "name": "Embedded Debugger (probe-rs)",
+  "provider": "Adancurusul",
+  "description": "Provides hardware debugging capabilities for ARM Cortex-M and RISC-V microcontrollers through probe-rs integration,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Aug 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/adancurusul-embedded-debugger",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:01.860364",
+  "metadata": {}
+}

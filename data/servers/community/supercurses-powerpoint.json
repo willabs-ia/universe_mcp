@@ -1,0 +1,19 @@
+{
+  "id": "supercurses-powerpoint",
+  "name": "PowerPoint",
+  "provider": "supercurses",
+  "description": "Create PowerPoint presentations leveraging TogetherAI image generation",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/supercurses-powerpoint",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:48.769835",
+  "metadata": {}
+}

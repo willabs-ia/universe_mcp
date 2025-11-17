@@ -1,0 +1,19 @@
+{
+  "id": "cexll-bmad",
+  "name": "BMAD (Business-Minded Agile Development)",
+  "provider": "cexll",
+  "description": "Orchestrates agile development workflows by integrating business requirements with development processes to...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 4
+  },
+  "release_date": "Oct 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/cexll-bmad",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:48.002372",
+  "metadata": {}
+}

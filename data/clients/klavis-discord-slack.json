@@ -1,0 +1,11 @@
+{
+  "id": "klavis-discord-slack",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Connects Discord and Slack to multiple MCP servers simultaneously, enabling AI assistant interactions through familiar messaging platforms with support for streaming responses and tool calls.",
+  "url": "https://www.pulsemcp.com/clients/klavis-discord-slack",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.378703"
+}

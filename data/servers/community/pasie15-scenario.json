@@ -1,0 +1,16 @@
+{
+  "id": "pasie15-scenario",
+  "name": "Scenario AI",
+  "provider": "pasie15",
+  "description": "Provides a bridge to the Scenario.com API for generating images from text prompts and removing backgrounds from...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/pasie15-scenario",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:19.253350",
+  "metadata": {}
+}

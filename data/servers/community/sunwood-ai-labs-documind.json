@@ -1,0 +1,16 @@
+{
+  "id": "sunwood-ai-labs-documind",
+  "name": "Software Documentation Analysis",
+  "provider": "Sunwood AI Labs",
+  "description": "Parses through README documentation/project files on your local filesystem to guide development workflows.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 17, 2024",
+  "url": "https://www.pulsemcp.com/servers/sunwood-ai-labs-documind",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:59.115151",
+  "metadata": {}
+}

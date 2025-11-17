@@ -1,0 +1,19 @@
+{
+  "id": "aminforou-gsc",
+  "name": "Google Search Console",
+  "provider": "Amin Foroutan",
+  "description": "Integrates with Google Search Console API to provide website search performance analytics, indexing status...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 553
+  },
+  "release_date": "Mar 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/aminforou-gsc",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:24.620203",
+  "metadata": {}
+}

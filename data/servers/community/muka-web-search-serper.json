@@ -1,0 +1,16 @@
+{
+  "id": "muka-web-search-serper",
+  "name": "Web Search (Serper)",
+  "provider": "muka",
+  "description": "Integrates with the Serper API to perform web searches, enabling efficient retrieval and processing of up-to-date web...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 30, 2024",
+  "url": "https://www.pulsemcp.com/servers/muka-web-search-serper",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:40.072912",
+  "metadata": {}
+}

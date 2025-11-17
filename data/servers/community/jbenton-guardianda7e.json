@@ -1,0 +1,19 @@
+{
+  "id": "jbenton-guardianda7e",
+  "name": "The Guardian",
+  "provider": "Joshua Benton",
+  "description": "Integrates with The Guardian's Open Platform API to search articles, retrieve full content, browse sections, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 8
+  },
+  "release_date": "Jun 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/jbenton-guardianda7e",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:39.309764",
+  "metadata": {}
+}

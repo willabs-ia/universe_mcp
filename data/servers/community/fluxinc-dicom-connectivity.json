@@ -1,0 +1,16 @@
+{
+  "id": "fluxinc-dicom-connectivity",
+  "name": "DICOM Connectivity",
+  "provider": "Flux Inc",
+  "description": "Integrates with DICOM systems to provide connectivity testing and diagnostics for medical imaging workflows, enabling...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/fluxinc-dicom-connectivity",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:06.423790",
+  "metadata": {}
+}

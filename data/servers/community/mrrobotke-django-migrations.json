@@ -1,0 +1,16 @@
+{
+  "id": "mrrobotke-django-migrations",
+  "name": "Django Migrations",
+  "provider": "mrrobotke",
+  "description": "Integrates Django migrations across distributed services, enabling coordinated database schema changes and enhanced...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/mrrobotke-django-migrations",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:59.306412",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "colvint-monarch-money",
+  "name": "Monarch Money",
+  "provider": "colvint",
+  "description": "Integrates with Monarch Money's personal finance platform to retrieve account balances, transaction history, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/colvint-monarch-money",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:51.999182",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "waifuai-waifu-queue",
+  "name": "Waifu Queue",
+  "provider": "WaifuAI",
+  "description": "Implements a conversational 'waifu' character server using Redis queue system for efficient handling of concurrent...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/waifuai-waifu-queue",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:34.866835",
+  "metadata": {}
+}

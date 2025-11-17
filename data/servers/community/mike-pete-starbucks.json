@@ -1,0 +1,16 @@
+{
+  "id": "mike-pete-starbucks",
+  "name": "Starbucks",
+  "provider": "Mike Pete",
+  "description": "Provides programmatic access to Starbucks menu and ordering data by leveraging Playwright for web interactions, Zod...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/mike-pete-starbucks",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:20.704602",
+  "metadata": {}
+}

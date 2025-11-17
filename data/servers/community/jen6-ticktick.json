@@ -1,0 +1,19 @@
+{
+  "id": "jen6-ticktick",
+  "name": "TickTick",
+  "provider": "jen6",
+  "description": "Provides a bridge between TickTick task management platform and conversational interfaces, enabling creation,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Apr 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/jen6-ticktick",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:55.321131",
+  "metadata": {}
+}

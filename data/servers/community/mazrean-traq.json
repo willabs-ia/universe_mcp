@@ -1,0 +1,16 @@
+{
+  "id": "mazrean-traq",
+  "name": "traQ",
+  "provider": "Shunsuke Wakamatsu",
+  "description": "Provides a bridge to the traQ chat platform, enabling flexible querying and interaction with channels, messages,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/mazrean-traq",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:54.957293",
+  "metadata": {}
+}

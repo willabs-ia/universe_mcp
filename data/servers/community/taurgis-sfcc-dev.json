@@ -1,0 +1,16 @@
+{
+  "id": "taurgis-sfcc-dev",
+  "name": "SFCC Development Tools",
+  "provider": "taurgis",
+  "description": "Connects to Salesforce B2C Commerce Cloud instances via WebDAV for real-time log monitoring, debugging, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/taurgis-sfcc-dev",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:11.437199",
+  "metadata": {}
+}

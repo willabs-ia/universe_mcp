@@ -1,0 +1,16 @@
+{
+  "id": "anatoliyaksenov-airflow-etl-pipeline-generator",
+  "name": "Airflow ETL Pipeline Generator",
+  "provider": "Anatoliy A Aksenov",
+  "description": "Integrates with Apache Airflow, GitLab, Kafka, PostgreSQL, S3, and SMB file systems to enable conversational ETL...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/anatoliyaksenov-airflow-etl-pipeline-generator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:31.114665",
+  "metadata": {}
+}

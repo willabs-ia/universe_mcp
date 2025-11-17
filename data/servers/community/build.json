@@ -1,0 +1,19 @@
+{
+  "id": "build",
+  "name": "Build MCP",
+  "provider": "869413421",
+  "description": "Integrates with build and deployment systems through HTTP-based APIs to enable CI/CD operations, pipeline management,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "Aug 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/build",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:37.997706",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "bsahane-ansible",
+  "name": "Ansible",
+  "provider": "bsahane",
+  "description": "Provides infrastructure automation through Ansible with project-based configuration management, playbook execution...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/bsahane-ansible",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:11.471595",
+  "metadata": {}
+}

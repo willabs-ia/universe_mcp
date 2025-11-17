@@ -1,0 +1,16 @@
+{
+  "id": "arvindand-maven-tools",
+  "name": "Maven Tools",
+  "provider": "Arvind Menon",
+  "description": "Provides universal JVM dependency intelligence using Maven Central Repository with intelligent caching for latest...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/arvindand-maven-tools",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:09.342177",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "sunwood-ai-labs-ideagram",
+  "name": "Ideogram Images",
+  "provider": "Sunwood AI Labs",
+  "description": "Integrates with the Ideogram API to enable image generation and manipulation based on textual descriptions or parameters",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 23, 2024",
+  "url": "https://www.pulsemcp.com/servers/sunwood-ai-labs-ideagram",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:37.910729",
+  "metadata": {}
+}

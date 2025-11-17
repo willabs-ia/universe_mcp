@@ -1,0 +1,16 @@
+{
+  "id": "microsoft-vscode",
+  "name": "VSCode",
+  "provider": "Microsoft",
+  "description": "VSCode tools and resources as a Model Context Protocol (MCP) server in a VSCode extension",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Feb 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/microsoft-vscode",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:03.342671",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "conechoai-openai-websearch",
+  "name": "OpenAI WebSearch",
+  "provider": "Conecho",
+  "description": "Enables AI assistants to search the web in real-time through OpenAI's websearch functionality, retrieving up-to-date...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 399
+  },
+  "release_date": "Mar 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/conechoai-openai-websearch",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:28.850024",
+  "metadata": {}
+}

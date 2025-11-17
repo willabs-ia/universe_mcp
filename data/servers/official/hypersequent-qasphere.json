@@ -1,0 +1,19 @@
+{
+  "id": "hypersequent-qasphere",
+  "name": "QASphere",
+  "provider": "Hypersequent",
+  "description": "Integration with QA Sphere test management system, enabling LLMs to discover, summarize, and interact with test cases...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 5
+  },
+  "release_date": "Apr 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/hypersequent-qasphere",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:43.623454",
+  "metadata": {}
+}

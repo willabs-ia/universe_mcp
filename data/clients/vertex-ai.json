@@ -1,0 +1,11 @@
+{
+  "id": "vertex-ai",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Integrates with Google Vertex AI for text generation, structured data output, and image creation with configurable model parameters and search grounding capabilities",
+  "url": "https://www.pulsemcp.com/clients/vertex-ai",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.566821"
+}

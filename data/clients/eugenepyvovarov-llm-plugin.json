@@ -1,0 +1,11 @@
+{
+  "id": "eugenepyvovarov-llm-plugin",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Plugin for the LLM command-line tool that enables discovery, management, and execution of tools from MCP servers with automatic reconnection, tool caching, and native function integration.",
+  "url": "https://www.pulsemcp.com/clients/eugenepyvovarov-llm-plugin",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.474789"
+}

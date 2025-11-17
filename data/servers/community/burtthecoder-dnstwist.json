@@ -1,0 +1,19 @@
+{
+  "id": "burtthecoder-dnstwist",
+  "name": "DNSTwist",
+  "provider": "BurtTheCoder",
+  "description": "Integrates with dnstwist to automate DNS fuzzing for detecting typosquatting, phishing, and corporate espionage threats.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 4
+  },
+  "release_date": "Dec 20, 2024",
+  "url": "https://www.pulsemcp.com/servers/burtthecoder-dnstwist",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:43.654944",
+  "metadata": {}
+}

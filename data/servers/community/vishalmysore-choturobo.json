@@ -1,0 +1,16 @@
+{
+  "id": "vishalmysore-choturobo",
+  "name": "ChotuRobo (Arduino)",
+  "provider": "Vishal Mysore",
+  "description": "Connects Claude AI with physical hardware through a TypeScript server that translates natural language commands into...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/vishalmysore-choturobo",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:01.389426",
+  "metadata": {}
+}

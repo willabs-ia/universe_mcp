@@ -1,0 +1,19 @@
+{
+  "id": "himaratsu-microcms",
+  "name": "microCMS",
+  "provider": "himaratsu",
+  "description": "Integrates with microCMS headless CMS to enable complete content and media management through CRUD operations, draft...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 3
+  },
+  "release_date": "Jun 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/himaratsu-microcms",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:50.181380",
+  "metadata": {}
+}

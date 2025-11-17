@@ -1,0 +1,16 @@
+{
+  "id": "gleicon-osv-security-analyzer",
+  "name": "OSV.dev Security Analyzer",
+  "provider": "Gleicon Moraes",
+  "description": "Integrates with OSV.dev to identify and analyze potential vulnerabilities in codebases, providing dependency checking...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/gleicon-osv-security-analyzer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:14.942077",
+  "metadata": {}
+}

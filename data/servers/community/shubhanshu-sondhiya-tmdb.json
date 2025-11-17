@@ -1,0 +1,16 @@
+{
+  "id": "shubhanshu-sondhiya-tmdb",
+  "name": "TMDB",
+  "provider": "Shubhanshu Sondhiya",
+  "description": "Provides a bridge to The Movie Database (TMDB) API, enabling retrieval of movie information, trending films, details,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/shubhanshu-sondhiya-tmdb",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:54.995183",
+  "metadata": {}
+}

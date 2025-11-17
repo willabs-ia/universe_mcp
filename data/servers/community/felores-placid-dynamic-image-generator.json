@@ -1,0 +1,19 @@
+{
+  "id": "felores-placid-dynamic-image-generator",
+  "name": "Placid Image Generator",
+  "provider": "felores",
+  "description": "Integrates with Placid's API to generate dynamic images from templates for tasks like social media posts and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 3
+  },
+  "release_date": "Jan 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/felores-placid-dynamic-image-generator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:48.011499",
+  "metadata": {}
+}

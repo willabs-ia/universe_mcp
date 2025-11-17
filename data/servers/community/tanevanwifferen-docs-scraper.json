@@ -1,0 +1,16 @@
+{
+  "id": "tanevanwifferen-docs-scraper",
+  "name": "DocsScraper",
+  "provider": "Tane van Wifferen",
+  "description": "Connects to the DocsScraper web API to provide semantic search across technical documentation and API references with...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/tanevanwifferen-docs-scraper",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:02.967203",
+  "metadata": {}
+}

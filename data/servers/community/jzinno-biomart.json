@@ -1,0 +1,16 @@
+{
+  "id": "jzinno-biomart",
+  "name": "Biomart",
+  "provider": "John Zinno",
+  "description": "Integrates with Biomart to enable advanced biological data queries, including gene information retrieval, ID...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/jzinno-biomart",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:06.410581",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "yworks-typescribe",
+  "name": "TypeScribe",
+  "provider": "yWorks",
+  "description": "Provides a bridge between TypeScript API documentation and natural language queries, enabling developers to search...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/yworks-typescribe",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:03.484680",
+  "metadata": {}
+}

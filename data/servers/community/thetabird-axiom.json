@@ -1,0 +1,16 @@
+{
+  "id": "thetabird-axiom",
+  "name": "Axiom",
+  "provider": "Max Jikharev",
+  "description": "Integrates with Axiom for executing APL queries and listing datasets, enabling log analysis, anomaly detection, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/thetabird-axiom",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:52.933827",
+  "metadata": {}
+}

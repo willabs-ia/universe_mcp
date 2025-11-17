@@ -1,0 +1,16 @@
+{
+  "id": "urldna-threat-intelligence",
+  "name": "urlDNA",
+  "provider": "urlDNA",
+  "description": "Integrates with urlDNA's cybersecurity API to provide URL threat intelligence through scanning, phishing detection,...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Jun 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/urldna-threat-intelligence",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:49.881709",
+  "metadata": {}
+}

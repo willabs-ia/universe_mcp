@@ -1,0 +1,16 @@
+{
+  "id": "twolven-stockscreen",
+  "name": "Stockscreen (Yahoo Finance)",
+  "provider": "Todd Wolven",
+  "description": "Integrates with Yahoo Finance to provide advanced stock screening and analysis capabilities for technical,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 20, 2024",
+  "url": "https://www.pulsemcp.com/servers/twolven-stockscreen",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:37.860264",
+  "metadata": {}
+}

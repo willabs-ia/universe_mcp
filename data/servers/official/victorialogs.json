@@ -1,0 +1,19 @@
+{
+  "id": "victorialogs",
+  "name": "VictoriaLogs",
+  "provider": "VictoriaMetrics",
+  "description": "Provides a bridge between VictoriaLogs and language models for querying and analyzing log data, enabling DevOps teams...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "May 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/victorialogs",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:35.910231",
+  "metadata": {}
+}

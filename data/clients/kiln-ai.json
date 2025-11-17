@@ -1,0 +1,11 @@
+{
+  "id": "kiln-ai",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Kiln is a free tool for building production-ready AI systems. It supports RAG pipelines, evaluations, agents, MCP tool-calling, synthetic data generation, and fine-tuning.",
+  "url": "https://www.pulsemcp.com/clients/kiln-ai",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.315464"
+}

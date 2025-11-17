@@ -1,0 +1,16 @@
+{
+  "id": "b12-website-generator",
+  "name": "B12 Website Generator",
+  "provider": "B12",
+  "description": "Enables AI to create customized business websites by generating designs from business names and descriptions,...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/b12-website-generator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:14.969087",
+  "metadata": {}
+}

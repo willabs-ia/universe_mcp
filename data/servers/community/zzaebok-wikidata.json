@@ -1,0 +1,16 @@
+{
+  "id": "zzaebok-wikidata",
+  "name": "Wikidata",
+  "provider": "Jaebok Lee",
+  "description": "Integrates with Wikidata to enable entity searches, property retrieval, and SPARQL queries for accessing structured...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/zzaebok-wikidata",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:07.807837",
+  "metadata": {}
+}

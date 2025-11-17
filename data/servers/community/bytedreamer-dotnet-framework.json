@@ -1,0 +1,16 @@
+{
+  "id": "bytedreamer-dotnet-framework",
+  "name": ".NET Framework Development",
+  "provider": "bytedreamer",
+  "description": "Provides .NET Framework development capabilities through TCP communication, enabling project building with MSBuild,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/bytedreamer-dotnet-framework",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:54.094166",
+  "metadata": {}
+}

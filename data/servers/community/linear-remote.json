@@ -1,0 +1,16 @@
+{
+  "id": "linear-remote",
+  "name": "Linear",
+  "provider": "Martin Sione",
+  "description": "Integrates with Linear's issue tracking system to enable creating, updating, and searching issues, managing teams,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/linear-remote",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:14.940700",
+  "metadata": {}
+}

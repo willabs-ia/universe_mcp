@@ -1,0 +1,16 @@
+{
+  "id": "concordium",
+  "name": "Concordium",
+  "provider": "Shodipo Ayomide",
+  "description": "Integrates with Concordium blockchain networks to query accounts, blocks, tokens, validators, and smart contracts...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/concordium",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:07.215136",
+  "metadata": {}
+}

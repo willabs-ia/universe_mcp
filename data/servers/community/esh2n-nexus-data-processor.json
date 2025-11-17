@@ -1,0 +1,16 @@
+{
+  "id": "esh2n-nexus-data-processor",
+  "name": "Nexus Data Processor",
+  "provider": "esh2n",
+  "description": "Integrates data processing libraries and external services to facilitate complex data operations, transformations,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/esh2n-nexus-data-processor",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:04.173698",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "pokemon-data",
+  "name": "Pokémon Data",
+  "provider": "Naveen Bandarage",
+  "description": "Provides a bridge to Pokémon data, enabling interaction with comprehensive information about species, abilities,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/pokemon-data",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:50.757914",
+  "metadata": {}
+}

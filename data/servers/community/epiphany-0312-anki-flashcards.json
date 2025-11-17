@@ -1,0 +1,16 @@
+{
+  "id": "epiphany-0312-anki-flashcards",
+  "name": "Anki Flashcards",
+  "provider": "Epiphany-0312",
+  "description": "Integrates with Anki flashcard system to create and export spaced repetition decks with support for basic front/back...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/epiphany-0312-anki-flashcards",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:35.347565",
+  "metadata": {}
+}

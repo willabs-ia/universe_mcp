@@ -1,0 +1,16 @@
+{
+  "id": "kukapay-whattimeisit",
+  "name": "World Time",
+  "provider": "kukapay",
+  "description": "Provides location-based current time in ISO 8601 format using the World Time API through a lightweight Python FastMCP...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/kukapay-whattimeisit",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:21.464630",
+  "metadata": {}
+}

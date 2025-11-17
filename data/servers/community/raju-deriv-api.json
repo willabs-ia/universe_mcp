@@ -1,0 +1,16 @@
+{
+  "id": "raju-deriv-api",
+  "name": "Deriv",
+  "provider": "Raju",
+  "description": "Integrates with Deriv API to enable trading operations like retrieving symbols and balances for automated trading...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/raju-deriv-api",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:01.219793",
+  "metadata": {}
+}

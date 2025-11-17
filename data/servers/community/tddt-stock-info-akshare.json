@@ -1,0 +1,16 @@
+{
+  "id": "tddt-stock-info-akshare",
+  "name": "Stock Info (AKShare)",
+  "provider": "tddt",
+  "description": "Provides real-time financial market data from Chinese and global markets through AKShare API integration for traders...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/tddt-stock-info-akshare",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:03.507578",
+  "metadata": {}
+}

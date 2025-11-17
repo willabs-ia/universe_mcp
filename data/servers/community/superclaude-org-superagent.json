@@ -1,0 +1,19 @@
+{
+  "id": "superclaude-org-superagent",
+  "name": "SuperAgent",
+  "provider": "SuperClaude Org",
+  "description": "Orchestrates Codex and Gemini CLI agents with parallel execution across multiple working directories, enabling...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 68
+  },
+  "release_date": "Sep 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/superclaude-org-superagent",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:12.769251",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "i3t4an-kali-linux",
+  "name": "Kali Linux",
+  "provider": "Ethan Blair",
+  "description": "Provides remote access to Kali Linux penetration testing tools through a Flask REST API, enabling network scanning,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/i3t4an-kali-linux",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:28.814562",
+  "metadata": {}
+}

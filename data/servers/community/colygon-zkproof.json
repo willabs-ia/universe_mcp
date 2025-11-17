@@ -1,0 +1,16 @@
+{
+  "id": "colygon-zkproof",
+  "name": "ZKProof",
+  "provider": "Colygon",
+  "description": "Enables privacy-preserving computations with zero-knowledge proofs for verifying claims like age requirements without...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/colygon-zkproof",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:01.411527",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "jimmy974-n8n-workflow-builder",
+  "name": "n8n Workflow Builder",
+  "provider": "Jimmy974",
+  "description": "Enables creation and management of n8n workflows through a TypeScript-based server that provides tools for designing,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/jimmy974-n8n-workflow-builder",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:21.499449",
+  "metadata": {}
+}

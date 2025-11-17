@@ -1,0 +1,16 @@
+{
+  "id": "philliprt-think",
+  "name": "Think Tool",
+  "provider": "Phillip",
+  "description": "Implements Anthropic's 'think' tool as a dedicated space for Claude to perform structured reasoning during complex...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/philliprt-think",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:46.281354",
+  "metadata": {}
+}

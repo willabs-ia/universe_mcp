@@ -1,0 +1,19 @@
+{
+  "id": "gongrzhe-yolo-computer-vision",
+  "name": "YOLO Computer Vision",
+  "provider": "gongrzhe",
+  "description": "Enables computer vision capabilities using YOLO models for object detection, segmentation, classification, and pose...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/gongrzhe-yolo-computer-vision",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:48.790509",
+  "metadata": {}
+}

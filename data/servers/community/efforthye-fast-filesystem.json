@@ -1,0 +1,19 @@
+{
+  "id": "efforthye-fast-filesystem",
+  "name": "Fast Filesystem",
+  "provider": "efforthye",
+  "description": "Provides streaming-based file operations with auto-chunking for memory-efficient handling of large files, including...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 78
+  },
+  "release_date": "Aug 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/efforthye-fast-filesystem",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:10.534489",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cdmx-goodday",
+  "name": "Goodday",
+  "provider": "cdmx-in",
+  "description": "Integrates with Goodday's project management platform to provide task, project, sprint, and user management...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 46
+  },
+  "release_date": "Jul 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/cdmx-goodday",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:17.081466",
+  "metadata": {}
+}

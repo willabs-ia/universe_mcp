@@ -1,0 +1,19 @@
+{
+  "id": "spencerhhubert-adobe-illustrator",
+  "name": "Adobe Illustrator",
+  "provider": "Spencer Hubert",
+  "description": "Integrates with Adobe Illustrator on MacOS using JavaScript and AppleScript to enable creation and manipulation of...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Dec 12, 2024",
+  "url": "https://www.pulsemcp.com/servers/spencerhhubert-adobe-illustrator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:42.327619",
+  "metadata": {}
+}

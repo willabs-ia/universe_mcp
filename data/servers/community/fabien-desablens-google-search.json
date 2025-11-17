@@ -1,0 +1,19 @@
+{
+  "id": "fabien-desablens-google-search",
+  "name": "Google Search",
+  "provider": "Fabien Desablens",
+  "description": "Integrates with Google's Custom Search API using automatic key rotation and quota management to provide high-volume...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 16
+  },
+  "release_date": "Jul 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/fabien-desablens-google-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:28.028534",
+  "metadata": {}
+}

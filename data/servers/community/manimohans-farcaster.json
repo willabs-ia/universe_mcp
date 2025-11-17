@@ -1,0 +1,16 @@
+{
+  "id": "manimohans-farcaster",
+  "name": "Farcaster",
+  "provider": "Mani Mohan",
+  "description": "Integrates with the Farcaster Hubble API to fetch and analyze social data, enabling real-time content monitoring and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/manimohans-farcaster",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:08.574876",
+  "metadata": {}
+}

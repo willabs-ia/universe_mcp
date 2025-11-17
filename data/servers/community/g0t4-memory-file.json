@@ -1,0 +1,16 @@
+{
+  "id": "g0t4-memory-file",
+  "name": "Memory by File",
+  "provider": "g0t4",
+  "description": "Lightweight, file-based memory storage for maintaining persistent context across conversations using simple text...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 12, 2024",
+  "url": "https://www.pulsemcp.com/servers/g0t4-memory-file",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:33.662635",
+  "metadata": {}
+}

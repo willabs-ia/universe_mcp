@@ -1,0 +1,16 @@
+{
+  "id": "azure-devops-work-items",
+  "name": "Azure DevOps",
+  "provider": "Munish Mehta",
+  "description": "Enables AI assistants to interact with Azure DevOps work items by retrieving, creating, updating, and analyzing tasks...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/azure-devops-work-items",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:18.571349",
+  "metadata": {}
+}

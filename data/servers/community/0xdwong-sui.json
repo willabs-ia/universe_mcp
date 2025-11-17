@@ -1,0 +1,16 @@
+{
+  "id": "0xdwong-sui",
+  "name": "Sui",
+  "provider": "dwong",
+  "description": "Integrates with the Sui blockchain network to enable test token requests, wallet management, and smart contract...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/0xdwong-sui",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:52.871066",
+  "metadata": {}
+}

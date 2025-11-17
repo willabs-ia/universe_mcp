@@ -1,0 +1,16 @@
+{
+  "id": "jeanlaurent-google-calendar",
+  "name": "Google Calendar",
+  "provider": "jeanlaurent",
+  "description": "Integrates with Google Calendar through OAuth2 authentication to provide calendar access, event management, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/jeanlaurent-google-calendar",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:56.243874",
+  "metadata": {}
+}

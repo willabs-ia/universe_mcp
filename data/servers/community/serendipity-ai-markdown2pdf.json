@@ -1,0 +1,16 @@
+{
+  "id": "serendipity-ai-markdown2pdf",
+  "name": "Markdown to PDF",
+  "provider": "Serendipity AI",
+  "description": "Converts Markdown documents to PDF format using Lightning Network micropayments, handling payment flows with QR codes...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/serendipity-ai-markdown2pdf",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:47.672476",
+  "metadata": {}
+}

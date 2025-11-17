@@ -1,0 +1,16 @@
+{
+  "id": "sholajegede-todo-neon-kinde",
+  "name": "Todo with Neon and Kinde",
+  "provider": "Shola Jegede",
+  "description": "Integrates Neon PostgreSQL with Kinde authentication to provide persistent todo management with user isolation, CRUD...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/sholajegede-todo-neon-kinde",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:35.304621",
+  "metadata": {}
+}

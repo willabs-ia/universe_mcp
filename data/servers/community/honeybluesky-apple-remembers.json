@@ -1,0 +1,16 @@
+{
+  "id": "honeybluesky-apple-remembers",
+  "name": "My Apple Remembers",
+  "provider": "honeybluesky",
+  "description": "Enables AI assistants to access and save memories from Apple Notes on remote macOS systems via SSH connections,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/honeybluesky-apple-remembers",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:05.073511",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "hirokidaichi-tts-say",
+  "name": "TTS Say",
+  "provider": "Hiroki Daichi",
+  "description": "Integrates with OpenAI's API and local sound playback to convert text into audible speech, enabling voice output for...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Feb 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/hirokidaichi-tts-say",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:46.618831",
+  "metadata": {}
+}

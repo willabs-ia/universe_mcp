@@ -1,0 +1,19 @@
+{
+  "id": "anton10xr-gibber",
+  "name": "Gibber",
+  "provider": "Anton",
+  "description": "Provides cryptographic tools for secure communication, including key generation, shared secret derivation, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/anton10xr-gibber",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:46.665624",
+  "metadata": {}
+}

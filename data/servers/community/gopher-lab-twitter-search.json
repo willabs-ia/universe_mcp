@@ -1,0 +1,16 @@
+{
+  "id": "gopher-lab-twitter-search",
+  "name": "Gopher AI (Twitter Search)",
+  "provider": "gopher-lab",
+  "description": "Integrates with Twitter through the Gopher AI API to search and retrieve relevant posts with metadata and relevance...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/gopher-lab-twitter-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:33.226372",
+  "metadata": {}
+}

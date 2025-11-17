@@ -1,0 +1,19 @@
+{
+  "id": "kaliaboi-zotero",
+  "name": "Zotero",
+  "provider": "Abhishek Kalia",
+  "description": "Integrates with Zotero to enable listing collections, retrieving item details, searching libraries, and fetching...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 2
+  },
+  "release_date": "Dec 20, 2024",
+  "url": "https://www.pulsemcp.com/servers/kaliaboi-zotero",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:50.218033",
+  "metadata": {}
+}

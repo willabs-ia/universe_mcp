@@ -1,46 +1,47 @@
 {
-  "generated_at": "2025-11-17T03:25:44.364663",
+  "generated_at": "2025-11-17T03:47:44.181836",
   "totals": {
-    "servers": 420,
-    "clients": 0,
-    "use_cases": 0
+    "servers": 6488,
+    "clients": 428,
+    "use_cases": 1
   },
   "servers": {
     "by_classification": {
-      "community": 234,
-      "official": 175,
-      "reference": 11
+      "official": 736,
+      "community": 5729,
+      "": 2,
+      "reference": 21
     },
     "top_providers": {
+      "kukapay": 36,
+      "Anthropic": 22,
       "Cloudflare": 16,
-      "Anthropic": 11,
-      "AWS": 5,
-      "Google": 4,
-      "gongrzhe": 3,
-      "Microsoft": 3,
-      "Pydantic": 2,
-      "JEOMON GEORGE": 2,
-      "Cole Medin": 2,
-      "JungJungIn": 2,
-      "Philipp Schmid": 2,
-      "Zach Caceres": 2,
-      "Parallel Web Systems": 2,
-      "Vercel": 2,
-      "Ido Salomon": 1,
-      "AI ZeroLab": 1,
-      "Richard Han": 1,
-      "GH05TCREW": 1,
-      "Denis Angilella": 1,
-      "High Dimensional Research": 1
+      "Microsoft": 15,
+      "Alibaba Cloud": 14,
+      "Scott Spence": 14,
+      "gongrzhe": 14,
+      "kazuph": 13,
+      "CData Software": 12,
+      "Dennison Bertram": 12,
+      "cyanheads": 11,
+      "Barton Rhodes": 11,
+      "Sunwood AI Labs": 11,
+      "Kunihiro Setogawa": 10,
+      "Brian W. Smith": 10,
+      "Dynamic Endpoints": 10,
+      "Pink Pixel": 9,
+      "PhialsBasement": 9,
+      "CoinAPI": 8,
+      "Bary Huang": 8
     },
     "top_categories": {},
-    "with_description": 420,
-    "with_metrics": 420
+    "with_description": 6488,
+    "with_metrics": 2253
   },
   "clients": {
-    "total": 0
+    "total": 428
   },
   "use_cases": {
-    "total": 0
+    "total": 1
   }
 }

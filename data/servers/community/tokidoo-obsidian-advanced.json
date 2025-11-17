@@ -1,0 +1,19 @@
+{
+  "id": "tokidoo-obsidian-advanced",
+  "name": "Obsidian Advanced",
+  "provider": "Jason Guo",
+  "description": "Integrates with Obsidian vaults through the Local REST API plugin to provide advanced note management, search, batch...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 24
+  },
+  "release_date": "Jul 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/tokidoo-obsidian-advanced",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:23.539048",
+  "metadata": {}
+}

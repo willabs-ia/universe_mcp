@@ -1,0 +1,19 @@
+{
+  "id": "webscraping-ai",
+  "name": "WebScraping.AI",
+  "provider": "WebScraping.AI",
+  "description": "Provides web scraping capabilities with proxy support, JavaScript rendering, and structured data extraction for...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 2
+  },
+  "release_date": "Apr 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/webscraping-ai",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:52.293749",
+  "metadata": {}
+}

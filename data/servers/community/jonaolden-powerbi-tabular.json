@@ -1,0 +1,19 @@
+{
+  "id": "jonaolden-powerbi-tabular",
+  "name": "Power BI Tabular",
+  "provider": "jonaolden",
+  "description": "Connects to locally running Power BI Desktop tabular models via ADOMD.NET, enabling DAX query execution, metadata...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "Jul 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/jonaolden-powerbi-tabular",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:37.989483",
+  "metadata": {}
+}

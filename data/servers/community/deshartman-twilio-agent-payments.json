@@ -1,0 +1,16 @@
+{
+  "id": "deshartman-twilio-agent-payments",
+  "name": "Twilio Agent Payments",
+  "provider": "Des Hartman",
+  "description": "Enables secure, PCI-compliant payment processing during voice calls by bridging Twilio's payment API with tokenized...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/deshartman-twilio-agent-payments",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:48.420830",
+  "metadata": {}
+}

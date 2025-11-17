@@ -1,0 +1,19 @@
+{
+  "id": "agentek-crypto",
+  "name": "Agentek (Cryptocurrency)",
+  "provider": "NaniDAO",
+  "description": "Offering tools for cryptocurrency research and Ethereum-based automation.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/agentek-crypto",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:54.753330",
+  "metadata": {}
+}

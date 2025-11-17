@@ -1,0 +1,19 @@
+{
+  "id": "mux-video-data",
+  "name": "Mux Video and Data Platform",
+  "provider": "Mux",
+  "description": "Integrates with Mux's Video and Data platform to enable video upload, live stream management, analytics querying, and...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 5
+  },
+  "release_date": "Mar 26, 2018",
+  "url": "https://www.pulsemcp.com/servers/mux-video-data",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:43.639176",
+  "metadata": {}
+}

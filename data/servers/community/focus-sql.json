@@ -1,0 +1,19 @@
+{
+  "id": "focus-sql",
+  "name": "Focus SQL",
+  "provider": "Focus Search",
+  "description": "Converts natural language queries into SQL by registering database schema information and handling text-to-SQL...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Feb 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/focus-sql",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:50.930275",
+  "metadata": {}
+}

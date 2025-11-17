@@ -1,0 +1,19 @@
+{
+  "id": "john-zhang-xero-accounting",
+  "name": "Xero Accounting",
+  "provider": "Jianyang Zhang",
+  "description": "Integrates with Xero Accounting Software to access financial data including accounts, transactions, contacts,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 14
+  },
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/john-zhang-xero-accounting",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:30.174504",
+  "metadata": {}
+}

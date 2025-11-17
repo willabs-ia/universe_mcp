@@ -1,0 +1,16 @@
+{
+  "id": "guilhermelirio-brasil-api",
+  "name": "Brasil API",
+  "provider": "Guilherme Lirio Tomasi de Oliveira",
+  "description": "Integrates with Brasil API to provide access to Brazilian data services including postal codes, company information,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/guilhermelirio-brasil-api",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:28.256482",
+  "metadata": {}
+}

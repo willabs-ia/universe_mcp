@@ -1,0 +1,19 @@
+{
+  "id": "qianniuspace-sentry",
+  "name": "Sentry",
+  "provider": "qianniuspace",
+  "description": "Integrates with Sentry.io for retrieving and analyzing error reports, stacktraces, and debugging information,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 32
+  },
+  "release_date": "Mar 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/qianniuspace-sentry",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:21.349084",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "mattjoyce-senechal-health",
+  "name": "Senechal Health",
+  "provider": "Matt Joyce",
+  "description": "Integrates with the Senechal health data API to enable access and analysis of personal health information for use...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/mattjoyce-senechal-health",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:05.767197",
+  "metadata": {}
+}

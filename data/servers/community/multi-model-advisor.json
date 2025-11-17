@@ -1,0 +1,19 @@
+{
+  "id": "multi-model-advisor",
+  "name": "Multi-Model Advisor (Ollama)",
+  "provider": "YuChenSSR",
+  "description": "Queries multiple Ollama models in parallel with distinct system prompts focused on empathy, logic, and creativity to...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/multi-model-advisor",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:33.776771",
+  "metadata": {}
+}

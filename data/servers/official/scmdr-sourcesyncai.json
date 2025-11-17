@@ -1,0 +1,19 @@
+{
+  "id": "scmdr-sourcesyncai",
+  "name": "SourceSync.ai",
+  "provider": "SourceSync.ai",
+  "description": "Integrates with SourceSync.ai's knowledge management platform to enable semantic search, document management, and...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Mar 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/scmdr-sourcesyncai",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:54.744766",
+  "metadata": {}
+}

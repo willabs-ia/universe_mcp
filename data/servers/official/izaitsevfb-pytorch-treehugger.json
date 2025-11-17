@@ -1,0 +1,16 @@
+{
+  "id": "izaitsevfb-pytorch-treehugger",
+  "name": "PyTorch HUD",
+  "provider": "PyTorch Team",
+  "description": "Provides a PyTorch CI/CD analytics API for investigating build failures, analyzing test flakiness, and monitoring...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Mar 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/izaitsevfb-pytorch-treehugger",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:15.123122",
+  "metadata": {}
+}

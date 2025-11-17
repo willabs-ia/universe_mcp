@@ -1,0 +1,19 @@
+{
+  "id": "thanhdeptr-kubernetes",
+  "name": "Kubernetes",
+  "provider": "Thanhdeptr",
+  "description": "Provides Kubernetes cluster management through kubectl and Helm integration, enabling pod operations, resource...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Sep 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/thanhdeptr-kubernetes",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:04.036786",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "chrome-debug",
+  "name": "Chrome Debug Protocol",
+  "provider": "Rainmen-xia",
+  "description": "Provides browser automation capabilities through Chrome's debugging protocol with session persistence, enabling web...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 2
+  },
+  "release_date": "Jun 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/chrome-debug",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:52.310618",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cycode-security-scanner",
+  "name": "Cycode Security Scanner",
+  "provider": "Cycode",
+  "description": "Integrates with Cycode's security platform to perform automated SAST, SCA, IaC, and secrets scanning on local files,...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Jun 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/cycode-security-scanner",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:25.037429",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "jonpojonpo-comfy-ui",
+  "name": "ComfyUI",
+  "provider": "jonpojonpo",
+  "description": "Integrates ComfyUI's stable diffusion interface to enable programmatic image generation through customizable...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 4, 2024",
+  "url": "https://www.pulsemcp.com/servers/jonpojonpo-comfy-ui",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:33.663799",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "bitrix24",
+  "name": "Bitrix24",
+  "provider": "Birtrix24",
+  "description": "Work with the current methods of the Bitrix24 REST API to reduce the number of errors when generating code",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Oct 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/bitrix24",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:29.281446",
+  "metadata": {}
+}

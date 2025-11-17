@@ -1,0 +1,16 @@
+{
+  "id": "veenastudio-fl-studio",
+  "name": "FL Studio",
+  "provider": "Veena Studio",
+  "description": "Enables direct AI interaction with FL Studio's MIDI and recording capabilities through encrypted MIDI messages,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/veenastudio-fl-studio",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:59.224323",
+  "metadata": {}
+}

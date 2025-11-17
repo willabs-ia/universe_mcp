@@ -1,0 +1,16 @@
+{
+  "id": "veelenga-mermaid",
+  "name": "Mermaid",
+  "provider": "Vitalii Elenhaupt",
+  "description": "Renders Mermaid diagrams in real-time with live preview capabilities, automatic browser refresh, and WebSocket-based...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/veelenga-mermaid",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:37.519829",
+  "metadata": {}
+}

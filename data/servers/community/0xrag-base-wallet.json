@@ -1,0 +1,16 @@
+{
+  "id": "0xrag-base-wallet",
+  "name": "Base Wallet",
+  "provider": "0xRAG",
+  "description": "Lightweight blockchain wallet interaction framework using Viem on Base Sepolia testnet, generating random wallet...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/0xrag-base-wallet",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:20.685189",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "tylerstoltz-odbc",
+  "name": "ODBC Database Connector",
+  "provider": "Tyler Stoltz",
+  "description": "Enables secure, read-only access to any ODBC-compatible database through tools for listing connections, testing...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/tylerstoltz-odbc",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:36.975888",
+  "metadata": {}
+}

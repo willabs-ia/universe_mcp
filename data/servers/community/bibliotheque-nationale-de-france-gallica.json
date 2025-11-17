@@ -1,0 +1,16 @@
+{
+  "id": "bibliotheque-nationale-de-france-gallica",
+  "name": "Bibliothèque Nationale de France (Gallica)",
+  "provider": "Kryzo",
+  "description": "Enables searching and generating research reports from the Bibliothèque Nationale de France's Gallica digital library...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/bibliotheque-nationale-de-france-gallica",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:37.022466",
+  "metadata": {}
+}

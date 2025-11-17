@@ -1,0 +1,19 @@
+{
+  "id": "sendai-solana-agent-kit",
+  "name": "Solana Agent Kit",
+  "provider": "SendAI",
+  "description": "Integrates with Solana blockchain to enable token deployment, NFT creation, DeFi operations, and cross-chain...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 488
+  },
+  "release_date": "Mar 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/sendai-solana-agent-kit",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:24.661188",
+  "metadata": {}
+}

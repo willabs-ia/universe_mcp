@@ -1,0 +1,16 @@
+{
+  "id": "antv-chart-generator",
+  "name": "AntV Chart Generator",
+  "provider": "AntV",
+  "description": "Enables AI to generate data visualizations using AntV's charting capabilities, supporting various chart types from...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Apr 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/antv-chart-generator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:27.979990",
+  "metadata": {}
+}

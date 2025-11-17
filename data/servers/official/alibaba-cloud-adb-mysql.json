@@ -1,0 +1,19 @@
+{
+  "id": "alibaba-cloud-adb-mysql",
+  "name": "Alibaba Cloud ADB MySQL",
+  "provider": "Alibaba Cloud",
+  "description": "Connects to Alibaba Cloud's Adb MySQL databases for executing SQL queries, analyzing query plans, and retrieving...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 59
+  },
+  "release_date": "Mar 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/alibaba-cloud-adb-mysql",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:12.810929",
+  "metadata": {}
+}

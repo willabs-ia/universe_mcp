@@ -1,0 +1,16 @@
+{
+  "id": "panth1823-formula1",
+  "name": "Formula 1",
+  "provider": "Panth Shah",
+  "description": "Integrates with Formula 1 APIs to provide real-time racing data, historical results, driver information, team radio...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/panth1823-formula1",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:19.277154",
+  "metadata": {}
+}

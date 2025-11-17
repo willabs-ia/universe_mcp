@@ -1,0 +1,19 @@
+{
+  "id": "sajithrw-mysql",
+  "name": "MySQL",
+  "provider": "Sajith Rathnayake",
+  "description": "Connects to MySQL databases including AWS RDS instances with tools for query execution, schema exploration, table...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 96
+  },
+  "release_date": "Sep 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/sajithrw-mysql",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:08.390386",
+  "metadata": {}
+}

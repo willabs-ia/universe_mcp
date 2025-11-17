@@ -1,0 +1,16 @@
+{
+  "id": "yutakobayashi-webforai-text-extractor",
+  "name": "WebforAI Text Extractor",
+  "provider": "Yuta Kobayashi",
+  "description": "Extracts and processes web page content into clean, readable markdown format for research and information gathering",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/yutakobayashi-webforai-text-extractor",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:30.090791",
+  "metadata": {}
+}

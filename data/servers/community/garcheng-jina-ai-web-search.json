@@ -1,0 +1,16 @@
+{
+  "id": "garcheng-jina-ai-web-search",
+  "name": "Jina AI Web Search",
+  "provider": "GARCHENG",
+  "description": "Integrates with Jina AI's web search and content fetching APIs, enabling web searches and URL content extraction for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/garcheng-jina-ai-web-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:30.529814",
+  "metadata": {}
+}

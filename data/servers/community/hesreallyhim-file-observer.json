@@ -1,0 +1,19 @@
+{
+  "id": "hesreallyhim-file-observer",
+  "name": "File System Observer",
+  "provider": "Really Him",
+  "description": "Monitors file system changes and sends real-time notifications when watched files or directories are modified,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "May 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/hesreallyhim-file-observer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:57.428629",
+  "metadata": {}
+}

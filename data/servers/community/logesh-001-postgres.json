@@ -1,0 +1,16 @@
+{
+  "id": "logesh-001-postgres",
+  "name": "PostgreSQL",
+  "provider": "Logeshwaran Shanmugam",
+  "description": "Connects to PostgreSQL databases with direct query execution for SELECT operations and write operations with...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/logesh-001-postgres",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:15.706271",
+  "metadata": {}
+}

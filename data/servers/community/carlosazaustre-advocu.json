@@ -1,0 +1,19 @@
+{
+  "id": "carlosazaustre-advocu",
+  "name": "Advocu",
+  "provider": "Carlos Azaustre",
+  "description": "Integrates with the Advocu platform to streamline activity reporting for Google Developer Experts, enabling...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Jun 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/carlosazaustre-advocu",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:56.920755",
+  "metadata": {}
+}

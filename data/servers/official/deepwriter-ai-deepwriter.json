@@ -1,0 +1,16 @@
+{
+  "id": "deepwriter-ai-deepwriter",
+  "name": "DeepWriter",
+  "provider": "DeepWriter AI",
+  "description": "Integrates with DeepWriter API to enable managing writing projects through six core tools for listing, creating,...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "May 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/deepwriter-ai-deepwriter",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:30.123270",
+  "metadata": {}
+}

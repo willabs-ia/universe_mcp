@@ -1,0 +1,16 @@
+{
+  "id": "kov-fetch-url",
+  "name": "Fetch URL",
+  "provider": "Gustavo Noronha",
+  "description": "Rust-based server that provides a fetch tool for retrieving content from URLs, enabling access to web documentation,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/kov-fetch-url",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:14.953986",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ryuichi1208-mackerel",
+  "name": "Mackerel",
+  "provider": "ryuichi1208",
+  "description": "Integrates with Mackerel server monitoring platform to retrieve host information, service details, metrics, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/ryuichi1208-mackerel",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:10.322309",
+  "metadata": {}
+}

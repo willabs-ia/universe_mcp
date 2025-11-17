@@ -1,0 +1,16 @@
+{
+  "id": "samsel-mac-volume-controller",
+  "name": "Mac Volume Controller",
+  "provider": "Sam Selvanathan",
+  "description": "Enables macOS volume control via osascript, providing mute and unmute functionality for system audio management.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/samsel-mac-volume-controller",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:01.217322",
+  "metadata": {}
+}

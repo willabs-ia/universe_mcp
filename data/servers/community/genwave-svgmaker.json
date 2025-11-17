@@ -1,0 +1,19 @@
+{
+  "id": "genwave-svgmaker",
+  "name": "SVGMaker",
+  "provider": "Genwave LLC",
+  "description": "Integrates with SVGMaker's API to generate SVGs from text descriptions, edit existing images, and convert bitmap...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 11
+  },
+  "release_date": "May 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/genwave-svgmaker",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:34.928100",
+  "metadata": {}
+}

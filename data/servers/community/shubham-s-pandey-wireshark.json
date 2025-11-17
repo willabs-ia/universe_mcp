@@ -1,0 +1,16 @@
+{
+  "id": "shubham-s-pandey-wireshark",
+  "name": "Wireshark",
+  "provider": "Shubham S Pandey",
+  "description": "Integrates with Wireshark for natural language-driven network traffic analysis, enabling packet dissection, interface...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/shubham-s-pandey-wireshark",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:01.365635",
+  "metadata": {}
+}

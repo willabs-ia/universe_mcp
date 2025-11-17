@@ -1,0 +1,16 @@
+{
+  "id": "leighmcculloch-stellar-xdr-json",
+  "name": "Stellar XDR-JSON",
+  "provider": "Leigh McCulloch",
+  "description": "Decodes Stellar blockchain data by converting complex XDR format to human-readable JSON, enabling analysis of...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/leighmcculloch-stellar-xdr-json",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:01.369953",
+  "metadata": {}
+}

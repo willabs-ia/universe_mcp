@@ -1,0 +1,16 @@
+{
+  "id": "sparesparrow-prompt-manager",
+  "name": "Prompt Manager",
+  "provider": "sparesparrow",
+  "description": "Manages and serves customizable prompt templates with variable substitution and tag-based organization for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/sparesparrow-prompt-manager",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:12.988481",
+  "metadata": {}
+}

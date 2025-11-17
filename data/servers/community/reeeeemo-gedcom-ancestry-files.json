@@ -1,0 +1,19 @@
+{
+  "id": "reeeeemo-gedcom-ancestry-files",
+  "name": "GEDCOM Ancestry Files",
+  "provider": "reeeeemo",
+  "description": "Analyze family tree data from GEDCOM genealogy files.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 12
+  },
+  "release_date": "Nov 28, 2024",
+  "url": "https://www.pulsemcp.com/servers/reeeeemo-gedcom-ancestry-files",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:32.731084",
+  "metadata": {}
+}

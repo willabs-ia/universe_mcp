@@ -1,0 +1,19 @@
+{
+  "id": "crazyrabbitltc-twitter",
+  "name": "X (Twitter)",
+  "provider": "Dennison Bertram",
+  "description": "Integrates with the X API v2 to enable post, search, and reply to tweets.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Jan 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/crazyrabbitltc-twitter",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:54.735507",
+  "metadata": {}
+}

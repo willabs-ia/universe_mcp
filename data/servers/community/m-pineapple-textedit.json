@@ -1,0 +1,16 @@
+{
+  "id": "m-pineapple-textedit",
+  "name": "TextEdit",
+  "provider": "M-Pineapple",
+  "description": "Integrates with macOS TextEdit to enable rich text document creation, editing, and formatting operations through RTF...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/m-pineapple-textedit",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:56.229543",
+  "metadata": {}
+}

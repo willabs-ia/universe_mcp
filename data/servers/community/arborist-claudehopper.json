@@ -1,0 +1,16 @@
+{
+  "id": "arborist-claudehopper",
+  "name": "ClaudeHopper (Construction Document Analysis)",
+  "provider": "Tom Finlayson",
+  "description": "Integrates with Claude Desktop to analyze construction documents, enabling semantic search across architectural...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/arborist-claudehopper",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:23.610375",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "epicweb-workshop",
+  "name": "EpicShop Workshop",
+  "provider": "Epic Web",
+  "description": "AI Assistant Instructor for use in Epic Workshop repos (from EpicReact.dev, EpicWeb.dev, and EpicAI.pro)",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 81
+  },
+  "release_date": "Jun 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/epicweb-workshop",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:10.520879",
+  "metadata": {}
+}

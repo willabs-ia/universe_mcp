@@ -1,0 +1,16 @@
+{
+  "id": "afristrup-planning-center",
+  "name": "Planning Center",
+  "provider": "Aksel Fristrup",
+  "description": "Integrates with Planning Center Online's API to provide read-only access to church management data including people,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/afristrup-planning-center",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:26.685920",
+  "metadata": {}
+}

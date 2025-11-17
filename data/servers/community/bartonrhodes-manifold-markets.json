@@ -1,0 +1,19 @@
+{
+  "id": "bartonrhodes-manifold-markets",
+  "name": "Manifold Markets",
+  "provider": "Barton Rhodes",
+  "description": "Integrates with Manifold Markets prediction markets, enabling market search, analysis, betting, and portfolio...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 3
+  },
+  "release_date": "Jan 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/bartonrhodes-manifold-markets",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:48.010270",
+  "metadata": {}
+}

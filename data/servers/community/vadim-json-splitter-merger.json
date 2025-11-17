@@ -1,0 +1,16 @@
+{
+  "id": "vadim-json-splitter-merger",
+  "name": "JSON Splitter and Merger",
+  "provider": "Vadym Nastoiashchyi",
+  "description": "Provides tools for splitting large JSON files into manageable chunks and merging multiple JSON files into a...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/vadim-json-splitter-merger",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:32.215904",
+  "metadata": {}
+}

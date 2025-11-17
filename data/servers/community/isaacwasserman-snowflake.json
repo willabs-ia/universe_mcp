@@ -1,0 +1,16 @@
+{
+  "id": "isaacwasserman-snowflake",
+  "name": "Snowflake",
+  "provider": "Isaac Wasserman",
+  "description": "Run SQL queries and other interactions against Snowflake databases",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 13, 2024",
+  "url": "https://www.pulsemcp.com/servers/isaacwasserman-snowflake",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:59.104395",
+  "metadata": {}
+}

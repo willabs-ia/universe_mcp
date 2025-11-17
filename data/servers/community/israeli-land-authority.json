@@ -1,0 +1,19 @@
+{
+  "id": "israeli-land-authority",
+  "name": "Israeli Land Authority",
+  "provider": "barvhaim",
+  "description": "Integrates with Israeli Land Authority's public API to provide real estate developers, legal professionals, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jul 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/israeli-land-authority",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:59.608214",
+  "metadata": {}
+}

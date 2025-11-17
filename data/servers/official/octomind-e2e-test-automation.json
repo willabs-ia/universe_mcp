@@ -1,0 +1,19 @@
+{
+  "id": "octomind-e2e-test-automation",
+  "name": "Octomind (E2E Test Automation)",
+  "provider": "Octomind",
+  "description": "Enables AI-driven test automation through the Octomind platform for creating, executing, and analyzing end-to-end...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 70
+  },
+  "release_date": "Apr 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/octomind-e2e-test-automation",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:10.558077",
+  "metadata": {}
+}

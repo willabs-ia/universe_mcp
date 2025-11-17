@@ -1,0 +1,19 @@
+{
+  "id": "realvest",
+  "name": "RealVest",
+  "provider": "RealVest",
+  "description": "Provides 30+ real estate investment calculators including affordability analysis, BRRRR deals, house hacking,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 2
+  },
+  "release_date": "Aug 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/realvest",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:52.318396",
+  "metadata": {}
+}

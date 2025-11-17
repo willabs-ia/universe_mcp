@@ -1,0 +1,19 @@
+{
+  "id": "talhaorak-taiga",
+  "name": "Taiga",
+  "provider": "Talha Orak",
+  "description": "Integrates with Taiga project management platform to enable direct control over projects, epics, user stories, tasks...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/talhaorak-taiga",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:53.142344",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "yonaka-websocket-mcp-bridge",
+  "name": "WebSocket MCP Bridge",
+  "provider": "yonaka",
+  "description": "Provides a WebSocket connection between clients and MCP servers.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 8, 2024",
+  "url": "https://www.pulsemcp.com/servers/yonaka-websocket-mcp-bridge",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:35.730544",
+  "metadata": {}
+}

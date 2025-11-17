@@ -1,0 +1,16 @@
+{
+  "id": "towry-commander",
+  "name": "Commander",
+  "provider": "Towry Wang",
+  "description": "Provides background process management capabilities through PMDaemon integration, enabling execution, monitoring, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/towry-commander",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:31.133944",
+  "metadata": {}
+}

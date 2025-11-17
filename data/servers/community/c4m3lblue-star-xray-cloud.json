@@ -1,0 +1,16 @@
+{
+  "id": "c4m3lblue-star-xray-cloud",
+  "name": "Xray Cloud",
+  "provider": "c4m3lblue-star",
+  "description": "Integrates with Xray Cloud API to provide test management capabilities including test case creation, execution...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/c4m3lblue-star-xray-cloud",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:37.549484",
+  "metadata": {}
+}

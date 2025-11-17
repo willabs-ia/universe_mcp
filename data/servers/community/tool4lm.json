@@ -1,0 +1,16 @@
+{
+  "id": "tool4lm",
+  "name": "Tool4LM",
+  "provider": "khanhs-234",
+  "description": "Provides local research toolkit with web search, document processing, academic databases, and mathematical...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/tool4lm",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:13.577030",
+  "metadata": {}
+}

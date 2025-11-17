@@ -1,0 +1,16 @@
+{
+  "id": "anshumax-world-bank",
+  "name": "World Bank Data",
+  "provider": "Anshuman Saxena",
+  "description": "Connects to World Bank open data API for exploring and analyzing global socioeconomic indicators and development trends.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/anshumax-world-bank",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:42.204542",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "dynamicendpoints-netlify",
+  "name": "Netlify",
+  "provider": "Dynamic Endpoints",
+  "description": "Integrates with Netlify's API to enable automated web deployment, serverless function management, and continuous...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/dynamicendpoints-netlify",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:01.620586",
+  "metadata": {}
+}

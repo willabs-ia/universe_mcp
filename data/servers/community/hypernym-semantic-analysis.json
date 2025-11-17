@@ -1,0 +1,16 @@
+{
+  "id": "hypernym-semantic-analysis",
+  "name": "Hypernym Semantic Analysis",
+  "provider": "Barton Rhodes",
+  "description": "Provides semantic text analysis and compression tools for advanced content processing, enabling summarization, search...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/hypernym-semantic-analysis",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:55.079024",
+  "metadata": {}
+}

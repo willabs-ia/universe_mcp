@@ -1,0 +1,19 @@
+{
+  "id": "tatn-fetch-typescript",
+  "name": "Fetch (TypeScript)",
+  "provider": "Tatsu",
+  "description": "Integrates with web content sources to fetch, convert, and summarize online information for real-time data retrieval...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 15
+  },
+  "release_date": "Jan 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/tatn-fetch-typescript",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:28.033324",
+  "metadata": {}
+}

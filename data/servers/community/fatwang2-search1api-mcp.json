@@ -1,0 +1,19 @@
+{
+  "id": "fatwang2-search1api-mcp",
+  "name": "Search1API",
+  "provider": "fatwang2",
+  "description": "Execute web searches, news queries, and content extraction.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 26
+  },
+  "release_date": "Nov 26, 2024",
+  "url": "https://www.pulsemcp.com/servers/fatwang2-search1api-mcp",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:21.394508",
+  "metadata": {}
+}

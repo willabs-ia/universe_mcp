@@ -1,0 +1,19 @@
+{
+  "id": "agentmode",
+  "name": "AgentMode",
+  "provider": "AgentMode",
+  "description": "All-in-one server that connects your coding AI to dozens of databases, data warehouses, data pipelines, cloud...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 287
+  },
+  "release_date": "Apr 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/agentmode",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:31.068392",
+  "metadata": {}
+}

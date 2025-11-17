@@ -1,0 +1,19 @@
+{
+  "id": "hydrolix",
+  "name": "Hydrolix",
+  "provider": "Hydrolix",
+  "description": "Connects to Hydrolix time-series databases through ClickHouse SQL queries with built-in safety guards and performance...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 61
+  },
+  "release_date": "Jul 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/hydrolix",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:12.803602",
+  "metadata": {}
+}

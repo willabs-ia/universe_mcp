@@ -1,0 +1,11 @@
+{
+  "id": "junjiem-dify-plugin-agent-sse",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Enables Dify AI applications to leverage external tools through server-sent events, supporting both ReAct and function calling agent strategies for real-time interactions.",
+  "url": "https://www.pulsemcp.com/clients/junjiem-dify-plugin-agent-sse",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.402969"
+}

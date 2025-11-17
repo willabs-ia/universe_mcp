@@ -1,0 +1,19 @@
+{
+  "id": "dillip285-terminal",
+  "name": "Terminal",
+  "provider": "dillip285",
+  "description": "Provides a secure terminal environment for executing system commands within allowed paths, enabling controlled file...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jan 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/dillip285-terminal",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:44.512059",
+  "metadata": {}
+}

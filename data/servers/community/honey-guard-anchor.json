@@ -1,0 +1,16 @@
+{
+  "id": "honey-guard-anchor",
+  "name": "Solana Fender",
+  "provider": "Cian",
+  "description": "Provides security analysis for Solana Anchor programs by exposing tools that check smart contracts against Fender...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/honey-guard-anchor",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:50.766498",
+  "metadata": {}
+}

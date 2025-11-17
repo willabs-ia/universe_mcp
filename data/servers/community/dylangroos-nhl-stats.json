@@ -1,0 +1,16 @@
+{
+  "id": "dylangroos-nhl-stats",
+  "name": "NHL Stats",
+  "provider": "Dylan Groos",
+  "description": "Provides real-time NHL sports data retrieval by bridging official web and stats APIs, enabling comprehensive access...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/dylangroos-nhl-stats",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:55.014907",
+  "metadata": {}
+}

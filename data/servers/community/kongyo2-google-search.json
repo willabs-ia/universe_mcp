@@ -1,0 +1,16 @@
+{
+  "id": "kongyo2-google-search",
+  "name": "Google Search",
+  "provider": "kongyo2",
+  "description": "Provides Google Search functionality with advanced anti-detection capabilities including rotating user agents, DNS...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/kongyo2-google-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:11.440096",
+  "metadata": {}
+}

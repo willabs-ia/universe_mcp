@@ -1,0 +1,19 @@
+{
+  "id": "pollinations-chucknorris",
+  "name": "ChuckNorris (L1B3RT4S Prompt Enhancer)",
+  "provider": "Pollinations.AI",
+  "description": "Enhances language models by fetching specialized prompts from the L1B3RT4S repository, supporting multiple LLMs...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 21
+  },
+  "release_date": "Apr 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/pollinations-chucknorris",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:25.857340",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "i524-datadog",
+  "name": "Datadog",
+  "provider": "Ippei Konishi",
+  "description": "Provides a bridge to the Datadog API, enabling metrics and logs retrieval for monitoring and observability workflows...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/i524-datadog",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:20.686520",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "mstfe-google-tasks",
+  "name": "Google Tasks",
+  "provider": "mstfe",
+  "description": "Integrates with the Google Tasks API to provide structured task management capabilities for creating, listing,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 26, 2024",
+  "url": "https://www.pulsemcp.com/servers/mstfe-google-tasks",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:46.413835",
+  "metadata": {}
+}

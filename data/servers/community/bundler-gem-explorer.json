@@ -1,0 +1,16 @@
+{
+  "id": "bundler-gem-explorer",
+  "name": "Bundler Gem Explorer",
+  "provider": "Mike Subelsky",
+  "description": "Provides detailed information about Ruby gem dependencies in a project's Gemfile, including versions, descriptions,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/bundler-gem-explorer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:36.846109",
+  "metadata": {}
+}

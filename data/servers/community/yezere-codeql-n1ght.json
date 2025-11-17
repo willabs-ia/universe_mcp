@@ -1,0 +1,16 @@
+{
+  "id": "yezere-codeql-n1ght",
+  "name": "CodeQL N1ght",
+  "provider": "yezere",
+  "description": "Integrates with CodeQL N1ght tool to provide automated Java application security analysis through environment setup,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/yezere-codeql-n1ght",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:13.581035",
+  "metadata": {}
+}

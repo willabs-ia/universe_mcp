@@ -1,0 +1,16 @@
+{
+  "id": "hyperbolic-gpu",
+  "name": "Hyperbolic GPU",
+  "provider": "Hyperbolic Labs",
+  "description": "Integrates with Hyperbolic's decentralized GPU network to discover available instances, rent compute resources,...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Jun 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/hyperbolic-gpu",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:45.487677",
+  "metadata": {}
+}

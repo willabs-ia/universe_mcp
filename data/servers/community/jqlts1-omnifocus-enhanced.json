@@ -1,0 +1,19 @@
+{
+  "id": "jqlts1-omnifocus-enhanced",
+  "name": "OmniFocus Enhanced",
+  "provider": "jqlts1",
+  "description": "Integrates with OmniFocus on macOS using AppleScript to provide complete task and project management capabilities...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 4
+  },
+  "release_date": "Jul 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/jqlts1-omnifocus-enhanced",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:45.823180",
+  "metadata": {}
+}

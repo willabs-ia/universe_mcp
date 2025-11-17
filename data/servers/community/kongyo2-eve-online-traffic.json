@@ -1,0 +1,16 @@
+{
+  "id": "kongyo2-eve-online-traffic",
+  "name": "EVE Online Traffic",
+  "provider": "kongyo2",
+  "description": "Integrates with EVE Online's ESI API, EVE-KILL API, and Static Data Export to provide route calculation, combat...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/kongyo2-eve-online-traffic",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:07.235297",
+  "metadata": {}
+}

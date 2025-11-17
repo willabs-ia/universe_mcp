@@ -1,0 +1,16 @@
+{
+  "id": "standardbeagle-brummer",
+  "name": "Brummer",
+  "provider": "standardbeagle",
+  "description": "Transforms npm script execution into a unified dashboard experience with real-time process orchestration, intelligent...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/standardbeagle-brummer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:25.011150",
+  "metadata": {}
+}

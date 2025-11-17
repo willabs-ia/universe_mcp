@@ -1,0 +1,19 @@
+{
+  "id": "visa-acceptance",
+  "name": "Visa Acceptance",
+  "provider": "Visa Acceptance",
+  "description": "Integrates with Visa Acceptance payment APIs to enable invoice management, payment link creation, and...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/visa-acceptance",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:59.078762",
+  "metadata": {}
+}

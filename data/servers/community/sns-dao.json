@@ -1,0 +1,16 @@
+{
+  "id": "sns-dao",
+  "name": "SNS DAO",
+  "provider": "Bao Long Tran",
+  "description": "Integrates with Service Nervous System DAOs on the Internet Computer blockchain to enable proposal listing, neuron...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/sns-dao",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:50.795271",
+  "metadata": {}
+}

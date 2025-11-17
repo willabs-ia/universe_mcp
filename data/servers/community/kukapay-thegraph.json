@@ -1,0 +1,16 @@
+{
+  "id": "kukapay-thegraph",
+  "name": "The Graph",
+  "provider": "kukapay",
+  "description": "Enables access to indexed blockchain data through The Graph's decentralized network for analyzing token trading...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/kukapay-thegraph",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:34.375907",
+  "metadata": {}
+}

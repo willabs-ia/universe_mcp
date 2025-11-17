@@ -1,0 +1,11 @@
+{
+  "id": "developit-cmd",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Command-line tool for managing persistent MCP servers that run continuously in the background, enabling successive tool calls and prompt interactions through the same server instance without respawning processes.",
+  "url": "https://www.pulsemcp.com/clients/developit-cmd",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.437063"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "purescript-development-tools",
+  "name": "PureScript Development Tools",
+  "provider": "avi892nash",
+  "description": "Provides PureScript development tools through Tree-sitter AST parsing and purs IDE server integration for module...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/purescript-development-tools",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:52.033104",
+  "metadata": {}
+}

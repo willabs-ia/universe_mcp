@@ -1,0 +1,19 @@
+{
+  "id": "adancurusul-serial-port",
+  "name": "Serial Port Communication",
+  "provider": "Adancurusul",
+  "description": "Enables serial port communication with embedded devices and hardware through configurable connection parameters,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Aug 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/adancurusul-serial-port",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:01.862949",
+  "metadata": {}
+}

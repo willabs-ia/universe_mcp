@@ -1,0 +1,16 @@
+{
+  "id": "sheshiyer-deepseek",
+  "name": "DeepSeek",
+  "provider": "Sheshiyer",
+  "description": "Integrates with the DeepSeek API to provide code generation, completion, and optimization across multiple languages...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 31, 2024",
+  "url": "https://www.pulsemcp.com/servers/sheshiyer-deepseek",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:40.074300",
+  "metadata": {}
+}

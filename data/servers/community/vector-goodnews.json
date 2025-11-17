@@ -1,0 +1,16 @@
+{
+  "id": "vector-goodnews",
+  "name": "GoodNews",
+  "provider": "Vector Institute",
+  "description": "Filters and ranks news articles from NewsAPI based on positive sentiment, delivering uplifting headlines amid...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/vector-goodnews",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:28.220882",
+  "metadata": {}
+}

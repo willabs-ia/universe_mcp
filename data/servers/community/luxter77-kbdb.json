@@ -1,0 +1,16 @@
+{
+  "id": "luxter77-kbdb",
+  "name": "KBDB",
+  "provider": "Luxter77",
+  "description": "PostgreSQL-backed RAG server that provides semantic search across document embeddings using pgvector, supporting...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/luxter77-kbdb",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:13.566954",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "amidabuddha-unichat-mcp-server",
+  "name": "Unichat",
+  "provider": "amidabuddha",
+  "description": "Interact with multiple LLM chat APIs through a unified interface.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 13
+  },
+  "release_date": "Nov 30, 2024",
+  "url": "https://www.pulsemcp.com/servers/amidabuddha-unichat-mcp-server",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:30.196069",
+  "metadata": {}
+}

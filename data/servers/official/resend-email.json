@@ -1,0 +1,19 @@
+{
+  "id": "resend-email",
+  "name": "Resend Email",
+  "provider": "Resend",
+  "description": "Integrates with the Resend API to enable sending plain text emails with scheduling options and configurable reply-to...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/resend-email",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:48.782698",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "aiwithhassan-documentation-search",
+  "name": "Documentation Search (Groq + Serper)",
+  "provider": "AIwithhassan",
+  "description": "Combines web search through Serper API with Groq's language models to intelligently extract and structure clean,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/aiwithhassan-documentation-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:33.229063",
+  "metadata": {}
+}

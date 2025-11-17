@@ -1,0 +1,16 @@
+{
+  "id": "antv-visualization",
+  "name": "AntV Visualization Libraries",
+  "provider": "AntV",
+  "description": "Integrates with AntV's visualization ecosystem to provide intelligent documentation retrieval, code examples, and...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Jul 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/antv-visualization",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:56.217547",
+  "metadata": {}
+}

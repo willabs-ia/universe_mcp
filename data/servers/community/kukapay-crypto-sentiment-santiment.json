@@ -1,0 +1,19 @@
+{
+  "id": "kukapay-crypto-sentiment-santiment",
+  "name": "Crypto Sentiment (Santiment)",
+  "provider": "kukapay",
+  "description": "Delivers cryptocurrency sentiment analysis by leveraging Santiment's social media and news data, enabling traders to...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "Mar 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/kukapay-crypto-sentiment-santiment",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:33.772781",
+  "metadata": {}
+}

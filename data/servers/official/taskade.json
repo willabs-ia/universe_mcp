@@ -1,0 +1,19 @@
+{
+  "id": "taskade",
+  "name": "Taskade",
+  "provider": "Taskade",
+  "description": "Integrates with Taskade's API to manage projects, tasks, and workspaces with support for task assignment, date...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Jun 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/taskade",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:56.937558",
+  "metadata": {}
+}

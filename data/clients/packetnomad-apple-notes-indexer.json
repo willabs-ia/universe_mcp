@@ -1,0 +1,11 @@
+{
+  "id": "packetnomad-apple-notes-indexer",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Cursor IDE plugin that locally indexes and searches Apple Notes content using JXA, Lunr.js, and NeDB for advanced filtering capabilities.",
+  "url": "https://www.pulsemcp.com/clients/packetnomad-apple-notes-indexer",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.555196"
+}

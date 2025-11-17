@@ -1,0 +1,19 @@
+{
+  "id": "dmontgomery40-canvas-lms",
+  "name": "Canvas LMS",
+  "provider": "DMontgomery40",
+  "description": "Manage courses and assignments in Canvas learning system.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Dec 5, 2024",
+  "url": "https://www.pulsemcp.com/servers/dmontgomery40-canvas-lms",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:42.312918",
+  "metadata": {}
+}

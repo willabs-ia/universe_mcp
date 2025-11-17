@@ -1,0 +1,16 @@
+{
+  "id": "privetin-dataset-viewer",
+  "name": "Dataset Viewer",
+  "provider": "privetin",
+  "description": "Integrates with the Hugging Face Dataset Viewer API to enable exploration, analysis, and content retrieval of...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/privetin-dataset-viewer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:42.171291",
+  "metadata": {}
+}

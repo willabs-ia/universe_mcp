@@ -1,0 +1,19 @@
+{
+  "id": "feedmob-kayzen-reporting",
+  "name": "Kayzen Reporting",
+  "provider": "FeedMob",
+  "description": "Enables marketers and analysts to retrieve and analyze Kayzen advertising campaign data through API access with...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 11
+  },
+  "release_date": "Apr 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/feedmob-kayzen-reporting",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:34.920627",
+  "metadata": {}
+}

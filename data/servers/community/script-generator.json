@@ -1,0 +1,16 @@
+{
+  "id": "script-generator",
+  "name": "Script Generator",
+  "provider": "Pratik Kumar",
+  "description": "Generates professional video scripts using a multi-agent workflow with OpenAI's GPT-4o and Tavily's research...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/script-generator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:54.986335",
+  "metadata": {}
+}

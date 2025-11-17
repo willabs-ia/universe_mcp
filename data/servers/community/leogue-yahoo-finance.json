@@ -1,0 +1,16 @@
+{
+  "id": "leogue-yahoo-finance",
+  "name": "Yahoo Finance",
+  "provider": "leogue",
+  "description": "Integrates with Yahoo Finance to provide real-time stock quotes, financial statements, historical price data, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/leogue-yahoo-finance",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:22.099429",
+  "metadata": {}
+}

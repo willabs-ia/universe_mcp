@@ -1,0 +1,16 @@
+{
+  "id": "inkbytefo-screen-monitor",
+  "name": "Screen Monitor",
+  "provider": "inkbytefo",
+  "description": "Captures screenshots and analyzes screen content using OCR and vision models for real-time monitoring, UI element...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/inkbytefo-screen-monitor",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:54.125366",
+  "metadata": {}
+}

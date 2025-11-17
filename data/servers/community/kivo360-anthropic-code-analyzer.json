@@ -1,0 +1,16 @@
+{
+  "id": "kivo360-anthropic-code-analyzer",
+  "name": "Code Analyzer",
+  "provider": "kivo360",
+  "description": "Integrates with open source projects to analyze codebases, detect patterns, and generate intelligent merge strategies...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/kivo360-anthropic-code-analyzer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:57.198277",
+  "metadata": {}
+}

@@ -1,0 +1,11 @@
+{
+  "id": "warp",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Extend Warp's Agent Mode with CLI-based and URL-based servers that provide specialized tools and data sources accessible through natural language interactions in the terminal.",
+  "url": "https://www.pulsemcp.com/clients/warp",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.370599"
+}

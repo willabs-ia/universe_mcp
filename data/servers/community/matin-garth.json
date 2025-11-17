@@ -1,0 +1,19 @@
+{
+  "id": "matin-garth",
+  "name": "Garth (Garmin Connect)",
+  "provider": "Matin Tamizi",
+  "description": "Integrates with Garmin Connect to provide access to fitness and health data including sleep statistics, daily stress,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 282
+  },
+  "release_date": "May 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/matin-garth",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:31.070211",
+  "metadata": {}
+}

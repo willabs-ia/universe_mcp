@@ -1,0 +1,16 @@
+{
+  "id": "alexatnordnet-google-custom-search",
+  "name": "Google Custom Search",
+  "provider": "Alexander Lindquister",
+  "description": "Integrates the Google Custom Search API to enable web searches for retrieving and analyzing online content.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 16, 2024",
+  "url": "https://www.pulsemcp.com/servers/alexatnordnet-google-custom-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:33.652715",
+  "metadata": {}
+}

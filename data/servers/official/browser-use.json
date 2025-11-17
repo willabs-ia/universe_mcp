@@ -1,0 +1,16 @@
+{
+  "id": "browser-use",
+  "name": "Browser Use",
+  "provider": "Browser Use",
+  "description": "Enables LLMs, agents, and apps to access, search, and extract web data in real-time using the browser-use.com API.",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Jul 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/browser-use",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:02.990306",
+  "metadata": {}
+}

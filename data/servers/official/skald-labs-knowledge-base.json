@@ -1,0 +1,16 @@
+{
+  "id": "skald-labs-knowledge-base",
+  "name": "Skald Labs Knowledge Base",
+  "provider": "Skald Labs, Inc.",
+  "description": "Integrates with Skald Labs' knowledge base platform to enable AI-generated responses with inline citations, semantic...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Oct 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/skald-labs-knowledge-base",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:35.340359",
+  "metadata": {}
+}

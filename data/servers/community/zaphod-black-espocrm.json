@@ -1,0 +1,19 @@
+{
+  "id": "zaphod-black-espocrm",
+  "name": "EspoCRM",
+  "provider": "zaphod-black",
+  "description": "Integrates with EspoCRM to provide complete CRUD operations for contacts, accounts, and opportunities with advanced...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Jul 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/zaphod-black-espocrm",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:56.933518",
+  "metadata": {}
+}

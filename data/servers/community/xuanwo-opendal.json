@@ -1,0 +1,19 @@
+{
+  "id": "xuanwo-opendal",
+  "name": "OpenDAL",
+  "provider": "Xuanwo",
+  "description": "Integrates with OpenDAL to provide unified access to diverse storage backends, enabling LLMs to read from and write...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 20
+  },
+  "release_date": "Mar 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/xuanwo-opendal",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:25.874426",
+  "metadata": {}
+}

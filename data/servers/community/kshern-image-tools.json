@@ -1,0 +1,16 @@
+{
+  "id": "kshern-image-tools",
+  "name": "Image Dimensions",
+  "provider": "kshern",
+  "description": "Retrieves image dimensions from URLs and local files with optional compression capabilities through the Tinify API...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/kshern-image-tools",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:30.531535",
+  "metadata": {}
+}

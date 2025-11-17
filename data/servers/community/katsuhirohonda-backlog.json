@@ -1,0 +1,16 @@
+{
+  "id": "katsuhirohonda-backlog",
+  "name": "Backlog",
+  "provider": "Katsuhiro Honda",
+  "description": "Integrates with Backlog to enable project overview generation, task management, and team collaboration analysis...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/katsuhirohonda-backlog",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:10.845569",
+  "metadata": {}
+}

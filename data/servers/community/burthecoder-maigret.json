@@ -1,0 +1,19 @@
+{
+  "id": "burthecoder-maigret",
+  "name": "Maigret OSINT",
+  "provider": "BurtTheCoder",
+  "description": "OSINT Maigret integration to gather user info across social networks.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 22
+  },
+  "release_date": "Dec 13, 2024",
+  "url": "https://www.pulsemcp.com/servers/burthecoder-maigret",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:23.556219",
+  "metadata": {}
+}

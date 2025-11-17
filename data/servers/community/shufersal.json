@@ -1,0 +1,16 @@
+{
+  "id": "shufersal",
+  "name": "Shufersal",
+  "provider": "Mati Horowitz",
+  "description": "Automates Shufersal supermarket shopping by converting recipe links into shopping lists, searching the product...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/shufersal",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:47.704221",
+  "metadata": {}
+}

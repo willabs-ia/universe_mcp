@@ -1,0 +1,16 @@
+{
+  "id": "webp-batch-converter",
+  "name": "WebP Batch Converter",
+  "provider": "mhe8mah",
+  "description": "Converts images to WebP format using Sharp or libwebp-tools with batch processing, glob pattern matching, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/webp-batch-converter",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:49.835524",
+  "metadata": {}
+}

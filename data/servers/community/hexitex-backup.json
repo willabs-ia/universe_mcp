@@ -1,0 +1,16 @@
+{
+  "id": "hexitex-backup",
+  "name": "Code Backup",
+  "provider": "Rob McGlade",
+  "description": "Provides specialized backup and restoration for code editing tools, creating timestamped snapshots with contextual...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/hexitex-backup",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:25.754692",
+  "metadata": {}
+}

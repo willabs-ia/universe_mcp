@@ -1,0 +1,16 @@
+{
+  "id": "oenius-browser-tools",
+  "name": "Browser Tools",
+  "provider": "AgentDesk AI",
+  "description": "Provides browser debugging capabilities through a Chrome extension that captures console logs, network requests,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/oenius-browser-tools",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:30.553414",
+  "metadata": {}
+}

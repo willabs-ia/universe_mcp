@@ -1,0 +1,19 @@
+{
+  "id": "ethanhenrickson-math",
+  "name": "Math",
+  "provider": "Ethan Henrickson",
+  "description": "Provides basic mathematical and statistical functions for accurate numerical computations within AI-assisted...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/ethanhenrickson-math",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:46.660090",
+  "metadata": {}
+}

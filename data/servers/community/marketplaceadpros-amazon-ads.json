@@ -1,0 +1,19 @@
+{
+  "id": "marketplaceadpros-amazon-ads",
+  "name": "Amazon Ads (MarketplaceAdPros)",
+  "provider": "MarketplaceAdPros",
+  "description": "Integrates with MarketplaceAdPros' Amazon Advertising platform to access Sponsored Products, Sponsored Brands, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 3
+  },
+  "release_date": "May 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/marketplaceadpros-amazon-ads",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:50.180119",
+  "metadata": {}
+}

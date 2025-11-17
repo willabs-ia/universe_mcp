@@ -1,0 +1,16 @@
+{
+  "id": "firebase",
+  "name": "Firebase",
+  "provider": "Google",
+  "description": "Give AI-powered development tools the ability to work with your Firebase projects",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Dec 23, 2013",
+  "url": "https://www.pulsemcp.com/servers/firebase",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:29.252876",
+  "metadata": {}
+}

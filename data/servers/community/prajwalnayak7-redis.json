@@ -1,0 +1,16 @@
+{
+  "id": "prajwalnayak7-redis",
+  "name": "Redis",
+  "provider": "Prajwal S Nayak",
+  "description": "Integrates with Redis and AWS MemoryDB for fast, in-memory data storage and retrieval, enabling caching, session...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/prajwalnayak7-redis",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:57.181683",
+  "metadata": {}
+}

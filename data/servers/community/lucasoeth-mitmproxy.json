@@ -1,0 +1,16 @@
+{
+  "id": "lucasoeth-mitmproxy",
+  "name": "Mitmproxy",
+  "provider": "Lucas Soeth",
+  "description": "Integrates mitmproxy for network traffic analysis, debugging, and API testing.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/lucasoeth-mitmproxy",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:04.168141",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "leon-melamud-mysql",
+  "name": "MySQL",
+  "provider": "Leon Melamud",
+  "description": "Provides direct MySQL database interaction capabilities through natural language commands, enabling users to query,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/leon-melamud-mysql",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:55.004466",
+  "metadata": {}
+}

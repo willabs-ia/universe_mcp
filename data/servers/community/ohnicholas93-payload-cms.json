@@ -1,0 +1,19 @@
+{
+  "id": "ohnicholas93-payload-cms",
+  "name": "Payload CMS",
+  "provider": "Nicholas Oh",
+  "description": "Integrates with Payload CMS instances through REST API operations to create, search, and update content across...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Oct 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/ohnicholas93-payload-cms",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:04.056550",
+  "metadata": {}
+}

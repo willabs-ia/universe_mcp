@@ -1,0 +1,16 @@
+{
+  "id": "merge-request-summarizer",
+  "name": "Merge Request Summarizer",
+  "provider": "Joe Luo",
+  "description": "Automates git merge request analysis by categorizing commits, estimating review time, and generating structured...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/merge-request-summarizer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:22.107194",
+  "metadata": {}
+}

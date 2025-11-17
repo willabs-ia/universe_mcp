@@ -1,0 +1,19 @@
+{
+  "id": "acp-bridge",
+  "name": "ACP Bridge",
+  "provider": "gongrzhe",
+  "description": "Bridges Agent Communication Protocol networks with MCP clients, enabling access to complex multi-agent workflows...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jun 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/acp-bridge",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:57.442035",
+  "metadata": {}
+}

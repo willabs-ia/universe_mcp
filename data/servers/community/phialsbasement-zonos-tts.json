@@ -1,0 +1,16 @@
+{
+  "id": "phialsbasement-zonos-tts",
+  "name": "Zonos TTS",
+  "provider": "PhialsBasement",
+  "description": "Integrates with Zonos TTS API to generate expressive, multi-language speech output for AI applications using...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/phialsbasement-zonos-tts",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:59.325404",
+  "metadata": {}
+}

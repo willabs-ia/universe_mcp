@@ -1,0 +1,16 @@
+{
+  "id": "sailay1996-cursor-agent",
+  "name": "Cursor Agent",
+  "provider": "sailay1996",
+  "description": "Wraps the cursor-agent CLI tool with seven specialized tools for code interaction including chat, file editing,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/sailay1996-cursor-agent",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:13.586107",
+  "metadata": {}
+}

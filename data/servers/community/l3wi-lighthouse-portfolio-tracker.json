@@ -1,0 +1,19 @@
+{
+  "id": "l3wi-lighthouse-portfolio-tracker",
+  "name": "Lighthouse Portfolio Tracker",
+  "provider": "Lewis Freiberg",
+  "description": "Integrates with Lighthouse.one cryptocurrency portfolio tracker to fetch and display detailed portfolio data...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 8
+  },
+  "release_date": "Mar 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/l3wi-lighthouse-portfolio-tracker",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:37.129053",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "moonray-figma-node-explorer",
+  "name": "Figma Node Explorer",
+  "provider": "Bala Bosch",
+  "description": "Integrates with the Figma API to extract and analyze design file structures, enabling exploration of node hierarchies...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/moonray-figma-node-explorer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:04.169504",
+  "metadata": {}
+}

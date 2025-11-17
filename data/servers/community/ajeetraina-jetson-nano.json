@@ -1,0 +1,16 @@
+{
+  "id": "ajeetraina-jetson-nano",
+  "name": "Jetson Nano Management",
+  "provider": "Ajeet Singh Raina",
+  "description": "Provides remote management capabilities for NVIDIA Jetson Nano edge computing systems through SSH connections,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/ajeetraina-jetson-nano",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:15.725822",
+  "metadata": {}
+}

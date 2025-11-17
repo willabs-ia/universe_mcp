@@ -1,0 +1,16 @@
+{
+  "id": "epics-process-variable-bridge",
+  "name": "EPICS Process Variable Bridge",
+  "provider": "Yan Jiang",
+  "description": "Provides a bridge between AI and EPICS process variables, enabling real-time monitoring and control of industrial...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/epics-process-variable-bridge",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:25.887060",
+  "metadata": {}
+}

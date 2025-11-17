@@ -1,0 +1,19 @@
+{
+  "id": "bazinga012-code-executor",
+  "name": "Conda Executor",
+  "provider": "bazinga012",
+  "description": "Executes Python code within isolated Conda environments, enabling secure and flexible code generation and execution...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 415
+  },
+  "release_date": "Feb 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/bazinga012-code-executor",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:26.728529",
+  "metadata": {}
+}

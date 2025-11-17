@@ -1,0 +1,16 @@
+{
+  "id": "kukapay-dex-kline",
+  "name": "DEX K-line (GeckoTerminal)",
+  "provider": "kukapay",
+  "description": "Streams real-time OHLCV candlestick data from decentralized exchanges via GeckoTerminal API, automatically selecting...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/kukapay-dex-kline",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:17.835977",
+  "metadata": {}
+}

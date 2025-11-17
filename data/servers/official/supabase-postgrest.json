@@ -1,0 +1,16 @@
+{
+  "id": "supabase-postgrest",
+  "name": "PostgREST (Supabase)",
+  "provider": "Supabase",
+  "description": "Connects to Supabase projects using PostgREST, or standalone PostgREST servers, enabling natural language querying...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Jan 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/supabase-postgrest",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:46.394664",
+  "metadata": {}
+}

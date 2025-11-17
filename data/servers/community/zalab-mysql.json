@@ -1,0 +1,16 @@
+{
+  "id": "zalab-mysql",
+  "name": "MySQL Database",
+  "provider": "Zalab Inc",
+  "description": "Enables direct interaction with MySQL databases through TypeScript tools for executing SQL queries, checking...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/zalab-mysql",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:12.171093",
+  "metadata": {}
+}

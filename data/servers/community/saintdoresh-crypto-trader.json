@@ -1,0 +1,16 @@
+{
+  "id": "saintdoresh-crypto-trader",
+  "name": "CoinGecko Crypto Trader",
+  "provider": "SaintDoresh",
+  "description": "Provides real-time cryptocurrency market data through CoinGecko API for accessing prices, market information,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/saintdoresh-crypto-trader",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:07.841580",
+  "metadata": {}
+}

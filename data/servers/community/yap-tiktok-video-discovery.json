@@ -1,0 +1,16 @@
+{
+  "id": "yap-tiktok-video-discovery",
+  "name": "TikTok Video Discovery",
+  "provider": "yap",
+  "description": "Automates TikTok video discovery through hashtag searches and trending content retrieval with anti-detection measures...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/yap-tiktok-video-discovery",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:03.527772",
+  "metadata": {}
+}

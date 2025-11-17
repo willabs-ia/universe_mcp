@@ -1,0 +1,19 @@
+{
+  "id": "g0t4-system-commands",
+  "name": "CLI",
+  "provider": "g0t4",
+  "description": "Execute system commands and scripts on the host machine.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 51
+  },
+  "release_date": "Nov 29, 2024",
+  "url": "https://www.pulsemcp.com/servers/g0t4-system-commands",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:14.956559",
+  "metadata": {}
+}

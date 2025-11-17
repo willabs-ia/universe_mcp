@@ -1,0 +1,16 @@
+{
+  "id": "spences10-jinaai-grounding",
+  "name": "JinaAI Grounding",
+  "provider": "Scott Spence",
+  "description": "Integrates JinaAI's content extraction and analysis capabilities for web scraping, documentation parsing, and text...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/spences10-jinaai-grounding",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:52.919654",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "grahammcbain-dominos-pizza",
+  "name": "MCPizza (Domino's Pizza)",
+  "provider": "GrahamMcBain",
+  "description": "Integrates with Domino's Pizza API to enable pizza ordering through store location, menu browsing, cart management,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/grahammcbain-dominos-pizza",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:43.374760",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "tacticlaunch-linear",
+  "name": "Linear",
+  "provider": "Tacticlaunch",
+  "description": "Bridges Linear project management system with natural language interaction, enabling issue tracking, project...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 119
+  },
+  "release_date": "Mar 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/tacticlaunch-linear",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:06.217155",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "insights-library",
+  "name": "InsightsLibrary",
+  "provider": "Shawn Hui",
+  "description": "Provides access to over 10,000 curated business insight reports stored locally with intelligent search capabilities...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/insights-library",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:47.679146",
+  "metadata": {}
+}

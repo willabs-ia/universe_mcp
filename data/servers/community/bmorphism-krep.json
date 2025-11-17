@@ -1,0 +1,16 @@
+{
+  "id": "bmorphism-krep",
+  "name": "Krep",
+  "provider": "Barton Rhodes",
+  "description": "Provides a high-performance string search utility that automatically selects optimal algorithms and leverages...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/bmorphism-krep",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:32.684796",
+  "metadata": {}
+}

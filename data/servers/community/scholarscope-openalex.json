@@ -1,0 +1,16 @@
+{
+  "id": "scholarscope-openalex",
+  "name": "ScholarScope (OpenAlex)",
+  "provider": "ErikNguyen20",
+  "description": "Integrates with OpenAlex API to search academic papers, discover authors and affiliations, analyze citation networks,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/scholarscope-openalex",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:19.943718",
+  "metadata": {}
+}

@@ -1,0 +1,11 @@
+{
+  "id": "abiorh001-omni-connect",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Universal MCP client that connects to multiple servers through various transport protocols, featuring intelligent tool routing and support for multiple LLM providers.",
+  "url": "https://www.pulsemcp.com/clients/abiorh001-omni-connect",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.396188"
+}

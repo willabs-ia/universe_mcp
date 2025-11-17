@@ -1,0 +1,16 @@
+{
+  "id": "yourtablecloth-windows-sandbox",
+  "name": "Windows Sandbox",
+  "provider": "yourtablecloth",
+  "description": "Provides complete lifecycle management of Windows Sandbox instances on Windows 11 24H2+ with customizable...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/yourtablecloth-windows-sandbox",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:37.527902",
+  "metadata": {}
+}

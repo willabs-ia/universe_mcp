@@ -1,0 +1,16 @@
+{
+  "id": "tapdata-database-explorer",
+  "name": "TapData Database Explorer",
+  "provider": "TapData",
+  "description": "Bridges AI assistants with TapData database connections, enabling natural language exploration of schemas and...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Mar 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/tapdata-database-explorer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:16.436127",
+  "metadata": {}
+}

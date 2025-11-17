@@ -1,0 +1,19 @@
+{
+  "id": "divar-zoekt",
+  "name": "Zoekt",
+  "provider": "Divar",
+  "description": "Integrates with Zoekt search engine to provide fast code search capabilities across repositories using query language...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jul 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/divar-zoekt",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:59.616803",
+  "metadata": {}
+}

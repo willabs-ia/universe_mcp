@@ -1,0 +1,19 @@
+{
+  "id": "kingkongshot-specs-workflow",
+  "name": "Specs Workflow",
+  "provider": "kingkongshot",
+  "description": "Guides users through structured software project documentation phases with automated document generation, progress...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 94
+  },
+  "release_date": "Aug 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/kingkongshot-specs-workflow",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:08.396311",
+  "metadata": {}
+}

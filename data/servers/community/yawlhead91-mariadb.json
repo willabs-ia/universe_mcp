@@ -1,0 +1,16 @@
+{
+  "id": "yawlhead91-mariadb",
+  "name": "MariaDB",
+  "provider": "yawlhead91",
+  "description": "Provides secure read-only access to MariaDB databases with SQL query execution, schema inspection, and connection...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/yawlhead91-mariadb",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:19.952026",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "zeph-gh-docx-processor",
+  "name": "DOCX Document Processor",
+  "provider": "zeph-gh",
+  "description": "Processes DOCX documents to extract text, convert to HTML/Markdown with preserved formatting, analyze document...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/zeph-gh-docx-processor",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:56.212688",
+  "metadata": {}
+}

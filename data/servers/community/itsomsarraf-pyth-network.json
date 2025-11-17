@@ -1,0 +1,16 @@
+{
+  "id": "itsomsarraf-pyth-network",
+  "name": "Pyth Network",
+  "provider": "Om Sarraf",
+  "description": "Provides real-time access to Pyth Network's decentralized oracle price feeds across 1,930+ assets and 107+...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/itsomsarraf-pyth-network",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:35.308135",
+  "metadata": {}
+}

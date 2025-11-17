@@ -1,0 +1,19 @@
+{
+  "id": "justasmonkev-accessibility-scanner",
+  "name": "Accessibility Scanner",
+  "provider": "Justas Monkevicius",
+  "description": "Integrates Axe Core with Playwright to perform automated web accessibility testing, enabling continuous integration,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 415
+  },
+  "release_date": "Jan 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/justasmonkev-accessibility-scanner",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:26.727298",
+  "metadata": {}
+}

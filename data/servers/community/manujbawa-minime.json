@@ -1,0 +1,19 @@
+{
+  "id": "manujbawa-minime",
+  "name": "MiniMe",
+  "provider": "Manu Bawa",
+  "description": "Provides persistent memory management and meta-learning capabilities for software development workflows, featuring...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 8
+  },
+  "release_date": "Jul 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/manujbawa-minime",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:39.313722",
+  "metadata": {}
+}

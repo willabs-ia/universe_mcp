@@ -1,0 +1,19 @@
+{
+  "id": "rohitg00-kubectl",
+  "name": "kubectl",
+  "provider": "Rohit Ghumare",
+  "description": "Enables natural language interaction with Kubernetes resources, allowing developers to manage clusters through...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 101
+  },
+  "release_date": "Apr 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/rohitg00-kubectl",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:08.379908",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cpage-pivotal-spring-application-advisor",
+  "name": "Spring Application Advisor",
+  "provider": "Corby Page",
+  "description": "Integrates with Spring Application Advisor to provide insights and recommendations for optimizing Spring applications...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/cpage-pivotal-spring-application-advisor",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:50.783588",
+  "metadata": {}
+}

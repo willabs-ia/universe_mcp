@@ -1,0 +1,16 @@
+{
+  "id": "coinpaprika-dexpaprika",
+  "name": "DexPaprika",
+  "provider": "CoinPaprika",
+  "description": "Provides real-time cryptocurrency market data across multiple blockchain networks, including DEX listings, liquidity...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Mar 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/coinpaprika-dexpaprika",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:05.631115",
+  "metadata": {}
+}

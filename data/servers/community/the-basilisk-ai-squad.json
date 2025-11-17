@@ -1,0 +1,19 @@
+{
+  "id": "the-basilisk-ai-squad",
+  "name": "Squad",
+  "provider": "The Basilisk AI",
+  "description": "Integrates with Squad's product management platform to enable feedback management, knowledge organization, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 23
+  },
+  "release_date": "May 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/the-basilisk-ai-squad",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:23.551397",
+  "metadata": {}
+}

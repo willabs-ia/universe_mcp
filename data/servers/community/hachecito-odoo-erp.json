@@ -1,0 +1,19 @@
+{
+  "id": "hachecito-odoo-erp",
+  "name": "Odoo ERP",
+  "provider": "Yhasmani Valdes",
+  "description": "Integrates with Odoo ERP systems through XML-RPC to enable business process automation across sales, purchasing,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 86
+  },
+  "release_date": "Jun 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/hachecito-odoo-erp",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:08.423920",
+  "metadata": {}
+}

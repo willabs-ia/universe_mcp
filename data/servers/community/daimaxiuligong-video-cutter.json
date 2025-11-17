@@ -1,0 +1,16 @@
+{
+  "id": "daimaxiuligong-video-cutter",
+  "name": "VideoCutter",
+  "provider": "daimaxiuligong",
+  "description": "Provides automated video cutting and editing capabilities through API integration with frame-level precision,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/daimaxiuligong-video-cutter",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:26.645357",
+  "metadata": {}
+}

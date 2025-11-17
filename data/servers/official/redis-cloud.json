@@ -1,0 +1,16 @@
+{
+  "id": "redis-cloud",
+  "name": "Redis Cloud",
+  "provider": "Redis",
+  "description": "Integration with Redis Cloud's API, allowing you to manage your Redis Cloud resources using natural language.",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Apr 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/redis-cloud",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:12.718794",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "hiveflow",
+  "name": "HiveFlow",
+  "provider": "HiveFlow Team",
+  "description": "Integrates with HiveFlow's workflow automation platform to enable triggering automated workflows, managing business...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 2
+  },
+  "release_date": "Jul 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/hiveflow",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:52.320661",
+  "metadata": {}
+}

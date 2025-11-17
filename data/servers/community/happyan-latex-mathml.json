@@ -1,0 +1,16 @@
+{
+  "id": "happyan-latex-mathml",
+  "name": "LaTeX MathML",
+  "provider": "happyan",
+  "description": "Converts LaTeX mathematical expressions to MathML using MathJax-node, enabling seamless mathematical notation...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/happyan-latex-mathml",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:59.251170",
+  "metadata": {}
+}

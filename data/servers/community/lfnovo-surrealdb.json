@@ -1,0 +1,19 @@
+{
+  "id": "lfnovo-surrealdb",
+  "name": "SurrealDB",
+  "provider": "Luis Novo",
+  "description": "Connects to SurrealDB's multi-model database enabling graph, document, and relational operations through ten core...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 18
+  },
+  "release_date": "Aug 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/lfnovo-surrealdb",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:27.987764",
+  "metadata": {}
+}

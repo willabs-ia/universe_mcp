@@ -1,0 +1,16 @@
+{
+  "id": "claude-text-editor",
+  "name": "Claude Text Editor",
+  "provider": "Luca Pinello",
+  "description": "Enables system-wide text editing on macOS by monitoring file directories where selected text is automatically...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/claude-text-editor",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:45.506945",
+  "metadata": {}
+}

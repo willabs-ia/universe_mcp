@@ -1,0 +1,16 @@
+{
+  "id": "umcp-unity-editor",
+  "name": "uMCP (Unity Editor)",
+  "provider": "mika-f",
+  "description": "Enables Unity Editor automation through HTTP interface for asset management, GUID generation, input testing, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/umcp-unity-editor",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:43.366821",
+  "metadata": {}
+}

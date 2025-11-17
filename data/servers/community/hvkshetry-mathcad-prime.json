@@ -1,0 +1,16 @@
+{
+  "id": "hvkshetry-mathcad-prime",
+  "name": "MathCAD Prime",
+  "provider": "hvkshetry",
+  "description": "Integrates with PTC MathCAD Prime through the MathcadPy library, enabling worksheet management, input/output...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/hvkshetry-mathcad-prime",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:57.133675",
+  "metadata": {}
+}

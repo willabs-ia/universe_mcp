@@ -1,0 +1,16 @@
+{
+  "id": "patent-connector",
+  "name": "Patent Connector",
+  "provider": "Wolfgang Stark",
+  "description": "Connects to live patent database APIs including EPO OPS, USPTO ODP, and DPMA Connect Plus to fetch patent claims,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/patent-connector",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:29.293351",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "dedeveloper23-codebase-retrieval-repomix",
+  "name": "Codebase Retrieval (RepoMix)",
+  "provider": "DeDeveloper23",
+  "description": "Integrates with RepoMix to enable codebase retrieval and analysis for tasks like code review, dependency tracking,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/dedeveloper23-codebase-retrieval-repomix",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:46.658730",
+  "metadata": {}
+}

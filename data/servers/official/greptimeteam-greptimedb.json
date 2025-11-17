@@ -1,0 +1,19 @@
+{
+  "id": "greptimeteam-greptimedb",
+  "name": "GreptimeDB",
+  "provider": "Greptime",
+  "description": "Enables AI interaction with GreptimeDB time-series databases through MySQL protocol for data exploration, analysis,...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 32
+  },
+  "release_date": "Mar 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/greptimeteam-greptimedb",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:21.351550",
+  "metadata": {}
+}

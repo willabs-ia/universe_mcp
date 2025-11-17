@@ -1,0 +1,16 @@
+{
+  "id": "hunter-arton-google-search",
+  "name": "Google Search",
+  "provider": "Hunter Arton",
+  "description": "Provides Google web and image search capabilities through the Custom Search API, enabling access to current internet...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/hunter-arton-google-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:23.730177",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "garc33-bitbucket-server-pull-request-manager",
+  "name": "Bitbucket",
+  "provider": "garc33",
+  "description": "Integrates with Bitbucket's API to streamline pull request workflows, enabling efficient code reviews and automated...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/garc33-bitbucket-server-pull-request-manager",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:50.790682",
+  "metadata": {}
+}

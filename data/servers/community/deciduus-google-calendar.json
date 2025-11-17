@@ -1,0 +1,19 @@
+{
+  "id": "deciduus-google-calendar",
+  "name": "Google Calendar",
+  "provider": "Deciduus",
+  "description": "Integrates with Google Calendar to enable direct calendar management, event operations, and advanced scheduling...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "May 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/deciduus-google-calendar",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:35.905694",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "croit-ceph",
+  "name": "Croit Ceph",
+  "provider": "Croit",
+  "description": "Integrates with Croit platform's OpenAPI to dynamically generate tools for Ceph cluster management operations...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Sep 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/croit-ceph",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:28.804140",
+  "metadata": {}
+}

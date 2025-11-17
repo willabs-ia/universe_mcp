@@ -1,0 +1,16 @@
+{
+  "id": "darpai-search-engine",
+  "name": "DARP Engine",
+  "provider": "DARP AI",
+  "description": "Enables discovery and intelligent routing of user requests to the most appropriate MCP servers through metadata-based...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/darpai-search-engine",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:14.972719",
+  "metadata": {}
+}

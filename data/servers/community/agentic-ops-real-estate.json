@@ -1,0 +1,16 @@
+{
+  "id": "agentic-ops-real-estate",
+  "name": "Real Estate Data Manager",
+  "provider": "agentic-ops",
+  "description": "Provides mock real estate data management with property listings, agent profiles, client databases, and market...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/agentic-ops-real-estate",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:51.987829",
+  "metadata": {}
+}

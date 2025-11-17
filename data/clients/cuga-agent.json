@@ -1,0 +1,11 @@
+{
+  "id": "cuga-agent",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Multi-agent framework that provides autonomous web browsing and API interaction capabilities through specialized agents for task decomposition, browser automation, and code generation with support for multiple LLM providers and secure Docker sandbox execution.",
+  "url": "https://www.pulsemcp.com/clients/cuga-agent",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.397620"
+}

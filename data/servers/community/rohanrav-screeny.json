@@ -1,0 +1,19 @@
+{
+  "id": "rohanrav-screeny",
+  "name": "Screeny",
+  "provider": "Rohan Ravindran",
+  "description": "Privacy-focused macOS MCP server for secure, user-approved window screenshots",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 323
+  },
+  "release_date": "Jun 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/rohanrav-screeny",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:31.051861",
+  "metadata": {}
+}

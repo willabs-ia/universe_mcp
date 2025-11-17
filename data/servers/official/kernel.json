@@ -1,0 +1,16 @@
+{
+  "id": "kernel",
+  "name": "Kernel Platform",
+  "provider": "Kernel",
+  "description": "Integrates with Kernel platform's cloud deployment and browser automation services to enable app deployment with...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Jul 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/kernel",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:00.589286",
+  "metadata": {}
+}

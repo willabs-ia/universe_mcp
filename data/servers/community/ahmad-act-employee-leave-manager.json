@@ -1,0 +1,16 @@
+{
+  "id": "ahmad-act-employee-leave-manager",
+  "name": "Employee Leave Manager",
+  "provider": "ahmad-act",
+  "description": "Provides containerized employee leave management with tools for checking balances, applying for leave with specific...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/ahmad-act-employee-leave-manager",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:43.344765",
+  "metadata": {}
+}

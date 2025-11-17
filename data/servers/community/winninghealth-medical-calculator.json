@@ -1,0 +1,16 @@
+{
+  "id": "winninghealth-medical-calculator",
+  "name": "Medical Calculator",
+  "provider": "winninghealth",
+  "description": "Provides access to over 50 clinical calculation tools including cardiovascular risk assessment, kidney function...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/winninghealth-medical-calculator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:26.689474",
+  "metadata": {}
+}

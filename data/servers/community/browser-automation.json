@@ -1,0 +1,16 @@
+{
+  "id": "browser-automation",
+  "name": "Browser Automation",
+  "provider": "Jan Spoerer",
+  "description": "Selenium-powered browser automation server that enables web interactions like navigation, clicking, form filling, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/browser-automation",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:54.965640",
+  "metadata": {}
+}

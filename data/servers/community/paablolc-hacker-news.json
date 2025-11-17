@@ -1,0 +1,19 @@
+{
+  "id": "paablolc-hacker-news",
+  "name": "Hacker News",
+  "provider": "Pablo LC",
+  "description": "Integrates with Hacker News through the Firebase API to retrieve stories, comments, user profiles, and job postings...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 8
+  },
+  "release_date": "Jun 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/paablolc-hacker-news",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:39.305836",
+  "metadata": {}
+}

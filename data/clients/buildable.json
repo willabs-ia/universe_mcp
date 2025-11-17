@@ -1,0 +1,11 @@
+{
+  "id": "buildable",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Official client for Buildable's development platform that provides project context retrieval, task management, execution tracking, and discussion creation for automated development workflows.",
+  "url": "https://www.pulsemcp.com/clients/buildable",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.458772"
+}

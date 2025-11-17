@@ -1,0 +1,19 @@
+{
+  "id": "matthewdailey-figma",
+  "name": "Figma",
+  "provider": "Matthew Dailey",
+  "description": "Interact with Figma design files through the Figma REST API for design analysis, feedback, and collaboration.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 80
+  },
+  "release_date": "Dec 6, 2024",
+  "url": "https://www.pulsemcp.com/servers/matthewdailey-figma",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:10.524427",
+  "metadata": {}
+}

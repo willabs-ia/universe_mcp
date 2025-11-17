@@ -1,0 +1,16 @@
+{
+  "id": "stepancooleague-file-finder",
+  "name": "File Finder",
+  "provider": "Stepan Tleubaev",
+  "description": "Enables quick file location through natural language queries by searching filesystems based on path fragments and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/stepancooleague-file-finder",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:18.555423",
+  "metadata": {}
+}

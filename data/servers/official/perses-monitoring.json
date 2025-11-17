@@ -1,0 +1,19 @@
+{
+  "id": "perses-monitoring",
+  "name": "Perses Monitoring",
+  "provider": "Perses",
+  "description": "Enables AI to query and analyze monitoring data from Perses visualization applications through authenticated API...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "Apr 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/perses-monitoring",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:35.889226",
+  "metadata": {}
+}

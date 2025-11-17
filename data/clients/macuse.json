@@ -1,0 +1,11 @@
+{
+  "id": "macuse",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Terminal-based client for connecting to MCP servers via STDIO, HTTP, and SSE transports with interactive tabbed navigation for debugging tools, resources, and prompts.",
+  "url": "https://www.pulsemcp.com/clients/macuse",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.489170"
+}

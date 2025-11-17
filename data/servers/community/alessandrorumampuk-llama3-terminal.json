@@ -1,0 +1,16 @@
+{
+  "id": "alessandrorumampuk-llama3-terminal",
+  "name": "Llama3 Terminal",
+  "provider": "Alessandro Rumampuk",
+  "description": "Integrates with Ollama's Llama3 model to provide a terminal-based chat interface with persistent context management...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/alessandrorumampuk-llama3-terminal",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:18.532243",
+  "metadata": {}
+}

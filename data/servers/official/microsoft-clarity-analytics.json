@@ -1,0 +1,16 @@
+{
+  "id": "microsoft-clarity-analytics",
+  "name": "Microsoft Clarity Analytics",
+  "provider": "Microsoft",
+  "description": "Enables AI to fetch and analyze Microsoft Clarity website analytics data including metrics like scroll depth,...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "May 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/microsoft-clarity-analytics",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:36.844850",
+  "metadata": {}
+}

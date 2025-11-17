@@ -1,0 +1,19 @@
+{
+  "id": "eregulations",
+  "name": "eRegulations",
+  "provider": "UNCTAD AI",
+  "description": "Transforms complex eRegulations API data into accessible formats for answering user questions about government...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 10
+  },
+  "release_date": "Mar 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/eregulations",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:34.945787",
+  "metadata": {}
+}

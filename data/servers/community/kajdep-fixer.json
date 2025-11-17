@@ -1,0 +1,19 @@
+{
+  "id": "kajdep-fixer",
+  "name": "MCP Fixer",
+  "provider": "Kajdep",
+  "description": "Provides diagnostic and repair tools for Model Context Protocol configurations",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Jun 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/kajdep-fixer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:56.917579",
+  "metadata": {}
+}

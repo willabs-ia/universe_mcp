@@ -1,0 +1,19 @@
+{
+  "id": "jedisct1-openapi",
+  "name": "OpenAPI MCP",
+  "provider": "Frank Denis",
+  "description": "Transforms OpenAPI 3.x specifications into tool servers that enable interaction with any API through automatic...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "May 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/jedisct1-openapi",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:35.914109",
+  "metadata": {}
+}

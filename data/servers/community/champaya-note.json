@@ -1,0 +1,16 @@
+{
+  "id": "champaya-note",
+  "name": "Note.com",
+  "provider": "champaya",
+  "description": "Bridges AI systems with note.com's API for searching articles by keyword, retrieving detailed information, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/champaya-note",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:46.265952",
+  "metadata": {}
+}

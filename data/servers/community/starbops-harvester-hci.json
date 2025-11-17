@@ -1,0 +1,16 @@
+{
+  "id": "starbops-harvester-hci",
+  "name": "Harvester HCI",
+  "provider": "starbops",
+  "description": "Enables management of Harvester HCI clusters through a Go-based server that provides tools for handling both standard...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/starbops-harvester-hci",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:07.877385",
+  "metadata": {}
+}

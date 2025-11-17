@@ -1,0 +1,11 @@
+{
+  "id": "gulp-osmosis-mcp-4b-demo",
+  "name": "Unknown",
+  "provider": null,
+  "description": "Connects a locally-hosted Osmosis-MCP-4B language model to external tools like Brave Search, Google Maps, AccuWeather, and a code interpreter through terminal or web interfaces.",
+  "url": "https://www.pulsemcp.com/clients/gulp-osmosis-mcp-4b-demo",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.429812"
+}

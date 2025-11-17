@@ -1,0 +1,19 @@
+{
+  "id": "optuna",
+  "name": "Optuna",
+  "provider": "Preferred Networks",
+  "description": "Provides automated hyperparameter optimization and analysis using Optuna framework with support for multiple...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 427
+  },
+  "release_date": "Jun 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/optuna",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:26.717751",
+  "metadata": {}
+}

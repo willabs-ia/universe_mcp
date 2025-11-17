@@ -1,0 +1,16 @@
+{
+  "id": "datastrato-gravitino",
+  "name": "Apache Gravitino",
+  "provider": "Datastrato",
+  "description": "Integrates with Apache Gravitino to provide direct access to metadata services for exploring, tagging, and managing...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "May 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/datastrato-gravitino",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:32.230248",
+  "metadata": {}
+}

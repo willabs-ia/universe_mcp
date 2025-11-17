@@ -1,0 +1,16 @@
+{
+  "id": "blackboxprojects-postgres-remote3974",
+  "name": "PostgreSQL Remote",
+  "provider": "blackboxprojects",
+  "description": "Provides secure read-only access to PostgreSQL databases through Cloudflare Workers with connection pooling and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/blackboxprojects-postgres-remote3974",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:11.463232",
+  "metadata": {}
+}

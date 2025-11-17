@@ -1,0 +1,19 @@
+{
+  "id": "gongrzhe-travel-planner",
+  "name": "Google Maps (Travel Planner)",
+  "provider": "Gongrzhe, Inc.",
+  "description": "Integrates with Google Maps to enable AI-driven travel planning, itinerary optimization, and location-based services...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 61
+  },
+  "release_date": "Dec 24, 2024",
+  "url": "https://www.pulsemcp.com/servers/gongrzhe-travel-planner",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:12.799306",
+  "metadata": {}
+}

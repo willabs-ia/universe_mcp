@@ -1,0 +1,19 @@
+{
+  "id": "controlspace-voyp-call-automation",
+  "name": "VOYP Call Automation",
+  "provider": "Paulo Taylor",
+  "description": "Integrates with VOYP API to enable automated call handling, routing, and intelligent voice responses for enhanced...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Feb 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/controlspace-voyp-call-automation",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:54.736909",
+  "metadata": {}
+}

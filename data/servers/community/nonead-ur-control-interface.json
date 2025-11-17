@@ -1,0 +1,16 @@
+{
+  "id": "nonead-ur-control-interface",
+  "name": "Universal Robots Control Interface",
+  "provider": "nonead",
+  "description": "Provides a bridge to Universal Robots industrial robots through TCP/IP interfaces, enabling control and monitoring of...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/nonead-ur-control-interface",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:34.378493",
+  "metadata": {}
+}

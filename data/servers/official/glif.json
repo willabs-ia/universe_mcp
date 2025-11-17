@@ -1,0 +1,19 @@
+{
+  "id": "glif",
+  "name": "Glif",
+  "provider": "Spellcasters, Inc",
+  "description": "Enables Claude to run visual AI workflows from glif.app, providing tools to execute, manage, and save Glif workflows...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/glif",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:50.920991",
+  "metadata": {}
+}

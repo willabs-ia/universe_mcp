@@ -1,0 +1,19 @@
+{
+  "id": "withlinda-puppeteer-real-browser",
+  "name": "Puppeteer Real Browser",
+  "provider": "withlinda13",
+  "description": "Provides stealth browser automation using puppeteer-real-browser with anti-detection features, human-like...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 54
+  },
+  "release_date": "Jun 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/withlinda-puppeteer-real-browser",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:14.941179",
+  "metadata": {}
+}

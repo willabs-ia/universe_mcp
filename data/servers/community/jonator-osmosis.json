@@ -1,0 +1,19 @@
+{
+  "id": "jonator-osmosis",
+  "name": "Osmosis",
+  "provider": "Jon Ator",
+  "description": "Provides a bridge to the Osmosis blockchain protocol for executing decentralized finance operations like token swaps,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "Mar 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/jonator-osmosis",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:54.764327",
+  "metadata": {}
+}

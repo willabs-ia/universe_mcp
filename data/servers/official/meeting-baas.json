@@ -1,0 +1,16 @@
+{
+  "id": "meeting-baas",
+  "name": "Meeting BaaS",
+  "provider": "Meeting BaaS",
+  "description": "Automates meeting management across Zoom, Google Meet, and Microsoft Teams with tools for recording, transcribing,...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Mar 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/meeting-baas",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:01.390966",
+  "metadata": {}
+}

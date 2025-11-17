@@ -1,0 +1,19 @@
+{
+  "id": "honeycomb",
+  "name": "Honeycomb",
+  "provider": "kajirita2002",
+  "description": "Provides a direct TypeScript-based interface for interacting with Honeycomb's observability API, enabling developers...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 11
+  },
+  "release_date": "Mar 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/honeycomb",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:34.915278",
+  "metadata": {}
+}

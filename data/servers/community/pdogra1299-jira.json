@@ -1,0 +1,16 @@
+{
+  "id": "pdogra1299-jira",
+  "name": "Jira",
+  "provider": "Parth Dogra",
+  "description": "Integrates with Jira Cloud REST API v3 to enable issue creation, updates, searching with JQL, comment management,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/pdogra1299-jira",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:37.560052",
+  "metadata": {}
+}

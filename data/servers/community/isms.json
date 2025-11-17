@@ -1,0 +1,16 @@
+{
+  "id": "isms",
+  "name": "ISMS",
+  "provider": "Karthik KRS",
+  "description": "Integrates Mistral AI and Qdrant to provide intelligent security workflows for automated risk assessment, policy...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/isms",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:57.125099",
+  "metadata": {}
+}

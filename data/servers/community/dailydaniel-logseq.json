@@ -1,0 +1,19 @@
+{
+  "id": "dailydaniel-logseq",
+  "name": "LogSeq",
+  "provider": "Daniel Zholkovsky",
+  "description": "Integrates with LogSeq API to enable automated note-taking, knowledge graph analysis, and workflow automation for...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 49
+  },
+  "release_date": "Feb 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/dailydaniel-logseq",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:14.970324",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "marcusbai-caiyun-weather",
+  "name": "Caiyun Weather",
+  "provider": "Marcus Bai",
+  "description": "Integrates with Caiyun Weather API to provide real-time weather data and forecasts based on geographic coordinates or...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/marcusbai-caiyun-weather",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:03.534257",
+  "metadata": {}
+}

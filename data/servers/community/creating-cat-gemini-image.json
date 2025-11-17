@@ -1,0 +1,19 @@
+{
+  "id": "creating-cat-gemini-image",
+  "name": "Gemini Image Generation",
+  "provider": "creating-cat",
+  "description": "Integrates with Google's Gemini API to generate images with built-in Sharp-based resizing, format conversion, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 5
+  },
+  "release_date": "Aug 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/creating-cat-gemini-image",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:43.643195",
+  "metadata": {}
+}

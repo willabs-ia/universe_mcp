@@ -1,0 +1,16 @@
+{
+  "id": "itz4blitz-jmx",
+  "name": "JMX Management",
+  "provider": "itz4blitz",
+  "description": "Bridges Java Management Extensions (JMX) with natural language monitoring and management of Java applications through...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/itz4blitz-jmx",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:49.844172",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "postgres-explorer",
+  "name": "PostgreSQL Explorer",
+  "provider": "Daniel R Snell",
+  "description": "Provides read-only PostgreSQL database access for exploring schemas and executing safe queries, deployable via Docker...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/postgres-explorer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:28.228914",
+  "metadata": {}
+}

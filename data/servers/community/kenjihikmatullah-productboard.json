@@ -1,0 +1,19 @@
+{
+  "id": "kenjihikmatullah-productboard",
+  "name": "Productboard",
+  "provider": "Kenji Hikmatullah",
+  "description": "Integrates with the Productboard API to enable access to companies, components, features, and products for enhanced...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 8
+  },
+  "release_date": "Feb 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/kenjihikmatullah-productboard",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:37.126531",
+  "metadata": {}
+}

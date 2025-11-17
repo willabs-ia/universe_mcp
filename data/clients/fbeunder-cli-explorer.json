@@ -1,0 +1,11 @@
+{
+  "id": "fbeunder-cli-explorer",
+  "name": "Unknown",
+  "provider": null,
+  "description": "CLI tool for interacting directly with MCP servers via stdio or SSE, enabling fine-grained exploration of Tools, Resources, and Prompts.",
+  "url": "https://www.pulsemcp.com/clients/fbeunder-cli-explorer",
+  "source_url": null,
+  "platforms": [],
+  "categories": [],
+  "scraped_at": "2025-11-17T03:47:41.552362"
+}

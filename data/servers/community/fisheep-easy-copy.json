@@ -1,0 +1,19 @@
+{
+  "id": "fisheep-easy-copy",
+  "name": "MCP Easy Copy",
+  "provider": "fisheep",
+  "description": "Utility server that automatically reads Claude Desktop configuration files and presents all available MCP services in...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 8
+  },
+  "release_date": "Mar 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/fisheep-easy-copy",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:37.132765",
+  "metadata": {}
+}

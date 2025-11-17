@@ -1,0 +1,19 @@
+{
+  "id": "kevinwatt-searxng",
+  "name": "SearXNG Meta Search",
+  "provider": "Kevin Watt",
+  "description": "Integrates SearXNG's meta-search capabilities to provide privacy-focused, customizable search results from multiple...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 53
+  },
+  "release_date": "Feb 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/kevinwatt-searxng",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:14.945186",
+  "metadata": {}
+}

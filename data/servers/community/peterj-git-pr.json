@@ -1,0 +1,16 @@
+{
+  "id": "peterj-git-pr",
+  "name": "Git PR",
+  "provider": "peterj",
+  "description": "Provides Git repository management and GitHub pull request automation through dual workflows for analyzing existing...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/peterj-git-pr",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:43.364179",
+  "metadata": {}
+}

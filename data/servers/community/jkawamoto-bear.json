@@ -1,0 +1,19 @@
+{
+  "id": "jkawamoto-bear",
+  "name": "Bear",
+  "provider": "Junpei Kawamoto",
+  "description": "Integrates with Bear note-taking software to enable note creation, search, and organization operations for enhanced...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Feb 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/jkawamoto-bear",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:46.631517",
+  "metadata": {}
+}

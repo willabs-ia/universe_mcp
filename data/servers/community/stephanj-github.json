@@ -1,0 +1,16 @@
+{
+  "id": "stephanj-github",
+  "name": "GitHub",
+  "provider": "Stephan Janssen",
+  "description": "Integrates with GitHub's API to enable repository management, issue tracking, pull request handling, and code...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/stephanj-github",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:17.097341",
+  "metadata": {}
+}

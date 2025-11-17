@@ -1,0 +1,16 @@
+{
+  "id": "pmhw-wechat-automation",
+  "name": "WinAutoWx (WeChat Desktop Automation)",
+  "provider": "pmhw",
+  "description": "Automates WeChat desktop application on Windows through UI element interaction, enabling message sending via...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/pmhw-wechat-automation",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:26.679484",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "search-analytics",
+  "name": "Search Analytics (Google Search Console & Analytics 4)",
+  "provider": "dexter480",
+  "description": "Integrates Google Search Console and Google Analytics 4 data through unified tools for search analytics, traffic...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jun 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/search-analytics",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:43.377320",
+  "metadata": {}
+}

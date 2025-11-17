@@ -1,0 +1,16 @@
+{
+  "id": "amit-arora-aws-cost-explorer-bedrock-usage",
+  "name": "AWS Cost Explorer and Bedrock Usage Analytics",
+  "provider": "Amit Arora",
+  "description": "Integrates with AWS Cost Explorer and CloudWatch to analyze cloud spending patterns and Bedrock model usage...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/amit-arora-aws-cost-explorer-bedrock-usage",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:30.532856",
+  "metadata": {}
+}

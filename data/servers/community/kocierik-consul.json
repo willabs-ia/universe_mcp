@@ -1,0 +1,16 @@
+{
+  "id": "kocierik-consul",
+  "name": "Consul",
+  "provider": "Erik Koci",
+  "description": "Provides a bridge to HashiCorp Consul for service discovery, health checks, key-value operations, and configuration...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/kocierik-consul",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:23.723562",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "agentdesk-workflows",
+  "name": "Workflows",
+  "provider": "AgentDesk AI",
+  "description": "Provides specialized software development tools through a data-driven configuration system that loads tool...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 4
+  },
+  "release_date": "Mar 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/agentdesk-workflows",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:45.798064",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cdata-acumatica",
+  "name": "Acumatica (CData)",
+  "provider": "CData Software",
+  "description": "Connects to enterprise databases through JDBC drivers, enabling SQL query execution and metadata exploration across...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/cdata-acumatica",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:15.739420",
+  "metadata": {}
+}

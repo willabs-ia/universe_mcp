@@ -1,0 +1,16 @@
+{
+  "id": "tafa-filesystem",
+  "name": "Tafa (File System)",
+  "provider": "N3uraX",
+  "description": "Provides secure file system operations including read/write, directory management, search with pattern matching,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/tafa-filesystem",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:58.338333",
+  "metadata": {}
+}

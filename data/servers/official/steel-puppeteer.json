@@ -1,0 +1,16 @@
+{
+  "id": "steel-puppeteer",
+  "name": "Steel Puppeteer",
+  "provider": "Steel",
+  "description": "Integrates Puppeteer with Steel SDK for browser automation, enabling complex web interactions and data extraction.",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Jan 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/steel-puppeteer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:46.424256",
+  "metadata": {}
+}

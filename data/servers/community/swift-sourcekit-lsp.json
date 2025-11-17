@@ -1,0 +1,16 @@
+{
+  "id": "swift-sourcekit-lsp",
+  "name": "Swift SourceKit-LSP",
+  "provider": "anhptimx",
+  "description": "Integrates with Apple's SourceKit-LSP to provide advanced static analysis and architectural insights for Swift...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/swift-sourcekit-lsp",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:05.104484",
+  "metadata": {}
+}

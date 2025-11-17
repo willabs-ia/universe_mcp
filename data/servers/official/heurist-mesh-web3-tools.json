@@ -1,0 +1,16 @@
+{
+  "id": "heurist-mesh-web3-tools",
+  "name": "Heurist Mesh (Web3 Tools)",
+  "provider": "Heurist AI",
+  "description": "Connects Claude to specialized Web3 and blockchain tools including CoinGecko, DexScreener, GoPlus, Exa, and Firecrawl...",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "Mar 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/heurist-mesh-web3-tools",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:21.494091",
+  "metadata": {}
+}

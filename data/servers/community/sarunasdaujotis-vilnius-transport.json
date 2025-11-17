@@ -1,0 +1,16 @@
+{
+  "id": "sarunasdaujotis-vilnius-transport",
+  "name": "Vilnius Transport",
+  "provider": "Sarunas Daujotis",
+  "description": "Integrates with Vilnius public transport data sources to provide real-time transit information, enabling accurate...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/sarunasdaujotis-vilnius-transport",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:50.818204",
+  "metadata": {}
+}

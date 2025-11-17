@@ -1,0 +1,16 @@
+{
+  "id": "kinothe-kafkaesque-ssh-commander",
+  "name": "SSH Commander",
+  "provider": "KinoThe-Kafkaesque",
+  "description": "Enables secure remote server management by executing SSH commands using stored credentials in a SQLite database,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/kinothe-kafkaesque-ssh-commander",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:34.850079",
+  "metadata": {}
+}

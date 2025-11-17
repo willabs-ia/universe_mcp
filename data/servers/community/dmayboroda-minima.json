@@ -1,0 +1,16 @@
+{
+  "id": "dmayboroda-minima",
+  "name": "Minima (Local RAG)",
+  "provider": "dmayboroda",
+  "description": "Search and retrieve context from local files for RAG.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Nov 2, 2024",
+  "url": "https://www.pulsemcp.com/servers/dmayboroda-minima",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:31.498894",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "elizabethsiegle-scrape-and-analyze-website",
+  "name": "Website Scraper and Analyzer",
+  "provider": "Elizabeth Siegle",
+  "description": "Enables website analysis and content extraction using Cloudflare Workers, providing tools to scrape, summarize, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/elizabethsiegle-scrape-and-analyze-website",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:30.111870",
+  "metadata": {}
+}

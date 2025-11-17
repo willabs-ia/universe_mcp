@@ -1,0 +1,16 @@
+{
+  "id": "egarcia74-sql-server",
+  "name": "SQL Server",
+  "provider": "Eduardo Garcia-Prieto",
+  "description": "Integrates with Microsoft SQL Server databases to provide query execution, schema exploration, and data retrieval...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/egarcia74-sql-server",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:22.140939",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "metabase-ai-assistant",
+  "name": "Metabase AI Assistant",
+  "provider": "ONMARTECH LLC",
+  "description": "Integrates with Metabase analytics platforms and direct database connections to enable automated creation of SQL...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/metabase-ai-assistant",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:19.946532",
+  "metadata": {}
+}

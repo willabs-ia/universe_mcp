@@ -1,0 +1,16 @@
+{
+  "id": "jopsis-oci",
+  "name": "Oracle Cloud Infrastructure",
+  "provider": "jopsis",
+  "description": "Integrates with Oracle Cloud Infrastructure through the OCI Python SDK to manage compute instances, databases,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/jopsis-oci",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:29.262505",
+  "metadata": {}
+}

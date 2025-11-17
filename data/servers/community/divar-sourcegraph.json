@@ -1,0 +1,16 @@
+{
+  "id": "divar-sourcegraph",
+  "name": "Sourcegraph",
+  "provider": "Divar",
+  "description": "Integrates with Sourcegraph's search API to provide advanced code search with regex patterns, language filters, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/divar-sourcegraph",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:02.971036",
+  "metadata": {}
+}

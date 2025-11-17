@@ -1,0 +1,16 @@
+{
+  "id": "kinshukk-book-fetch",
+  "name": "Book Fetch (Library Genesis)",
+  "provider": "Kinshuk Kashyap",
+  "description": "Retrieves and processes published books from Library Genesis, delivering text content in manageable chunks with...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/kinshukk-book-fetch",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:19.338072",
+  "metadata": {}
+}

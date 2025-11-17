@@ -1,0 +1,19 @@
+{
+  "id": "eversinc33-triage-pe-file-analysis",
+  "name": "TriageMCP (PE File Analysis)",
+  "provider": "eversinc33",
+  "description": "Integrates with multiple security tools to perform static analysis of PE files, extracting critical information like...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "May 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/eversinc33-triage-pe-file-analysis",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:57.420605",
+  "metadata": {}
+}

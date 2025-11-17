@@ -1,0 +1,16 @@
+{
+  "id": "mashriram-azure",
+  "name": "Azure",
+  "provider": "Shriram Madurantakam",
+  "description": "Integrates with Azure Blob Storage and Cosmos DB to enable secure reading, manipulation, and querying of cloud data...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Feb 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/mashriram-azure",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:59.298775",
+  "metadata": {}
+}

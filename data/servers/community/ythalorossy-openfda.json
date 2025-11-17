@@ -1,0 +1,19 @@
+{
+  "id": "ythalorossy-openfda",
+  "name": "OpenFDA",
+  "provider": "Ythalo Saldanha",
+  "description": "Integrates with the FDA's OpenFDA API to provide access to drug information, safety data, adverse event reports, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 3
+  },
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/ythalorossy-openfda",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:50.200831",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "moonbirdai-ebird",
+  "name": "eBird",
+  "provider": "Moonbird AI",
+  "description": "Integrates with the eBird API to provide real-time bird observation data, including recent sightings, notable...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1
+  },
+  "release_date": "May 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/moonbirdai-ebird",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:56.897332",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "okx-dex",
+  "name": "OKX DEX",
+  "provider": "0xobedient",
+  "description": "Integrates with OKX's decentralized exchange and cross-chain bridge to enable token swapping, liquidity management,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/okx-dex",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:39.039742",
+  "metadata": {}
+}

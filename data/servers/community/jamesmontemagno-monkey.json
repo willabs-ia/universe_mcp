@@ -1,0 +1,19 @@
+{
+  "id": "jamesmontemagno-monkey",
+  "name": "Monkey",
+  "provider": "James Montemagno",
+  "description": "Provides access to monkey data through a .NET 9.0 API with caching and dependency injection, featuring tools for...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "Mar 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/jamesmontemagno-monkey",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:33.790402",
+  "metadata": {}
+}

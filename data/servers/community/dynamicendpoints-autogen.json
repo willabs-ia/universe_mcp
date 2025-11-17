@@ -1,0 +1,16 @@
+{
+  "id": "dynamicendpoints-autogen",
+  "name": "AutoGen",
+  "provider": "Dynamic Endpoints",
+  "description": "Bridges Microsoft's AutoGen framework with external tools, enabling autonomous agents to execute code, perform...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/dynamicendpoints-autogen",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:03.494921",
+  "metadata": {}
+}

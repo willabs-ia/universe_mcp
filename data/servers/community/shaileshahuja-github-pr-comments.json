@@ -1,0 +1,16 @@
+{
+  "id": "shaileshahuja-github-pr-comments",
+  "name": "GitHub PR Comments",
+  "provider": "Shailesh Ahuja",
+  "description": "Integrates with GitHub's Pull Request system to fetch and analyze PR comments with their associated file paths, line...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/shaileshahuja-github-pr-comments",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:17.204906",
+  "metadata": {}
+}

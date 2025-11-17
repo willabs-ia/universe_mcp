@@ -1,0 +1,19 @@
+{
+  "id": "theoriginalaiexplorer-redfish",
+  "name": "Redfish",
+  "provider": "theoriginalaiexplorer",
+  "description": "Integrates with Redfish-compliant server management interfaces to enable hardware monitoring and control operations...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Oct 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/theoriginalaiexplorer-redfish",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:04.055407",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "dvejsada-media-generator",
+  "name": "Amazon Bedrock Nova",
+  "provider": "dvejsada",
+  "description": "Integrates Amazon Bedrock's Nova Canvas and Nova Reel models to create AI-generated images and videos, enabling...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/dvejsada-media-generator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:52.947746",
+  "metadata": {}
+}

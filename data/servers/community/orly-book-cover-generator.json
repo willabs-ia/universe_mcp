@@ -1,0 +1,19 @@
+{
+  "id": "orly-book-cover-generator",
+  "name": "O'RLY Book Cover Generator",
+  "provider": "Chris Frewin",
+  "description": "Generates parody O'Reilly-style book covers with customizable titles, subtitles, authors, and visual themes using 40...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 73
+  },
+  "release_date": "Jun 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/orly-book-cover-generator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:10.548433",
+  "metadata": {}
+}

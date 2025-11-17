@@ -1,0 +1,16 @@
+{
+  "id": "delphi-compiler",
+  "name": "Delphi Compiler",
+  "provider": "unununununununun",
+  "description": "Integrates with RAD Studio compilers and MSBuild to compile Delphi/Object Pascal projects with automatic project...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/delphi-compiler",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:22.101115",
+  "metadata": {}
+}

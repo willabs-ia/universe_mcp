@@ -1,0 +1,16 @@
+{
+  "id": "shukwong-gnomad",
+  "name": "gnomAD",
+  "provider": "shukwong",
+  "description": "Integrates with gnomAD (Genome Aggregation Database) through ten specialized tools for querying genomic variant data,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/shukwong-gnomad",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:13.544040",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "cornelcroi-french-tax",
+  "name": "French Tax",
+  "provider": "Corneliu CROITORU",
+  "description": "Integrates with official French tax websites (impots.gouv.fr, service-public.fr, legifrance.gouv.fr) to provide tax...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 42
+  },
+  "release_date": "Sep 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/cornelcroi-french-tax",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:17.108345",
+  "metadata": {}
+}

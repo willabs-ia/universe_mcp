@@ -1,0 +1,16 @@
+{
+  "id": "cr2007-wordle",
+  "name": "Wordle",
+  "provider": "cr2007",
+  "description": "Fetches daily Wordle puzzle solutions from the New York Times API for any date between 2021-05-19 and 23 days into...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/cr2007-wordle",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:52.007302",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "apw124-logseq",
+  "name": "Logseq",
+  "provider": "apw124",
+  "description": "Enables AI interaction with Logseq knowledge graphs for capturing notes, organizing information, and retrieving...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 36
+  },
+  "release_date": "Apr 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/apw124-logseq",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:19.258109",
+  "metadata": {}
+}

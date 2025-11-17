@@ -1,0 +1,16 @@
+{
+  "id": "cerebrofoundation-bitcoin-signer",
+  "name": "Bitcoin Signer",
+  "provider": "Cerebro Foundation",
+  "description": "Enables Bitcoin address generation and transaction signing using private keys in WIF format and partially signed...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/cerebrofoundation-bitcoin-signer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:39.513318",
+  "metadata": {}
+}

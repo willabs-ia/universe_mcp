@@ -1,0 +1,16 @@
+{
+  "id": "jezweb-openai-dalle",
+  "name": "DALL-E",
+  "provider": "jezweb",
+  "description": "Integrates with OpenAI's DALL-E API to enable image generation with fine-grained control over parameters including...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/jezweb-openai-dalle",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:19.325882",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "bearnetwork-brnkc-sketchup",
+  "name": "SketchUp",
+  "provider": "BearNetwork",
+  "description": "Enables AI control of 3D models in SketchUp through a WebSocket-based system that provides tools for creating,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/bearnetwork-brnkc-sketchup",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:34.892182",
+  "metadata": {}
+}

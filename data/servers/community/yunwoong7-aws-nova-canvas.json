@@ -1,0 +1,16 @@
+{
+  "id": "yunwoong7-aws-nova-canvas",
+  "name": "AWS Nova Canvas",
+  "provider": "Yunwoong Kim",
+  "description": "Bridges to Amazon's Nova Canvas image generation model through AWS Bedrock, enabling AI-powered image creation with...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/yunwoong7-aws-nova-canvas",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:05.659907",
+  "metadata": {}
+}

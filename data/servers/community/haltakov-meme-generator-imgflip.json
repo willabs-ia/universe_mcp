@@ -1,0 +1,19 @@
+{
+  "id": "haltakov-meme-generator-imgflip",
+  "name": "Meme Generator (ImgFlip)",
+  "provider": "Vladimir Haltakov",
+  "description": "Enables meme generation through the ImgFlip API with a single tool that accepts template ID and text placeholder...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 16
+  },
+  "release_date": "Mar 8, 2025",
+  "url": "https://www.pulsemcp.com/servers/haltakov-meme-generator-imgflip",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:28.012416",
+  "metadata": {}
+}

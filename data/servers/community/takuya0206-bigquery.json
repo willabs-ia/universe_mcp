@@ -1,0 +1,16 @@
+{
+  "id": "takuya0206-bigquery",
+  "name": "BigQuery",
+  "provider": "Takuya",
+  "description": "Enables secure, read-only access to Google BigQuery databases for data exploration and SQL query execution with...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/takuya0206-bigquery",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:21.468835",
+  "metadata": {}
+}

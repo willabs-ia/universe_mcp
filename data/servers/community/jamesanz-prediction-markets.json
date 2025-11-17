@@ -1,0 +1,19 @@
+{
+  "id": "jamesanz-prediction-markets",
+  "name": "Prediction Markets (Polymarket, PredictIt, Kalshi)",
+  "provider": "JamesANZ",
+  "description": "Integrates with Polymarket, PredictIt, and Kalshi to provide real-time prediction market data with calculated odds,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 7
+  },
+  "release_date": "Oct 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/jamesanz-prediction-markets",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:41.451461",
+  "metadata": {}
+}

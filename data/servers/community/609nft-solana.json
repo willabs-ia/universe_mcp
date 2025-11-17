@@ -1,0 +1,19 @@
+{
+  "id": "609nft-solana",
+  "name": "Solana DeFi",
+  "provider": "609NFT",
+  "description": "Billions of Solana DeFi TXNs, decoded and accessible via LLM",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Sep 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/609nft-solana",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:04.034320",
+  "metadata": {}
+}

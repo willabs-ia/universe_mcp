@@ -1,0 +1,16 @@
+{
+  "id": "sketch",
+  "name": "Sketch",
+  "provider": "mater1996",
+  "description": "Processes Sketch design files by extracting internal structure, analyzing design elements, and rendering visual...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/sketch",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:24.516978",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "kukapay-bsc-multisend",
+  "name": "BSC MultiSend",
+  "provider": "kukapay",
+  "description": "Enables batch distribution of BNB and ERC20 tokens to multiple recipients on Binance Smart Chain in single...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/kukapay-bsc-multisend",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:17.831177",
+  "metadata": {}
+}

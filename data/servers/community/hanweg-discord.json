@@ -1,0 +1,16 @@
+{
+  "id": "hanweg-discord",
+  "name": "Discord",
+  "provider": "hanweg",
+  "description": "Integrates Discord to enable automated server management, moderation, and bot development.",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Dec 29, 2024",
+  "url": "https://www.pulsemcp.com/servers/hanweg-discord",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:40.068163",
+  "metadata": {}
+}

@@ -1,0 +1,16 @@
+{
+  "id": "doriandarko-claude-search",
+  "name": "Claude Web Search",
+  "provider": "Dorian Darko",
+  "description": "Enables real-time web searches with configurable domain filtering and result limits for accessing up-to-date...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/doriandarko-claude-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:34.355635",
+  "metadata": {}
+}

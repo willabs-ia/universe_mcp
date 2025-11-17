@@ -1,0 +1,16 @@
+{
+  "id": "gongrzhe-audio-interface",
+  "name": "Audio Interface",
+  "provider": "gongrzhe",
+  "description": "Enables voice interaction with Claude through audio recording and playback capabilities, supporting customizable...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/gongrzhe-audio-interface",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:17.235734",
+  "metadata": {}
+}

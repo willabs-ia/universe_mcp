@@ -1,0 +1,19 @@
+{
+  "id": "tisu19021997-meta-prompting",
+  "name": "Meta-Prompting",
+  "provider": "tisu19021997",
+  "description": "Transforms language models into dynamic multi-agent systems where the model alternates between a Conductor role that...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jun 25, 2025",
+  "url": "https://www.pulsemcp.com/servers/tisu19021997-meta-prompting",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:59.575022",
+  "metadata": {}
+}

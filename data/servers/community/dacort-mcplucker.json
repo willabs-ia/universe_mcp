@@ -1,0 +1,16 @@
+{
+  "id": "dacort-mcplucker",
+  "name": "DuckDB",
+  "provider": "dacort",
+  "description": "Provides direct access to DuckDB's analytical capabilities through file loading, table management, schema inspection,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Sep 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/dacort-mcplucker",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:24.525998",
+  "metadata": {}
+}

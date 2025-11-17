@@ -1,0 +1,16 @@
+{
+  "id": "based-h-10-deepseek-reasoner",
+  "name": "DeepSeek Reasoner",
+  "provider": "Harsh J",
+  "description": "Integrates DeepSeek's R1 reasoning engine to enhance problem-solving, research assistance, and decision support...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jan 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/based-h-10-deepseek-reasoner",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:52.968142",
+  "metadata": {}
+}

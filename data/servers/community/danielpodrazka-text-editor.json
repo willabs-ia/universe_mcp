@@ -1,0 +1,16 @@
+{
+  "id": "danielpodrazka-text-editor",
+  "name": "Text Editor",
+  "provider": "Daniel Podrazka",
+  "description": "Provides a secure Python-based text editing interface with two-step verification and syntax validation for...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/danielpodrazka-text-editor",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:05.629548",
+  "metadata": {}
+}

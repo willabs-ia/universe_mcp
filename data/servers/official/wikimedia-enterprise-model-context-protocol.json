@@ -1,0 +1,16 @@
+{
+  "id": "wikimedia-enterprise-model-context-protocol",
+  "name": "Wikimedia Enterprise",
+  "provider": "Wikimedia Foundation",
+  "description": "Query and analyze Wikimedia Enterprise data.",
+  "classification": "official",
+  "weekly_metric": null,
+  "release_date": "—",
+  "url": "https://www.pulsemcp.com/servers/wikimedia-enterprise-model-context-protocol",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:59.103041",
+  "metadata": {}
+}

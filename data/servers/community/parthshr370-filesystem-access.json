@@ -1,0 +1,16 @@
+{
+  "id": "parthshr370-filesystem-access",
+  "name": "Filesystem Access",
+  "provider": "Parth Sharma",
+  "description": "Provides direct access to local filesystem operations for reading file contents and listing directory entries through...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/parthshr370-filesystem-access",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:19.327155",
+  "metadata": {}
+}

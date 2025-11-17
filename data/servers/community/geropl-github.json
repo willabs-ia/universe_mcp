@@ -1,0 +1,16 @@
+{
+  "id": "geropl-github",
+  "name": "GitHub",
+  "provider": "geropl",
+  "description": "Integrates with GitHub's API to enable repository management, file operations, issue tracking, pull request handling,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/geropl-github",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:16.461707",
+  "metadata": {}
+}

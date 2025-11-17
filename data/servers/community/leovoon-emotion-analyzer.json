@@ -1,0 +1,16 @@
+{
+  "id": "leovoon-emotion-analyzer",
+  "name": "Emotion Analyzer",
+  "provider": "Leo Voon",
+  "description": "Analyzes text for 19 different emotional states and provides personalized, constructive interpretations to help...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/leovoon-emotion-analyzer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:05.804193",
+  "metadata": {}
+}

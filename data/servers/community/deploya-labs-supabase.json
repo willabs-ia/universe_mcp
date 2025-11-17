@@ -1,0 +1,16 @@
+{
+  "id": "deploya-labs-supabase",
+  "name": "Supabase",
+  "provider": "Deploya Labs",
+  "description": "Integrates with Supabase databases to enable SQL query execution, database management, and user authentication...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/deploya-labs-supabase",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:21.491452",
+  "metadata": {}
+}

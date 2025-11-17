@@ -1,0 +1,16 @@
+{
+  "id": "gpaul-ravelry1df3",
+  "name": "Ravelry",
+  "provider": "gpaul",
+  "description": "Connects to the Ravelry API for knitting and crochet pattern discovery, enabling users to search patterns and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/gpaul-ravelry1df3",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:30.561069",
+  "metadata": {}
+}

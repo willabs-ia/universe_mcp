@@ -1,0 +1,16 @@
+{
+  "id": "cursor-background-composer",
+  "name": "Cursor Background Composer",
+  "provider": "mjdierkes",
+  "description": "Integrates with Cursor's Background Composer functionality to create, manage, and monitor automated coding tasks with...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Jul 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/cursor-background-composer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:54.124158",
+  "metadata": {}
+}

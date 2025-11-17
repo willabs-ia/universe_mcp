@@ -1,0 +1,16 @@
+{
+  "id": "dictybase-git-summary",
+  "name": "Git Summary",
+  "provider": "Cybersiddhu",
+  "description": "Lightweight git commit message summary generator that analyzes repository histories by filtering commits and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/dictybase-git-summary",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:44:20.705948",
+  "metadata": {}
+}

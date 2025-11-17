@@ -1,0 +1,19 @@
+{
+  "id": "claude-deep-research",
+  "name": "Claude Deep Research",
+  "provider": "mcherukara",
+  "description": "Extends research capabilities by providing unified access to web and academic information through DuckDuckGo and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 415
+  },
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/claude-deep-research",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:26.739647",
+  "metadata": {}
+}

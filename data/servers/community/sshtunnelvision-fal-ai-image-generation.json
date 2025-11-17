@@ -1,0 +1,16 @@
+{
+  "id": "sshtunnelvision-fal-ai-image-generation",
+  "name": "FAL AI Image Generation",
+  "provider": "sshtunnelvision",
+  "description": "Integrates with FAL AI to generate images from text prompts using models like 'fal-ai/recraft-v3', enabling real-time...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/sshtunnelvision-fal-ai-image-generation",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:10.887904",
+  "metadata": {}
+}

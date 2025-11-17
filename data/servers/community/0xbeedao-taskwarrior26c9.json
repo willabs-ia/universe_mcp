@@ -1,0 +1,19 @@
+{
+  "id": "0xbeedao-taskwarrior26c9",
+  "name": "Taskwarrior",
+  "provider": "Bruce Kroeze",
+  "description": "Integrates with Taskwarrior to enable task management through adding, updating, deleting, and listing tasks with...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 10
+  },
+  "release_date": "Mar 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/0xbeedao-taskwarrior26c9",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:34.941571",
+  "metadata": {}
+}

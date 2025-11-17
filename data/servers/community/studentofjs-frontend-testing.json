@@ -1,0 +1,16 @@
+{
+  "id": "studentofjs-frontend-testing",
+  "name": "Frontend Testing (Jest & Cypress)",
+  "provider": "StudentOfJS",
+  "description": "Enables automated frontend testing by analyzing JavaScript/TypeScript code, generating Jest and Cypress tests, and...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Mar 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/studentofjs-frontend-testing",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:45:44.143170",
+  "metadata": {}
+}

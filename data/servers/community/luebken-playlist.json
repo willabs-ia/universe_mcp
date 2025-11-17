@@ -1,0 +1,16 @@
+{
+  "id": "luebken-playlist",
+  "name": "YouTube Playlist Transcripts",
+  "provider": "Matthias Luebken",
+  "description": "Fetches and indexes YouTube playlist transcripts for quick search through vector embeddings, enabling efficient...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Apr 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/luebken-playlist",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:19.289310",
+  "metadata": {}
+}

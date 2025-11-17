@@ -1,0 +1,16 @@
+{
+  "id": "f-open-meteo-weather",
+  "name": "Open-Meteo Weather",
+  "provider": "f",
+  "description": "Integrates with Open-Meteo API to provide current weather data retrieval with GitHub OAuth 2.0 authentication,...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "Oct 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/f-open-meteo-weather",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:47:37.514211",
+  "metadata": {}
+}

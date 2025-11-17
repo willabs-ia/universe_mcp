@@ -1,0 +1,19 @@
+{
+  "id": "kevinwatt-webhook",
+  "name": "Webhooks",
+  "provider": "Kevin Watt",
+  "description": "Enables sending customizable messages to external webhook endpoints, facilitating automated notifications and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 10
+  },
+  "release_date": "Jan 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/kevinwatt-webhook",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:43:34.936998",
+  "metadata": {}
+}

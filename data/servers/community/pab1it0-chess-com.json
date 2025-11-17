@@ -1,0 +1,19 @@
+{
+  "id": "pab1it0-chess-com",
+  "name": "Chess.com API",
+  "provider": "pab1it0",
+  "description": "Integrates with Chess.com Published Data API to access player profiles, statistics, game data, and club information...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 276
+  },
+  "release_date": "Mar 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/pab1it0-chess-com",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:33.789052",
+  "metadata": {}
+}

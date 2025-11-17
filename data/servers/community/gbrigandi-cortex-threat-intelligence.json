@@ -1,0 +1,16 @@
+{
+  "id": "gbrigandi-cortex-threat-intelligence",
+  "name": "Cortex Threat Intelligence",
+  "provider": "Gianluca Brigandi",
+  "description": "Integrates with Cortex threat intelligence services to analyze IP addresses, domains, URLs, and email addresses using...",
+  "classification": "community",
+  "weekly_metric": null,
+  "release_date": "May 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/gbrigandi-cortex-threat-intelligence",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:46:36.849754",
+  "metadata": {}
+}

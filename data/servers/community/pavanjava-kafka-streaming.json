@@ -1,0 +1,19 @@
+{
+  "id": "pavanjava-kafka-streaming",
+  "name": "Kafka Streaming",
+  "provider": "Pavan Java",
+  "description": "Enables seamless Kafka message streaming for AI models by providing publish and consume functionalities through a...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Mar 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/pavanjava-kafka-streaming",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:53.155289",
+  "metadata": {}
+}

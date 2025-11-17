@@ -1,0 +1,19 @@
+{
+  "id": "systemprompt-code-orchestrator",
+  "name": "SystemPrompt Code Orchestrator",
+  "provider": "SystemPrompt",
+  "description": "Orchestrates Claude Code CLI and Gemini CLI sessions to perform complex coding tasks through unified task management,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 138
+  },
+  "release_date": "Jun 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/systemprompt-code-orchestrator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:42:59.576287",
+  "metadata": {}
+}
