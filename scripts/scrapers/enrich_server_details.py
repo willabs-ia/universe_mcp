@@ -61,75 +61,92 @@ class ServerDetailEnricher:
         details = {}
 
         try:
-            # Extract full description (usually in a main content area)
-            description_elem = soup.find('div', class_=re.compile(r'description|content|detail'))
-            if description_elem:
-                details['description_full'] = description_elem.get_text(strip=True)
-
-            # Extract GitHub/Source URL
+            # Extract GitHub/Source URL - more specific search for GitHub icon link
             github_link = soup.find('a', href=re.compile(r'github\.com'))
             if github_link:
                 details['source_url'] = github_link.get('href')
 
-            # Extract tags/categories (look for tag elements)
+                # Try to extract GitHub stars from the link text
+                link_text = github_link.get_text(strip=True)
+                stars_match = re.search(r'([\d.]+[km]?)\s*stars?', link_text, re.I)
+                if stars_match:
+                    stars_str = stars_match.group(1).lower()
+                    # Convert "5k" -> 5000, "72.7k" -> 72700, etc
+                    if 'k' in stars_str:
+                        details['github_stars'] = int(float(stars_str.replace('k', '')) * 1000)
+                    elif 'm' in stars_str:
+                        details['github_stars'] = int(float(stars_str.replace('m', '')) * 1000000)
+                    else:
+                        try:
+                            details['github_stars'] = int(stars_str)
+                        except:
+                            pass
+
+            # Extract NPM package name from npm links
+            npm_link = soup.find('a', href=re.compile(r'npmjs\.com/package'))
+            if npm_link:
+                npm_href = npm_link.get('href', '')
+                package_match = re.search(r'npmjs\.com/package/([^/?]+)', npm_href)
+                if package_match:
+                    details['npm_package'] = package_match.group(1)
+
+            # Extract PyPI package name
+            pypi_link = soup.find('a', href=re.compile(r'pypi\.org/project'))
+            if pypi_link:
+                pypi_href = pypi_link.get('href', '')
+                package_match = re.search(r'pypi\.org/project/([^/?]+)', pypi_href)
+                if package_match:
+                    details['pypi_package'] = package_match.group(1)
+
+            # Extract full description - look for main content paragraphs
+            # Try multiple strategies to find the description
+            desc_elem = soup.find('p', class_=lambda x: x and any(cls in str(x).lower() for cls in ['description', 'text-', 'leading']))
+            if desc_elem:
+                desc_text = desc_elem.get_text(strip=True)
+                if len(desc_text) > 50:  # Meaningful description
+                    details['description_full'] = desc_text
+
+            # Extract installation commands from code blocks
+            code_blocks = soup.find_all(['code', 'pre'])
+            install_commands = []
+            for code_elem in code_blocks:
+                code_text = code_elem.get_text(strip=True)
+                # Look for install commands
+                if any(keyword in code_text.lower() for keyword in ['npm install', 'pip install', 'npx', 'uvx']):
+                    if len(code_text) < 200:  # Reasonable command length
+                        install_commands.append(code_text)
+            if install_commands:
+                details['installation_commands'] = install_commands
+
+            # Extract use cases or examples
+            use_case_elem = soup.find(['div', 'section'], string=re.compile(r'use case', re.I))
+            if use_case_elem:
+                use_case_text = use_case_elem.get_text(strip=True)[:500]
+                if use_case_text:
+                    details['use_case'] = use_case_text
+
+            # Extract categories/tags - look for badge-like elements
             tags = []
-            tag_elements = soup.find_all(['span', 'a'], class_=re.compile(r'tag|category|label'))
+            tag_elements = soup.find_all(['span', 'a', 'div'], class_=lambda x: x and any(cls in str(x).lower() for cls in ['tag', 'badge', 'label', 'category']))
             for tag_elem in tag_elements:
                 tag_text = tag_elem.get_text(strip=True)
-                if tag_text and len(tag_text) < 50:  # Reasonable tag length
+                # Filter out common non-tag text
+                if tag_text and len(tag_text) < 30 and tag_text not in ['Home', 'Servers', 'Back', 'Share', 'Copy']:
                     tags.append(tag_text)
             if tags:
-                details['tags'] = list(set(tags))  # Remove duplicates
-
-            # Extract categories from breadcrumbs or navigation
-            categories = []
-            breadcrumb = soup.find(['nav', 'ol', 'ul'], class_=re.compile(r'breadcrumb|nav'))
-            if breadcrumb:
-                for item in breadcrumb.find_all(['a', 'span']):
-                    cat_text = item.get_text(strip=True)
-                    if cat_text and cat_text not in ['Home', 'Servers', 'Back']:
-                        categories.append(cat_text)
-            if categories:
-                details['categories'] = categories
-
-            # Extract author/maintainer
-            author_elem = soup.find(['span', 'div', 'a'], class_=re.compile(r'author|maintainer|creator'))
-            if author_elem:
-                details['author'] = author_elem.get_text(strip=True)
-
-            # Extract license information
-            license_elem = soup.find(['span', 'div'], text=re.compile(r'license', re.I))
-            if license_elem:
-                license_text = license_elem.get_text(strip=True)
-                details['license'] = license_text
-
-            # Extract version if available
-            version_elem = soup.find(['span', 'div'], class_=re.compile(r'version'))
-            if version_elem:
-                details['version'] = version_elem.get_text(strip=True)
-
-            # Extract documentation URL
-            doc_link = soup.find('a', text=re.compile(r'documentation|docs|guide', re.I))
-            if doc_link:
-                details['documentation_url'] = urljoin(BASE_URL, doc_link.get('href', ''))
-
-            # Extract README or detailed info
-            readme_elem = soup.find(['div', 'section'], class_=re.compile(r'readme|markdown'))
-            if readme_elem:
-                details['readme'] = readme_elem.get_text(strip=True)[:1000]  # First 1000 chars
-
-            # Extract installation instructions
-            install_elem = soup.find(['code', 'pre'], text=re.compile(r'npm|pip|install'))
-            if install_elem:
-                details['installation'] = install_elem.get_text(strip=True)
-
-            # Extract last updated timestamp
-            updated_elem = soup.find(['time', 'span'], class_=re.compile(r'updated|modified'))
-            if updated_elem:
-                details['last_updated'] = updated_elem.get('datetime') or updated_elem.get_text(strip=True)
+                # Remove duplicates while preserving order
+                seen = set()
+                unique_tags = []
+                for tag in tags:
+                    if tag.lower() not in seen:
+                        seen.add(tag.lower())
+                        unique_tags.append(tag)
+                details['tags'] = unique_tags[:20]  # Limit to 20 tags
 
         except Exception as e:
             print(f"  ⚠️  Error extracting details: {e}")
+            import traceback
+            traceback.print_exc()
 
         return details
 
@@ -166,42 +183,70 @@ class ServerDetailEnricher:
             details = self.extract_detail_data(soup, server_url)
 
             # Merge with existing data (don't overwrite existing good data)
+
+            # Update description if the enriched one is longer/better
             if details.get('description_full') and len(details['description_full']) > len(server_data.get('description', '')):
                 server_data['description'] = details['description_full']
 
-            if details.get('source_url') and not server_data.get('source_url'):
+            # Always update source_url if found (it's the most important enrichment)
+            if details.get('source_url'):
                 server_data['source_url'] = details['source_url']
 
+            # Update tags (merge with existing)
             if details.get('tags'):
                 existing_tags = set(server_data.get('tags', []))
                 existing_tags.update(details['tags'])
-                server_data['tags'] = list(existing_tags)
+                server_data['tags'] = sorted(list(existing_tags))  # Sort for consistency
 
+            # Update categories (merge with existing)
             if details.get('categories'):
                 existing_cats = set(server_data.get('categories', []))
                 existing_cats.update(details['categories'])
-                server_data['categories'] = list(existing_cats)
+                server_data['categories'] = sorted(list(existing_cats))  # Sort for consistency
 
             # Add metadata
             if 'metadata' not in server_data:
                 server_data['metadata'] = {}
 
-            for key in ['author', 'license', 'version', 'documentation_url', 'readme', 'installation']:
+            # Add new metadata fields
+            metadata_fields = [
+                'github_stars',
+                'npm_package',
+                'pypi_package',
+                'installation_commands',
+                'use_case'
+            ]
+
+            for key in metadata_fields:
                 if details.get(key):
                     server_data['metadata'][key] = details[key]
 
-            if details.get('last_updated'):
-                server_data['last_updated'] = details['last_updated']
-
             # Mark as enriched
             server_data['enriched_at'] = datetime.now().isoformat()
+
+            # Count enrichments added
+            enrichments_added = []
+            if details.get('source_url'):
+                enrichments_added.append('GitHub URL')
+            if details.get('github_stars'):
+                enrichments_added.append(f"{details['github_stars']} ⭐")
+            if details.get('npm_package'):
+                enrichments_added.append('NPM')
+            if details.get('pypi_package'):
+                enrichments_added.append('PyPI')
+            if details.get('tags'):
+                enrichments_added.append(f"{len(details['tags'])} tags")
+            if details.get('installation_commands'):
+                enrichments_added.append('install cmds')
+
+            if enrichments_added:
+                print(f"  ✅ Added: {', '.join(enrichments_added)}")
 
             # Save updated data
             with open(server_file, 'w', encoding='utf-8') as f:
                 json.dump(server_data, f, indent=2, ensure_ascii=False)
 
             self.enriched_count += 1
-            print(f"  ✅ Enriched successfully")
             return True
 
         except Exception as e:

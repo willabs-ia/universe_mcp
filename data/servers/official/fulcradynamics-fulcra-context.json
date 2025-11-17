@@ -10,10 +10,13 @@
   },
   "release_date": "Jun 6, 2025",
   "url": "https://www.pulsemcp.com/servers/fulcradynamics-fulcra-context",
-  "source_url": null,
+  "source_url": "https://github.com/fulcradynamics/fulcra-context-mcp",
   "categories": [],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:15.916944",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 1
+  },
+  "enriched_at": "2025-11-17T11:33:55.791594"
 }
