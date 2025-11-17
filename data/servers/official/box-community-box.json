@@ -7,10 +7,25 @@
   "weekly_metric": null,
   "release_date": "Mar 20, 2025",
   "url": "https://www.pulsemcp.com/servers/box-community-box",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/box-community/mcp-server-box",
+  "categories": [
+    "api",
+    "search",
+    "security",
+    "filesystem",
+    "git",
+    "ai",
+    "data",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:34.839038",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 83,
+    "readme_excerpt": "# Box MCP Server\n\n## Quick Start\n\n### Clone the repository:\n\n```sh\ngit clone https://github.com/box-community/mcp-server-box.git\ncd mcp-server-box\n```\n\n### Optional but recommended `uv` installation for virtual environment and dependency management:\n\n#### Homebrew (macOS)\n```sh\nbrew install uv\n```\n\n#### WinGet (Windows)\n```sh\nwinget install --id=astral-sh.uv  -e\n```\n\n#### On macOS and Linux\n```sh\ncurl -LsSf https://astral.sh/uv/install.sh | sh\n```\n\n#### On Windows\n```sh\npowershell -ExecutionPolicy ByPass -c \"irm https://astral.sh/uv/install.ps1 | iex\"\n```\n\n### Set up the virtual environment and install dependencies:\n\n```sh\nuv sync\n```\n\n### Set environment variables:\nSet the following environment variables for Box authentication in a `.env` file or your system environment.\n\nFor comprehensive authentication configuration options, see the [Authentication Guide](docs/authentication.md).\n\n#### Using OAuth2.0 with a Box App\n```\nBOX_CLIENT_ID = YOUR_CLIENT_ID\nBOX_CLIENT_SECRET = YOUR_CLIENT_SECRET\nBOX_REDIRECT_URL = http://localhost:8000/callback\n\n# MCP Server Authentication (for HTTP transports)\nBOX_MCP_SERVER_AUTH_TOKEN = YOUR_BOX_MCP_SERVER_AUTH_TOKEN\nOAUTH_PROTECTED_RESOURCES_CONFIG_FILE = .oauth-protected-resource.json\n```\n\n> **Note**:\n> - The `BOX_MCP_SERVER_AUTH_TOKEN` is used to authenticate the MCP client to the MCP server when using `--mcp-auth-type=token` (independent of Box authentication)\n\n\n\n### Run the MCP server in STDIO mode:\n```sh\nuv run src/mcp_server_box.py\n```\n\n#",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T17:49:53.299860"
 }

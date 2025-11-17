@@ -7,10 +7,25 @@
   "weekly_metric": null,
   "release_date": "Mar 14, 2025",
   "url": "https://www.pulsemcp.com/servers/bytebase-dbhub",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/bytebase/dbhub",
+  "categories": [
+    "api",
+    "monitoring",
+    "ai",
+    "git",
+    "database",
+    "data",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:17.255689",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 1600,
+    "runtime": "Node.js",
+    "readme_excerpt": "> [!NOTE]  \n> Brought to you by [Bytebase](https://www.bytebase.com/), open-source database DevSecOps platform.\n\n<p align=\"center\">\n<a href=\"https://dbhub.ai/\" target=\"_blank\">\n<picture>\n  <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/bytebase/dbhub/main/docs/images/logo/full-dark.svg\" width=\"75%\">\n  <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/bytebase/dbhub/main/docs/images/logo/full-light.svg\" width=\"75%\">\n  <img src=\"https://raw.githubusercontent.com/bytebase/dbhub/main/docs/images/logo/full-light.svg\" width=\"75%\" alt=\"DBHub Logo\">\n</picture>\n</a>\n</p>\n\n![Star History Chart](https://api.star-history.com/svg?repos=bytebase/dbhub&type=Date)\n\n</p>\n\nDBHub is a Universal Database MCP Server implementing the Model Context Protocol (MCP) server interface. This gateway allows MCP-compatible clients to connect to and explore different databases.\n\n```bash\n +------------------+    +--------------+    +------------------+\n |                  |    |              |    |                  |\n |                  |    |              |    |                  |\n |  Claude Desktop  +--->+              +--->+    PostgreSQL    |\n |                  |    |              |    |                  |\n |  Claude Code     +--->+              +--->+    SQL Server    |\n |                  |    |              |    |                  |\n |  Cursor          +--->+    DBHub     +--->+    SQLite        |\n |                  |    |",
+    "quality_score": 60
+  },
+  "enriched_at": "2025-11-17T17:50:34.597331"
 }

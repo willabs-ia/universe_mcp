@@ -7,10 +7,18 @@
   "weekly_metric": null,
   "release_date": "Jan 8, 2025",
   "url": "https://www.pulsemcp.com/servers/axiomhq-axiom-context",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/axiomhq/zed-axiom-context-server",
+  "categories": [
+    "ai",
+    "workflow",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:01.221089",
-  "metadata": {}
+  "metadata": {
+    "readme_excerpt": "# Axiom Context Server\n\nThis extension provides a Model Context Server for Axiom, for use with the Zed AI assistant.\n\n## Configuration\n\nTo configure the extension, you can specify custom command and arguments in your Zed `settings.json`:\n\n```json\n{\n  \"context_servers\": {\n    \"axiom-mcp\": {\n      \"settings\": {}\n      \"command\": {\n        \"cmd\": \"/path/to/axiom-mcp\",\n        \"args\": [\"--config\", \"/path/to/your/config.txt\"]\n      }\n    }\n  }\n}\n```\n\nIf no custom command is specified, the extension will look for an `axiom-mcp` executable in the current directory.\n",
+    "quality_score": 35
+  },
+  "enriched_at": "2025-11-17T17:48:55.027011"
 }

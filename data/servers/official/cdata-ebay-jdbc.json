@@ -7,10 +7,23 @@
   "weekly_metric": null,
   "release_date": "Aug 20, 2025",
   "url": "https://www.pulsemcp.com/servers/cdata-ebay-jdbc",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/cdatasoftware/ebay-mcp-server-by-cdata",
+  "categories": [
+    "api",
+    "ai",
+    "filesystem",
+    "git",
+    "database",
+    "data",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:17.786303",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 4,
+    "readme_excerpt": "# ebay-mcp-server-by-cdata\nCData's Model Context Protocol (MCP) Server for eBay\n\n:heavy_exclamation_mark: This project builds a local, read-only MCP server. For fully remote MCP access, check out the first managed MCP platform: [CData Connect AI](https://www.cdata.com/ai/). For locally hosted, full read, write, update, delete, and action capabilities and a simplified setup, check out our [CData MCP Server for eBay](https://www.cdata.com/drivers/ebay/download/mcp/).\n## Purpose\nWe created this read-only MCP Server to allow LLMs (like Claude Desktop) to query live data eBay supported by the [CData JDBC Driver for eBay](https://www.cdata.com/drivers/ebay/jdbc/).\n\nCData JDBC Driver connects to eBay by exposing them as relational SQL models.\n\nThis server wraps that driver and makes eBay data available through a simple MCP interface, so LLMs can retrieve live information by asking natural language questions — no SQL required.\n\n## Setup Guide\n1. Clone the repository:\n      ```bash\n      git clone https://github.com/cdatasoftware/ebay-mcp-server-by-cdata.git\n      cd ebay-mcp-server-by-cdata\n      ```\n2. Build the server:\n      ```bash\n      mvn clean install\n      ``` \n      This creates the JAR file: CDataMCP-jar-with-dependencies.jar\n2. Download and install the CData JDBC Driver for {source}: [https://www.cdata.com/drivers/ebay/download/jdbc](https://www.cdata.com/drivers/ebay/download/jdbc/)\n3. License the CData JDBC Driver:\n    * Navigate to the `lib` folder in the installation d",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T17:50:50.750508"
 }

@@ -10,10 +10,24 @@
   },
   "release_date": "Aug 20, 2025",
   "url": "https://www.pulsemcp.com/servers/contentful",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/contentful/contentful-mcp-server",
+  "categories": [
+    "api",
+    "workflow",
+    "monitoring",
+    "testing",
+    "ai",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:10.541273",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 36,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Contentful MCP Server\n\nA [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) server that provides AI assistants with comprehensive tools to interact with [Contentful](https://www.contentful.com/) APIs.\n\n## 🚀 Example Use Cases\n\nThis MCP server provides a comprehensive set of tools for content management, allowing AI to help you create, edit, organize, and publish content directly within Contentful. Once configured, you can use natural language in your AI assistant of choice to manage and interact with your Contentful spaces, including:\n\n- **Content Creation**: \"Create a new blog post for our fall product launch\"\n- **Content Management**: \"Update all product entries to include the new pricing structure\"\n- **Asset Organization**: \"Upload and organize these marketing images by campaign\"\n- **Workflow Automation**: \"Create an AI action that translates content to Spanish\"\n- **Content Modeling**: \"Add a new field to the product content type for customer ratings\"\n\n## 📓 Table of Contents\n\n- [⚙️ Getting Started](#-getting-started)\n  - [Prerequisites](#prerequisites)\n  - [Installation](#installation)\n  - [Environment Variables](#environment-variables)\n  - [Configuration](#configuration)\n- [🛠️ Available Tools](#️-available-tools)\n- [🔍 Development](#-development)\n  - [Testing with MCP Inspector](#testing-with-mcp-inspector)\n  - [Linting](#linting)\n- [📦 Releases](#-releases)\n- [🤝 Contributing](#-contributing)\n  - [Development Setup](#development-setup)\n- [📚 Documentation](#-d",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T17:53:01.593149"
 }

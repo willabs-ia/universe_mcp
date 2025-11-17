@@ -7,10 +7,16 @@
   "weekly_metric": null,
   "release_date": "Sep 17, 2025",
   "url": "https://www.pulsemcp.com/servers/croit-ceph",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/croit",
+  "categories": [
+    "api"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:28.804140",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 1,
+    "quality_score": 35
+  },
+  "enriched_at": "2025-11-17T17:53:21.743936"
 }

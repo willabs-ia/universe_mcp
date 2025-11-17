@@ -7,10 +7,21 @@
   "weekly_metric": null,
   "release_date": "Mar 20, 2025",
   "url": "https://www.pulsemcp.com/servers/crewai-enterprise",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/crewaiinc/enterprise-mcp-server",
+  "categories": [
+    "workflow",
+    "monitoring",
+    "filesystem",
+    "ai",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:32.711884",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 46,
+    "readme_excerpt": "# CrewAI Enterprise MCP Server\n\n## Overview\n\nA Model Context Protocol (MCP) server implementation that provides deployed CrewAI workflows. This server enables kicking off your deployed crew and inspect the status giving the results of your crew.\n\n## Tools\n\n- kickoff_crew\n- get_crew_status\n\n## Env Variables\n\nretrieve from app.crewai.com\n`MCP_CREWAI_ENTERPRISE_SERVER_URL`\n`MCP_CREWAI_ENTERPRISE_BEARER_TOKEN`\n\n# Usage with Claude Desktop\n\n![Claude Desktop with CrewAI Enterprise MCP Server](assets/tools.jpg)\n![Claude Desktop with CrewAI Enterprise MCP Server](assets/kickoff.jpg)\n![Claude Desktop with CrewAI Enterprise MCP Server](assets/status.jpg)\n\nTo use this MCP server with Claude Desktop, follow these steps:\n\n1. Open Claude Desktop\n2. Go to Settings > Developer Settings\n3. Add a new MCP server with the configuration shown below\n\n## Locally, cloned repo:\n\nInstall `mcp` and `mcp[cli]` locally\n\n```json\n{\n  \"mcpServers\": {\n    \"crewai_enterprise_server\": {\n      \"command\": \"uv\",\n      \"args\": [\n        \"run\",\n        \"--with\",\n        \"mcp[cli]\",\n        \"mcp\",\n        \"run\",\n        \"<filepath of cloned repo>\",\n        \"/crewai_enterprise_server.py\"\n      ],\n      \"env\": {\n        \"MCP_CREWAI_ENTERPRISE_SERVER_URL\": \"<>\",\n        \"MCP_CREWAI_ENTERPRISE_BEARER_TOKEN\": \"<>\"\n      }\n    }\n  }\n}\n```\n\n## TODO: Added on PyPI:\n",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T17:53:19.471842"
 }

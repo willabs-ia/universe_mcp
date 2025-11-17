@@ -10,10 +10,25 @@
   },
   "release_date": "May 1, 2025",
   "url": "https://www.pulsemcp.com/servers/cloudflare-dns-analytics",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/cloudflare/mcp-server-cloudflare/tree/HEAD/apps/dns-analytics",
+  "categories": [
+    "api",
+    "monitoring",
+    "security",
+    "cloud",
+    "filesystem",
+    "ai",
+    "data",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:22.713056",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 3100,
+    "readme_excerpt": "# Cloudflare MCP Server\n\nModel Context Protocol (MCP) is a [new, standardized protocol](https://modelcontextprotocol.io/introduction) for managing context between large language models (LLMs) and external systems. In this repository, you can find several MCP servers allowing you to connect to Cloudflare's service from an MCP client (e.g. Cursor, Claude) and use natural language to accomplish tasks through your Cloudflare account.\n\nThese MCP servers allow your [MCP Client](https://modelcontextprotocol.io/clients) to read configurations from your account, process information, make suggestions based on data, and even make those suggested changes for you. All of these actions can happen across Cloudflare's many services including application development, security and performance.\n\nThey support both the `streamble-http` transport via `/mcp` and the `sse` transport (deprecated) via `/sse`.\n\nThe following servers are included in this repository:\n\n| Server Name                                                    | Description                                                                                     | Server URL                                     |\n| -------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ---------------------------------------------- |\n| [**Documentation server**](/apps/docs-vectorize)               | Get up to date reference information on Cloudflare ",
+    "quality_score": 60
+  },
+  "enriched_at": "2025-11-17T17:52:05.709438"
 }

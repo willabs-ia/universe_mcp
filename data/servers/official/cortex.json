@@ -7,10 +7,22 @@
   "weekly_metric": null,
   "release_date": "Jul 23, 2025",
   "url": "https://www.pulsemcp.com/servers/cortex",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/cortexapps/cortex-mcp",
+  "categories": [
+    "api",
+    "search",
+    "monitoring",
+    "testing",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:00.609515",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 5,
+    "readme_excerpt": "## Cortex MCP Overview\n\n>[!NOTE]\n>**Research Preview**\n>\n>Not seeing the results you expect? This is an early version of the Cortex MCP. Please send feedback and bug reports to Cortex Customer Engineering.\n\nCortex MCP is a Model Context Protocol server that provides access to the Cortex API. It uses relevant context from your workspace, ensuring awareness of your system's structure when answering your questions.\n\nYou can query information in natural language, powering faster decisions and efficient processes. For example:\n\n- Who is the right person to handle an incident with backend-server?\n- Show me the services that belong to the platform engineering team\n- We're having an incident with backend-server, give me a summary of information to help handle the incident\n\n## Requirements\n\nBefore getting started, you'll need:\n\n- **MCP Client**: Claude Desktop or other MCP-compatible client\n- **Cortex Personal Access Token**: [Create a token](https://docs.cortex.io/settings/api-keys/personal-tokens) in your Cortex workspace settings.\n\n## Installation\n\n>[!NOTE]\n>**Docker Required**\n>\n>Make sure Docker is installed and running on your system before proceeding with the installation.\n\nThen configure your MCP client. We've tested this with Claude Desktop, and Cursor, but it should work with any MCP-compatible client.\n\nIf you are a self-managed Cortex customer, you must also set `CORTEX_API_BASE_URL=https://` alongside the `CORTEX_API_TOKEN` variable. See [the docs](https://docs.cortex.io/g",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T17:53:13.736047"
 }

@@ -7,10 +7,24 @@
   "weekly_metric": null,
   "release_date": "Apr 8, 2025",
   "url": "https://www.pulsemcp.com/servers/confluentinc-confluent-cloud",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/confluentinc/mcp-confluent",
+  "categories": [
+    "api",
+    "ai",
+    "cloud",
+    "filesystem",
+    "database",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:34.377254",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 118,
+    "runtime": "Node.js",
+    "readme_excerpt": "# mcp-confluent\n\nAn MCP server implementation that enables AI assistants to interact with Confluent Cloud REST APIs. This server allows AI tools like Claude Desktop and Goose CLI to manage Kafka topics, connectors, and Flink SQL statements through natural language interactions.\n\n<a href=\"https://glama.ai/mcp/servers/@confluentinc/mcp-confluent\">\n  <img width=\"380\" height=\"200\" src=\"https://glama.ai/mcp/servers/@confluentinc/mcp-confluent/badge\" alt=\"mcp-confluent MCP server\" />\n</a>\n\n[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/confluentinc/mcp-confluent)\n\n## Demo\n\n### Goose CLI\n\n![Goose CLI Demo](assets/goose-cli-demo.gif)\n\n### Claude Desktop\n\n![Claude Desktop Demo](assets/claude-desktop-demo.gif)\n\n## Table of Contents\n\n- [mcp-confluent](#mcp-confluent)\n  - [Demo](#demo)\n    - [Goose CLI](#goose-cli)\n    - [Claude Desktop](#claude-desktop)\n  - [Table of Contents](#table-of-contents)\n  - [User Guide](#user-guide)\n    - [Getting Started](#getting-started)\n    - [Configuration](#configuration)\n      - [Prerequisites \\& Setup for Tableflow Commands](#prerequisites--setup-for-tableflow-commands)\n    - [Environment Variables Reference](#environment-variables-reference)\n    - [Usage](#usage)\n    - [Configuring Claude Desktop](#configuring-claude-desktop)\n    - [Configuring Goose CLI](#configuring-goose-cli)\n    - [Configuring Gemini CLI](#configuring-gemini-cli)\n    - [mcp-confluent CLI Usage](#mcp-confluent-cli-usage)\n      - [Basic Usage](#basic-usage)\n ",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T17:52:56.457452"
 }

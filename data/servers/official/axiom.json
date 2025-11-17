@@ -7,10 +7,24 @@
   "weekly_metric": null,
   "release_date": "Mar 21, 2025",
   "url": "https://www.pulsemcp.com/servers/axiom",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/zed-extensions/mcp-server-axiom",
+  "categories": [
+    "api",
+    "monitoring",
+    "filesystem",
+    "git",
+    "ai",
+    "data",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:34.883027",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 4,
+    "readme_excerpt": "# Axiom MCP Server\n\nA Zed extension for the [Axiom MCP server](https://github.com/axiomhq/mcp-server-axiom).\n\n## Configuration\n\nTo configure the Axiom MCP server, create a [`config`.txt file](https://github.com/axiomhq/mcp-server-axiom/blob/master/README.md#config-file-example-configtxt) somewhere on your system.\n\nAt a minimum it should contain your Axiom API token:\n\n```\ntoken xaat-your-token\n```\n\nThen in your Zed `settings.json`, add the path to the `config.txt` file to your settings as the `config_path`:\n\n```json\n\"context_servers\": {\n  \"mcp-server-axiom\": {\n    \"settings\": {\n      \"config_path\": \"/path/to/config.txt\"\n    }\n  }\n}\n```\n",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T17:48:52.538043"
 }

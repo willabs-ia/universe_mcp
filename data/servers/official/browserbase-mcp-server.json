@@ -10,10 +10,26 @@
   },
   "release_date": "Dec 5, 2024",
   "url": "https://www.pulsemcp.com/servers/browserbase-mcp-server",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/browserbase/mcp-server-browserbase",
+  "categories": [
+    "browser",
+    "api",
+    "workflow",
+    "cloud",
+    "git",
+    "ai",
+    "data",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:13.799128",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 2800,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Browserbase MCP Server\n\n[![smithery badge](https://smithery.ai/badge/@browserbasehq/mcp-browserbase)](https://smithery.ai/server/@browserbasehq/mcp-browserbase)\n\n![cover](assets/cover.png)\n\n[The Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction) is an open protocol that enables seamless integration between LLM applications and external data sources and tools. Whether you're building an AI-powered IDE, enhancing a chat interface, or creating custom AI workflows, MCP provides a standardized way to connect LLMs with the context they need.\n\nThis server provides cloud browser automation capabilities using [Browserbase](https://www.browserbase.com/) and [Stagehand](https://github.com/browserbase/stagehand). It enables LLMs to interact with web pages, take screenshots, extract information, and perform automated actions with atomic precision.\n\n## What's New in Stagehand v3\n\nPowered by [Stagehand v3.0](https://github.com/browserbase/stagehand), this MCP server now includes:\n\n- **20-40% Faster Performance**: Speed improvements across all core operations (`act`, `extract`, `observe`) through automatic caching\n- **Enhanced Extraction**: Targeted extraction and observation across iframes and shadow roots\n- **Improved Schemas**: Streamlined extract schemas for more intuitive data extraction\n- **Advanced Selector Support**: CSS selector support with improved element targeting\n- **Multi-Browser Support**: Compatible with Playwright, Puppeteer, and Patchright\n- **Ne",
+    "quality_score": 60
+  },
+  "enriched_at": "2025-11-17T17:50:13.818493"
 }

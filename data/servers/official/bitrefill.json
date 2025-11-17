@@ -10,10 +10,23 @@
   },
   "release_date": "Mar 13, 2025",
   "url": "https://www.pulsemcp.com/servers/bitrefill",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/bitrefill/bitrefill-mcp-server",
+  "categories": [
+    "api",
+    "search",
+    "monitoring",
+    "security",
+    "ai",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:48.031810",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 6,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Bitrefill MCP Server\n[![smithery badge](https://smithery.ai/badge/@bitrefill/bitrefill-mcp-server)](https://smithery.ai/server/@bitrefill/bitrefill-mcp-server)\n\nA TypeScript-based MCP server that provides access to Bitrefill services, allowing you to search for gift cards, mobile topups, and more. This server implements the Model Context Protocol to expose Bitrefill functionality to AI assistants.\n\n## How It Works\n\nThe server operates using the Model Context Protocol (MCP) to communicate with Claude and similar AI assistants. It:\n\n1. Runs as a standalone process using stdio for communication\n2. Registers resources and tools for accessing Bitrefill services\n3. Interfaces with the Bitrefill API to provide product search and details\n4. Returns structured JSON responses that can be processed by AI assistants\n\n### Architecture\n\nThe app server follows this architecture:\n\n```\nsrc/\n├── index.ts                # Main entry point\n├── constants/              # Static data\n│   ├── categories.ts       # Product categories\n│   └── payment_methods.ts  # Payment methods\n├── handlers/               # MCP request handlers\n│   ├── resources.ts        # Resource endpoints\n│   └── tools.ts            # Tool implementations\n├── schemas/                # Data validation schemas\n│   ├── detail.ts           # Product detail response types\n│   ├── invoice.ts          # Invoice schemas\n│   ├── misc.ts             # Miscellaneous schemas\n│   ├── order.ts            # Order schemas\n│   └── search.ts   ",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T17:49:28.664257"
 }

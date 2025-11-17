@@ -10,10 +10,27 @@
   },
   "release_date": "Nov 2, 2025",
   "url": "https://www.pulsemcp.com/servers/breez-lightning",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/breez/breez-mcp",
+  "categories": [
+    "api",
+    "workflow",
+    "monitoring",
+    "testing",
+    "filesystem",
+    "git",
+    "ai",
+    "data",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:04.074238",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 5,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Breez MCP Server — FastMCP Implementation\n\nA unified MCP server that exposes Lightning functionality through the Breez SDK (Spark implementation) using FastMCP. Supports both stdio and HTTP transport modes.\n\n## Prerequisites\n\n- Python 3.11+ (for local development or `uvx`)\n- [Docker](https://docs.docker.com/get-docker/) (optional, for container workflows)\n- [uv](https://github.com/astral-sh/uv) (optional, for ephemeral environments)\n- Breez API key which you can request [here](https://breez.technology/request-api-key/#contact-us-form-sdk)\n\n## Configure Credentials\n\n```bash\ncp .env.example .env\n```\n\nEdit `.env` with your secrets. Required variables:\n\n| Variable | Required | Default | Purpose |\n|----------|----------|---------|---------|\n| `BREEZ_API_KEY` | ✅ | – | Breez Spark API key |\n| `BREEZ_MNEMONIC` | ✅ | – | 12-word mnemonic controlling the wallet |\n| `BREEZ_NETWORK` | ❌ | `mainnet` | Set to `testnet` for sandbox usage |\n| `BREEZ_DATA_DIR` | ❌ | `./data` | Wallet storage directory |\n| `BREEZ_TRANSPORT_MODE` | ❌ | `stdio` | Transport mode: `stdio`, `http`, or `asgi` |\n| `BREEZ_HTTP_HOST` | ❌ | `0.0.0.0` | HTTP server host (HTTP mode only) |\n| `BREEZ_HTTP_PORT` | ❌ | `8000` | HTTP server port (HTTP mode only) |\n| `BREEZ_HTTP_PATH` | ❌ | `/mcp` | HTTP endpoint path (HTTP mode only) |\n\n## Run the Server\n\nChoose the runtime that transport mode that fits your workflow.\n\n### STDIO Mode (Default for MCP clients)\n\nFor use with Claude Desktop and other MCP clients:\n\n```bash\n# Lo",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T17:50:00.703955"
 }

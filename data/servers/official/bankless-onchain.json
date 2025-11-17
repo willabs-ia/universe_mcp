@@ -10,10 +10,23 @@
   },
   "release_date": "Mar 17, 2025",
   "url": "https://www.pulsemcp.com/servers/bankless-onchain",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/bankless/onchain-mcp",
+  "categories": [
+    "api",
+    "monitoring",
+    "git",
+    "ai",
+    "data",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:34.943040",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 70,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Bankless Onchain MCP Server\n\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\n![Version](https://img.shields.io/badge/version-0.6.2-blue)\n\nMCP (Model Context Protocol) server for blockchain data interaction through the Bankless API.\n\n## Overview\n\nThe Bankless Onchain MCP Server provides a framework for interacting with on-chain data via the Bankless API. It implements the Model Context Protocol (MCP) to allow AI models to access blockchain state and event data in a structured way.\n\n\nhttps://github.com/user-attachments/assets/95732dff-ae5f-45a6-928a-1ae17c0ddf9d\n\n\n## Features\n\nThe server provides the following onchain data operations:\n\n### Contract Operations\n\n- **Read Contract State** (`read_contract`): Read state from smart contracts on various blockchain networks.\n    - Parameters: network, contract address, method, inputs, outputs\n    - Returns: Contract call results with typed values\n\n- **Get Proxy** (`get_proxy`): Retrieve proxy implementation contract addresses.\n    - Parameters: network, contract address\n    - Returns: Implementation contract address\n\n- **Get ABI** (`get_abi`): Fetch the ABI (Application Binary Interface) for a contract.\n    - Parameters: network, contract address\n    - Returns: Contract ABI in JSON format\n\n- **Get Source** (`get_source`): Retrieve the source code for a verified contract.\n    - Parameters: network, contract address\n    - Returns: Source code, ABI, compiler version, and other ",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T17:49:15.799450"
 }

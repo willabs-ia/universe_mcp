@@ -10,10 +10,45 @@
   },
   "release_date": "Mar 17, 2025",
   "url": "https://www.pulsemcp.com/servers/chroma",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/chroma-core/chroma-mcp",
+  "categories": [
+    "api",
+    "search",
+    "monitoring",
+    "ai",
+    "testing",
+    "filesystem",
+    "git",
+    "database",
+    "data",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:20.287481",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 422,
+    "capabilities": [
+      "Get collection information and statistics",
+      "Configure HNSW parameters for optimized vector search",
+      "Cloud client for Chroma Cloud integration (automatically connects to api.trychroma.com)",
+      "Advanced filtering using metadata and document content",
+      "Retrieve documents by IDs or filters",
+      "List all collections with pagination support",
+      "Add documents with optional metadata and custom IDs",
+      "**Flexible Client Types**",
+      "Full text search capabilities",
+      "HTTP client for self-hosted Chroma instances",
+      "**Document Operations**",
+      "Ephemeral (in-memory) for testing and development",
+      "Create, modify, and delete collections",
+      "Query documents using semantic search",
+      "Select embedding functions when creating collections"
+    ],
+    "runtime": "Python",
+    "readme_excerpt": "<p align=\"center\">\n  <a href=\"https://trychroma.com\"><img src=\"https://user-images.githubusercontent.com/891664/227103090-6624bf7d-9524-4e05-9d2c-c28d5d451481.png\" alt=\"Chroma logo\"></a>\n</p>\n\n<p align=\"center\">\n    <b>Chroma - the open-source embedding database</b>. <br />\n    The fastest way to build Python or JavaScript LLM apps with memory!\n</p>\n\n<p align=\"center\">\n  <a href=\"https://discord.gg/MMeYNTmh3x\" target=\"_blank\">\n      <img src=\"https://img.shields.io/discord/1073293645303795742?cacheSeconds=3600\" alt=\"Discord\">\n  </a> |\n  <a href=\"https://github.com/chroma-core/chroma/blob/master/LICENSE\" target=\"_blank\">\n      <img src=\"https://img.shields.io/static/v1?label=license&message=Apache 2.0&color=white\" alt=\"License\">\n  </a> |\n  <a href=\"https://docs.trychroma.com/\" target=\"_blank\">\n      Docs\n  </a> |\n  <a href=\"https://www.trychroma.com/\" target=\"_blank\">\n      Homepage\n  </a>\n</p>\n\n# Chroma MCP Server\n\n[![smithery badge](https://smithery.ai/badge/@chroma-core/chroma-mcp)](https://smithery.ai/server/@chroma-core/chroma-mcp)\n\n[The Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction) is an open protocol designed for effortless integration between LLM applications and external data sources or tools, offering a standardized framework to seamlessly provide LLMs with the context they require.\n\nThis server provides data retrieval capabilities powered by Chroma, enabling AI models to create collections over generated data and user inputs, and retrie",
+    "quality_score": 65
+  },
+  "enriched_at": "2025-11-17T17:51:18.511781"
 }

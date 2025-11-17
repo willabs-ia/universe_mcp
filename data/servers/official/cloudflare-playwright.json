@@ -10,10 +10,25 @@
   },
   "release_date": "Apr 18, 2025",
   "url": "https://www.pulsemcp.com/servers/cloudflare-playwright",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/cloudflare/playwright-mcp",
+  "categories": [
+    "browser",
+    "api",
+    "workflow",
+    "cloud",
+    "testing",
+    "git",
+    "ai",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:13.797784",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 198,
+    "readme_excerpt": "## Cloudflare Playwright MCP\n\n[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/cloudflare/playwright-mcp/tree/main/cloudflare/example)\n\n### Overview\n\nThis project leverages Playwright for automated browser testing and integrates with Cloudflare Workers, [Browser Rendering](https://developers.cloudflare.com/browser-rendering/) and [`@cloudflare/playwright`](https://github.com/cloudflare/playwright) for deployment.\n\n### Build and Deploy\n\nFollow these steps to set up and deploy the project:\n\n1. Install dependencies:\n```bash\nnpm ci\n```\n\n2. Build:\n```bash\ncd cloudflare\nnpm run build\n```\n\n3. Deploy to Cloudflare Workers:\n\n```bash\ncd cloudflare/example\nnpm ci\nnpx wrangler deploy\n```\n\n### Use with Cloudflare AI Playground\n\n![alt text](docs/imgs/playground-ai-screenshot.png)\n\n[Cloudflare playground AI](https://playground.ai.cloudflare.com/) is a great way to test MCP servers using LLM models available in Workers AI.\n\n- Navigate to https://playground.ai.cloudflare.com/\n- Ensure model is set to `llama-3.3-70b-instruct-fp8-fast`\n- In **MCP Servers**, set **URL** to `https://[my-mcp-url].workers.dev/sse`\n- Click **Connect**\n- Status should update to **Connected** and it should list 14 available tools\n\nYou can now start to interact with the model, and it will run necessary tools to accomplish what was requested.\n\n> [!TIP]\n> For best results, give simple instructions consisting of one single action, e. g., ",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T17:52:18.186434"
 }

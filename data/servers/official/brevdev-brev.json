@@ -7,10 +7,26 @@
   "weekly_metric": null,
   "release_date": "Jan 8, 2025",
   "url": "https://www.pulsemcp.com/servers/brevdev-brev",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/brevdev/brev-mcp",
+  "categories": [
+    "api",
+    "monitoring",
+    "cloud",
+    "filesystem",
+    "git",
+    "ai",
+    "data",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:44.328036",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 5,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Brev MCP server\n\nThis is a MCP server implementation for Brev.\n\n## Configuration\n\nThe MCP server uses the Brev CLI's API access token and currently set org. \n\nFollow the [Brev documentation](https://www.brev.dev/docs/reference/brev-cli) to download the CLI and login if you haven't already.\n\nIf you want to switch your Brev org, run `brev set <org-name>`\n\nThe CLI access token expires every hour. If you have any 403 errors, simply run `brev ls` to refresh the access token.\n\n## Quickstart\n\n### Setup repository locally\n\n`git clone git@github.com:brevdev/brev-mcp.git`\n\n### Install uv\n\nFollow the [uv installation guide](https://docs.astral.sh/uv/getting-started/installation/)\n\n#### Claude Desktop\n\nOn MacOS: `~/Library/Application\\ Support/Claude/claude_desktop_config.json`\nOn Windows: `%APPDATA%/Claude/claude_desktop_config.json`\n\nAdd the following to your `claude_desktop_config.json`:\n\n<details>\n  <summary>Development/Unpublished Servers Configuration</summary>\n\n  ```json\n  \"mcpServers\": {\n    \"brev_mcp\": {\n      \"command\": \"uv\",\n      \"args\": [\n        \"--directory\",\n        \"<path-to-repo>\",\n        \"run\",\n        \"brev-mcp\"\n      ]\n    }\n  }\n  ```\n</details>\n\n## Development\n\n### Building and Publishing\n\nTo prepare the package for distribution:\n\n1. Sync dependencies and update lockfile:\n```bash\nuv sync\n```\n\n2. Build package distributions:\n```bash\nuv build\n```\n\nThis will create source and wheel distributions in the `dist/` directory.\n\n3. Publish to PyPI:\n```bash\nuv publish\n```\n\n",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T17:50:03.258321"
 }

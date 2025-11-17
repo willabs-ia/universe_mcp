@@ -10,10 +10,24 @@
   },
   "release_date": "Jul 31, 2025",
   "url": "https://www.pulsemcp.com/servers/cfm-tips-aws-cost-optimization",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/aws-samples/sample-cfm-tips-mcp",
+  "categories": [
+    "monitoring",
+    "ai",
+    "cloud",
+    "testing",
+    "filesystem",
+    "database",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:01.856575",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 15,
+    "runtime": "Python",
+    "readme_excerpt": "# CFM Tips - Cost Optimization MCP Server\n\nA comprehensive Model Context Protocol (MCP) server for AWS cost analysis and optimization recommendations, designed to work seamlessly with Amazon Q CLI and other MCP-compatible clients.\n\n## ✅ Features\n\n### Core AWS Services Integration\n- **Cost Explorer** - Retrieve cost data and usage metrics\n- **Cost Optimization Hub** - Get AWS cost optimization recommendations\n- **Compute Optimizer** - Right-sizing recommendations for compute resources\n- **Trusted Advisor** - Cost optimization checks and recommendations\n- **Performance Insights** - RDS performance metrics and analysis\n\n### Cost Optimization Playbooks\n- 🔧 **EC2 Right Sizing** - Identify underutilized EC2 instances\n- 💾 **EBS Optimization** - Find unused and underutilized volumes\n- 🗄️ **RDS Optimization** - Identify idle and underutilized databases\n- ⚡ **Lambda Optimization** - Find overprovisioned and unused functions\n-  � ***CloudTrail Optimization** - Analyze and optimize CloudTrail configurations\n- 📊 **Comprehensive Analysis** - Multi-service cost analysis\n\n### Advanced Features\n- **Real CloudWatch Metrics** - Uses actual AWS metrics for analysis\n- **Multiple Output Formats** - JSON and Markdown report generation\n- **Cost Calculations** - Estimated savings and cost breakdowns\n- **Actionable Recommendations** - Priority-based optimization suggestions\n\n## 📁 Project Structure\n\n```\nsample-cfm-tips-mcp/\n├── playbooks/                            # CFM Tips optimization playbooks eng",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T17:51:08.993875"
 }

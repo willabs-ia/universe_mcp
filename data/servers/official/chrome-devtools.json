@@ -10,10 +10,27 @@
   },
   "release_date": "Sep 23, 2025",
   "url": "https://www.pulsemcp.com/servers/chrome-devtools",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/chromedevtools/chrome-devtools-mcp",
+  "categories": [
+    "browser",
+    "api",
+    "monitoring",
+    "workflow",
+    "testing",
+    "git",
+    "ai",
+    "data",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:13.818623",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 14800,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Chrome DevTools MCP\n\n[![npm chrome-devtools-mcp package](https://img.shields.io/npm/v/chrome-devtools-mcp.svg)](https://npmjs.org/package/chrome-devtools-mcp)\n\n`chrome-devtools-mcp` lets your coding agent (such as Gemini, Claude, Cursor or Copilot)\ncontrol and inspect a live Chrome browser. It acts as a Model-Context-Protocol\n(MCP) server, giving your AI coding assistant access to the full power of\nChrome DevTools for reliable automation, in-depth debugging, and performance analysis.\n\n## [Tool reference](./docs/tool-reference.md) | [Changelog](./CHANGELOG.md) | [Contributing](./CONTRIBUTING.md) | [Troubleshooting](./docs/troubleshooting.md)\n\n## Key features\n\n- **Get performance insights**: Uses [Chrome\n  DevTools](https://github.com/ChromeDevTools/devtools-frontend) to record\n  traces and extract actionable performance insights.\n- **Advanced browser debugging**: Analyze network requests, take screenshots and\n  check the browser console.\n- **Reliable automation**. Uses\n  [puppeteer](https://github.com/puppeteer/puppeteer) to automate actions in\n  Chrome and automatically wait for action results.\n\n## Disclaimers\n\n`chrome-devtools-mcp` exposes content of the browser instance to the MCP clients\nallowing them to inspect, debug, and modify any data in the browser or DevTools.\nAvoid sharing sensitive or personal information that you don't want to share with\nMCP clients.\n\n## Requirements\n\n- [Node.js](https://nodejs.org/) v20.19 or a newer [latest maintenance LTS](https://github.com",
+    "quality_score": 65
+  },
+  "enriched_at": "2025-11-17T17:51:21.412893"
 }

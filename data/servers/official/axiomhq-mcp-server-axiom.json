@@ -7,10 +7,26 @@
   "weekly_metric": null,
   "release_date": "Dec 5, 2024",
   "url": "https://www.pulsemcp.com/servers/axiomhq-mcp-server-axiom",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/axiomhq/mcp-server-axiom",
+  "categories": [
+    "api",
+    "monitoring",
+    "security",
+    "testing",
+    "filesystem",
+    "git",
+    "ai",
+    "data",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:31.513224",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 57,
+    "readme_excerpt": "\n# [DEPRECATED] mcp-server-axiom\n\n---\n\n### ⚠️ DEPRECATION NOTICE \n\n**This repository is deprecated and no longer maintained.**  \nPlease use the official Axiom MCP Server at [https://mcp.axiom.co](https://mcp.axiom.co) instead.\n\n---\n\n## Overview\nA [Model Context Protocol](https://modelcontextprotocol.io/) server implementation for [Axiom](https://axiom.co) that enables AI agents to query your data using Axiom Processing Language (APL).\n\n## Status\n\nWorks with Claude desktop app. Implements six MCP [tools](https://modelcontextprotocol.io/docs/concepts/tools):\n\n- queryApl: Execute APL queries against Axiom datasets\n- listDatasets: List available Axiom datasets\n- getDatasetSchema: Get dataset schema\n- getSavedQueries: Retrieve saved/starred APL queries\n- getMonitors: List monitoring configurations\n- getMonitorsHistory: Get monitor execution history\n\n**Note:** All tools require an API token for authentication. Use your API token as the `token` parameter.\n\nNo support for MCP [resources](https://modelcontextprotocol.io/docs/concepts/resources) or [prompts](https://modelcontextprotocol.io/docs/concepts/prompts) yet.\n\n## Installation\n\n### Releases\n\nDownload the latest built binary from the [releases page](https://github.com/axiomhq/axiom-mcp/releases).\n\n### Source\n\n```bash\ngo install github.com/axiomhq/axiom-mcp@latest\n```\n\n## Configuration\n\nConfigure using one of these methods:\n\n### Config File Example (config.txt):\n```txt\ntoken xaat-your-api-token\nurl https://api.axiom.co\nquery-rate ",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T17:48:57.761867"
 }

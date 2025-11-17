@@ -10,10 +10,14 @@
   },
   "release_date": "Mar 15, 2025",
   "url": "https://www.pulsemcp.com/servers/basicmachines-memory",
-  "source_url": null,
+  "source_url": "https://github.com/basicmachines-co",
   "categories": [],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:18.047816",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 2100,
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T17:49:21.192675"
 }

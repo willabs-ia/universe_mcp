@@ -7,10 +7,25 @@
   "weekly_metric": null,
   "release_date": "Feb 14, 2024",
   "url": "https://www.pulsemcp.com/servers/axiom-intelligence",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/axiomhq/docs",
+  "categories": [
+    "api",
+    "testing",
+    "filesystem",
+    "git",
+    "ai",
+    "data",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:28.885200",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 7,
+    "runtime": "Node.js",
+    "readme_excerpt": "Welcome to Axiom’s [documentation repo](https://github.com/axiomhq/axiom-co). It contains everything under the [axiom.co/docs](https://axiom.co/docs) subpath. It’s a collaborative space open to feedback and contributions.\n\nThe repo is based on the Mintlify framework and the content is in Markdown format. For more information, see [Mintlify documentation](https://mintlify.com/docs/text).\n\n## Setup\n\n1. Install the latest LTS version of [Node.js](https://nodejs.org/en/download/package-manager).\n1. Install [Vale](https://vale.sh/docs/install).\n1. Install [Mint CLI](https://mintlify.com/docs/installation).\n1. Fork this repo, and then clone it. For more information, see the [GitHub documentation](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project).\n1. Run the following in your terminal to sync the Vale style packages.\n\n    ```\n    vale sync\n    ```\n\nOptional: install the following VS Code extensions:\n- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)\n- [MDX](https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx)\n- [Vale VSCode](https://marketplace.visualstudio.com/items?itemName=ChrisChinchilla.vale-vscode)\n\n## Build locally\n\nRun the following in your terminal to build the documentation locally:\n\n```\nmint dev\n```\n\n## Check for broken links\n\nRun the following in your terminal to check for broken links:\n\n```\nmint broken-links\n```\n\n## Ensure consistent style\n\nRu",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T17:48:49.904747"
 }

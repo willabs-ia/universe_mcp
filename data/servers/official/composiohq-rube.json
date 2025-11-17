@@ -10,10 +10,25 @@
   },
   "release_date": "Aug 22, 2025",
   "url": "https://www.pulsemcp.com/servers/composiohq-rube",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/composiohq/rube",
+  "categories": [
+    "api",
+    "security",
+    "ai",
+    "testing",
+    "git",
+    "database",
+    "data",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:24.943150",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 279,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Rube MCP Server\n\n[Rube](https://rube.app) is a **Model‑Context‑Protocol (MCP) server** built on the Composio integration platform. It connects AI chat tools to more than **500 business and productivity applications** – things like Gmail, Slack, Notion, GitHub, Linear, Airtable, and many others. Once installed, you can ask your AI tool to perform everyday tasks (e.g. “send an email to the latest customer,” “create a Linear issue,” “update my Notion database,” or “post an update to Slack”) and Rube will securely talk to the relevant apps on your behalf. Instead of writing complex API integrations yourself, you just tell your AI assistant what you want to do.\n\n## Why Rube?\n\n- **Works everywhere** – Rube integrates with major AI clients like **Cursor**, **Claude Desktop**, **VS Code**, **Claude Code** and any custom MCP‑compatible client. You can switch between these clients and your integrations follow you.\n- **500+ tools out of the box** – Composio has connectors for hundreds of SaaS and internal apps; Rube exposes them to your AI so you can automate emails, tasks, spreadsheets, calendars, documents and more with a single server.\n- **Human‑friendly commands** – Rube translates plain‑English instructions into the correct API calls. A Slack‑like chat example on the site shows how Rube takes “Find my last 5 customers in Airtable” and “Post them to Slack” and handles the API requests under the hood.\n- **Team‑ready** – You can start alone and later invite teammates. A single Rube ",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T17:52:54.022825"
 }

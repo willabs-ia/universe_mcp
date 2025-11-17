@@ -7,10 +7,25 @@
   "weekly_metric": null,
   "release_date": "Apr 16, 2025",
   "url": "https://www.pulsemcp.com/servers/binalyze-air",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/binalyze/air-mcp",
+  "categories": [
+    "api",
+    "monitoring",
+    "security",
+    "filesystem",
+    "git",
+    "ai",
+    "data",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:19.283472",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 7,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Binalyze AIR MCP Server\n\n[![smithery badge](https://smithery.ai/badge/@binalyze/air-mcp)](https://smithery.ai/server/@binalyze/air-mcp)\n[![Node.js](https://img.shields.io/badge/Node.js-18+-green)](https://nodejs.org/)\n[![MCP](https://img.shields.io/badge/MCP-Protocol-blue)](https://modelcontextprotocol.ai/)\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\n\n<a href=\"https://glama.ai/mcp/servers/@binalyze/air-mcp\">\n  <img width=\"380\" height=\"200\" src=\"https://glama.ai/mcp/servers/@binalyze/air-mcp/badge\" alt=\"Binalyze AIR Server MCP server\" />\n</a>\n\n<p align=\"center\">\n  <img src=\"./src/assets/bi-logo.png\" alt=\"AIR Logo\" width=\"180\"/>\n</p>\n\nA Node.js server implementing **Model Context Protocol (MCP)** for Binalyze AIR, enabling natural language interaction with AIR's digital forensics and incident response capabilities.\n\n## ✨ Features\n\n- **Asset Management** - List assets in your organization.\n- **Asset Details** - Get detailed information about a specific asset by its ID.\n- **Asset Tasks** - Get all tasks associated with a specific asset by its ID.\n- **Acquisition Profiles** - List acquisition profiles.\n- **Acquisition Tasks** - Assign evidence acquisition tasks to endpoints.\n- **Image Acquisition Tasks** - Assign disk image acquisition tasks to endpoints.\n- **Baseline Acquisition** - Acquire baseline data from specific endpoints to establish a reference point.\n- **Compare Baseline** - Compare multiple baseline acqui",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T17:49:23.669551"
 }

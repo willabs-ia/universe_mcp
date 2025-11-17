@@ -10,10 +10,24 @@
   },
   "release_date": "Jan 8, 2025",
   "url": "https://www.pulsemcp.com/servers/cloudflare-workers",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/cloudflare/workers-mcp",
+  "categories": [
+    "api",
+    "monitoring",
+    "cloud",
+    "testing",
+    "git",
+    "ai",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:18.074814",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 609,
+    "runtime": "Node.js",
+    "readme_excerpt": "# `workers-mcp`\n\n> **Talk to a Cloudflare Worker from Claude Desktop!**\n\n> [!WARNING]  \n> You should start [here](https://developers.cloudflare.com/agents/guides/remote-mcp-server/) instead — and build a **remote** MCP server\n>\n> You can connect to remote MCP servers from Claude Desktop, Cursor, and other clients [using mcp-remote](https://developers.cloudflare.com/agents/guides/test-remote-mcp-server/).\n\n### What is `workers-mcp`?\n\nThis package provides both the CLI tooling and the in-Worker logic to connect Claude Desktop (or any [MCP Client](https://modelcontextprotocol.io/)) to a Cloudflare Worker on your account, so you can customise it to suit your needs. It works via a build step that can translate TypeScript methods of your Worker like this:\n\n```ts\nexport class ExampleWorkerMCP extends WorkerEntrypoint<Env> {\n  /**\n   * Generates a random number. This is extra random because it had to travel all the way to\n   * your nearest Cloudflare PoP to be calculated which... something something lava lamps?\n   *\n   * @return {string} A message containing a super duper random number\n   * */\n  async getRandomNumber() {\n    return `Your random number is ${Math.random()}`\n  }\n  \n  // ...etc\n}\n```\n\n...into MCP tools that a local Node.js server can expose to MCP clients. The Node.js server acts as a proxy, handling stdio transport locally, and calling the relevant method of your Worker running on Cloudflare. This allows you to expose any function or API in your app, or any service in [",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T17:52:27.774848"
 }

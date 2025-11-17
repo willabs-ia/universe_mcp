@@ -10,10 +10,22 @@
   },
   "release_date": "Mar 21, 2025",
   "url": "https://www.pulsemcp.com/servers/browsercat",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/browsercat/browsercat-mcp-server",
+  "categories": [
+    "browser",
+    "workflow",
+    "monitoring",
+    "cloud",
+    "ai",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:54.756487",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 4,
+    "readme_excerpt": "# BrowserCat MCP Server\n\nA Model Context Protocol server that provides browser automation capabilities using BrowserCat's cloud browser service. This server enables LLMs to interact with web pages, take screenshots, and execute JavaScript in a real browser environment without needing to install browsers locally.\n\n## Components\n\n### Tools\n\n- **browsercat_navigate**\n    - Navigate to any URL in the browser\n    - Input: `url` (string)\n- **browsercat_screenshot**\n    - Capture screenshots of the entire page or specific elements\n    - Inputs:\n        - `name` (string, required): Name for the screenshot\n        - `selector` (string, optional): CSS selector for element to screenshot\n        - `width` (number, optional, default: 800): Screenshot width\n        - `height` (number, optional, default: 600): Screenshot height\n- **browsercat_click**\n    - Click elements on the page\n    - Input: `selector` (string): CSS selector for element to click\n- **browsercat_hover**\n    - Hover elements on the page\n    - Input: `selector` (string): CSS selector for element to hover\n- **browsercat_fill**\n    - Fill out input fields\n    - Inputs:\n        - `selector` (string): CSS selector for input field\n        - `value` (string): Value to fill\n- **browsercat_select**\n    - Select an option from a dropdown menu\n    - Inputs:\n        - `selector` (string): CSS selector for select element\n        - `value` (string): Value to select\n- **browsercat_evaluate**\n    - Execute JavaScript in the browser consol",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T17:50:16.696102"
 }

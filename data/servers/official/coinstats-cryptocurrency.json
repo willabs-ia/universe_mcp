@@ -7,10 +7,20 @@
   "weekly_metric": null,
   "release_date": "May 10, 2025",
   "url": "https://www.pulsemcp.com/servers/coinstats-cryptocurrency",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/coinstatshq/coinstats-mcp",
+  "categories": [
+    "ai",
+    "data",
+    "api",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:32.256056",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 10,
+    "readme_excerpt": "# CoinStats MCP Server\n\nMCP Server for the CoinStats API. Provides access to cryptocurrency market data, portfolio tracking, and news.\n\n<a href=\"https://glama.ai/mcp/servers/@CoinStatsHQ/coinstats-mcp\">\n  <img width=\"380\" height=\"200\" src=\"https://glama.ai/mcp/servers/@CoinStatsHQ/coinstats-mcp/badge\" alt=\"CoinStats Server MCP server\" />\n</a>\n\n## Setup\n\n### API Key\n\nYou need a CoinStats API key. Obtain one from the [CoinStats API Dashboard](https://openapi.coinstats.app).\nRead [API docs](https://coinstats.app/api-docs).\n\n\n### Usage with MCP clients\n\nAdd the following to your client configuration:\n\n#### Cursor\n\n[![Install MCP Server](https://cursor.com/deeplink/mcp-install-dark.svg)](https://cursor.com/en/install-mcp?name=coinstats-mcp&config=eyJjb21tYW5kIjoibnB4IC15IEBjb2luc3RhdHMvY29pbnN0YXRzLW1jcCIsImVudiI6eyJDT0lOU1RBVFNfQVBJX0tFWSI6IiJ9fQ%3D%3D)\n\n#### NPX\n\n```json\n{\n  \"mcpServers\": {\n    \"coinstats-mcp\": {\n      \"command\": \"npx\",\n      \"args\": [\n        \"-y\",\n        \"@coinstats/coinstats-mcp\"\n      ],\n      \"env\": {\n        \"COINSTATS_API_KEY\": \"<YOUR_API_KEY>\"\n      }\n    }\n  }\n}\n```\n\nReplace `<YOUR_API_KEY>` with your actual CoinStats API key.\n\n#### Docker\n\n```json\n{\n  \"mcpServers\": {\n    \"coinstats-mcp\": {\n      \"command\": \"docker\",\n      \"args\": [\n        \"run\",\n        \"-i\",\n        \"--rm\",\n        \"-e\",\n        \"COINSTATS_API_KEY\",\n        \"coinstats/coinstats-mcp\"\n      ],\n      \"env\": {\n        \"COINSTATS_API_KEY\": \"<YOUR_API_KEY>\"\n      }\n    }\n  }\n}\n```\n\nReplac",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T17:52:51.497050"
 }

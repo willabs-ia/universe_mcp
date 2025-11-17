@@ -7,10 +7,25 @@
   "weekly_metric": null,
   "release_date": "Mar 25, 2025",
   "url": "https://www.pulsemcp.com/servers/browserbase-browser-automation",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/xinzhongyouhai/mcp-server-browserbase",
+  "categories": [
+    "browser",
+    "api",
+    "monitoring",
+    "workflow",
+    "cloud",
+    "git",
+    "ai",
+    "data",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:18.551416",
-  "metadata": {}
+  "metadata": {
+    "readme_excerpt": "# Browserbase MCP Server\n\n![cover](assets/cover-mcp.png)\n\n[The Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction) is an open protocol that enables seamless integration between LLM applications and external data sources and tools. Whether you’re building an AI-powered IDE, enhancing a chat interface, or creating custom AI workflows, MCP provides a standardized way to connect LLMs with the context they need.\n\nThis server provides cloud browser automation capabilities using [Browserbase](https://www.browserbase.com/), [Puppeteer](https://pptr.dev/), and [Stagehand](https://github.com/browserbase/stagehand) (Coming Soon). This server enables LLMs to interact with web pages, take screenshots, and execute JavaScript in a cloud browser environment.\n\nTo learn to get started with Browserbase, check out ['browserbase/README.md'](./browserbase/README.md) or [Stagehand MCP](./stagehand/README.md).\n\n## Getting Started with available MCPs\n\n🌐 **Browserbase MCP** - Located in [`browserbase/`](./browserbase/)\n\n| Feature | Description |\n|---------|-------------|\n| Browser Automation | Control and orchestrate cloud browsers |\n| Data Extraction | Extract structured data from any webpage |\n| Console Monitoring | Track and analyze browser console logs |\n| Screenshots | Capture full-page and element screenshots |\n| JavaScript | Execute custom JS in the browser context |\n| Web Interaction | Navigate, click, and fill forms with ease |\n\n🤘 **Stagehand MCP** - Located in [`stage",
+    "quality_score": 35
+  },
+  "enriched_at": "2025-11-17T17:50:10.990769"
 }

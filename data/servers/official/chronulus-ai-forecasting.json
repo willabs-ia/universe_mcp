@@ -10,10 +10,24 @@
   },
   "release_date": "Mar 9, 2025",
   "url": "https://www.pulsemcp.com/servers/chronulus-ai-forecasting",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/chronulusai/chronulus-mcp",
+  "categories": [
+    "api",
+    "monitoring",
+    "filesystem",
+    "git",
+    "ai",
+    "data",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:14.971682",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 103,
+    "runtime": "Python",
+    "readme_excerpt": "<div align=\"center\">\n<img width=\"150px\" src=\"https://www.chronulus.com/brand-assets/chronulus-logo-blue-on-alpha-square.png\" alt=\"Chronulus AI\">\n    <h1 align=\"center\">MCP Server for Chronulus</h1>\n    <h3 align=\"center\">Chat with Chronulus AI Forecasting & Prediction Agents in Claude</h3>\n</div>\n\n\n\n\n### Quickstart: Claude for Desktop\n\n#### Install \n\nClaude for Desktop is currently available on macOS and Windows.\n\nInstall Claude for Desktop [here](https://claude.ai/download)\n\n#### Configuration\n\nFollow the general instructions [here](https://modelcontextprotocol.io/quickstart/user) to configure the Claude desktop client.\n\nYou can find your Claude config at one of the following locations:\n\n- macOS: `~/Library/Application Support/Claude/claude_desktop_config.json`\n- Windows: `%APPDATA%\\Claude\\claude_desktop_config.json`\n\nThen choose one of the following methods that best suits your needs and add it to your `claude_desktop_config.json`\n\n\n\n<details>\n<summary>Using pip</summary>\n\n(Option 1) Install release from PyPI\n\n```bash \npip install chronulus-mcp\n```\n\n\n(Option 2) Install from Github\n\n```bash \ngit clone https://github.com/ChronulusAI/chronulus-mcp.git\ncd chronulus-mcp\npip install .\n```\n\n\n\n```json \n{\n  \"mcpServers\": {\n    \"chronulus-agents\": {\n      \"command\": \"python\",\n      \"args\": [\"-m\", \"chronulus_mcp\"],\n      \"env\": {\n        \"CHRONULUS_API_KEY\": \"<YOUR_CHRONULUS_API_KEY>\"\n      }\n    }\n  }\n}\n```\n\nNote, if you get an error like \"MCP chronulus-agents: spawn python ENOENT\", ",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T17:51:26.190964"
 }

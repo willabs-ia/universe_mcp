@@ -7,10 +7,19 @@
   "weekly_metric": null,
   "release_date": "Mar 25, 2025",
   "url": "https://www.pulsemcp.com/servers/b12-website-generator",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/b12io/website-generator-mcp-server",
+  "categories": [
+    "ai",
+    "api"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:14.969087",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 3,
+    "runtime": "Node.js",
+    "readme_excerpt": "# @b12/website-generator-mcp-server\nB12's model context protocol server for generating websites with AI\n\n<a href=\"https://glama.ai/mcp/servers/@b12io/website-generator-mcp-server\">\n  <img width=\"380\" height=\"200\" src=\"https://glama.ai/mcp/servers/@b12io/website-generator-mcp-server/badge\" alt=\"Website Generator MCP server\" />\n</a>\n\n## Usage with Claude Desktop\n\n### Prerequisites\n\n-   NodeJS\n-   MCP Client (like Claude Desktop App)\n\n### Installation\n\nTo use this server with the Claude Desktop app, add the following configuration to the \"mcpServers\" section of your `claude_desktop_config.json`:\n\n```json\n{\n    \"mcpServers\": {\n        \"b12\": {\n            \"command\": \"npx\",\n            \"args\": [\"-y\", \"@b12/website-generator-mcp-server\"]\n        }\n    }\n}\n```\n****",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T17:49:08.325925"
 }

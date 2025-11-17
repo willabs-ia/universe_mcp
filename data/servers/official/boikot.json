@@ -10,10 +10,24 @@
   },
   "release_date": "Aug 10, 2025",
   "url": "https://www.pulsemcp.com/servers/boikot",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/boikot-xyz/boikot",
+  "categories": [
+    "api",
+    "security",
+    "ai",
+    "filesystem",
+    "git",
+    "database",
+    "data",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:33.542325",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 4,
+    "readme_excerpt": "# boikot 🙅‍♀️\n\nboikot is a community-led initiative to make data on company ethics transparent and accessible.\n\nWe are building a community-curated, transparent, freely accessible collection of corporate ethics records. By documenting ethical and unethical business practices, we aim to inform consumer choice, raise the cost of harmful business decisions, and incentivise companies to act responsibly in the public interest.\n\nAll of our services and data are offered free to the public under the terms of the GPL v3 licence. You can download our full companies dataset from the file called [`boikot.json`](https://raw.githubusercontent.com/boikot-xyz/boikot/main/boikot.json) above.\n\nThe main product being worked on is the [boikot.xyz](https://boikot.xyz) website which provides access to our data and tools to add new records to it. This is a react project in the `site` directory. There also some tools for collecting and summarising information in the `scripts` and `backend` directories.\n\n## MCP\n\nWe also have an MCP server that exposes a tool to lookup company ethics information. This is available from the URL `https://mcp.boikot.xyz/mcp` with no authentication needed. It provides one tool called `lookup_company_information` which takes one parameter `company_name` and returns information about the company's ethics.\n\n## the dataset\n\nthe [`boikot.json`](https://raw.githubusercontent.com/boikot-xyz/boikot/main/boikot.json) file is a database of the ethical and unethical practices of dif",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T17:49:48.471060"
 }

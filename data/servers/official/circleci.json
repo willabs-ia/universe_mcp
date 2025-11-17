@@ -7,10 +7,26 @@
   "weekly_metric": null,
   "release_date": "Apr 6, 2025",
   "url": "https://www.pulsemcp.com/servers/circleci",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/circleci-public/mcp-server-circleci",
+  "categories": [
+    "api",
+    "workflow",
+    "monitoring",
+    "testing",
+    "git",
+    "ai",
+    "data",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:10.280772",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 69,
+    "runtime": "Node.js",
+    "readme_excerpt": "# CircleCI MCP Server\n\n[![GitHub](https://img.shields.io/github/license/CircleCI-Public/mcp-server-circleci)](https://github.com/CircleCI-Public/mcp-server-circleci/blob/main/LICENSE)\n[![CircleCI](https://dl.circleci.com/status-badge/img/gh/CircleCI-Public/mcp-server-circleci/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/CircleCI-Public/mcp-server-circleci/tree/main)\n[![npm](https://img.shields.io/npm/v/@circleci/mcp-server-circleci?logo=npm)](https://www.npmjs.com/package/@circleci/mcp-server-circleci)\n\nModel Context Protocol (MCP) is a [new, standardized protocol](https://modelcontextprotocol.io/introduction) for managing context between large language models (LLMs) and external systems. In this repository, we provide an MCP Server for [CircleCI](https://circleci.com).\n\nThis lets you use Cursor IDE, Windsurf, Copilot, or any MCP supported Client, to use natural language to accomplish things with CircleCI, e.g.:\n\n- `Find the latest failed pipeline on my branch and get logs`\n  https://github.com/CircleCI-Public/mcp-server-circleci/wiki#circleci-mcp-server-with-cursor-ide\n\nhttps://github.com/user-attachments/assets/3c765985-8827-442a-a8dc-5069e01edb74\n\n## Requirements\n\n- CircleCI Personal API Token - you can generate one through the CircleCI. [Learn more](https://circleci.com/docs/managing-api-tokens/) or [click here](https://app.circleci.com/settings/user/tokens) for quick access.\n\nFor NPX installation:\n\n- pnpm package manager - [Learn more](https",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T17:51:28.800710"
 }

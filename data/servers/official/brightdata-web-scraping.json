@@ -10,10 +10,25 @@
   },
   "release_date": "Apr 15, 2025",
   "url": "https://www.pulsemcp.com/servers/brightdata-web-scraping",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/brightdata/brightdata-mcp",
+  "categories": [
+    "api",
+    "workflow",
+    "monitoring",
+    "git",
+    "ai",
+    "data",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:31.389596",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 1600,
+    "runtime": "Node.js",
+    "readme_excerpt": "<div align=\"center\">\n  <a href=\"https://brightdata.com/ai/mcp-server\">\n    <img src=\"https://github.com/user-attachments/assets/c21b3f7b-7ff1-40c3-b3d8-66706913d62f\" alt=\"Bright Data Logo\">\n  </a>\n\n  <h1>The Web MCP</h1>\n  \n  <p>\n    <strong>🌐 Give your AI real-time web superpowers</strong><br/>\n    <i>Seamlessly connect LLMs to the live web without getting blocked</i>\n  </p>\n\n  <p>\n    <a href=\"https://www.npmjs.com/package/@brightdata/mcp\">\n      <img src=\"https://img.shields.io/npm/v/@brightdata/mcp?style=for-the-badge&color=blue\" alt=\"npm version\"/>\n    </a>\n    <a href=\"https://www.npmjs.com/package/@brightdata/mcp\">\n      <img src=\"https://img.shields.io/npm/dw/@brightdata/mcp?style=for-the-badge&color=green\" alt=\"npm downloads\"/>\n    </a>\n    <a href=\"https://github.com/brightdata-com/brightdata-mcp/blob/main/LICENSE\">\n      <img src=\"https://img.shields.io/badge/license-MIT-purple?style=for-the-badge\" alt=\"License\"/>\n    </a>\n  </p>\n\n  <p>\n    <a href=\"#-quick-start\">Quick Start</a> •\n    <a href=\"#-features\">Features</a> •\n    <a href=\"#-pricing--modes\">Pricing</a> •\n    <a href=\"#-demos\">Demos</a> •\n    <a href=\"#-documentation\">Docs</a> •\n    <a href=\"#-support\">Support</a>\n  </p>\n\n  <div>\n    <h3>🎉 <strong>Free Tier Available!</strong> 🎉</h3>\n    <p><strong>5,000 requests/month FREE</strong> <br/>\n    <sub>Perfect for prototyping and everyday AI workflows</sub></p>\n  </div>\n</div>\n\n---\n\n## 🌟 Overview\n\n**The Web MCP** is your gateway to giving AI assistants true we",
+    "quality_score": 60
+  },
+  "enriched_at": "2025-11-17T17:50:05.959846"
 }

@@ -10,10 +10,22 @@
   },
   "release_date": "May 9, 2025",
   "url": "https://www.pulsemcp.com/servers/bnb-chain-blockchain",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/bnb-chain/bnbchain-mcp",
+  "categories": [
+    "api",
+    "testing",
+    "filesystem",
+    "ai",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:41.439426",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 44,
+    "runtime": "Node.js",
+    "readme_excerpt": "# BNBChain MCP (Model Context Protocol)\n\nA powerful toolkit for interacting with BNB Chain and other EVM-compatible networks through natural language processing and AI assistance.\n\n<a href=\"https://glama.ai/mcp/servers/@bnb-chain/bnbchain-mcp\">\n  <img width=\"380\" height=\"200\" src=\"https://glama.ai/mcp/servers/@bnb-chain/bnbchain-mcp/badge\" alt=\"bnbchain-mcp MCP server\" />\n</a>\n\n## Description\n\nBNBChain MCP is a Model Context Protocol implementation that enables seamless interaction with blockchain networks through AI-powered interfaces. It provides a comprehensive set of tools and resources for blockchain development, smart contract interaction, and network management.\n\n## Core Modules\n\nThe project is organized into several core modules:\n\n- **Blocks**: Query and manage blockchain blocks\n- **Contracts**: Interact with smart contracts\n- **Network**: Network information and management\n- **NFT**: NFT (ERC721/ERC1155) operations\n- **Tokens**: Token (ERC20) operations\n- **Transactions**: Transaction management\n- **Wallet**: Wallet operations and management\n- **Common**: Shared utilities and types\n- **Greenfield**: Support file management operations on Greenfield network including, uploading, downloading, and managing files and buckets\n- Additional features coming soon (Greenfield, Swap, Bridge, etc.)\n\n## Integration with Cursor\n\nTo connect to the MCP server from Cursor:\n\n1. Open Cursor and go to Settings (gear icon in the top right)\n2. Click on \"MCP\" in the left sidebar\n3. Click \"A",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T17:49:43.171373"
 }

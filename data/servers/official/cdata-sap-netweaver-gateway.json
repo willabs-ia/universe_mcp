@@ -7,10 +7,23 @@
   "weekly_metric": null,
   "release_date": "Jul 26, 2025",
   "url": "https://www.pulsemcp.com/servers/cdata-sap-netweaver-gateway",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/cdatasoftware/sap-netweaver-gateway-mcp-server-by-cdata",
+  "categories": [
+    "api",
+    "ai",
+    "filesystem",
+    "git",
+    "database",
+    "data",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:02.949673",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 1,
+    "readme_excerpt": "# sap-netweaver-gateway-mcp-server-by-cdata\nCData's Model Context Protocol (MCP) Server for SAP Netweaver Gateway\n\n:heavy_exclamation_mark: This project builds a read-only MCP server. For full read, write, update, delete, and action capabilities and a simplified setup, check out our [CData MCP Server for SAP Netweaver Gateway](https://www.cdata.com/drivers/sapgateway/download/mcp/). \n## Purpose\nWe created this read-only MCP Server to allow LLMs (like Claude Desktop) to query live data SAP Netweaver Gateway supported by the [CData JDBC Driver for SAP Netweaver Gateway](https://www.cdata.com/drivers/sapgateway/jdbc/).\n\nCData JDBC Driver connects to SAP Netweaver Gateway by exposing them as relational SQL models.\n\nThis server wraps that driver and makes SAP Netweaver Gateway data available through a simple MCP interface, so LLMs can retrieve live information by asking natural language questions — no SQL required.\n\n## Setup Guide\n1. Clone the repository:\n      ```bash\n      git clone https://github.com/cdatasoftware/sap-netweaver-gateway-mcp-server-by-cdata.git\n      cd sap-netweaver-gateway-mcp-server-by-cdata\n      ```\n2. Build the server:\n      ```bash\n      mvn clean install\n      ``` \n      This creates the JAR file: CDataMCP-jar-with-dependencies.jar\n2. Download and install the CData JDBC Driver for {source}: [https://www.cdata.com/drivers/sapgateway/download/jdbc](https://www.cdata.com/drivers/sapgateway/download/jdbc/)\n3. License the CData JDBC Driver:\n    * Navigate to t",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T17:51:01.250376"
 }

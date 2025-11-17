@@ -10,10 +10,22 @@
   },
   "release_date": "Jun 12, 2025",
   "url": "https://www.pulsemcp.com/servers/coingecko-crypto-data",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/coingecko/coingecko-typescript",
+  "categories": [
+    "api",
+    "monitoring",
+    "ai",
+    "data",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:59.568365",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 37,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Coingecko TypeScript API Library\n\n[![NPM version](<https://img.shields.io/npm/v/@coingecko/coingecko-typescript.svg?label=npm%20(stable)>)](https://npmjs.org/package/@coingecko/coingecko-typescript) ![npm bundle size](https://img.shields.io/bundlephobia/minzip/@coingecko/coingecko-typescript)\n\nThis library provides convenient access to the Coingecko REST API from server-side TypeScript or JavaScript.\n\nThe REST API documentation can be found on [docs.coingecko.com](https://docs.coingecko.com). The full API of this library can be found in [api.md](api.md).\n\nIt is generated with [Stainless](https://www.stainless.com/).\n\n## Installation\n\n```sh\nnpm install @coingecko/coingecko-typescript\n```\n\n## Usage\n\nThe full API of this library can be found in [api.md](api.md).\n\n<!-- prettier-ignore -->\n```js\nimport Coingecko from '@coingecko/coingecko-typescript';\n\nconst client = new Coingecko({\n  proAPIKey: process.env['COINGECKO_PRO_API_KEY'],\n  // demoAPIKey: process.env['COINGECKO_DEMO_API_KEY'], // Optional, for Demo API access\n  environment: 'pro', // 'demo' to initialize the client with Demo API access\n});\n\nasync function main() {\n  const price = await client.simple.price.get({ vs_currencies: 'usd', ids: 'bitcoin' });\n  console.log(price);\n}\n\nmain()\n```\n\n### Request & Response types\n\nThis library includes TypeScript definitions for all request params and response fields. You may import and use them like so:\n\n<!-- prettier-ignore -->\n```ts\nimport Coingecko from '@coingecko/coingecko-ty",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T17:52:45.910526"
 }

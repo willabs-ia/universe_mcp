@@ -10,10 +10,25 @@
   },
   "release_date": "Dec 17, 2024",
   "url": "https://www.pulsemcp.com/servers/base-blockchain",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/base/base-mcp",
+  "categories": [
+    "api",
+    "search",
+    "filesystem",
+    "git",
+    "ai",
+    "data",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:52.271795",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 320,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Base MCP Server 🔵\n\n![OpenRouter Integration](public/OpenRouter.gif)\n\n[![npm version](https://img.shields.io/npm/v/base-mcp.svg)](https://www.npmjs.com/package/base-mcp)\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\n\nA Model Context Protocol (MCP) server that provides onchain tools for AI applications like Claude Desktop and Cursor, allowing them to interact with the Base Network and Coinbase API.\n\n## Overview\n\nThis MCP server extends any MCP client's capabilities by providing tools to do anything on Base:\n\n- Retrieve wallet addresses\n- List wallet balances\n- Transfer funds between wallets\n- Deploy smart contracts\n- Interact with Morpho vaults for onchain lending\n- Call contract functions\n- Onramp funds via [Coinbase](https://www.coinbase.com/developer-platform/products/onramp)\n- Manage ERC20 tokens\n- List and transfer NFTs (ERC721 and ERC1155)\n- Buy [OpenRouter](http://openrouter.ai/) credits with USDC\n- Resolve Farcaster usernames to Ethereum addresses\n\nThe server interacts with Base, powered by Base Developer Tools and [AgentKit](https://github.com/coinbase/agentkit).\n\n## Extending Base MCP with 3P Protocols, Tools, and Data Sources\n\nBase MCP is designed to be extensible, allowing you to add your own third-party protocols, tools, and data sources. This section provides an overview of how to extend the Base MCP server with new capabilities.\n\n### Adding New Tools\n\nIf you want to add a new tool to the Base MCP ser",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T17:49:18.495946"
 }

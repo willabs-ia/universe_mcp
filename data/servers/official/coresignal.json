@@ -10,10 +10,23 @@
   },
   "release_date": "May 26, 2025",
   "url": "https://www.pulsemcp.com/servers/coresignal",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/coresignal-com/coresignal-mcp",
+  "categories": [
+    "api",
+    "workflow",
+    "ai",
+    "data",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:29.268948",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 3,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Coresignal MCP \n\nThe Coresignal MCP Server enables seamless integration of Coresignal's data with AI-powered applications. By connecting to this server, AI assistants can access fresh multi-source B2B data about companies, employees, and job postings directly within chat interfaces.\n\n## Connect the Coresignal MCP\n\nThe server is accessible via the following link:\n\nhttps://mcp.coresignal.com/mcp\n\nTo connect to the remote Coresignal MCP server using mcp-remote you need to have [Node.js](https://nodejs.org/en) installed.\n\n## Required configuration\n\nTo add the Coresignal MCP server to your client, include the following JSON object in MCP client configuration:\n\n```javascript\n\n{\n  \"mcpServers\": {\n    \"coresignal_data_api\": {\n      \"command\": \"npx\",\n      \"args\": [\n        \"mcp-remote@0.0.22\",\n        \"https://mcp.coresignal.com/mcp\",\n        \"--header\",\n        \"apikey:${APIKEY_VALUE}\"\n      ],\n      \"env\": {\n        \"APIKEY_VALUE\": \"<api_key>\"\n      }\n    }\n  }\n}\n```\n\n## Available tools\n\nThe MCP server provides access to the following data entities:\n\n- Coresignal Company API: Access to 74M+ company records.\n- Coresignal Employee API: Access to 823M+ employee records.\n- Coresignal Jobs API: Access to 399M+ job posting records\n\n\n## Usage example\n\nBelow is an example of how you can use Coresignal MCP:\n\n[Example request] Get 5 IT companies in Austin.\n\nResponse:\n1. Bazaarvoice - Software Development company with 1,744 employees \n2. Upland BA Insight - AI-enablement platform with 39 em",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T17:53:11.103018"
 }

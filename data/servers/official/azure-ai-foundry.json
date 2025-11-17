@@ -10,10 +10,25 @@
   },
   "release_date": "Mar 22, 2025",
   "url": "https://www.pulsemcp.com/servers/azure-ai-foundry",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/azure-ai-foundry/mcp-foundry",
+  "categories": [
+    "api",
+    "search",
+    "monitoring",
+    "cloud",
+    "git",
+    "ai",
+    "data",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:28.845896",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 221,
+    "runtime": "Python",
+    "readme_excerpt": "# MCP Server that interacts with Azure AI Foundry (experimental)\n\nA Model Context Protocol server for Azure AI Foundry, providing a unified set of tools for models, knowledge, evaluation, and more.\n\n[![GitHub watchers](https://img.shields.io/github/watchers/azure-ai-foundry/mcp-foundry.svg?style=social&label=Watch)](https://github.com/azure-ai-foundry/mcp-foundry/watchers)\n[![GitHub forks](https://img.shields.io/github/forks/azure-ai-foundry/mcp-foundry.svg?style=social&label=Fork)](https://github.com/azure-ai-foundry/mcp-foundry/fork)\n[![GitHub stars](https://img.shields.io/github/stars/azure-ai-foundry/mcp-foundry?style=social&label=Star)](https://github.com/azure-ai-foundry/mcp-foundry/stargazers)\n\n[![Azure AI Community Discord](https://dcbadge.vercel.app/api/server/ByRwuEEgH4)](https://discord.gg/REmjGvvFpW)\n\n## Available Tools\n\n### Capabilities: Models\n\n| Category | Tool | Description |\n|---|---|---|\n| **Explore** | `list_models_from_model_catalog` | Retrieves a list of supported models from the Azure AI Foundry catalog. |\n|  | `list_azure_ai_foundry_labs_projects` | Retrieves a list of state-of-the-art AI models from Microsoft Research available in Azure AI Foundry Labs. |\n| | `get_model_details_and_code_samples` | Retrieves detailed information for a specific model from the Azure AI Foundry catalog. |\n| **Build** | `get_prototyping_instructions_for_github_and_labs` | Provides comprehensive instructions and setup guidance for starting to work with models from Azure AI F",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T17:49:00.392913"
 }

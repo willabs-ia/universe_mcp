@@ -7,10 +7,24 @@
   "weekly_metric": null,
   "release_date": "May 17, 2025",
   "url": "https://www.pulsemcp.com/servers/cashfree",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/cashfree/cashfree-mcp",
+  "categories": [
+    "api",
+    "search",
+    "security",
+    "filesystem",
+    "git",
+    "ai",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:36.830022",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 12,
+    "runtime": "Node.js",
+    "readme_excerpt": "[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/cashfree-cashfree-mcp-badge.png)](https://mseep.ai/app/cashfree-cashfree-mcp)\n\n# Cashfree MCP Server\n\nCashfree MCP server allows AI tools and agents to integrate with [Cashfree](https://www.cashfree.com/) APIs (Payment Gateway, Payouts, and SecureID) using the [Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction).\n\n## Setup\n\n### Clone the Repository\n\n```bash\ngit clone https://github.com/cashfree/cashfree-mcp.git\ncd cashfree-mcp\n```\n\n### Install Dependencies\n\nBefore installing, ensure you have **Node.js v14.x or higher** installed. If you're using `nvm` or `brew`, make sure the correct version is active:\n\n```bash\nnode -v\n# Should output v14.x or higher\n```\n\n#### Step 1: Install project dependencies\n\n```bash\nnpm install\n```\n\nThis will install all required packages listed in `package.json`.\n\n> 💡 If you're using `Node.js >=18`, you might face peer dependency issues with packages like `undici`. In that case, upgrade Node.js to `>=20.18.1` or adjust the package version if needed.\n\n#### Step 2: Build the project\n\n```bash\nnpm run build\n```\n\nThis compiles the source files to the `dist/` directory, which is required to run the MCP server.\n\n> 🛠️ If you see errors related to missing files in `/dist`, ensure you've run the build step successfully.\n\n\n## Configuration\n\nYou will need a Cashfree account with API credentials (we support both sandbox and production keys). You can use Cashfree MCP in your favorite",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T17:50:45.848491"
 }

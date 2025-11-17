@@ -10,10 +10,23 @@
   },
   "release_date": "Apr 2, 2025",
   "url": "https://www.pulsemcp.com/servers/container-inc",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/f-inc/containerinc-mcp",
+  "categories": [
+    "api",
+    "workflow",
+    "monitoring",
+    "filesystem",
+    "git",
+    "ai",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:37.107058",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 8,
+    "readme_excerpt": "# @container-inc/mcp\n\nMCP Server for deploying to [Container Inc.](https://container.inc)\n\n> [!TIP]\n> For now deployments are ephemneral and free. The platform is update coming soon to support more.\n\n## Usage\n\n```jsonc\n// .cursor/mcp.json\n{\n  \"mcpServers\": {\n    \"@container-inc/mcp\": {\n      \"command\": \"npx\",\n      \"args\": [\"@container-inc/mcp\"]\n    }\n  }\n}\n```\n\n1. Place the above in a `.cursor/mcp.json` (or your editor's equivalent) file in your home directory.\n2. Check the editor's settings to ensure it is enabled.\n3. Just ask to deploy to Container Inc.\n\n## Notes\n* You'll be asked to login with GitHub this is so that:\n  1. We can create a repository if needed\n  2. Publish the docker image to ghcr.io\n  3. Pull the code in the builder\n* Ensure your project has a `Dockerfile` so it can be built\n",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T17:52:59.206134"
 }

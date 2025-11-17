@@ -7,10 +7,24 @@
   "weekly_metric": null,
   "release_date": "May 28, 2025",
   "url": "https://www.pulsemcp.com/servers/cbinsights-chatcbi",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/cbinsights/cbi-mcp-server",
+  "categories": [
+    "api",
+    "search",
+    "security",
+    "testing",
+    "filesystem",
+    "ai",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:41.150212",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 12,
+    "readme_excerpt": "# CB Insights MCP Server\n\nThe CBI MCP Server provides an interface for developers to interact with CB Insights ChatCBI LLM through AI Agents.\n\n## Tools\n\n### ChatCBI\nSend a message from an agent to ChatCBI and return the response.\n- Input parameters:\n  - `message`: The content of your message to ChatCBI\n  - `chatID`(optional): A unique identifier for the chat session, obtained from a previous response. If included, the conversation is continued. Otherwise, a new conversation is started.\n- Returns JSON object containing the following fields:\n  - `chatID`: Identifies the conversation. If chatID was provided in the request, this will be the same.\n  - `message`: ChatCBI response to the message.\n  - `relatedContent`: List of related references.\n  - `sources`: List of sources used to generate the response.\n  - `suggestions`: List of suggested follow-up questions.\n  - `title`: Title of the chat\n- For more information see [Using ChatCBI](https://api-docs.cbinsights.com/portal/docs/CBI-API/chatcbi)\n\n## Setup\nThe CBI MCP Server uses [uv](https://docs.astral.sh/uv/getting-started/installation/) to manage the project. \n\nEnvironment variables are set via the .env file:\n- `CBI_CLIENT_ID` & `CBI_CLIENT_SECRET` OAuth Client ID and Secret\n  - see [CB Insights API Authentication](https://api-docs.cbinsights.com/portal/docs/CBI-API/Authentication) for usage and how to obtain them\n- `CBI_MCP_TIMEOUT` (default: 120)\n- `CBI_MCP_PORT` (default: 8000)\n\n## Usage\n\n### With Claude Desktop\n\nUpdate the `c",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T17:50:48.282379"
 }

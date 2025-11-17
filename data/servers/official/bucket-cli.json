@@ -10,10 +10,25 @@
   },
   "release_date": "Apr 7, 2025",
   "url": "https://www.pulsemcp.com/servers/bucket-cli",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/reflagcom/javascript/tree/HEAD/packages/cli",
+  "categories": [
+    "browser",
+    "api",
+    "workflow",
+    "cloud",
+    "git",
+    "ai",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:38.071371",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 19,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Reflag\n\nFeature flags for SaaS that run on TypeScript. [Learn more and get started](https://reflag.com/)\n\n## React SDK\n\nClient side React SDK\n\n[Read the docs](packages/react-sdk/README.md)\n\n## Vue SDK (beta)\n\nClient side Vue SDK\n\n[Read the docs](packages/vue-sdk/README.md)\n\n## Browser SDK\n\nBrowser SDK for use in non-React web applications\n\n[Read the docs](packages/browser-sdk/README.md)\n\n## Node.js SDK\n\nNode.js SDK for use on the server side.\nUse this for Cloudflare Workers as well.\n\n[Read the docs](packages/node-sdk/README.md)\n\n## Reflag CLI\n\nCLI to interact with Reflag and generate types\n\n[Read the docs](packages/cli/README.md)\n\n## OpenFeature Browser Provider\n\nUse Reflag with OpenFeature in the browser through the Reflag OpenFeature Browser Provider\n\n[Read the docs](packages/openfeature-browser-provider/README.md)\n\n## OpenFeature Node.js Provider\n\nUse the Reflag with OpenFeature on the server in Node.js through the Reflag OpenFeature Node.js Provider\n\n[Read the docs](packages/openfeature-node-provider/README.md)\n\n## Development\n\n### Versioning\n\n1. Create a new branch locally\n2. Run `yarn run version`\n3. Push and PR\n\n### Publishing\n\nThe [Github Action](.github/workflows/publish.yml) will automatically publish any versioned packages when merging to `main`\n",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T17:50:21.894305"
 }

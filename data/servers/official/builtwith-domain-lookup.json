@@ -7,10 +7,24 @@
   "weekly_metric": null,
   "release_date": "Mar 27, 2025",
   "url": "https://www.pulsemcp.com/servers/builtwith-domain-lookup",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/builtwith/mcp",
+  "categories": [
+    "api",
+    "monitoring",
+    "filesystem",
+    "git",
+    "ai",
+    "data",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:32.245186",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 29,
+    "runtime": "Node.js",
+    "readme_excerpt": "# 🔍 BuiltWith MCP Server 🚀\n\n## 🌟 Overview\n\nA Model Context Protocol (MCP) server that integrates with BuiltWith's technology detection API. This server allows AI assistants to identify the technology stack behind any website, providing detailed information about frameworks, analytics tools, hosting services, and more - all through natural language commands.\n\n## 🛠️ Features\n\n-   🌐 **Domain Lookup**: Get comprehensive technology profiles for any website\n\n\n## 📦 Installation\n\n```bash\n# Clone the repository\ngit clone https://github.com/builtwith/mcp.git\n\n# Navigate to directory\ncd mcp\n\n# Install dependencies\nnpm install\n\n\n```\n\n## ⚙️ Configuration\n\nThe BuiltWith MCP Server requires an API key from [BuiltWith](https://api.builtwith.com/). Configure the server with your API key as follows:\n\n```json\n{\n    \"mcpServers\": {\n        \"builtwith\": {\n            \"command\": \"node\",\n            \"args\": [\"[PATH-TO]/bw-mcp-v1.js\"],\n            \"env\": {\n                \"BUILTWITH_API_KEY\": \"[YOUR-API-KEY]\"\n            }\n        }\n    }\n}\n\n```\n\n### Configuration Locations\n\n-   **Claude Desktop**: `~/Library/Application Support/Claude/claude_desktop_config.json` (macOS) or `%APPDATA%\\Claude\\claude_desktop_config.json` (Windows)\n-   **VS Code (Cursor/Claude Dev)**: `~/Library/Application Support/Code/User/globalStorage/saoudrizwan.claude-dev/settings/cline_mcp_settings.json` (macOS) or `%APPDATA%\\Code\\User\\globalStorage\\saoudrizwan.claude-dev\\settings\\cline_mcp_settings.json` (Windows)\n\n## 🚀 Usage\n\n",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T17:50:29.215044"
 }

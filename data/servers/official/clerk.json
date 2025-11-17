@@ -10,10 +10,25 @@
   },
   "release_date": "Apr 12, 2025",
   "url": "https://www.pulsemcp.com/servers/clerk",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/clerk/javascript/blob/main/packages/agent-toolkit/README.md#model-context-protocol-mcp-server",
+  "categories": [
+    "api",
+    "monitoring",
+    "security",
+    "filesystem",
+    "git",
+    "ai",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:33.577473",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 1600,
+    "runtime": "Node.js",
+    "readme_excerpt": "<p align=\"center\">\n  <a href=\"https://clerk.com?utm_source=github&utm_medium=clerk_javascript\" target=\"_blank\" rel=\"noopener noreferrer\">\n    <picture>\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://images.clerk.com/static/logo-dark-mode-400x400.png\">\n      <img src=\"https://images.clerk.com/static/logo-light-mode-400x400.png\" height=\"64\">\n    </picture>\n  </a>\n  <br />\n</p>\n<div align=\"center\">\n  <h1>\n    Official Clerk JavaScript SDKs\n  </h1>\n  <a href=\"https://www.npmjs.com/package/@clerk/clerk-js\">\n    <img alt=\"Downloads\" src=\"https://img.shields.io/npm/dm/@clerk/clerk-js\" />\n  </a>\n  <a href=\"https://clerk.com/docs\">\n    <img alt=\"Documentation\" src=\"https://img.shields.io/badge/documentation-clerk-green.svg\" />\n  </a>\n  <a href=\"https://discord.com/invite/b5rXHjAg7A\">\n    <img alt=\"Discord\" src=\"https://img.shields.io/discord/856971667393609759?color=7389D8&label&logo=discord&logoColor=ffffff\" />\n  </a>\n  <a href=\"https://twitter.com/clerkdev\">\n    <img alt=\"Twitter\" src=\"https://img.shields.io/twitter/url.svg?label=%40clerkdev&style=social&url=https%3A%2F%2Ftwitter.com%2Fclerkdev\" />\n  </a>\n  <br />\n  <br />\n  <p>\n    <strong>\n      Clerk helps developers build user management. We provide streamlined user experiences for your users to sign up, sign in, and manage their profile.\n    </strong>\n  </p>\n  <p>\n    This repository contains all the Clerk JavaScript SDKs under the <code>@clerk</code> namespace.\n  </p>\n</div>\n\n---\n\n💼 **Clerk is hiring!**\n\nWo",
+    "quality_score": 60
+  },
+  "enriched_at": "2025-11-17T17:51:35.794351"
 }

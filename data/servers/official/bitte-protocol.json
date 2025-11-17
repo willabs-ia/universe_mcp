@@ -10,10 +10,24 @@
   },
   "release_date": "Mar 17, 2025",
   "url": "https://www.pulsemcp.com/servers/bitte-protocol",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/bitteprotocol/mcp",
+  "categories": [
+    "api",
+    "workflow",
+    "monitoring",
+    "filesystem",
+    "git",
+    "ai",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:29.251395",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 13,
+    "runtime": "Node.js",
+    "readme_excerpt": "# MCP Proxy Monorepo\n\nThis monorepo contains MCP (Model Control Protocol) servers for different services.\n\n## Server URI\n`https://mcp.bitte.ai/sse`\n\n## Add to Curser Settings\n```\n{\n  \"mcpServers\": {\n    \"bitte-ai\": {\n      \"url\": \"https://mcp.bitte.ai/sse\"\n    }\n  }\n}\n```\n\n\n## Packages\n\n- **bitte-ai**: MCP server for Bitte AI integrations\n\n## Setup\n\nTo install dependencies:\n\n```bash\nbun install\n```\n\n## Development\n\nThis project uses Turborepo for managing the monorepo workflow and Biome for code quality tools.\n\n### Build all packages\n\n```bash\nbun run build\n```\n\n### Start both services\n\n```bash\nbun run start\n```\n\n### Development mode\n\n```bash\nbun run dev\n```\n\n### Format and lint your code\n\n```bash\nbun run check\n# To fix automatically:\nbun run check:fix\n```\n\n### Run individual services\n\n```bash\n# Run bitte-ai service\nbun run dev:bitte-ai\n```\n\n## Adding a new package\n\n1. Create a new directory in the `packages` folder\n2. Add the necessary package.json, tsconfig.json, and implementation files\n3. Update the root package.json and tsconfig.json to include your new package\n\nThis project uses [Bun](https://bun.sh) as the JavaScript runtime.\n\nFor more information: [Vibestreaming Logs](https://github.com/microchipgnu/vibestream)\n\n\n",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T17:49:35.829799"
 }

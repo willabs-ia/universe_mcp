@@ -10,10 +10,24 @@
   },
   "release_date": "Apr 17, 2025",
   "url": "https://www.pulsemcp.com/servers/boldcommerce-magento2",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/boldcommerce/magento2-mcp",
+  "categories": [
+    "api",
+    "search",
+    "testing",
+    "filesystem",
+    "ai",
+    "data",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:55.303329",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 41,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Magento 2 MCP Server\n\nThis is a Model Context Protocol (MCP) server that connects to a Magento 2 REST API, allowing Claude and other MCP clients to query product information from a Magento store.\n\n## Features\n\n### Product Features\n- Query product information by SKU or ID\n- Search for products using various criteria\n- Get product categories\n- Get related products\n- Get product stock information\n- Get product attributes\n- Update product attributes by specifying attribute code and value\n- Advanced product search with filtering and sorting\n\n### Customer Features\n- Get all ordered products for a customer by email address\n\n### Order and Revenue Features\n- Get order count for specific date ranges\n- Get revenue for specific date ranges\n- Get revenue filtered by country for specific date ranges\n- Get product sales statistics including quantity sold and top-selling products\n- Support for relative date expressions like \"today\", \"yesterday\", \"last week\", \"this month\", \"YTD\"\n- Support for country filtering using both country codes and country names\n\n## Prerequisites\n\n- Node.js (v14 or higher)\n- A Magento 2 instance with REST API access\n- API token for the Magento 2 instance\n\n## Installation\n\n1. Clone this repository\n2. Install dependencies:\n\n```bash\nnpm install\n```\n\n## Usage\n\n### Running the server directly\n\n```bash\nnode mcp-server.js\n```\n\n### Testing with the test client\n\n```bash\nnode test-mcp-server.js\n```\n\n### Using with Claude Desktop\n\n1. Check your path node with `which node`\n2. Go",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T17:49:50.881912"
 }

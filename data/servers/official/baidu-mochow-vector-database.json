@@ -10,10 +10,27 @@
   },
   "release_date": "May 9, 2025",
   "url": "https://www.pulsemcp.com/servers/baidu-mochow-vector-database",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/baidu/mochow-mcp-server-python",
+  "categories": [
+    "api",
+    "search",
+    "ai",
+    "cloud",
+    "filesystem",
+    "git",
+    "database",
+    "data",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:28.022960",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 3,
+    "runtime": "Python",
+    "readme_excerpt": "# 百度向量数据库MCP Server\n\n本代码仓库包含一个 MCP 服务器，它提供对[百度云向量数据库](https://cloud.baidu.com/doc/VDB/index.html)功能的访问。\n\n## 前提条件\n\n在使用百度云向量数据库MCP Server之前，请确保你具备以下条件：\n1. Python 3.10 或更高版本\n2. 已安装[uv](https://github.com/astral-sh/uv)用于运行MCP Server\n\n## 使用方式\n\n使用百度云向量数据库MCP Server的推荐方式是通过`uv`运行，而无需进行安装。\n\n克隆代码仓库，执行以下命令：\n```\ngit clone https://github.com/baidu/mochow-mcp-server-python.git\ncd mochow-mcp-server-python\n```\n随后，你可以直接通过`uv`运行，其中`endpoint`和`api-key`根据实际需要修改：\n```\nuv run src/mochow_mcp_server/server.py \nuv run src/mochow_mcp_server/server.py --endpoint http://127.0.0.1:8287 --api-key mochow\n```\n\n或者，在`src/mochow_mcp_server/`目录中修改`.env`文件来设置环境变量，再使用以下命令运行服务器：\n```\nuv run src/mochow_mcp_server/server.py \n```\n\n## 支持的应用程序\n\n百度云向量数据库MCP Server可以与各种支持模型上下文协议的大语言模型应用程序配合使用：\n\n- **Claude Desktop**：Anthropic 公司为 Claude 开发的桌面应用程序\n\n- **Cursor**：支持 MCP 的人工智能代码编辑器\n\n- **自定义 MCP 客户端**：任何实现 MCP 客户端规范的应用程序\n\n## 在Claude Desktop中的使用方式\n\n从[https://claude.ai](https://claude.ai/download)下载 Claude Desktop。\n\n打开 Claude Desktop 的配置文件，在 macOS 系统中，路径为`~/Library/Application Support/Claude/claude_desktop_config.json`。\n\n添加以下配置：\n```JSON\n{\n    \"mcpServers\": {\n        \"mochow\": {\n            \"command\": \"/PATH/TO/uv\",\n            \"args\": [\n                \"--directory\",\n                \"/path/to/mochow-mcp-server-python/src/mochow_mcp_server\",\n                \"run\",\n                \"server.py\",\n                \"--endpoint\",\n                \"http://127.0.0.1:8287\",\n                \"--api-key\",\n                \"mochow\"\n            ]\n ",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T17:49:13.343364"
 }

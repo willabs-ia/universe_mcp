@@ -7,10 +7,28 @@
   "weekly_metric": null,
   "release_date": "Apr 19, 2025",
   "url": "https://www.pulsemcp.com/servers/bitrise",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/bitrise-io/bitrise-mcp",
+  "categories": [
+    "api",
+    "workflow",
+    "security",
+    "git",
+    "ai",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:23.720994",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 25,
+    "capabilities": [
+      "**Authentication Support**: Secure API token-based access to Bitrise resources.",
+      "**Comprehensive API Access**: Access to Bitrise APIs including apps, builds, artifacts, and more.",
+      "**Detailed Documentation**: Well-documented tools with parameter descriptions."
+    ],
+    "readme_excerpt": "# Bitrise MCP Server\n\n[![Build Status](https://app.bitrise.io/app/37d1538c-d2d6-4b20-a2cc-78862be22342/status.svg?token=QQWdHofHMTWA2EIkXT4rcA&branch=main)](https://app.bitrise.io/app/37d1538c-d2d6-4b20-a2cc-78862be22342)\n\nMCP Server for the Bitrise API, enabling app management, build operations, artifact management, and more.\n\n## Features\n\n- **Comprehensive API Access**: Access to Bitrise APIs including apps, builds, artifacts, and more.\n- **Authentication Support**: Secure API token-based access to Bitrise resources.\n- **Detailed Documentation**: [Well-documented tools with parameter descriptions](/docs/tools.md).\n\n## Installation\n\n- **[VS Code](/docs/install-vscode.md)** - Installation for VS Code IDE\n- **[GitHub Copilot in other IDEs](/docs/install-other-copilot-ides.md)** - Installation for JetBrains, Visual Studio, Eclipse, and Xcode with GitHub Copilot\n- **[Claude Applications](/docs/install-claude.md)** - Installation guide for Claude Desktop and Claude Code CLI\n- **[Cursor](/docs/install-cursor.md)** - Installation guide for Cursor IDE\n- **[Windsurf](/docs/install-windsurf.md)** - Installation guide for Windsurf IDE\n- **[Gemini CLI](/docs/install-gemini-cli.md)** - Installation guide for Gemini CLI\n",
+    "quality_score": 60
+  },
+  "enriched_at": "2025-11-17T17:49:31.015066"
 }

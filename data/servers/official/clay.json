@@ -10,10 +10,35 @@
   },
   "release_date": "Apr 10, 2025",
   "url": "https://www.pulsemcp.com/servers/clay",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/clay-inc/clay-mcp",
+  "categories": [
+    "api",
+    "search",
+    "monitoring",
+    "testing",
+    "ai",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:30.181791",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 22,
+    "capabilities": [
+      "**Detailed Contact Info**: Access comprehensive information for a specific contact by ID.",
+      "**Interaction Search**: Retrieve past interactions based on various criteria.",
+      "**Add New Contact**: Create new contacts with details like name, phone, email, and more.",
+      "**Create New Group**: Create a new group or list.",
+      "**Retrieve Groups**: Get all user-defined groups or lists.",
+      "**Add Contact Note**: Create a note associated with a specific contact.",
+      "**Update Group**: Update a group's title or modify its members.",
+      "**Retrieve Events**: Fetch meetings and events scheduled within a specified date range.",
+      "**Contact Search**: Find contacts by job title, company, location, or specific keywords.",
+      "**Contact Statistics**: Obtain numerical statistics and percentages related to your contacts.",
+      "**Retrieve Notes**: Get notes created within a specified date range."
+    ],
+    "readme_excerpt": "<a href=\"https://clay.earth\"><img src=\"https://assets.clay.earth/emails/assets/logo_badge.png\" alt=\"Clay Logo\" width=\"70\"/></a>\n\n# Clay MCP Server\n\nA simple Model Context Protocol (MCP) server for [Clay](https://clay.earth).\n\n## Demo Video\n<a href=\"https://www.youtube.com/watch?v=vaB0s9i7Djo\"><img src=\"https://userimg-assets.customeriomail.com/images/client-env-86186/1744863883565_CleanShot%202025-04-17%20at%2000.24.16@2x_01JS0ZVWJ1M36ZN9FS9CD3D9R3.png\" alt=\"Clay Logo\" width=\"700\"/></a>\n\n## Getting Started\n### Via Smithery (fastest)\n[![smithery badge](https://smithery.ai/badge/@clay-inc/clay-mcp)](https://smithery.ai/server/@clay-inc/clay-mcp)\n1. [Click here to log into Clay and generate your Clay API key](https://web.clay.earth/settings/api-keys).\n2. [Visit Clay's Smithery page](https://smithery.ai/server/@clay-inc/clay-mcp) and enter your Clay API key under \"Installation\".\n3. Under Claude > NPM, copy the NPM command and run it in your terminal.\n\n### Manual installation\n1. Edit your `claude_desktop_config.json` (in the Claude Desktop app, go to Preferences > Developer > Edit Config)\n2. Add the Clay MCP server as below:\n\n```\n{\n  \"mcpServers\": {\n    \"clay-mcp\": {\n      \"command\": \"npx\",\n      \"args\": [\"@clayhq/clay-mcp@latest\"],\n      \"env\": {\n        \"CLAY_API_KEY\": \"YOUR_CLAY_API_KEY\"\n      }\n    }\n  }\n}\n```\n\n## Features\n- **Contact Search**: Find contacts by job title, company, location, or specific keywords.\n- **Interaction Search**: Retrieve past interactions based on var",
+    "quality_score": 60
+  },
+  "enriched_at": "2025-11-17T17:51:33.401767"
 }

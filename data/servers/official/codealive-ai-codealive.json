@@ -7,10 +7,26 @@
   "weekly_metric": null,
   "release_date": "Apr 28, 2025",
   "url": "https://www.pulsemcp.com/servers/codealive-ai-codealive",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/codealive-ai/codealive-mcp",
+  "categories": [
+    "api",
+    "search",
+    "monitoring",
+    "security",
+    "filesystem",
+    "git",
+    "ai",
+    "data",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:27.963964",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 68,
+    "runtime": "Node.js",
+    "readme_excerpt": "# CodeAlive MCP: Deepest Context Engine for your projects (especially for large codebases)\n\n<!-- MCP Server Name: io.github.codealive-ai.codealive-mcp -->\n\n[![CodeAlive Logo](https://app.codealive.ai/images/logos/dark-logo.svg)](https://www.codealive.ai/)\n\n**Connect your AI assistant to CodeAlive's powerful code understanding platform in seconds!**\n\nThis MCP (Model Context Protocol) server enables AI clients like Claude Code, Cursor, Claude Desktop, Continue, VS Code (GitHub Copilot), Cline, Codex, OpenCode, Qwen Code, Gemini CLI, Roo Code, Goose, Kilo Code, Windsurf, Kiro, Qoder, n8n, and Amazon Q Developer to access CodeAlive's advanced semantic code search and codebase interaction features.\n\n## What is CodeAlive?\n\nThe most accurate and comprehensive Context Engine as a service, optimized for large codebases, powered by advanced GraphRAG and accessible via MCP. It enriches the context for AI agents like Cursor, Claude Code, Codex, etc., making them 35% more efficient and up to 84% faster.\n\nIt's like Context7, but for your (large) codebases.\n\nIt allows AI-Coding Agents to:\n\n*   **Find relevant code faster** with semantic search\n*   **Understand the bigger picture** beyond isolated files  \n*   **Provide better answers** with full project context\n*   **Reduce costs and time** by removing guesswork\n\n## 🛠 Available Tools\n\nOnce connected, you'll have access to these powerful tools:\n\n1. **`get_data_sources`** - List your indexed repositories and workspaces\n2. **`codebase_search`**",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T17:52:33.440239"
 }

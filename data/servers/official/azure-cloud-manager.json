@@ -10,10 +10,25 @@
   },
   "release_date": "Dec 27, 2024",
   "url": "https://www.pulsemcp.com/servers/azure-cloud-manager",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/azure/azure-mcp",
+  "categories": [
+    "api",
+    "monitoring",
+    "security",
+    "cloud",
+    "git",
+    "ai",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:29.306937",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 1200,
+    "runtime": "Node.js",
+    "readme_excerpt": ">[!IMPORTANT]\n🚀 Active development has moved to [microsoft/mcp](https://github.com/microsoft/mcp/tree/main/servers/Azure.Mcp.Server) as of August 25, 2025\n--------\n\n# 🌟 Azure MCP Server\n\nThe Azure MCP Server implements the [MCP specification](https://modelcontextprotocol.io) to create a seamless connection between AI agents and Azure services.  Azure MCP Server can be used alone or with the [GitHub Copilot for Azure extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azure-github-copilot) in VS Code.  This project is in Public Preview and implementation may significantly change prior to our General Availability.\n\n\n>[!WARNING]\n>**Deprecation Notice: SSE transport mode has been removed in version [0.4.0 (2025-07-15)](https://github.com/Azure/azure-mcp/blob/main/CHANGELOG.md#breaking-changes-7).**\n>\n> SSE was deprecated in MCP `2025-03-26` due to [security vulnerabilities and architectural limitations](https://blog.fka.dev/blog/2025-06-06-why-mcp-deprecated-sse-and-go-with-streamable-http/). Users must discontinue use of SSE transport mode and upgrade to version `0.4.0` or newer to maintain compatibility with current MCP clients.\n\n\n### ✅ VS Code Install Guide (Recommended)\n\n1. Install either the stable or Insiders release of VS Code:\n   * [💫 Stable release](https://code.visualstudio.com/download)\n   * [🔮 Insiders release](https://code.visualstudio.com/insiders)\n1. Install the [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=Git",
+    "quality_score": 60
+  },
+  "enriched_at": "2025-11-17T17:49:05.720934"
 }

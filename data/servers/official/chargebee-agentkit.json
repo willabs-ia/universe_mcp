@@ -10,10 +10,23 @@
   },
   "release_date": "Mar 25, 2025",
   "url": "https://www.pulsemcp.com/servers/chargebee-agentkit",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/chargebee/agentkit/tree/HEAD/modelcontextprotocol",
+  "categories": [
+    "api",
+    "workflow",
+    "monitoring",
+    "git",
+    "ai",
+    "development",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:30.204176",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 13,
+    "readme_excerpt": "<p align=\"center\">\n  <img src=\"https://github.com/chargebee/agentkit/blob/main/media/cb-logo.png?raw=true\" alt=\"Chargebee Icon\" width=\"100\" height=\"100\">\n</p>\n\n# Chargebee AgentKit\n\nSeamlessly add Chargebee to your AI Agents using AgentKit for smarter billing and subscription workflows.\n\nAgentKit is a toolkit that enhances AI applications like Claude, Cursor and other agentic AI applications with Chargebee capabilities. It enables users across different roles to integrate their solutions with Chargebee and manage simplifying billing and subscription management using AI.\n\n### Packages\n\n- **[MCP Server](modelcontextprotocol/README.md):** The Chargebee MCP Server provides a powerful set of tools to enhance developer productivity. It integrates with AI-powered code editors like Cursor, Windsurf, and Cline, as well as general-purpose tools such as Claude Desktop.\n\n## Contribution\n\nTo contribute to this project, please see the [contribution guide](CONTRIBUTING.md).\n\n## License\n\n[MIT](LICENSE)\n",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T17:51:13.823487"
 }

@@ -7,10 +7,22 @@
   "weekly_metric": null,
   "release_date": "Mar 31, 2025",
   "url": "https://www.pulsemcp.com/servers/coinpaprika-dexpaprika",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/coinpaprika/dexpaprika-mcp",
+  "categories": [
+    "api",
+    "monitoring",
+    "ai",
+    "data",
+    "documentation"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:05.631115",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 30,
+    "runtime": "Node.js",
+    "readme_excerpt": "# DexPaprika MCP Server\n\nA Model Context Protocol (MCP) server that provides on-demand access to DexPaprika's cryptocurrency and DEX data API. Built specifically for AI assistants like Claude to programmatically fetch real-time token, pool, and DEX data with zero configuration.\n\n## TL;DR\n\n```bash\n# Install globally\nnpm install -g dexpaprika-mcp\n\n# Start the server\ndexpaprika-mcp\n\n# Or run directly without installation\nnpx dexpaprika-mcp\n```\n\nDexPaprika MCP connects Claude to live DEX data across multiple blockchains. No API keys required. [Installation](#installation) | [Configuration](#claude-desktop-integration) | [API Reference](https://docs.dexpaprika.com/introduction)\n\n## 🚨 Version 1.2.0 Update Highlights\n\n**New**: Batched token prices tool `getTokenMultiPrices` and enhanced `getNetworkDexes` parameters. See examples below.\n\n## 🚨 Version 1.1.0 Update Notice\n\n**Breaking Change**: The global `/pools` endpoint has been removed. If you're upgrading from v1.0.x, please see the [Migration Guide](#migration-from-v10x-to-v110) below.\n\n## What Can You Build?\n\n- **Token Analysis Tools**: Track price movements, liquidity depth changes, and volume patterns\n- **DEX Comparisons**: Analyze fee structures, volume, and available pools across different DEXes\n- **Liquidity Pool Analytics**: Monitor TVL changes, impermanent loss calculations, and price impact assessments\n- **Market Analysis**: Cross-chain token comparisons, volume trends, and trading activity metrics\n- **Portfolio Trackers*",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T17:52:48.757193"
 }
