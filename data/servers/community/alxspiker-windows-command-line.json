@@ -7,10 +7,14 @@
   "weekly_metric": null,
   "release_date": "Mar 29, 2025",
   "url": "https://www.pulsemcp.com/servers/alxspiker-windows-command-line",
-  "source_url": null,
+  "source_url": "https://github.com/alxspiker",
   "categories": [],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:01.394938",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 7,
+    "quality_score": 20
+  },
+  "enriched_at": "2025-11-17T19:02:37.030546"
 }

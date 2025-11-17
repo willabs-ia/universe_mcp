@@ -7,10 +7,18 @@
   "weekly_metric": null,
   "release_date": "Jun 10, 2025",
   "url": "https://www.pulsemcp.com/servers/alsoasked",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/metehan777",
+  "categories": [
+    "data",
+    "api",
+    "search"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:45.516777",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 11,
+    "quality_score": 30
+  },
+  "enriched_at": "2025-11-17T19:02:18.565072"
 }

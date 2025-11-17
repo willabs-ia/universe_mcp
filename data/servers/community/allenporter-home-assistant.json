@@ -10,10 +10,16 @@
   },
   "release_date": "Nov 27, 2024",
   "url": "https://www.pulsemcp.com/servers/allenporter-home-assistant",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/allenporter",
+  "categories": [
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:30.162801",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 64,
+    "quality_score": 30
+  },
+  "enriched_at": "2025-11-17T19:01:58.976999"
 }

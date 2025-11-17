@@ -10,10 +10,19 @@
   },
   "release_date": "Sep 9, 2025",
   "url": "https://www.pulsemcp.com/servers/allentcm-codebase-rag",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/allentcm",
+  "categories": [
+    "filesystem",
+    "database",
+    "search",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:01.903549",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 8,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T19:02:01.462823"
 }

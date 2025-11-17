@@ -7,10 +7,14 @@
   "weekly_metric": null,
   "release_date": "Mar 15, 2025",
   "url": "https://www.pulsemcp.com/servers/always-tinkering-rhino-3d",
-  "source_url": null,
+  "source_url": "https://github.com/always-tinkering",
   "categories": [],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:19.329600",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 41,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T19:02:26.954352"
 }

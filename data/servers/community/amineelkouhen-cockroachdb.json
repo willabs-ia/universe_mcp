@@ -10,10 +10,18 @@
   },
   "release_date": "Jul 13, 2025",
   "url": "https://www.pulsemcp.com/servers/amineelkouhen-cockroachdb",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/amineelkouhen",
+  "categories": [
+    "monitoring",
+    "database",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:08.426712",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 6,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T19:03:05.634348"
 }

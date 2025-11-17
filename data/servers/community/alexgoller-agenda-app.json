@@ -7,10 +7,14 @@
   "weekly_metric": null,
   "release_date": "Dec 10, 2024",
   "url": "https://www.pulsemcp.com/servers/alexgoller-agenda-app",
-  "source_url": null,
+  "source_url": "https://github.com/alexgoller",
   "categories": [],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:35.760207",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 5,
+    "quality_score": 20
+  },
+  "enriched_at": "2025-11-17T19:00:28.171709"
 }

@@ -7,10 +7,16 @@
   "weekly_metric": null,
   "release_date": "Dec 29, 2024",
   "url": "https://www.pulsemcp.com/servers/alexmhoward3-supernotes-to-obsidian",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/alexmhoward3",
+  "categories": [
+    "documentation",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:01.207082",
-  "metadata": {}
+  "metadata": {
+    "quality_score": 15
+  },
+  "enriched_at": "2025-11-17T19:00:44.761748"
 }

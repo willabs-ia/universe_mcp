@@ -7,10 +7,20 @@
   "weekly_metric": null,
   "release_date": "Aug 5, 2025",
   "url": "https://www.pulsemcp.com/servers/amateurs-community-search",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/prgrms-aibe-devcourse",
+  "categories": [
+    "search",
+    "development",
+    "database",
+    "ai",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:09.305943",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 2,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T19:02:48.911871"
 }

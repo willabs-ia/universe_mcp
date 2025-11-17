@@ -10,10 +10,18 @@
   },
   "release_date": "Feb 25, 2025",
   "url": "https://www.pulsemcp.com/servers/alexsmirnov-development-automation",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/alexsmirnov",
+  "categories": [
+    "documentation",
+    "workflow",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:51.006006",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 7,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T19:00:54.933164"
 }

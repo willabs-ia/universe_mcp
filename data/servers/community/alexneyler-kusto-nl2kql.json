@@ -7,10 +7,18 @@
   "weekly_metric": null,
   "release_date": "Apr 19, 2025",
   "url": "https://www.pulsemcp.com/servers/alexneyler-kusto-nl2kql",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/alexneyler",
+  "categories": [
+    "cloud",
+    "database",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:21.385465",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 3,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T19:00:47.124007"
 }

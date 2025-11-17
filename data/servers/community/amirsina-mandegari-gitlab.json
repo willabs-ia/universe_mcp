@@ -10,10 +10,19 @@
   },
   "release_date": "Jul 16, 2025",
   "url": "https://www.pulsemcp.com/servers/amirsina-mandegari-gitlab",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/amirsina-mandegari",
+  "categories": [
+    "workflow",
+    "api",
+    "git",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:59.603564",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 15,
+    "quality_score": 30
+  },
+  "enriched_at": "2025-11-17T19:03:13.369766"
 }

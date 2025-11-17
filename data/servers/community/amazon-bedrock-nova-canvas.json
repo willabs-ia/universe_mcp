@@ -7,10 +7,16 @@
   "weekly_metric": null,
   "release_date": "Dec 25, 2024",
   "url": "https://www.pulsemcp.com/servers/amazon-bedrock-nova-canvas",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/zxkane",
+  "categories": [
+    "cloud"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:37.915720",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 22,
+    "quality_score": 30
+  },
+  "enriched_at": "2025-11-17T19:02:51.233662"
 }

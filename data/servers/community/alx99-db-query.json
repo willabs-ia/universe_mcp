@@ -7,10 +7,18 @@
   "weekly_metric": null,
   "release_date": "Feb 13, 2025",
   "url": "https://www.pulsemcp.com/servers/alx99-db-query",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/ALX99",
+  "categories": [
+    "database",
+    "data",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:59.316161",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 1,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T19:02:29.646562"
 }
