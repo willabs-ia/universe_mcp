@@ -7,10 +7,17 @@
   "weekly_metric": null,
   "release_date": "Sep 17, 2025",
   "url": "https://www.pulsemcp.com/servers/3gpp-research-guidance",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/edhijlu",
+  "categories": [
+    "data",
+    "search"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:28.805389",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 3,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T18:50:50.898565"
 }

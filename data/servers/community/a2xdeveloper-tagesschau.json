@@ -7,10 +7,16 @@
   "weekly_metric": null,
   "release_date": "Mar 25, 2025",
   "url": "https://www.pulsemcp.com/servers/a2xdeveloper-tagesschau",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/a2xdeveloper",
+  "categories": [
+    "api"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:52.883871",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 3,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T18:51:46.029688"
 }

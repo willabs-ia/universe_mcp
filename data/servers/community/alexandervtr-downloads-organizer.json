@@ -7,10 +7,16 @@
   "weekly_metric": null,
   "release_date": "Apr 1, 2025",
   "url": "https://www.pulsemcp.com/servers/alexandervtr-downloads-organizer",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/AlexanderVTr",
+  "categories": [
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:05.661104",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 4,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T18:59:40.402731"
 }

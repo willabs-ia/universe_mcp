@@ -7,10 +7,16 @@
   "weekly_metric": null,
   "release_date": "Apr 21, 2025",
   "url": "https://www.pulsemcp.com/servers/a2amarket-clamav",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/a2amarket",
+  "categories": [
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:23.741405",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 1,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T18:51:43.734491"
 }

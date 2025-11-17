@@ -7,10 +7,17 @@
   "weekly_metric": null,
   "release_date": "Jul 20, 2025",
   "url": "https://www.pulsemcp.com/servers/agentops",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/agentOps-AI",
+  "categories": [
+    "monitoring",
+    "data",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:25.004908",
-  "metadata": {}
+  "metadata": {
+    "quality_score": 15
+  },
+  "enriched_at": "2025-11-17T18:56:27.914355"
 }

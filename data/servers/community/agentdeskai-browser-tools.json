@@ -10,10 +10,20 @@
   },
   "release_date": "Mar 25, 2025",
   "url": "https://www.pulsemcp.com/servers/agentdeskai-browser-tools",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/oenius",
+  "categories": [
+    "api",
+    "ai",
+    "monitoring",
+    "browser",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:18.063339",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 6900,
+    "quality_score": 40
+  },
+  "enriched_at": "2025-11-17T18:56:06.967557"
 }

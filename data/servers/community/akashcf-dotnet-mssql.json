@@ -7,10 +7,17 @@
   "weekly_metric": null,
   "release_date": "Jun 8, 2025",
   "url": "https://www.pulsemcp.com/servers/akashcf-dotnet-mssql",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/akashCF",
+  "categories": [
+    "database",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:45.488931",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 2,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T18:58:19.090982"
 }

@@ -7,10 +7,20 @@
   "weekly_metric": null,
   "release_date": "Jul 15, 2025",
   "url": "https://www.pulsemcp.com/servers/agentx-ai-mailchimp",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/AgentX-ai",
+  "categories": [
+    "workflow",
+    "api",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:58.345521",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 7,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T18:56:30.365286"
 }

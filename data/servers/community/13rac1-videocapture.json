@@ -7,10 +7,14 @@
   "weekly_metric": null,
   "release_date": "Mar 28, 2025",
   "url": "https://www.pulsemcp.com/servers/13rac1-videocapture",
-  "source_url": null,
+  "source_url": "https://github.com/13rac1",
   "categories": [],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:01.374306",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 13,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T18:50:08.240443"
 }

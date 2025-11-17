@@ -7,10 +7,18 @@
   "weekly_metric": null,
   "release_date": "Aug 1, 2025",
   "url": "https://www.pulsemcp.com/servers/adamosk-mysql",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/adamosk",
+  "categories": [
+    "security",
+    "database",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:05.099200",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 1,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T18:54:00.127122"
 }

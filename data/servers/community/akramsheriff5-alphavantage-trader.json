@@ -7,10 +7,17 @@
   "weekly_metric": null,
   "release_date": "Apr 7, 2025",
   "url": "https://www.pulsemcp.com/servers/akramsheriff5-alphavantage-trader",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/akramsheriff5",
+  "categories": [
+    "api",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:12.702472",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 2,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T18:58:41.673620"
 }

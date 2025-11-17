@@ -7,10 +7,17 @@
   "weekly_metric": null,
   "release_date": "Aug 2, 2025",
   "url": "https://www.pulsemcp.com/servers/90barricade93-msfs-sdk",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/90barricade93",
+  "categories": [
+    "documentation",
+    "api"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:07.194633",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 3,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T18:51:22.846783"
 }

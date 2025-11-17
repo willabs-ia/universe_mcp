@@ -7,10 +7,13 @@
   "weekly_metric": null,
   "release_date": "Mar 2, 2025",
   "url": "https://www.pulsemcp.com/servers/abutbul-gatherings",
-  "source_url": null,
+  "source_url": "https://github.com/abutbul",
   "categories": [],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:09.997503",
-  "metadata": {}
+  "metadata": {
+    "quality_score": 10
+  },
+  "enriched_at": "2025-11-17T18:53:26.690970"
 }

@@ -7,10 +7,16 @@
   "weekly_metric": null,
   "release_date": "Mar 20, 2025",
   "url": "https://www.pulsemcp.com/servers/aarushkx-covid-statistics",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/aarushkx",
+  "categories": [
+    "api"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:32.709356",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 3,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T18:52:17.905263"
 }

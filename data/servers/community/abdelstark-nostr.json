@@ -7,10 +7,13 @@
   "weekly_metric": null,
   "release_date": "Feb 1, 2025",
   "url": "https://www.pulsemcp.com/servers/abdelstark-nostr",
-  "source_url": null,
+  "source_url": "https://github.com/AbdelStark",
   "categories": [],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:55.071265",
-  "metadata": {}
+  "metadata": {
+    "quality_score": 10
+  },
+  "enriched_at": "2025-11-17T18:52:36.272350"
 }

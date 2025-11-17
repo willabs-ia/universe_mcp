@@ -7,10 +7,17 @@
   "weekly_metric": null,
   "release_date": "Sep 16, 2025",
   "url": "https://www.pulsemcp.com/servers/afristrup-planning-center",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/afristrup",
+  "categories": [
+    "api",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:26.685920",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 1,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T18:55:53.875348"
 }

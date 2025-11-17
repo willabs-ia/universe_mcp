@@ -7,10 +7,17 @@
   "weekly_metric": null,
   "release_date": "Mar 5, 2025",
   "url": "https://www.pulsemcp.com/servers/akazwz-figma",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/akazwz",
+  "categories": [
+    "api",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:10.871144",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 10,
+    "quality_score": 30
+  },
+  "enriched_at": "2025-11-17T18:58:21.503726"
 }

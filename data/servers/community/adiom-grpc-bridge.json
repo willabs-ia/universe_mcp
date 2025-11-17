@@ -7,10 +7,33 @@
   "weekly_metric": null,
   "release_date": "May 16, 2025",
   "url": "https://www.pulsemcp.com/servers/adiom-grpc-bridge",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/adiom-data/grpcmcp",
+  "categories": [
+    "security",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:36.823607",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 22,
+    "readme_excerpt": "# grpcmcp\n\nA simple MCP server that will proxy to a grpc backend based on a provided descriptors file or using reflection.\n\n## Quick Start\n\n1. Install the binary: `go install .` or `go install github.com/adiom-data/grpcmcp` Ensure the go bin directory is in your PATH.\n\n2. In a terminal, run the example grpc server `go run example/main.go`. This will start a grpc health service on port 8090 with server reflection enabled. Note that this runs on the default port that grpcmcp will connect to.\n\n3. **SSE Transport** In another terminal, run `grpcmcp --hostport=localhost:3000 --reflect`. Specifying `hostport` will use SSE. The SSE endpoint will be served at `http://localhost:3000/sse`.\n\n3. **STDIN Transport** Set up the MCP config. e.g.\n```\n\"grpcmcp\": {\n    \"command\": \"grpcmcp\",\n    \"args\": [\"--reflect\"]\n}\n```\n\n## Options / Features\n\n`grpcmcp --help` for a full list of options.\n\n* `hostport` string - When set, use SSE, and this serves as the server host:port.\n\n* `descriptors` string - Specify file location of the protobuf definitions generated from `buf build -o protos.pb` or `protoc --descriptor_set_out=protos.pb` instead of using gRPC reflection.\n\n* `reflect` - If set, use reflection to retrieve gRPC endpoints instead of descriptor file.\n\n* `url` string - Specify the url of the backend server.\n\n* `services` string - Comma separated list of fully qualified gRPC service names to filter.\n\n* `bearer` string - Token to attach in an `Authorization: Bearer` header.\n\n* `bearer-env` strin",
+    "language": "Go",
+    "license": "Apache License 2.0",
+    "forks": 1,
+    "open_issues": 0,
+    "last_pushed": "2025-04-29T07:54:10Z",
+    "topics": [
+      "golang",
+      "grpc",
+      "mcp"
+    ],
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T18:55:07.206467"
 }

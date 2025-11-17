@@ -7,10 +7,19 @@
   "weekly_metric": null,
   "release_date": "Jul 13, 2025",
   "url": "https://www.pulsemcp.com/servers/alc6-mig2schema",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/alc6",
+  "categories": [
+    "filesystem",
+    "database",
+    "data",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:56.237758",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 2,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T18:59:01.446018"
 }

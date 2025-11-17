@@ -10,10 +10,16 @@
   },
   "release_date": "Apr 29, 2025",
   "url": "https://www.pulsemcp.com/servers/akrasia0-stern-philosophical-mentor",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/Akrasia0",
+  "categories": [
+    "monitoring"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:28.001775",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 1,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T18:58:44.345814"
 }

@@ -10,10 +10,16 @@
   },
   "release_date": "Aug 20, 2025",
   "url": "https://www.pulsemcp.com/servers/aaronsb-obsidian-semantic",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/aaronsb",
+  "categories": [
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:50.196620",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 25,
+    "quality_score": 30
+  },
+  "enriched_at": "2025-11-17T18:52:15.686198"
 }

@@ -7,10 +7,17 @@
   "weekly_metric": null,
   "release_date": "Mar 25, 2025",
   "url": "https://www.pulsemcp.com/servers/adexltd-google-workspace",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/ashokpokharel977",
+  "categories": [
+    "documentation",
+    "search"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:52.901268",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 3,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T18:54:42.246919"
 }

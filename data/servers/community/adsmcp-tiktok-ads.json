@@ -10,10 +10,40 @@
   },
   "release_date": "Sep 17, 2025",
   "url": "https://www.pulsemcp.com/servers/adsmcp-tiktok-ads",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/adsmcp/tiktok-ads-mcp-server",
+  "categories": [
+    "workflow",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:04.038013",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 8,
+    "capabilities": [
+      "**Reporting**: Generate and download custom performance reports",
+      "**Campaign Management**: Create, read, and update campaigns and ad groups",
+      "**Creative Management**: Upload and manage ad creatives",
+      "**Audience Management**: Handle custom audiences and targeting options",
+      "**Performance Analytics**: Retrieve detailed performance metrics and insights"
+    ],
+    "runtime": "Python",
+    "readme_excerpt": "# TikTok Ads MCP Server\n\nA Model Context Protocol (MCP) server for TikTok Ads API integration. This server enables AI assistants like Claude to interact with TikTok advertising campaigns, providing comprehensive campaign management, analytics, and optimization capabilities.\n\nThis project is part of the [AdsMCP AI advertising automation platform](https://adsmcp.com), an AI-powered platform designed to simplify and automate ad campaign management across multiple advertising networks. The platform emphasizes efficiency, data-driven insights, and intelligent automation for marketers and agencies. Additionally, AdsMCP also supports integration with other advertising platforms, such as **Google Ads** and **Meta (Facebook) Ads**, making it easier to manage campaigns across multiple networks from a single interface. \n\n\n## Features\n\n- **Campaign Management**: Create, read, and update campaigns and ad groups\n- **Performance Analytics**: Retrieve detailed performance metrics and insights\n- **Audience Management**: Handle custom audiences and targeting options\n- **Creative Management**: Upload and manage ad creatives\n- **Reporting**: Generate and download custom performance reports\n\n## Installation\n\n### Prerequisites\n\n- Python 3.10+\n- TikTok For Business account with API access\n- TikTok Ads Developer account and app registration\n\n### Local Installation\n\n```bash\n# Clone the repository\ngit clone <repository-url>\ncd adsmcp-server\n\n# Create virtual environment\npython -m venv venv\nsource venv",
+    "language": "Python",
+    "license": "MIT License",
+    "forks": 2,
+    "open_issues": 0,
+    "last_pushed": "2025-10-20T02:41:19Z",
+    "topics": [
+      "marketing-api",
+      "mcp-server"
+    ],
+    "quality_score": 70
+  },
+  "enriched_at": "2025-11-17T18:55:39.177539"
 }

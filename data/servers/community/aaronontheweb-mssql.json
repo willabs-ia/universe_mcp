@@ -10,10 +10,17 @@
   },
   "release_date": "Jun 12, 2025",
   "url": "https://www.pulsemcp.com/servers/aaronontheweb-mssql",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/Aaronontheweb",
+  "categories": [
+    "database",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:35.918263",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 129,
+    "quality_score": 35
+  },
+  "enriched_at": "2025-11-17T18:52:05.267218"
 }

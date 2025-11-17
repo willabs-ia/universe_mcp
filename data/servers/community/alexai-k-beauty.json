@@ -7,10 +7,17 @@
   "weekly_metric": null,
   "release_date": "Sep 22, 2025",
   "url": "https://www.pulsemcp.com/servers/alexai-k-beauty",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/AlexAI-MCP",
+  "categories": [
+    "data",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:28.881343",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 5,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T18:59:33.009254"
 }

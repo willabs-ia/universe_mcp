@@ -7,10 +7,14 @@
   "weekly_metric": null,
   "release_date": "Mar 4, 2025",
   "url": "https://www.pulsemcp.com/servers/acashmoney-bio",
-  "source_url": null,
+  "source_url": "https://github.com/acashmoney",
   "categories": [],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:10.867282",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 18,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T18:53:33.871438"
 }

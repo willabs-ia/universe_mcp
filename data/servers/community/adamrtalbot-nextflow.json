@@ -7,10 +7,20 @@
   "weekly_metric": null,
   "release_date": "Mar 24, 2025",
   "url": "https://www.pulsemcp.com/servers/adamrtalbot-nextflow",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/adamrtalbot",
+  "categories": [
+    "workflow",
+    "testing",
+    "development",
+    "ai",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:46.312585",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 1,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T18:54:04.864037"
 }

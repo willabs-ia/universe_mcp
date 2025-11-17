@@ -7,10 +7,18 @@
   "weekly_metric": null,
   "release_date": "Dec 1, 2024",
   "url": "https://www.pulsemcp.com/servers/ajbrown-gmail",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/ajbr0wn",
+  "categories": [
+    "security",
+    "search",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:33.642395",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 7,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T18:58:11.843552"
 }

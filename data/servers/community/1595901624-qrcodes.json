@@ -7,10 +7,16 @@
   "weekly_metric": null,
   "release_date": "Feb 24, 2025",
   "url": "https://www.pulsemcp.com/servers/1595901624-qrcodes",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/1595901624",
+  "categories": [
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:04.159766",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 6,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T18:50:10.760669"
 }

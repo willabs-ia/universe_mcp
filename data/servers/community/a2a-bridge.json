@@ -10,10 +10,14 @@
   },
   "release_date": "May 28, 2025",
   "url": "https://www.pulsemcp.com/servers/a2a-bridge",
-  "source_url": null,
+  "source_url": "https://github.com/GongRzhe",
   "categories": [],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:06.223431",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 113,
+    "quality_score": 30
+  },
+  "enriched_at": "2025-11-17T18:51:41.536853"
 }

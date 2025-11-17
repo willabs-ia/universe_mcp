@@ -10,10 +10,45 @@
   },
   "release_date": "Apr 23, 2025",
   "url": "https://www.pulsemcp.com/servers/aipotheosis-labs-aci",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/aipotheosis-labs/aci",
+  "categories": [
+    "documentation",
+    "security",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:15.919017",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 4674,
+    "runtime": "Python",
+    "readme_excerpt": "<p align=\"center\">\n  <img src=\"frontend/public/aci-dev-full-logo-light-bg.svg\" alt=\"ACI.dev Logo\" width=\"100%\">\n</p>\n\n# ACI: Open-Source Infra to Power Unified MCP Servers and VibeOps\n\n<p align=\"center\">\n  <a href=\"https://trendshift.io/repositories/13645\" target=\"_blank\">\n    <img src=\"https://trendshift.io/api/badge/repositories/13645\" alt=\"aipotheosis-labs%2Faci | Trendshift\" style=\"width: 250px; height: 55px;\" width=\"250\" height=\"55\"/>\n  </a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://aci.dev/docs\"><img src=\"https://img.shields.io/badge/Documentation-34a1bf\" alt=\"Documentation\"></a>\n  <a href=\"https://badge.fury.io/py/aci-sdk\"><img src=\"https://badge.fury.io/py/aci-sdk.svg\" alt=\"PyPI version\"></a>\n  <a href=\"https://opensource.org/licenses/Apache-2.0\"><img src=\"https://img.shields.io/badge/License-Apache_2.0-blue.svg\" alt=\"License\"></a>\n  <a href=\"https://discord.com/invite/UU2XAnfHJh\"><img src=\"https://img.shields.io/discord/1349424813550342275?logo=discord&label=Discord&color=7289DA\" alt=\"Discord\"></a>\n  <a href=\"https://x.com/AipoLabs\"><img src=\"https://img.shields.io/twitter/follow/AipoLabs?style=social\" alt=\"Twitter Follow\"></a>\n</p>\n\n> [!NOTE]\n> This repo is for the ACI.dev platform. If you're looking for the **Unified MCP** server built with ACI.dev, see [aci-mcp](https://github.com/aipotheosis-labs/aci-mcp).\n\nACI.dev is the open-source tool-calling platform that hooks up 600+ tools into any agentic IDE or custom AI agent. It gives agents intent-aware access to to",
+    "language": "Python",
+    "license": "Apache License 2.0",
+    "forks": 454,
+    "open_issues": 50,
+    "last_pushed": "2025-09-24T08:01:50Z",
+    "topics": [
+      "agents",
+      "ai",
+      "ai-agents",
+      "api",
+      "developer-tools",
+      "function-calling",
+      "integration",
+      "llm",
+      "mcp",
+      "oauth2",
+      "open-source",
+      "permissions",
+      "tools",
+      "vibeops"
+    ],
+    "quality_score": 62
+  },
+  "enriched_at": "2025-11-17T18:57:54.593522"
 }

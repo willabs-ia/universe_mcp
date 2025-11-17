@@ -10,10 +10,18 @@
   },
   "release_date": "Apr 1, 2025",
   "url": "https://www.pulsemcp.com/servers/akki91-ankr",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/akki91",
+  "categories": [
+    "api",
+    "data",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:45.805695",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 1,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T18:58:34.428221"
 }

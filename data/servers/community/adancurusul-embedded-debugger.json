@@ -10,10 +10,14 @@
   },
   "release_date": "Aug 6, 2025",
   "url": "https://www.pulsemcp.com/servers/adancurusul-embedded-debugger",
-  "source_url": null,
+  "source_url": "https://github.com/Adancurusul",
   "categories": [],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:01.860364",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 17,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T18:54:19.697185"
 }

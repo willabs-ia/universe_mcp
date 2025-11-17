@@ -7,10 +7,14 @@
   "weekly_metric": null,
   "release_date": "Mar 8, 2025",
   "url": "https://www.pulsemcp.com/servers/a0dotrun-expose",
-  "source_url": null,
+  "source_url": "https://github.com/a0dotrun",
   "categories": [],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:23.597401",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 20,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T18:51:36.298767"
 }

@@ -7,10 +7,16 @@
   "weekly_metric": null,
   "release_date": "Jan 21, 2025",
   "url": "https://www.pulsemcp.com/servers/29decibel-record-to-markdown",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/29decibel",
+  "categories": [
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:50.796969",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 2,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T18:50:39.164593"
 }

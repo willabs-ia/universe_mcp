@@ -10,10 +10,39 @@
   },
   "release_date": "Apr 18, 2025",
   "url": "https://www.pulsemcp.com/servers/agentmode",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/agentmode/server",
+  "categories": [
+    "documentation",
+    "workflow",
+    "cloud",
+    "development",
+    "api",
+    "database",
+    "ai",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:31.068392",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 3,
+    "runtime": "Node.js",
+    "readme_excerpt": "# AgentMode ✨\n\nAgentMode is an all-in-one Model Context Protocol (MCP) server that connects your coding AI to dozens of databases, data warehouses, and data pipelines.\n\n![flow diagram!](https://cdn.hashnode.com/res/hashnode/image/upload/v1746248830909/723435d9-255c-43a2-a2a2-1691a161e45f.webp \"AgentMode flow diagram\")\n\n## Installation 👨‍💻\n\n### Quick start for VS Code, and VS Code Insiders\n\n[![Install in VS Code](https://img.shields.io/badge/VS_Code-VS_Code?style=flat-square&label=Install%20Server&color=0098FF)](https://insiders.vscode.dev/redirect?url=vscode:mcp/install?%7B%22name%22%3A%22agentmode%22%2C%22command%22%3A%22uvx%20agentmode%22%2C%22args%22%3A%5B%22--mysql%3Ahost%22%2C%22host%22%2C%22--mysql%3Aport%22%2C%22port%22%2C%22--mysql%3Ausername%22%2C%22username%22%2C%22--mysql%3Apassword%22%2C%22password%22%2C%22--mysql%3Adatabase_name%22%2C%22database_name%22%2C%22--mysql%3Aread_only%22%2C%22true%22%5D%7D)\n\n[![Install in VS Code Insiders](https://img.shields.io/badge/VS_Code_Insiders-VS_Code_Insiders?style=flat-square&label=Install%20Server&color=24bfa5)](https://insiders.vscode.dev/redirect?url=vscode-insiders:mcp/install?%7B%22name%22%3A%22agentmode%22%2C%22command%22%3A%22uvx%20agentmode%22%2C%22args%22%3A%5B%22--mysql%3Ahost%22%2C%22host%22%2C%22--mysql%3Aport%22%2C%22port%22%2C%22--mysql%3Ausername%22%2C%22username%22%2C%22--mysql%3Apassword%22%2C%22password%22%2C%22--mysql%3Adatabase_name%22%2C%22database_name%22%2C%22--mysql%3Aread_only%22%2C%22true%22%5D%7D)\n\n(",
+    "language": "Python",
+    "license": null,
+    "forks": 2,
+    "open_issues": 5,
+    "last_pushed": "2025-06-18T16:24:17Z",
+    "topics": [
+      "ai",
+      "api",
+      "database",
+      "datawarehouse",
+      "llm",
+      "mcp",
+      "python"
+    ],
+    "quality_score": 40
+  },
+  "enriched_at": "2025-11-17T18:56:25.210914"
 }

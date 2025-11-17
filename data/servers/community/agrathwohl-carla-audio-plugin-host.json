@@ -7,10 +7,14 @@
   "weekly_metric": null,
   "release_date": "Oct 13, 2025",
   "url": "https://www.pulsemcp.com/servers/agrathwohl-carla-audio-plugin-host",
-  "source_url": null,
+  "source_url": "https://github.com/agrathwohl",
   "categories": [],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:35.324899",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 5,
+    "quality_score": 20
+  },
+  "enriched_at": "2025-11-17T18:56:40.203357"
 }

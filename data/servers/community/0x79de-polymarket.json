@@ -10,10 +10,17 @@
   },
   "release_date": "Jun 27, 2025",
   "url": "https://www.pulsemcp.com/servers/0x79de-polymarket",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/0x79de",
+  "categories": [
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:28.826491",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 16,
+    "quality_score": 30
+  },
+  "enriched_at": "2025-11-17T18:49:39.199501"
 }

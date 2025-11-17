@@ -7,10 +7,17 @@
   "weekly_metric": null,
   "release_date": "Aug 14, 2025",
   "url": "https://www.pulsemcp.com/servers/agi-memory",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/cognitivecomputations",
+  "categories": [
+    "database",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:13.557085",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 4,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T18:56:35.535010"
 }

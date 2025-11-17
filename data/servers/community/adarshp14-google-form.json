@@ -7,10 +7,16 @@
   "weekly_metric": null,
   "release_date": "Apr 9, 2025",
   "url": "https://www.pulsemcp.com/servers/adarshp14-google-form",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/adarshp14",
+  "categories": [
+    "api"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:14.939193",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 7,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T18:54:29.506508"
 }

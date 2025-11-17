@@ -7,10 +7,19 @@
   "weekly_metric": null,
   "release_date": "Mar 24, 2025",
   "url": "https://www.pulsemcp.com/servers/9olidity-web-security-scanner",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/9olidity",
+  "categories": [
+    "security",
+    "database",
+    "testing",
+    "browser"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:46.287078",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 21,
+    "quality_score": 30
+  },
+  "enriched_at": "2025-11-17T18:51:28.069628"
 }

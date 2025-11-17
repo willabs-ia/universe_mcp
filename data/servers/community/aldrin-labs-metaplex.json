@@ -7,10 +7,19 @@
   "weekly_metric": null,
   "release_date": "Jan 4, 2025",
   "url": "https://www.pulsemcp.com/servers/aldrin-labs-metaplex",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/aldrin-labs",
+  "categories": [
+    "documentation",
+    "workflow",
+    "search",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:42.195871",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 1,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T18:59:08.647124"
 }

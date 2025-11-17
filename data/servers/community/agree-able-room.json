@@ -10,10 +10,14 @@
   },
   "release_date": "Feb 26, 2025",
   "url": "https://www.pulsemcp.com/servers/agree-able-room",
-  "source_url": null,
+  "source_url": "https://github.com/ryanramage",
   "categories": [],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:46.642633",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 17,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T18:56:42.629231"
 }

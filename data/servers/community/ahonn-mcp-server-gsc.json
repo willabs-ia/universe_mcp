@@ -7,10 +7,18 @@
   "weekly_metric": null,
   "release_date": "Dec 4, 2024",
   "url": "https://www.pulsemcp.com/servers/ahonn-mcp-server-gsc",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/ahonn",
+  "categories": [
+    "data",
+    "monitoring",
+    "search"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:31.507986",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 84,
+    "quality_score": 30
+  },
+  "enriched_at": "2025-11-17T18:56:59.590344"
 }

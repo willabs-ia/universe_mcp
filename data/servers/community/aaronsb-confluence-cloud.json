@@ -7,10 +7,17 @@
   "weekly_metric": null,
   "release_date": "Jan 9, 2025",
   "url": "https://www.pulsemcp.com/servers/aaronsb-confluence-cloud",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/aaronsb",
+  "categories": [
+    "cloud",
+    "search"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:46.429678",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 15,
+    "quality_score": 30
+  },
+  "enriched_at": "2025-11-17T18:52:07.688000"
 }

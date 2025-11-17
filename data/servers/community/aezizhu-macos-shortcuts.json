@@ -7,10 +7,16 @@
   "weekly_metric": null,
   "release_date": "Aug 20, 2025",
   "url": "https://www.pulsemcp.com/servers/aezizhu-macos-shortcuts",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/aezizhu",
+  "categories": [
+    "workflow"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:15.724629",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 2,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T18:55:49.130495"
 }

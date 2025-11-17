@@ -10,10 +10,17 @@
   },
   "release_date": "Mar 20, 2025",
   "url": "https://www.pulsemcp.com/servers/agentek-crypto",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/NaniDAO",
+  "categories": [
+    "workflow",
+    "search"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:54.753330",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 39,
+    "quality_score": 30
+  },
+  "enriched_at": "2025-11-17T18:56:11.983619"
 }

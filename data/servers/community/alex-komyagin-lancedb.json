@@ -7,10 +7,16 @@
   "weekly_metric": null,
   "release_date": "Jan 8, 2025",
   "url": "https://www.pulsemcp.com/servers/alex-komyagin-lancedb",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/adiom-data",
+  "categories": [
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:44.302596",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 71,
+    "quality_score": 30
+  },
+  "enriched_at": "2025-11-17T18:59:28.000057"
 }

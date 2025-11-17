@@ -7,10 +7,17 @@
   "weekly_metric": null,
   "release_date": "Dec 15, 2024",
   "url": "https://www.pulsemcp.com/servers/adhikasp-mcp-twikit",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/adhikasp",
+  "categories": [
+    "documentation",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:33.628015",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 211,
+    "quality_score": 35
+  },
+  "enriched_at": "2025-11-17T18:54:52.213784"
 }

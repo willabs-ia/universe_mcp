@@ -7,10 +7,20 @@
   "weekly_metric": null,
   "release_date": "Jun 4, 2025",
   "url": "https://www.pulsemcp.com/servers/academic-author-network",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/alperenkocyigit",
+  "categories": [
+    "security",
+    "git",
+    "search",
+    "development",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:43.346038",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 1,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T18:53:31.554641"
 }

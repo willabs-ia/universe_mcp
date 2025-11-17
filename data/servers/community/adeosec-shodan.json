@@ -7,10 +7,32 @@
   "weekly_metric": null,
   "release_date": "Mar 20, 2025",
   "url": "https://www.pulsemcp.com/servers/adeosec-shodan",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/adeosec/mcp-shodan",
+  "categories": [
+    "workflow",
+    "security",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:32.734640",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 16,
+    "runtime": "Node.js",
+    "readme_excerpt": "# ADEO CTI MCP Server\n\n> Developed by ADEO Cybersecurity Services\n\nA Model Context Protocol (MCP) server that provides access to both Shodan and VirusTotal APIs for comprehensive security analysis and threat intelligence. This server, developed and maintained by ADEO Cybersecurity Services, enables cybersecurity analysts to perform network intelligence operations including host information lookup, DNS operations, vulnerability analysis, network scanning, and alerts management through a collection of tools and prompt templates.\n\n## About ADEO Cybersecurity Services\n\nADEO Cybersecurity Services specializes in providing advanced security solutions and tools for cybersecurity professionals. This ADEO CTI MCP Server is part of our commitment to enhancing cybersecurity capabilities through innovative tools and integrations with industry-leading security data sources.\n\n## Features\n\n### Shodan Capabilities\n- Detailed information about IP addresses including open ports, services, and location data\n- DNS lookup and reverse DNS operations\n- Domain information retrieval including subdomains\n- Advanced search capabilities with facets and filters\n- On-demand network scanning\n- Network alerts and monitoring\n- Vulnerability analysis and CVE tracking\n- Account and API management\n- Historical data access\n\n### VirusTotal Integration\n- Malware analysis and detection\n- URL scanning and reputation checking\n- IP address reputation analysis\n- Domain threat intelligence\n- File hash analysis\n- Compreh",
+    "language": "TypeScript",
+    "license": null,
+    "forks": 11,
+    "open_issues": 1,
+    "last_pushed": "2025-03-22T14:06:05Z",
+    "topics": [],
+    "quality_score": 42
+  },
+  "enriched_at": "2025-11-17T18:54:37.332180"
 }

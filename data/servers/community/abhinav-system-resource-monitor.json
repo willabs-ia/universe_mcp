@@ -7,10 +7,15 @@
   "weekly_metric": null,
   "release_date": "Mar 22, 2025",
   "url": "https://www.pulsemcp.com/servers/abhinav-system-resource-monitor",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/abhinav7895",
+  "categories": [
+    "monitoring"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:39.514654",
-  "metadata": {}
+  "metadata": {
+    "quality_score": 15
+  },
+  "enriched_at": "2025-11-17T18:52:55.634555"
 }

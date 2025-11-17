@@ -7,10 +7,17 @@
   "weekly_metric": null,
   "release_date": "Apr 8, 2025",
   "url": "https://www.pulsemcp.com/servers/akshay23-spurs-blog",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/akshay23",
+  "categories": [
+    "monitoring",
+    "api"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:12.740705",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 2,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T18:58:49.384002"
 }

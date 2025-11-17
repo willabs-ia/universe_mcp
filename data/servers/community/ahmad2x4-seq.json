@@ -7,10 +7,16 @@
   "weekly_metric": null,
   "release_date": "Feb 15, 2025",
   "url": "https://www.pulsemcp.com/servers/ahmad2x4-seq",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/ahmad2x4",
+  "categories": [
+    "api"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:59.326759",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 7,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T18:56:51.946878"
 }

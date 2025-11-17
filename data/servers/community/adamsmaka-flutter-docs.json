@@ -10,10 +10,19 @@
   },
   "release_date": "Jun 21, 2025",
   "url": "https://www.pulsemcp.com/servers/adamsmaka-flutter-docs",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/adamsmaka",
+  "categories": [
+    "documentation",
+    "api",
+    "database",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:35.924115",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 60,
+    "quality_score": 30
+  },
+  "enriched_at": "2025-11-17T18:54:12.267864"
 }

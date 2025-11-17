@@ -7,10 +7,14 @@
   "weekly_metric": null,
   "release_date": "Dec 28, 2024",
   "url": "https://www.pulsemcp.com/servers/adamwattis-resource-hub",
-  "source_url": null,
+  "source_url": "https://github.com/adamwattis",
   "categories": [],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:40.055824",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 3,
+    "quality_score": 20
+  },
+  "enriched_at": "2025-11-17T18:54:14.930128"
 }

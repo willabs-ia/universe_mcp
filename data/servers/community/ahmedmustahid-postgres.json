@@ -7,10 +7,17 @@
   "weekly_metric": null,
   "release_date": "Jun 21, 2025",
   "url": "https://www.pulsemcp.com/servers/ahmedmustahid-postgres",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/ahmedmustahid",
+  "categories": [
+    "database",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:49.851488",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 21,
+    "quality_score": 30
+  },
+  "enriched_at": "2025-11-17T18:56:54.576124"
 }

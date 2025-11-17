@@ -7,10 +7,16 @@
   "weekly_metric": null,
   "release_date": "Mar 20, 2025",
   "url": "https://www.pulsemcp.com/servers/agentdeskai-browser-tools123",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/oenius",
+  "categories": [
+    "browser",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:12.186290",
-  "metadata": {}
+  "metadata": {
+    "quality_score": 15
+  },
+  "enriched_at": "2025-11-17T18:56:09.714172"
 }

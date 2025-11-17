@@ -7,10 +7,17 @@
   "weekly_metric": null,
   "release_date": "Jul 2, 2025",
   "url": "https://www.pulsemcp.com/servers/alexcandrabersiva-binance-futures",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/alexcandrabersiva",
+  "categories": [
+    "api",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:25.031613",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 2,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T19:00:12.322171"
 }

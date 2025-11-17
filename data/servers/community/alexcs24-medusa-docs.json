@@ -10,10 +10,17 @@
   },
   "release_date": "Sep 14, 2025",
   "url": "https://www.pulsemcp.com/servers/alexcs24-medusa-docs",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/Alexcs24",
+  "categories": [
+    "documentation",
+    "search"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:04.033096",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 4,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T19:00:17.693314"
 }

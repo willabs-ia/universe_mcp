@@ -7,10 +7,16 @@
   "weekly_metric": null,
   "release_date": "Mar 14, 2025",
   "url": "https://www.pulsemcp.com/servers/a01110946-rhino3d",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/a01110946",
+  "categories": [
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:39.479024",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 9,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T18:51:33.753515"
 }

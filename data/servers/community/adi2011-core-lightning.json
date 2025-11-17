@@ -7,10 +7,14 @@
   "weekly_metric": null,
   "release_date": "Jun 12, 2025",
   "url": "https://www.pulsemcp.com/servers/adi2011-core-lightning",
-  "source_url": null,
+  "source_url": "https://github.com/adi2011",
   "categories": [],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:47.673771",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 2,
+    "quality_score": 20
+  },
+  "enriched_at": "2025-11-17T18:55:01.823082"
 }

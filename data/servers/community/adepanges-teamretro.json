@@ -10,10 +10,13 @@
   },
   "release_date": "Feb 26, 2025",
   "url": "https://www.pulsemcp.com/servers/adepanges-teamretro",
-  "source_url": null,
+  "source_url": "https://github.com/adepanges",
   "categories": [],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:48.038060",
-  "metadata": {}
+  "metadata": {
+    "quality_score": 10
+  },
+  "enriched_at": "2025-11-17T18:54:39.585276"
 }

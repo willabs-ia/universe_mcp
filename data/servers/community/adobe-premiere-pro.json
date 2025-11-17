@@ -10,10 +10,14 @@
   },
   "release_date": "Jul 8, 2025",
   "url": "https://www.pulsemcp.com/servers/adobe-premiere-pro",
-  "source_url": null,
+  "source_url": "https://github.com/hetpatel-11",
   "categories": [],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:59.591679",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 10,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T18:55:27.012848"
 }

@@ -7,10 +7,15 @@
   "weekly_metric": null,
   "release_date": "Jan 16, 2025",
   "url": "https://www.pulsemcp.com/servers/alex-man-terminal-access",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/AItheLab",
+  "categories": [
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:01.232817",
-  "metadata": {}
+  "metadata": {
+    "quality_score": 15
+  },
+  "enriched_at": "2025-11-17T18:59:30.755361"
 }

@@ -10,10 +10,14 @@
   },
   "release_date": "Jul 29, 2025",
   "url": "https://www.pulsemcp.com/servers/aditya2755-video-edit-moviepy",
-  "source_url": null,
+  "source_url": "https://github.com/Aditya2755",
   "categories": [],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:30.188912",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 10,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T18:55:11.924150"
 }

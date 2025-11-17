@@ -7,10 +7,17 @@
   "weekly_metric": null,
   "release_date": "Mar 21, 2025",
   "url": "https://www.pulsemcp.com/servers/agentience-tribal",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/agentience",
+  "categories": [
+    "search",
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:01.392284",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 6,
+    "quality_score": 25
+  },
+  "enriched_at": "2025-11-17T18:56:19.360390"
 }
