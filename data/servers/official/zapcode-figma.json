@@ -7,10 +7,16 @@
   "weekly_metric": null,
   "release_date": "Apr 12, 2025",
   "url": "https://www.pulsemcp.com/servers/zapcode-figma",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/Zapcode-FTC",
+  "categories": [
+    "development"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:36.837509",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 6,
+    "quality_score": 35
+  },
+  "enriched_at": "2025-11-17T18:49:05.348885"
 }

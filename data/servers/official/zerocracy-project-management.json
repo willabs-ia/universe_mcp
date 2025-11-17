@@ -7,10 +7,24 @@
   "weekly_metric": null,
   "release_date": "Apr 29, 2025",
   "url": "https://www.pulsemcp.com/servers/zerocracy-project-management",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/zerocracy/zerocracy-mcp-server",
+  "categories": [
+    "workflow",
+    "testing",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:27.985422",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 7,
+    "runtime": "Node.js",
+    "readme_excerpt": "# MCP Server for Zerocracy\n\n[![DevOps By Rultor.com](https://www.rultor.com/b/zerocracy/zerocracy-mcp-server)](https://www.rultor.com/p/zerocracy/zerocracy-mcp-server)\n\n[![make](https://github.com/zerocracy/zerocracy-mcp-server/actions/workflows/make.yml/badge.svg)](https://github.com/zerocracy/zerocracy-mcp-server/actions/workflows/make.yml)\n[![codecov](https://codecov.io/gh/zerocracy/zerocracy-mcp-server/branch/master/graph/badge.svg)](https://codecov.io/gh/zerocracy/zerocracy-mcp-server)\n[![Hits-of-Code](https://hitsofcode.com/github/zerocracy/zerocracy-mcp-server)](https://hitsofcode.com/view/github/zerocracy/zerocracy-mcp-server)\n[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/zerocracy/zerocracy-mcp-server/blob/master/LICENSE.txt)\n\nIf you let Zerocracy help manage your product development,\nyou may also enjoy integrating its management advice into your\nAI agent. For example, [Claude Desktop] becomes smarter when connected\nto Zerocracy via this [MCP] server.\nAdd the following configuration to the `claude-desktop-config.json` file\nof [Claude Desktop] (you can get the token from [Zerocracy]):\n\n```json\n{\n  \"mcpServers\": {\n    \"zerocracy\": {\n      \"command\": \"npx\",\n      \"args\": [\n        \"-y\",\n        \"zerocracy/zerocracy-mcp-server\",\n      ],\n      \"env\": {\n        \"ZEROCRACY_TOKEN\": \"<YOUR-ZEROCRACY-TOKEN>\"\n      }\n    }\n  }\n}\n```\n\nThen, restart [Claude Desktop] and ask it something along these lines:\n\"How is the development of my produc",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:49:19.856651"
 }

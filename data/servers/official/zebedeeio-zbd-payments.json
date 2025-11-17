@@ -10,10 +10,21 @@
   },
   "release_date": "May 11, 2025",
   "url": "https://www.pulsemcp.com/servers/zebedeeio-zbd-payments",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/zbdpay/zbd-payments-typescript-sdk",
+  "categories": [
+    "documentation",
+    "api",
+    "development",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:50.177644",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 7,
+    "runtime": "Node.js",
+    "readme_excerpt": "# ZBD Payments TypeScript SDK\n\n[![NPM version](<https://img.shields.io/npm/v/@zbdpay/payments-sdk.svg?label=npm%20(stable)>)](https://npmjs.org/package/@zbdpay/payments-sdk) ![npm bundle size](https://img.shields.io/bundlephobia/minzip/@zbdpay/payments-sdk)\n\nThis library provides convenient access to the ZBD Payments REST API from server-side TypeScript or JavaScript.\n\nThe REST API documentation can be found on [docs.zbdpay.com](https://docs.zbdpay.com). The full API of this library can be found in [api.md](api.md).\n\n## Installation\n\n```sh\nnpm install @zbdpay/payments-sdk\n```\n\n## Usage\n\nThe full API of this library can be found in [api.md](api.md).\n\n<!-- prettier-ignore -->\n```js\nimport ZbdPayments from '@zbdpay/payments-sdk';\n\nconst client = new ZbdPayments({\n  apikey: process.env['ZBD_PAYMENTS_API_KEY'], // This is the default and can be omitted\n});\n\nawait client.lightningAddress.sendPayment({\n  amount: '500000',\n  comment: 'Instant global payments',\n  lnAddress: 'andreneves@zbd.gg',\n});\n```\n\n### Request & Response types\n\nThis library includes TypeScript definitions for all request params and response fields. You may import and use them like so:\n\n<!-- prettier-ignore -->\n```ts\nimport ZbdPayments from '@zbdpay/payments-sdk';\n\nconst client = new ZbdPayments({\n  apikey: process.env['ZBD_PAYMENTS_API_KEY'], // This is the default and can be omitted\n});\n\nconst params: ZbdPayments.LightningAddressSendPaymentParams = {\n  amount: '500000',\n  comment: 'Instant global payments',\n  ln",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:49:10.222647"
 }

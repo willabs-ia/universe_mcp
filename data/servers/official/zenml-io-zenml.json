@@ -10,10 +10,44 @@
   },
   "release_date": "Mar 10, 2025",
   "url": "https://www.pulsemcp.com/servers/zenml-io-zenml",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/zenml-io/mcp-zenml",
+  "categories": [
+    "documentation",
+    "workflow",
+    "cloud",
+    "development",
+    "api",
+    "database",
+    "ai",
+    "monitoring",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:48.789295",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 33,
+    "capabilities": [
+      "Pipeline runs",
+      "Users",
+      "Pipeline steps",
+      "Schedules",
+      "Stack components",
+      "Service Connectors",
+      "Step logs (if the step was run on a cloud-based stack)",
+      "Note: This is a beta/experimental release. We're still exploring how people",
+      "Stacks",
+      "Pipelines",
+      "Services",
+      "Flavors",
+      "Pipeline run templates",
+      "Step code",
+      "Artifacts (metadata about data artifacts, not the data itself)"
+    ],
+    "runtime": "Python",
+    "readme_excerpt": "# MCP Server for ZenML\n[![Trust Score](https://archestra.ai/mcp-catalog/api/badge/quality/zenml-io/mcp-zenml)](https://archestra.ai/mcp-catalog/zenml-io__mcp-zenml)\n\nThis project implements a [Model Context Protocol\n(MCP)](https://modelcontextprotocol.io/introduction) server for interacting with\nthe [ZenML](https://zenml.io) API.\n\n![ZenML MCP Server](assets/mcp-zenml.png)\n\n## What is MCP?\n\nThe Model Context Protocol (MCP) is an open protocol that standardizes how\napplications provide context to Large Language Models (LLMs). It acts like a\n\"USB-C port for AI applications\" - providing a standardized way to connect AI\nmodels to different data sources and tools.\n\nMCP follows a client-server architecture where:\n- **MCP Hosts**: Programs like Claude Desktop or IDEs that want to access data through MCP\n- **MCP Clients**: Protocol clients that maintain 1:1 connections with servers\n- **MCP Servers**: Lightweight programs that expose specific capabilities through the standardized protocol\n- **Local Data Sources**: Your computer's files, databases, and services that MCP servers can securely access\n- **Remote Services**: External systems available over the internet that MCP servers can connect to\n\n## What is ZenML?\n\nZenML is an open-source platform for building and managing ML and AI pipelines.\nIt provides a unified interface for managing data, models, and experiments.\n\nFor more information, see the [ZenML website](https://zenml.io) and [our documentation](https://docs.zenml.io).\n\n## Fea",
+    "quality_score": 60
+  },
+  "enriched_at": "2025-11-17T18:49:17.285575"
 }

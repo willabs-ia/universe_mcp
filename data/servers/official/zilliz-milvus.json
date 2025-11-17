@@ -10,10 +10,26 @@
   },
   "release_date": "Mar 18, 2025",
   "url": "https://www.pulsemcp.com/servers/zilliz-milvus",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/zilliztech/mcp-server-milvus",
+  "categories": [
+    "workflow",
+    "git",
+    "search",
+    "development",
+    "api",
+    "database",
+    "ai",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:48.815793",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 196,
+    "runtime": "Python",
+    "readme_excerpt": "# MCP Server for Milvus\n\n> The Model Context Protocol (MCP) is an open protocol that enables seamless integration between LLM applications and external data sources and tools. Whether you're building an AI-powered IDE, enhancing a chat interface, or creating custom AI workflows, MCP provides a standardized way to connect LLMs with the context they need.\n\nThis repository contains a MCP server that provides access to [Milvus](https://milvus.io/) vector database functionality.\n\n![MCP with Milvus](Claude_mcp+1080.gif)\n\n## Prerequisites\n\nBefore using this MCP server, ensure you have:\n\n- Python 3.10 or higher\n- A running [Milvus](https://milvus.io/) instance (local or remote)\n- [uv](https://github.com/astral-sh/uv) installed (recommended for running the server)\n\n## Usage\n\nThe recommended way to use this MCP server is to run it directly with `uv` without installation. This is how both Claude Desktop and Cursor are configured to use it in the examples below.\n\nIf you want to clone the repository:\n\n```bash\ngit clone https://github.com/zilliztech/mcp-server-milvus.git\ncd mcp-server-milvus\n```\n\nThen you can run the server directly:\n\n```bash\nuv run src/mcp_server_milvus/server.py --milvus-uri http://localhost:19530\n```\n\nAlternatively you can change the .env file in the `src/mcp_server_milvus/` directory to set the environment variables and run the server with the following command:\n\n```bash\nuv run src/mcp_server_milvus/server.py\n```\n\n### Important: the .env file will have higher priority ",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T18:49:24.896775"
 }

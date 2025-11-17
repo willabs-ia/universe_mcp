@@ -7,10 +7,22 @@
   "weekly_metric": null,
   "release_date": "Mar 18, 2025",
   "url": "https://www.pulsemcp.com/servers/zebedeeio-zbd",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/zbdpay/zbd-mcp-server",
+  "categories": [
+    "git",
+    "development",
+    "api",
+    "ai",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:23.630672",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 3,
+    "runtime": "Node.js",
+    "readme_excerpt": "# ⚠️ DEPRECATION NOTICE\n\n**🚨 This MCP Server is no longer maintained. 🚨**\n\nWe’ve moved to a new and improved MCP Server implementation. All future updates, features, and support will be provided there.\n\n👉 Please migrate to the new MCP Server here: https://github.com/zebedeeio/zbd-payments-typescript-sdk/tree/main/packages/mcp-server\n\nThis repo will remain available for reference, but is not recommended for production use.\n\n------------------------\n\n# ZBD MCP Server (deprecated -- use this instead: https://github.com/zebedeeio/zbd-payments-typescript-sdk/tree/main/packages/mcp-server)\n\nAdd Bitcoin powers to your LLM.\n\n## Base SDK\n\nThis MCP server uses the official TypeScript SDK -- https://github.com/modelcontextprotocol/typescript-sdk\n\n## Prerequisites\n\n- Node.js 23+ (or Bun/Deno/Anything that supports running .ts files)\n- Bun (for building executables)\n- ZBD API key for payment processing\n\n## ZBD Setup\n\nGet your API key from the ZBD Developer Dashboard and put it in a new `.env` file under `ZBD_API_KEY=XXXXXXXXXXXX` (check `.env.example` for an example).\n\nOnce that's done run the `pnpm build` command and setup the MCP server on your client (e.g. Claude Desktop or Cursor).\n\n## Installing Bun\n\nIf you don't have Bun installed, you can install it using one of the following methods:\n\n### macOS and Linux\n\n```bash\n# Using curl (recommended)\ncurl -fsSL https://bun.sh/install | bash\n\n# Using Homebrew\nbrew install oven-sh/bun/bun\n\n# Using npm\nnpm install -g bun\n```\n\n### Windows\n\n```ba",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:49:12.584441"
 }
