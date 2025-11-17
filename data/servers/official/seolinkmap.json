@@ -1,0 +1,19 @@
+{
+  "id": "seolinkmap",
+  "name": "SEO LinkMap",
+  "provider": "SEO LinkMap",
+  "description": "Transforms SEO analytics into conversational queries, providing SERP correlation analysis, PageRank calculations,...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 638
+  },
+  "release_date": "Aug 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/seolinkmap",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:33.534199",
+  "metadata": {}
+}

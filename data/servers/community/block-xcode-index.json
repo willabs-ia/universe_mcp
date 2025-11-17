@@ -1,0 +1,19 @@
+{
+  "id": "block-xcode-index",
+  "name": "Xcode Index",
+  "provider": "Block, Inc.",
+  "description": "Provides direct access to Xcode's project index store through Apple's IndexStoreDB, enabling precise code navigation...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 691
+  },
+  "release_date": "Jun 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/block-xcode-index",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:31.371231",
+  "metadata": {}
+}

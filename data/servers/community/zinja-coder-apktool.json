@@ -1,0 +1,19 @@
+{
+  "id": "zinja-coder-apktool",
+  "name": "APKTool",
+  "provider": "zinja-coder",
+  "description": "Provides a bridge to the APKTool utility for analyzing and modifying Android applications, enabling decoding,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 691
+  },
+  "release_date": "Apr 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/zinja-coder-apktool",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:29.305515",
+  "metadata": {}
+}

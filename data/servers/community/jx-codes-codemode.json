@@ -1,0 +1,19 @@
+{
+  "id": "jx-codes-codemode",
+  "name": "Codemode",
+  "provider": "Jesus Moreno",
+  "description": "Replaces traditional tool calling with a code execution approach where assistants write TypeScript/JavaScript that...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 691
+  },
+  "release_date": "Sep 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/jx-codes-codemode",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:31.379077",
+  "metadata": {}
+}

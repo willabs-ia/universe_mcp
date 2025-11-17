@@ -1,0 +1,19 @@
+{
+  "id": "coleam00-crawl4ai-rag",
+  "name": "Crawl4AI RAG",
+  "provider": "Cole Medin",
+  "description": "Integrates web crawling with RAG functionality to enable website content retrieval, storage in vector databases, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 3000
+  },
+  "release_date": "May 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/coleam00-crawl4ai-rag",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:18.087677",
+  "metadata": {}
+}

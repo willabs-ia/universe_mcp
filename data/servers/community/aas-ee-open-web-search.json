@@ -1,0 +1,19 @@
+{
+  "id": "aas-ee-open-web-search",
+  "name": "Open Web Search",
+  "provider": "Aas-ee",
+  "description": "Provides web search capabilities across multiple search engines including Bing, Baidu, Brave, DuckDuckGo, and Exa,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1900
+  },
+  "release_date": "Jul 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/aas-ee-open-web-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:20.291472",
+  "metadata": {}
+}

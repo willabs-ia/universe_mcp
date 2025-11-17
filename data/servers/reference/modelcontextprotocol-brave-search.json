@@ -1,0 +1,19 @@
+{
+  "id": "modelcontextprotocol-brave-search",
+  "name": "Brave Search",
+  "provider": "Anthropic",
+  "description": "Retrieve web pages, news, and local business results via Brave API.",
+  "classification": "reference",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 3200
+  },
+  "release_date": "Nov 19, 2024",
+  "url": "https://www.pulsemcp.com/servers/modelcontextprotocol-brave-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:18.085215",
+  "metadata": {}
+}

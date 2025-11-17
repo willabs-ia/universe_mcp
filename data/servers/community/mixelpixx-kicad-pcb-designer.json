@@ -1,0 +1,19 @@
+{
+  "id": "mixelpixx-kicad-pcb-designer",
+  "name": "KiCAD PCB Designer",
+  "provider": "mixelpixx",
+  "description": "Enables LLMs to directly interact with KiCAD for printed circuit board design.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 830
+  },
+  "release_date": "Apr 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/mixelpixx-kicad-pcb-designer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:27.131990",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "storybook-addon-mcp",
+  "name": "Storybook",
+  "provider": "Storybook",
+  "description": "Help agents automatically write and test stories for your UI components",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 16600
+  },
+  "release_date": "Aug 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/storybook-addon-mcp",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:13.803769",
+  "metadata": {}
+}

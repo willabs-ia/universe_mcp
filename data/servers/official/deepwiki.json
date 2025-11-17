@@ -1,0 +1,19 @@
+{
+  "id": "deepwiki",
+  "name": "DeepWiki",
+  "provider": "Cognition",
+  "description": "Provides AI assistants with access to GitHub repository documentation and search capabilities for code understanding,...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 1500
+  },
+  "release_date": "May 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/deepwiki",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:22.717752",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "arjunbhuptani-sparkmango",
+  "name": "SparkMango",
+  "provider": "Arjun Bhuptani",
+  "description": "Converts Solidity smart contracts into RESTful API implementations, enabling applications to interact with blockchain...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 12100
+  },
+  "release_date": "Apr 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/arjunbhuptani-sparkmango",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:15.896739",
+  "metadata": {}
+}

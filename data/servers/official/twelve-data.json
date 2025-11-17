@@ -1,0 +1,19 @@
+{
+  "id": "twelve-data",
+  "name": "Twelve Data",
+  "provider": "Twelve Data",
+  "description": "Integrates with Twelve Data API to provide real-time quotes, historical OHLCV price data, and instrument metadata for...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 638
+  },
+  "release_date": "May 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/twelve-data",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:31.405190",
+  "metadata": {}
+}

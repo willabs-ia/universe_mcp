@@ -1,0 +1,19 @@
+{
+  "id": "linear",
+  "name": "Linear",
+  "provider": "Linear",
+  "description": "Access your Linear data to manage your projects and issues in a simple and secure way.",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 11500
+  },
+  "release_date": "May 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/linear",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:15.899060",
+  "metadata": {}
+}

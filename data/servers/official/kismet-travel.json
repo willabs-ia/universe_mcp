@@ -1,0 +1,19 @@
+{
+  "id": "kismet-travel",
+  "name": "Kismet Travel",
+  "provider": "Kismet",
+  "description": "Access hotel data - including real-time rates and availability - and surface booking links to users",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 638
+  },
+  "release_date": "Sep 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/kismet-travel",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:33.571100",
+  "metadata": {}
+}

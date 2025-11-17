@@ -1,0 +1,19 @@
+{
+  "id": "executeautomation-database-server",
+  "name": "ExecuteAutomation Database Server",
+  "provider": "ExecuteAutomation",
+  "description": "Enables direct interaction with SQLite and SQL Server databases through a modular adapter architecture for data...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 968
+  },
+  "release_date": "Apr 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/executeautomation-database-server",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:24.988981",
+  "metadata": {}
+}

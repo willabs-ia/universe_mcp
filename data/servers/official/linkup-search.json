@@ -1,0 +1,19 @@
+{
+  "id": "linkup-search",
+  "name": "Linkup Search",
+  "provider": "Linkup Technologies",
+  "description": "Integrates with Linkup Technologies' API to enable web searches for information gathering, fact-checking, and...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 846
+  },
+  "release_date": "Nov 28, 2024",
+  "url": "https://www.pulsemcp.com/servers/linkup-search",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:27.075120",
+  "metadata": {}
+}

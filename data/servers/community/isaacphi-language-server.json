@@ -1,0 +1,19 @@
+{
+  "id": "isaacphi-language-server",
+  "name": "Language Server",
+  "provider": "Phil Isaac",
+  "description": "Provides intelligent code analysis and manipulation across multiple programming languages through language server...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1200
+  },
+  "release_date": "Dec 31, 2024",
+  "url": "https://www.pulsemcp.com/servers/isaacphi-language-server",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:24.940485",
+  "metadata": {}
+}

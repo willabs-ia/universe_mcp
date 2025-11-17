@@ -1,0 +1,19 @@
+{
+  "id": "chrome-devtools",
+  "name": "Chrome DevTools",
+  "provider": "Google",
+  "description": "Provides direct Chrome browser control through DevTools for web automation, debugging, and performance analysis using...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 13100
+  },
+  "release_date": "Sep 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/chrome-devtools",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:13.818623",
+  "metadata": {}
+}

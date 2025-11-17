@@ -1,0 +1,19 @@
+{
+  "id": "mercado-pago",
+  "name": "Mercado Pago",
+  "provider": "Mercado Pago",
+  "description": "Tools to enhance developer experience in integrating Mercado Pago solutions, the Latin American payment platform.",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 638
+  },
+  "release_date": "Jun 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/mercado-pago",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:31.407907",
+  "metadata": {}
+}

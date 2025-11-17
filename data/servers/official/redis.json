@@ -1,0 +1,19 @@
+{
+  "id": "redis",
+  "name": "Redis",
+  "provider": "Redis",
+  "description": "Provides a natural language interface to Redis databases, enabling operations on various data structures with tools...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1800
+  },
+  "release_date": "Mar 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/redis",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:20.297385",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "hashicorp-terraform-registry",
+  "name": "Terraform Registry",
+  "provider": "HashiCorp",
+  "description": "Integrates with HashiCorp's Terraform Registry APIs to enable provider documentation retrieval, module search, and...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1800
+  },
+  "release_date": "May 27, 2025",
+  "url": "https://www.pulsemcp.com/servers/hashicorp-terraform-registry",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:20.299784",
+  "metadata": {}
+}

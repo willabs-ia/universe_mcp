@@ -1,0 +1,19 @@
+{
+  "id": "parallel-task",
+  "name": "Parallel Task",
+  "provider": "Parallel Web Systems",
+  "description": "Highly accurate deep search and batch tasks",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 638
+  },
+  "release_date": "Oct 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/parallel-task",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:33.573594",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "companies-in-the-uk",
+  "name": "Companies in the UK",
+  "provider": "Companies In The UK",
+  "description": "Access UK company data & financial analysis",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 738
+  },
+  "release_date": "Aug 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/companies-in-the-uk",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:29.286575",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "hejie-calculator",
+  "name": "Calculator",
+  "provider": "He Jie",
+  "description": "Provides a secure mathematical expression evaluation service using Python's AST module for basic operations without...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 7100
+  },
+  "release_date": "Mar 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/hejie-calculator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:15.930769",
+  "metadata": {}
+}

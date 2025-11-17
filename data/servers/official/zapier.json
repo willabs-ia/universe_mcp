@@ -1,0 +1,19 @@
+{
+  "id": "zapier",
+  "name": "Zapier",
+  "provider": "Zapier",
+  "description": "Generate a dynamic MCP server that connects to any of your favorite 8000+ apps on Zapier.",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 212000
+  },
+  "release_date": "Mar 21, 2025",
+  "url": "https://www.pulsemcp.com/servers/zapier",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:13.770760",
+  "metadata": {}
+}

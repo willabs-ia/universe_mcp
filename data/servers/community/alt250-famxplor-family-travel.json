@@ -1,0 +1,19 @@
+{
+  "id": "alt250-famxplor-family-travel",
+  "name": "Famxplor",
+  "provider": "Denis Angilella",
+  "description": "Integrates with Famxplor's curated database to provide location-based search for family-tested activities worldwide...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 638
+  },
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/alt250-famxplor-family-travel",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:33.552708",
+  "metadata": {}
+}

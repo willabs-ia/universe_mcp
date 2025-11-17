@@ -1,0 +1,19 @@
+{
+  "id": "beehiveinnovations-gemini",
+  "name": "Zen",
+  "provider": "Beehive Innovations",
+  "description": "Give your development workflow access to all state of the art AI models for enhanced code analysis, problem-solving,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 13600
+  },
+  "release_date": "Jun 9, 2025",
+  "url": "https://www.pulsemcp.com/servers/beehiveinnovations-gemini",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:13.813813",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "kentcdodds-cloudflare-edge-calculator",
+  "name": "Cloudflare Edge Calculator",
+  "provider": "Kent C. Dodds",
+  "description": "Demonstrates edge deployment of MCP servers using Cloudflare Workers and Durable Objects for global low-latency tool...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1200
+  },
+  "release_date": "Oct 14, 2025",
+  "url": "https://www.pulsemcp.com/servers/kentcdodds-cloudflare-edge-calculator",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:24.945567",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rioriost-age-graph",
+  "name": "Apache AGE Graph",
+  "provider": "Rio Fujita",
+  "description": "Bridges Claude with PostgreSQL databases using Apache AGE graph extension, enabling natural language execution of...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1300
+  },
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/rioriost-age-graph",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:22.749532",
+  "metadata": {}
+}

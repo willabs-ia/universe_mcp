@@ -1,0 +1,19 @@
+{
+  "id": "antfu-nuxt",
+  "name": "Nuxt.js",
+  "provider": "Anthony Fu",
+  "description": "Integrates with Nuxt.js projects to provide development workflow automation, project scaffolding, and configuration...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1100
+  },
+  "release_date": "Mar 11, 2025",
+  "url": "https://www.pulsemcp.com/servers/antfu-nuxt",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:24.960000",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "justinpbarnett-unity",
+  "name": "Unity",
+  "provider": "Justin Barnett",
+  "description": "Allow MCP clients to perform Unity Editor actions.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 13000
+  },
+  "release_date": "Mar 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/justinpbarnett-unity",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:15.883604",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "mailersend",
+  "name": "MailerSend",
+  "provider": "MailerSend",
+  "description": "MailerSend integration for managing email campaigns, domain configuration, message scheduling, template creation,...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 738
+  },
+  "release_date": "Sep 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/mailersend",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:29.291034",
+  "metadata": {}
+}

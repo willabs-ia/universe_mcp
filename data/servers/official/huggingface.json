@@ -1,0 +1,19 @@
+{
+  "id": "huggingface",
+  "name": "Hugging Face",
+  "provider": "Hugging Face",
+  "description": "Integrates with Hugging Face's ecosystem to search models, datasets, and papers while dynamically connecting to...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 13000
+  },
+  "release_date": "Jun 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/huggingface",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:15.880719",
+  "metadata": {}
+}

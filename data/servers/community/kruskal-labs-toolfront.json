@@ -1,0 +1,19 @@
+{
+  "id": "kruskal-labs-toolfront",
+  "name": "ToolFront",
+  "provider": "Kruskal Labs",
+  "description": "Provides unified access to multiple database types including PostgreSQL, MySQL, SQLite, DuckDB, BigQuery, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 741
+  },
+  "release_date": "Jun 12, 2025",
+  "url": "https://www.pulsemcp.com/servers/kruskal-labs-toolfront",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:27.153382",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "elevenlabs",
+  "name": "ElevenLabs",
+  "provider": "ElevenLabs",
+  "description": "Integrates with ElevenLabs to provide high-quality text-to-speech, voice cloning, and conversational capabilities...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 812
+  },
+  "release_date": "Apr 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/elevenlabs",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:27.142654",
+  "metadata": {}
+}

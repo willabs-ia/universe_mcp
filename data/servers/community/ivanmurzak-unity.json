@@ -1,0 +1,19 @@
+{
+  "id": "ivanmurzak-unity",
+  "name": "Unity",
+  "provider": "Ivan Murzak",
+  "description": "Server + Plugin for Unity Editor and Unity game. The Plugin allows to connect to MCP clients like Claude Desktop or...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 2600
+  },
+  "release_date": "Apr 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/ivanmurzak-unity",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:20.253409",
+  "metadata": {}
+}

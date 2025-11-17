@@ -1,0 +1,19 @@
+{
+  "id": "mobile-next-mobile-device-control",
+  "name": "Mobile Device Control",
+  "provider": "Mobile Next",
+  "description": "Enables remote control of Android and iOS devices through commands for screenshots, app management, screen...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1900
+  },
+  "release_date": "Apr 3, 2025",
+  "url": "https://www.pulsemcp.com/servers/mobile-next-mobile-device-control",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:20.293270",
+  "metadata": {}
+}

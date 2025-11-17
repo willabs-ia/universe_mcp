@@ -1,0 +1,19 @@
+{
+  "id": "mladensu-cli-mcp-server",
+  "name": "CLI Secure",
+  "provider": "MladenSU",
+  "description": "Execute shell commands with strict security policies.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 3900
+  },
+  "release_date": "Dec 8, 2024",
+  "url": "https://www.pulsemcp.com/servers/mladensu-cli-mcp-server",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:18.059495",
+  "metadata": {}
+}

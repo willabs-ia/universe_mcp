@@ -1,0 +1,19 @@
+{
+  "id": "cloudflare-logpush",
+  "name": "Cloudflare Logpush",
+  "provider": "Cloudflare",
+  "description": "Enables AI assistants to retrieve and manage Cloudflare Logpush jobs across multiple accounts, providing tools for...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 738
+  },
+  "release_date": "May 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/cloudflare-logpush",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:29.258944",
+  "metadata": {}
+}

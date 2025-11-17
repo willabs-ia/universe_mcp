@@ -1,0 +1,19 @@
+{
+  "id": "hawstein-reddit",
+  "name": "Reddit",
+  "provider": "Hawstein",
+  "description": "Integrates with Reddit's API to fetch and retrieve diverse content including posts, comments, and subreddit...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 670
+  },
+  "release_date": "Feb 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/hawstein-reddit",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:31.380486",
+  "metadata": {}
+}

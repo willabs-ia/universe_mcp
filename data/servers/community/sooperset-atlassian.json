@@ -1,0 +1,19 @@
+{
+  "id": "sooperset-atlassian",
+  "name": "Atlassian Cloud",
+  "provider": "sooperset",
+  "description": "Access Confluence pages and Jira issues via Atlassian API.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 45500
+  },
+  "release_date": "Dec 3, 2024",
+  "url": "https://www.pulsemcp.com/servers/sooperset-atlassian",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:13.777950",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "proofly-ai-deepfake-detection",
+  "name": "Proofly AI",
+  "provider": "Proofly AI",
+  "description": "Integrates with the Proofly AI API to detect deepfakes and manipulated faces in images from URLs or base64 data,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 638
+  },
+  "release_date": "Aug 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/proofly-ai-deepfake-detection",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:33.547486",
+  "metadata": {}
+}

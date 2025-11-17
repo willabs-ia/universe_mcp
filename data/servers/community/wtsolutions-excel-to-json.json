@@ -1,0 +1,19 @@
+{
+  "id": "wtsolutions-excel-to-json",
+  "name": "Excel to JSON",
+  "provider": "WTSolutions",
+  "description": "Converts Excel files and CSV data to JSON format with automatic data type detection, multi-sheet support, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 738
+  },
+  "release_date": "Jul 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/wtsolutions-excel-to-json",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:29.276202",
+  "metadata": {}
+}

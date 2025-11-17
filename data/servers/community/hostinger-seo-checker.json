@@ -1,0 +1,19 @@
+{
+  "id": "hostinger-seo-checker",
+  "name": "SEO Checker",
+  "provider": "Hostinger",
+  "description": "Professional SEO analysis server that evaluates websites across multiple optimization dimensions including meta tags,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 2200
+  },
+  "release_date": "Jul 30, 2025",
+  "url": "https://www.pulsemcp.com/servers/hostinger-seo-checker",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:20.268498",
+  "metadata": {}
+}

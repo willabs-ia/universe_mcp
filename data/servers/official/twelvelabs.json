@@ -1,0 +1,19 @@
+{
+  "id": "twelvelabs",
+  "name": "TwelveLabs",
+  "provider": "Twelve Labs",
+  "description": "Integrates with TwelveLabs' video understanding platform to enable semantic search, automated content generation, and...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 638
+  },
+  "release_date": "Sep 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/twelvelabs",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:33.572362",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "glips-figma-context",
+  "name": "Figma Context",
+  "provider": "GLips",
+  "description": "Integrates with Figma's design platform API to enable AI-driven design operations, asset management, and team...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 10700
+  },
+  "release_date": "Feb 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/glips-figma-context",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:15.903805",
+  "metadata": {}
+}

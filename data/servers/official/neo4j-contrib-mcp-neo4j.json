@@ -1,0 +1,19 @@
+{
+  "id": "neo4j-contrib-mcp-neo4j",
+  "name": "Neo4j Graph",
+  "provider": "Neo4j",
+  "description": "Interact with Neo4j graph databases to query, analyze, and manipulate data.",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 830
+  },
+  "release_date": "Dec 3, 2024",
+  "url": "https://www.pulsemcp.com/servers/neo4j-contrib-mcp-neo4j",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:27.077710",
+  "metadata": {}
+}

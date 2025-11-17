@@ -1,0 +1,19 @@
+{
+  "id": "whart-test",
+  "name": "WHartTest",
+  "provider": "MGdaasLab",
+  "description": "Provides automated testing tools and Microsoft API integration capabilities for test automation workflows, QA...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1800
+  },
+  "release_date": "Sep 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/whart-test",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:20.301009",
+  "metadata": {}
+}

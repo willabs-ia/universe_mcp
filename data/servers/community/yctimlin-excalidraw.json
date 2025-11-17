@@ -1,0 +1,19 @@
+{
+  "id": "yctimlin-excalidraw",
+  "name": "Excalidraw",
+  "provider": "yctimlin",
+  "description": "Enables LLMs to create and manipulate Excalidraw diagrams through a Node.js API that provides tools for element...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 2400
+  },
+  "release_date": "Mar 16, 2025",
+  "url": "https://www.pulsemcp.com/servers/yctimlin-excalidraw",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:20.257579",
+  "metadata": {}
+}

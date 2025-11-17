@@ -1,0 +1,19 @@
+{
+  "id": "modelcontextprotocol-puppeteer",
+  "name": "Puppeteer",
+  "provider": "Anthropic",
+  "description": "Navigate websites, fill forms, and capture screenshots programmatically.",
+  "classification": "reference",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 8200
+  },
+  "release_date": "Nov 19, 2024",
+  "url": "https://www.pulsemcp.com/servers/modelcontextprotocol-puppeteer",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:15.920177",
+  "metadata": {}
+}

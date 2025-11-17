@@ -1,0 +1,19 @@
+{
+  "id": "atlassian",
+  "name": "Jira & Confluence",
+  "provider": "Atlassian",
+  "description": "Summarize work, create issues or pages, and perform multi-step actions, all while keeping data secure and within...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 6900
+  },
+  "release_date": "May 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/atlassian",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:18.039017",
+  "metadata": {}
+}

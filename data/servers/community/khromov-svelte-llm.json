@@ -1,0 +1,19 @@
+{
+  "id": "khromov-svelte-llm",
+  "name": "Svelte Documentation",
+  "provider": "khromov",
+  "description": "Provides Svelte 5 and SvelteKit documentation access with automated content syncing from the official repository,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 16900
+  },
+  "release_date": "Aug 18, 2025",
+  "url": "https://www.pulsemcp.com/servers/khromov-svelte-llm",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:13.802615",
+  "metadata": {}
+}

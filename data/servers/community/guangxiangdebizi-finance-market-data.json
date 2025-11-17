@@ -1,0 +1,19 @@
+{
+  "id": "guangxiangdebizi-finance-market-data",
+  "name": "Finance Market Data",
+  "provider": "guangxiangdebizi",
+  "description": "Provides real-time financial data and news through tools for stock market information, market indices tracking, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1800
+  },
+  "release_date": "May 10, 2025",
+  "url": "https://www.pulsemcp.com/servers/guangxiangdebizi-finance-market-data",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:20.298566",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "aipotheosis-labs-aci",
+  "name": "ACI.dev",
+  "provider": "Aipotheosis Labs",
+  "description": "Connects your AI agents to 600+ tool integrations with multi-tenant auth and granular permissions.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 8200
+  },
+  "release_date": "Apr 23, 2025",
+  "url": "https://www.pulsemcp.com/servers/aipotheosis-labs-aci",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:15.919017",
+  "metadata": {}
+}

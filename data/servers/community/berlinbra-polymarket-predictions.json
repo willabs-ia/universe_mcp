@@ -1,0 +1,19 @@
+{
+  "id": "berlinbra-polymarket-predictions",
+  "name": "Polymarket",
+  "provider": "berlinbra",
+  "description": "Integrates with PolyMarket's API to fetch and analyze prediction market data for financial insights and decision...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1400
+  },
+  "release_date": "Jan 17, 2025",
+  "url": "https://www.pulsemcp.com/servers/berlinbra-polymarket-predictions",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:22.738215",
+  "metadata": {}
+}

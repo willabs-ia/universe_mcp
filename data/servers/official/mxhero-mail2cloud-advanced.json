@@ -1,0 +1,19 @@
+{
+  "id": "mxhero-mail2cloud-advanced",
+  "name": "mxHERO Mail2Cloud Advanced",
+  "provider": "mxHERO",
+  "description": "Integrates with mxHERO's Mail2Cloud Advanced service to search across massive multi-account email repositories using...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 1500
+  },
+  "release_date": "Aug 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/mxhero-mail2cloud-advanced",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:22.724488",
+  "metadata": {}
+}

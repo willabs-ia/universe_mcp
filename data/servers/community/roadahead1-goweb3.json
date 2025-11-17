@@ -1,0 +1,19 @@
+{
+  "id": "roadahead1-goweb3",
+  "name": "GoWeb3",
+  "provider": "roadahead1",
+  "description": "Provides access to Web3 events and news from GoWeb3.fyi through a proxy bridge that enables searching events by...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 1500
+  },
+  "release_date": "Aug 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/roadahead1-goweb3",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:22.723330",
+  "metadata": {}
+}

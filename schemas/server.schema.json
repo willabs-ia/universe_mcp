@@ -1,0 +1,99 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "MCP Server",
+  "description": "Schema for MCP Server data from PulseMCP",
+  "type": "object",
+  "required": ["id", "name", "url", "scraped_at"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique identifier (slug from URL)"
+    },
+    "name": {
+      "type": "string",
+      "description": "Server name"
+    },
+    "provider": {
+      "type": ["string", "null"],
+      "description": "Organization or provider name"
+    },
+    "description": {
+      "type": ["string", "null"],
+      "description": "Brief description of the server"
+    },
+    "classification": {
+      "type": ["string", "null"],
+      "enum": ["official", "reference", "community", null],
+      "description": "Server classification"
+    },
+    "weekly_metric": {
+      "type": ["object", "null"],
+      "properties": {
+        "type": {
+          "type": "string",
+          "enum": ["downloads", "visitors"]
+        },
+        "value": {
+          "type": "number"
+        }
+      }
+    },
+    "release_date": {
+      "type": ["string", "null"],
+      "description": "Release date"
+    },
+    "url": {
+      "type": "string",
+      "format": "uri",
+      "description": "PulseMCP server page URL"
+    },
+    "source_url": {
+      "type": ["string", "null"],
+      "format": "uri",
+      "description": "Source repository URL (GitHub, etc)"
+    },
+    "categories": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Server categories"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Server tags"
+    },
+    "last_updated": {
+      "type": ["string", "null"],
+      "format": "date-time",
+      "description": "Last update timestamp from PulseMCP"
+    },
+    "scraped_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Timestamp when data was scraped"
+    },
+    "metadata": {
+      "type": "object",
+      "description": "Additional metadata",
+      "properties": {
+        "author": {
+          "type": "string"
+        },
+        "license": {
+          "type": "string"
+        },
+        "version": {
+          "type": "string"
+        },
+        "documentation_url": {
+          "type": "string",
+          "format": "uri"
+        }
+      }
+    }
+  }
+}

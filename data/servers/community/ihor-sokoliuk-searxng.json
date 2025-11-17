@@ -1,0 +1,19 @@
+{
+  "id": "ihor-sokoliuk-searxng",
+  "name": "SearXNG",
+  "provider": "Ihor Sokoliuk",
+  "description": "Integrates SearXNG API to enable web searches with pagination control for up-to-date information retrieval and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1500
+  },
+  "release_date": "Dec 23, 2024",
+  "url": "https://www.pulsemcp.com/servers/ihor-sokoliuk-searxng",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:22.702984",
+  "metadata": {}
+}

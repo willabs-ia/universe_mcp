@@ -1,0 +1,19 @@
+{
+  "id": "digitalocean-archived",
+  "name": "DigitalOcean",
+  "provider": "DigitalOcean",
+  "description": "Integrates with DigitalOcean's cloud platform API to enable management of cloud resources, deployment of...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 873
+  },
+  "release_date": "Apr 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/digitalocean-archived",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:27.073759",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "wende-cicada-elixir-code-intelligence",
+  "name": "Cicada",
+  "provider": "wende",
+  "description": "Provides AST-aware code intelligence for Elixir projects with module and function search, call site tracking with...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1300
+  },
+  "release_date": "Oct 31, 2025",
+  "url": "https://www.pulsemcp.com/servers/wende-cicada-elixir-code-intelligence",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:24.931799",
+  "metadata": {}
+}

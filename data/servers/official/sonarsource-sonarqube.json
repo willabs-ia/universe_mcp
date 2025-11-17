@@ -1,0 +1,19 @@
+{
+  "id": "sonarsource-sonarqube",
+  "name": "SonarQube",
+  "provider": "SonarSource",
+  "description": "Integrates with SonarQube and SonarCloud platforms for code quality analysis, issue management, metrics retrieval,...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 968
+  },
+  "release_date": "Jul 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/sonarsource-sonarqube",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:27.063551",
+  "metadata": {}
+}

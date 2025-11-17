@@ -1,0 +1,19 @@
+{
+  "id": "djm81-chroma-working-memory",
+  "name": "Chroma Working Memory",
+  "provider": "Dominikus Nold",
+  "description": "Provides a persistent, searchable, automatically updated 'second brain' for development by integrating ChromaDB with...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1300
+  },
+  "release_date": "Mar 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/djm81-chroma-working-memory",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:24.933613",
+  "metadata": {}
+}

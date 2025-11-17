@@ -1,0 +1,19 @@
+{
+  "id": "brightdata-web-scraping",
+  "name": "Bright Data",
+  "provider": "Bright Data",
+  "description": "Integrates with Bright Data's web scraping infrastructure to provide real-time access to public web data through...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 638
+  },
+  "release_date": "Apr 15, 2025",
+  "url": "https://www.pulsemcp.com/servers/brightdata-web-scraping",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:31.389596",
+  "metadata": {}
+}

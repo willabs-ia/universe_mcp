@@ -1,0 +1,19 @@
+{
+  "id": "softeria-microsoft-365",
+  "name": "Microsoft 365",
+  "provider": "Softeria",
+  "description": "Provides a bridge between Microsoft 365 services and natural language interfaces, enabling access to email, calendar,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 616
+  },
+  "release_date": "Apr 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/softeria-microsoft-365",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:33.576206",
+  "metadata": {}
+}

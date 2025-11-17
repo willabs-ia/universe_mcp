@@ -1,0 +1,19 @@
+{
+  "id": "call518-airflow-api",
+  "name": "Apache Airflow",
+  "provider": "JungJungIn",
+  "description": "Integrates with Apache Airflow clusters through REST API to provide complete workflow management including DAG...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 919
+  },
+  "release_date": "Aug 20, 2025",
+  "url": "https://www.pulsemcp.com/servers/call518-airflow-api",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:27.068905",
+  "metadata": {}
+}

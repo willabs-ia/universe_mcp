@@ -1,0 +1,19 @@
+{
+  "id": "seohyunjun-opensearch",
+  "name": "OpenSearch",
+  "provider": "Seohyun Jun",
+  "description": "Enables natural language interaction with OpenSearch clusters for index operations, document searches, and cluster...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 9200
+  },
+  "release_date": "Mar 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/seohyunjun-opensearch",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:15.910884",
+  "metadata": {}
+}

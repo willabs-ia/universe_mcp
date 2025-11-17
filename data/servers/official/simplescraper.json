@@ -1,0 +1,19 @@
+{
+  "id": "simplescraper",
+  "name": "Simplescraper",
+  "provider": "Simplescraper",
+  "description": "Integrates with the Simplescraper API to enable automated data extraction from websites without managing direct API...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 1500
+  },
+  "release_date": "May 26, 2025",
+  "url": "https://www.pulsemcp.com/servers/simplescraper",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:22.719005",
+  "metadata": {}
+}

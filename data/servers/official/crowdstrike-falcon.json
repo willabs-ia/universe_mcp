@@ -1,0 +1,19 @@
+{
+  "id": "crowdstrike-falcon",
+  "name": "CrowdStrike Falcon",
+  "provider": "CrowdStrike",
+  "description": "Connect with the CrowdStrike Falcon platform for intelligent security analysis, providing programmatic access to...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1100
+  },
+  "release_date": "Aug 5, 2025",
+  "url": "https://www.pulsemcp.com/servers/crowdstrike-falcon",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:24.962970",
+  "metadata": {}
+}

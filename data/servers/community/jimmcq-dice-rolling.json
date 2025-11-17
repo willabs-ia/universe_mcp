@@ -1,0 +1,19 @@
+{
+  "id": "jimmcq-dice-rolling",
+  "name": "Dice Rolling",
+  "provider": "Jim McQuillan",
+  "description": "Provides advanced dice rolling capabilities for tabletop gaming and RPGs with support for standard notation,...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 1500
+  },
+  "release_date": "Jul 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/jimmcq-dice-rolling",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:22.721550",
+  "metadata": {}
+}

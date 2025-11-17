@@ -1,0 +1,19 @@
+{
+  "id": "beatandraise-sec-filings",
+  "name": "Beat and Raise (SEC Filings)",
+  "provider": "Beat and Raise",
+  "description": "Provides direct access to SEC filings database since 1995, enabling natural language queries, financial analysis, and...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 638
+  },
+  "release_date": "May 28, 2025",
+  "url": "https://www.pulsemcp.com/servers/beatandraise-sec-filings",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:31.400662",
+  "metadata": {}
+}

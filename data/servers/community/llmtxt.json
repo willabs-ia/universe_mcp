@@ -1,0 +1,19 @@
+{
+  "id": "llmtxt",
+  "name": "LLMs.txt",
+  "provider": "LLMs.txt",
+  "description": "Provides standardized documentation retrieval for LLMs by accessing llms.txt files directly from source websites or a...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 638
+  },
+  "release_date": "May 1, 2025",
+  "url": "https://www.pulsemcp.com/servers/llmtxt",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:31.391052",
+  "metadata": {}
+}

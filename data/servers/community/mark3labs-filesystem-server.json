@@ -1,0 +1,19 @@
+{
+  "id": "mark3labs-filesystem-server",
+  "name": "Filesystem",
+  "provider": "Mark III Labs",
+  "description": "Read, write, and manipulate local files through a controlled API.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 968
+  },
+  "release_date": "Nov 28, 2024",
+  "url": "https://www.pulsemcp.com/servers/mark3labs-filesystem-server",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:24.975182",
+  "metadata": {}
+}

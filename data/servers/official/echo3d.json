@@ -1,0 +1,19 @@
+{
+  "id": "echo3d",
+  "name": "echo3D",
+  "provider": "echo3D",
+  "description": "Enables 3D digital asset management through the echo3D API, featuring tools for 3D file viewing, file sharing,...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 638
+  },
+  "release_date": "Aug 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/echo3d",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:33.558970",
+  "metadata": {}
+}

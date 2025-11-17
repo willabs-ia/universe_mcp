@@ -1,0 +1,19 @@
+{
+  "id": "exotel",
+  "name": "Exotel",
+  "provider": "Exotel",
+  "description": "Exotel’s MCP Server empowers Agentic AI to make calls, send messages, and automate customer outreach without...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 638
+  },
+  "release_date": "Aug 13, 2025",
+  "url": "https://www.pulsemcp.com/servers/exotel",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:33.546166",
+  "metadata": {}
+}

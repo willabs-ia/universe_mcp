@@ -1,0 +1,19 @@
+{
+  "id": "wshobson-maverick-financial-analysis",
+  "name": "Maverick Financial Analysis",
+  "provider": "Seth Hobson",
+  "description": "Personal-use financial market analysis server that provides technical analysis tools including RSI, MACD, and moving...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1100
+  },
+  "release_date": "Aug 24, 2025",
+  "url": "https://www.pulsemcp.com/servers/wshobson-maverick-financial-analysis",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:24.955844",
+  "metadata": {}
+}

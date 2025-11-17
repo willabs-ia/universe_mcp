@@ -1,0 +1,19 @@
+{
+  "id": "paypal-agent-toolkit",
+  "name": "PayPal Agent Toolkit",
+  "provider": "PayPal",
+  "description": "AI agent integration with PayPal services.",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "visitors",
+    "value": 3700
+  },
+  "release_date": "Apr 2, 2025",
+  "url": "https://www.pulsemcp.com/servers/paypal-agent-toolkit",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:18.067367",
+  "metadata": {}
+}

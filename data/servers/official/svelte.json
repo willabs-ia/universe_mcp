@@ -1,0 +1,19 @@
+{
+  "id": "svelte",
+  "name": "Svelte",
+  "provider": "Svelte",
+  "description": "Official Svelte documentation access and code analysis server that provides up-to-date reference material, playground...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1100
+  },
+  "release_date": "Oct 7, 2025",
+  "url": "https://www.pulsemcp.com/servers/svelte",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:24.961493",
+  "metadata": {}
+}

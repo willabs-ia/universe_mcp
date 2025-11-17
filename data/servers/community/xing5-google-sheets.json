@@ -1,0 +1,19 @@
+{
+  "id": "xing5-google-sheets",
+  "name": "Google Sheets",
+  "provider": "Xing Wu",
+  "description": "Integrates with Google Drive and Google Sheets to create, read, update, and manage spreadsheets with support for both...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 3700
+  },
+  "release_date": "Mar 22, 2025",
+  "url": "https://www.pulsemcp.com/servers/xing5-google-sheets",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:18.064755",
+  "metadata": {}
+}

@@ -1,0 +1,19 @@
+{
+  "id": "zenable",
+  "name": "Zenable",
+  "provider": "Zenable",
+  "description": "Enables your AI coding assistant to automatically check and improve your code against your organization’s requirements.",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 3700
+  },
+  "release_date": "Sep 6, 2025",
+  "url": "https://www.pulsemcp.com/servers/zenable",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:18.072204",
+  "metadata": {}
+}

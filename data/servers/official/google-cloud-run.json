@@ -1,0 +1,19 @@
+{
+  "id": "google-cloud-run",
+  "name": "Google Cloud Run",
+  "provider": "Google",
+  "description": "Deploys applications to Google Cloud Run through automated containerization, project setup, and service management...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1500
+  },
+  "release_date": "May 29, 2025",
+  "url": "https://www.pulsemcp.com/servers/google-cloud-run",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:22.707133",
+  "metadata": {}
+}

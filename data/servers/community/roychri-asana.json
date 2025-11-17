@@ -1,0 +1,19 @@
+{
+  "id": "roychri-asana",
+  "name": "Asana",
+  "provider": "Christian Roy",
+  "description": "Integrates with Asana to enable task automation, project tracking, and team collaboration through the Asana API.",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 1200
+  },
+  "release_date": "Dec 4, 2024",
+  "url": "https://www.pulsemcp.com/servers/roychri-asana",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:24.949229",
+  "metadata": {}
+}

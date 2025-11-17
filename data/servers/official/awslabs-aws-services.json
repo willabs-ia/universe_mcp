@@ -1,0 +1,19 @@
+{
+  "id": "awslabs-aws-services",
+  "name": "AWS Labs",
+  "provider": "AWS",
+  "description": "Integrates with AWS services including Bedrock Knowledge Bases, Nova Canvas, Step Functions, Lambda, IAM, and Cost...",
+  "classification": "official",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 3400
+  },
+  "release_date": "Mar 19, 2025",
+  "url": "https://www.pulsemcp.com/servers/awslabs-aws-services",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:18.078722",
+  "metadata": {}
+}

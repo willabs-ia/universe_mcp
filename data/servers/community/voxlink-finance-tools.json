@@ -1,0 +1,19 @@
+{
+  "id": "voxlink-finance-tools",
+  "name": "Finance Tools",
+  "provider": "wanghsinche",
+  "description": "Integrates with financial data sources like yfinance, CNN Fear & Greed Index, FRED, and ta-lib to provide real-time...",
+  "classification": "community",
+  "weekly_metric": {
+    "type": "downloads",
+    "value": 3700
+  },
+  "release_date": "May 4, 2025",
+  "url": "https://www.pulsemcp.com/servers/voxlink-finance-tools",
+  "source_url": null,
+  "categories": [],
+  "tags": [],
+  "last_updated": null,
+  "scraped_at": "2025-11-17T03:25:18.061185",
+  "metadata": {}
+}
