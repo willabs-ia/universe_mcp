@@ -7,10 +7,28 @@
   "weekly_metric": null,
   "release_date": "Apr 23, 2025",
   "url": "https://www.pulsemcp.com/servers/root-signals-evaluators",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/root-signals/scorable-mcp",
+  "categories": [
+    "documentation",
+    "workflow",
+    "testing",
+    "api",
+    "ai",
+    "monitoring"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:25.864515",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 10,
+    "capabilities": [
+      "Implements SSE for network deployment",
+      "Exposes Root Signals evaluators as MCP tools",
+      "Compatible with various MCP clients such as Cursor"
+    ],
+    "runtime": "Python",
+    "readme_excerpt": "<h1 align=\"center\">\n  <img width=\"600\" alt=\"Root Signals logo\" src=\"https://app.rootsignals.ai/images/root-signals-color.svg\" loading=\"lazy\">\n</h1>\n\n<p align=\"center\" class=\"large-text\">\n  <i><strong>Measurement & Control for LLM Automations</strong></i>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://huggingface.co/root-signals\">\n    <img src=\"https://img.shields.io/badge/HuggingFace-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white&scale=2\" />\n  </a>\n\n  <a href=\"https://discord.gg/QbDAAmW9yz\">\n    <img src=\"https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&scale=2\" />\n  </a>\n\n  <a href=\"https://sdk.rootsignals.ai/en/latest/\">\n    <img src=\"https://img.shields.io/badge/Documentation-E53935?style=for-the-badge&logo=readthedocs&logoColor=white&scale=2\" />\n  </a>\n\n  <a href=\"https://app.rootsignals.ai/demo-user\">\n    <img src=\"https://img.shields.io/badge/Temporary_API_Key-15a20b?style=for-the-badge&logo=keycdn&logoColor=white&scale=2\" />\n  </a>\n</p>\n\n# Root Signals MCP Server\n\nA [Model Context Protocol](https://modelcontextprotocol.io/introduction) (*MCP*) server that exposes **Root Signals** evaluators as tools for AI assistants & agents.\n\n## Overview\n\nThis project serves as a bridge between Root Signals API and MCP client applications, allowing AI assistants and agents to evaluate responses against various quality criteria.\n\n## Features\n\n- Exposes Root Signals evaluators as MCP tools\n- Implements SSE for network deployment\n- C",
+    "quality_score": 60
+  },
+  "enriched_at": "2025-11-17T18:42:15.526980"
 }

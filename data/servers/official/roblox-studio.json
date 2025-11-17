@@ -10,10 +10,25 @@
   },
   "release_date": "May 25, 2025",
   "url": "https://www.pulsemcp.com/servers/roblox-studio",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/roblox/studio-rust-mcp-server",
+  "categories": [
+    "documentation",
+    "testing",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:24.641587",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 170,
+    "runtime": "Rust",
+    "readme_excerpt": "# Roblox Studio MCP Server\n\nThis repository contains a reference implementation of the Model Context Protocol (MCP) that enables\ncommunication between Roblox Studio via a plugin and [Claude Desktop](https://claude.ai/download) or [Cursor](https://www.cursor.com/).\nIt consists of the following Rust-based components, which communicate through internal shared\nobjects.\n\n- A web server built on `axum` that a Studio plugin long polls.\n- A `rmcp` server that talks to Claude via `stdio` transport.\n\nWhen LLM requests to run a tool, the plugin will get a request through the long polling and post a\nresponse. It will cause responses to be sent to the Claude app.\n\n**Please note** that this MCP server will be accessed by third-party tools, allowing them to modify\nand read the contents of your opened place. Third-party data handling and privacy practices are\nsubject to their respective terms and conditions.\n\n![Scheme](MCP-Server.png)\n\nThe setup process also contains a short plugin installation and Claude Desktop configuration script.\n\n## Setup\n\n### Install with release binaries\n\nThis MCP Server supports pretty much any MCP Client but will automatically set up only [Claude Desktop](https://claude.ai/download) and [Cursor](https://www.cursor.com/) if found.\n\nTo set up automatically:\n\n1. Ensure you have [Roblox Studio](https://create.roblox.com/docs/en-us/studio/setup),\n   and [Claude Desktop](https://claude.ai/download)/[Cursor](https://www.cursor.com/) installed and started at least once.\n1.",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T18:42:13.048551"
 }

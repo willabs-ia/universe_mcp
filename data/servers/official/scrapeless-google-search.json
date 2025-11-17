@@ -10,10 +10,25 @@
   },
   "release_date": "Apr 1, 2025",
   "url": "https://www.pulsemcp.com/servers/scrapeless-google-search",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/scrapeless-ai/scrapeless-mcp-server",
+  "categories": [
+    "workflow",
+    "cloud",
+    "search",
+    "api",
+    "ai",
+    "browser",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:32.758202",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 57,
+    "runtime": "Rust",
+    "readme_excerpt": "![preview](/assets/banner.png)\n\n# Scrapeless MCP Server\n\n**Welcome to the official Scrapeless Model Context Protocol (MCP) Server** — a powerful integration layer that empowers LLMs, AI Agents, and AI applications to interact with the web in real time.\n\nBuilt on the open MCP standard, Scrapeless MCP Server seamlessly connects models like **ChatGPT**, **Claude**, and tools like **Cursor** and **Windsurf** to a wide range of external capabilities, including:\n\n- **Google services integration** (Search, Trends)\n- **Browser automation** for page-level navigation and interaction\n- **Scrape** dynamic, JS-heavy sites—export as HTML, Markdown, or screenshots\n\nWhether you're building an AI research assistant, a coding copilot, or autonomous web agents, this server provides the dynamic context and real-world data your workflows need—**without getting blocked**.\n\n## Usage Examples\n\n1. Automated Web Interaction and Data Extraction with Claude\n\nUsing Scrapeless MCP Browser, Claude can perform complex tasks such as web navigation, clicking, scrolling, and scraping through conversational commands, with real-time preview of web interaction results via `live sessions`.\n\n![preview](/assets/mcp-1.gif)\n\n2. Bypassing Cloudflare to Retrieve Target Page Content\n\nUsing the Scrapeless MCP Browser service, the Cloudflare page is automatically accessed, and after the process is completed, the page content is extracted and returned in Markdown format.\n\n![preview](/assets/mcp-2.gif)\n\n3. Extracting Dynamic",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:42:56.246298"
 }

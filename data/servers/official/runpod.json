@@ -7,10 +7,31 @@
   "weekly_metric": null,
   "release_date": "Apr 14, 2025",
   "url": "https://www.pulsemcp.com/servers/runpod",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/runpod/runpod-mcp",
+  "categories": [
+    "testing",
+    "security",
+    "cloud",
+    "api",
+    "ai",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:19.257665",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 25,
+    "capabilities": [
+      "**Templates**: Create, list, get details, update, and delete templates",
+      "**Network Volumes**: Create, list, get details, update, and delete network volumes",
+      "**Pods**: Create, list, get details, update, start, stop, and delete pods",
+      "**Container Registry Authentications**: Create, list, get details, and delete authentications",
+      "**Endpoints**: Create, list, get details, update, and delete serverless endpoints"
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "# Runpod MCP Server\n[![smithery badge](https://smithery.ai/badge/@runpod/runpod-mcp-ts)](https://smithery.ai/server/@runpod/runpod-mcp-ts)\n\nThis Model Context Protocol (MCP) server enables you to interact with the Runpod REST API through Claude or other MCP-compatible clients.\n\n## Features\n\nThe server provides tools for managing:\n\n- **Pods**: Create, list, get details, update, start, stop, and delete pods\n- **Endpoints**: Create, list, get details, update, and delete serverless endpoints\n- **Templates**: Create, list, get details, update, and delete templates\n- **Network Volumes**: Create, list, get details, update, and delete network volumes\n- **Container Registry Authentications**: Create, list, get details, and delete authentications\n\n## Quick Start\n\n### Prerequisites\n\n- Node.js 18 or higher\n- A Runpod account and API key ([get your API key](https://www.runpod.io/console/user/settings))\n\n### Running with npx\n\nYou can run the server directly without installation:\n\n```bash\nRUNPOD_API_KEY=your_api_key_here npx @runpod/mcp-server@latest\n```\n\n### Installing via Smithery\n\nTo install for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@runpod/runpod-mcp-ts):\n\n```bash\nnpx -y @smithery/cli install @runpod/runpod-mcp-ts --client claude\n```\n\n## Setting up with Claude for Desktop\n\n1. Open Claude for Desktop\n2. Edit the config file:\n   - macOS: `~/Library/Application Support/Claude/claude_desktop_config.json`\n   - Windows: `%APPDATA%\\Claude\\claude_desktop_config.",
+    "quality_score": 60
+  },
+  "enriched_at": "2025-11-17T18:42:27.935612"
 }

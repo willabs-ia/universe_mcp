@@ -7,10 +7,23 @@
   "weekly_metric": null,
   "release_date": "Apr 27, 2025",
   "url": "https://www.pulsemcp.com/servers/razorpay",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/razorpay/razorpay-mcp-server",
+  "categories": [
+    "documentation",
+    "security",
+    "git",
+    "development",
+    "api",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:25.907784",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 207,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Razorpay MCP Server (Official)\n\nThe Razorpay MCP Server is a [Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction) server that provides seamless integration with Razorpay APIs, enabling advanced payment processing capabilities for developers and AI tools.\n\n## Quick Start\n\nChoose your preferred setup method:\n- **[Remote MCP Server](#remote-mcp-server-recommended)** - Hosted by Razorpay, no setup required\n- **[Local MCP Server](#local-mcp-server)** - Run on your own infrastructure\n\n## Available Tools\n\nCurrently, the Razorpay MCP Server provides the following tools:\n\n| Tool                                 | Description                                            | API | Remote Server Support |\n|:-------------------------------------|:-------------------------------------------------------|:------------------------------------|:---------------------|\n| `capture_payment`                    | Change the payment status from authorized to captured. | [Payment](https://razorpay.com/docs/api/payments/capture) | ✅ |\n| `fetch_payment`                      | Fetch payment details with ID                          | [Payment](https://razorpay.com/docs/api/payments/fetch-with-id) | ✅ |\n| `fetch_payment_card_details`         | Fetch card details used for a payment                  | [Payment](https://razorpay.com/docs/api/payments/fetch-payment-expanded-card) | ✅ |\n| `fetch_all_payments`                 | Fetch all payments with filtering and pagination       | [Paymen",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T18:41:36.309352"
 }

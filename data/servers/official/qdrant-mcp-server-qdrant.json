@@ -10,10 +10,23 @@
   },
   "release_date": "Dec 2, 2024",
   "url": "https://www.pulsemcp.com/servers/qdrant-mcp-server-qdrant",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/qdrant/mcp-server-qdrant",
+  "categories": [
+    "workflow",
+    "search",
+    "api",
+    "database",
+    "ai",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:20.256078",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 1100,
+    "runtime": "Python",
+    "readme_excerpt": "# mcp-server-qdrant: A Qdrant MCP server\n\n[![smithery badge](https://smithery.ai/badge/mcp-server-qdrant)](https://smithery.ai/protocol/mcp-server-qdrant)\n\n> The [Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction) is an open protocol that enables\n> seamless integration between LLM applications and external data sources and tools. Whether you're building an\n> AI-powered IDE, enhancing a chat interface, or creating custom AI workflows, MCP provides a standardized way to\n> connect LLMs with the context they need.\n\nThis repository is an example of how to create a MCP server for [Qdrant](https://qdrant.tech/), a vector search engine.\n\n## Overview\n\nAn official Model Context Protocol server for keeping and retrieving memories in the Qdrant vector search engine.\nIt acts as a semantic memory layer on top of the Qdrant database.\n\n## Components\n\n### Tools\n\n1. `qdrant-store`\n   - Store some information in the Qdrant database\n   - Input:\n     - `information` (string): Information to store\n     - `metadata` (JSON): Optional metadata to store\n     - `collection_name` (string): Name of the collection to store the information in. This field is required if there are no default collection name.\n                                   If there is a default collection name, this field is not enabled.\n   - Returns: Confirmation message\n2. `qdrant-find`\n   - Retrieve relevant information from the Qdrant database\n   - Input:\n     - `query` (string): Query to use for searching\n   ",
+    "quality_score": 60
+  },
+  "enriched_at": "2025-11-17T18:41:11.518213"
 }

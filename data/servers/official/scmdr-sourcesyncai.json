@@ -10,10 +10,30 @@
   },
   "release_date": "Mar 4, 2025",
   "url": "https://www.pulsemcp.com/servers/scmdr-sourcesyncai",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/scmdr/sourcesyncai-mcp",
+  "categories": [
+    "git",
+    "search",
+    "development",
+    "api",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:54.744766",
-  "metadata": {}
+  "metadata": {
+    "capabilities": [
+      "Ingest content from various sources (text, URLs, websites, external services)",
+      "Access document content directly from parsed text URLs",
+      "Manage connections to external services",
+      "Manage namespaces for organizing knowledge",
+      "Perform semantic and hybrid searches against your knowledge base",
+      "Default configuration support for seamless AI integration",
+      "Retrieve, update, and manage documents stored in your knowledge base"
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "# SourceSync.ai MCP Server\n\n[![smithery badge](https://smithery.ai/badge/@pbteja1998/sourcesyncai-mcp)](https://smithery.ai/server/@pbteja1998/sourcesyncai-mcp)\n\nA Model Context Protocol (MCP) server implementation for the [SourceSync.ai](https://sourcesync.ai) API. This server allows AI models to interact with SourceSync.ai's knowledge management platform through a standardized interface.\n\n## Features\n\n- Manage namespaces for organizing knowledge\n- Ingest content from various sources (text, URLs, websites, external services)\n- Retrieve, update, and manage documents stored in your knowledge base\n- Perform semantic and hybrid searches against your knowledge base\n- Access document content directly from parsed text URLs\n- Manage connections to external services\n- Default configuration support for seamless AI integration\n\n## Installation\n\n### Running with npx\n\n```bash\n# Install and run with your API key and tenant ID\nenv SOURCESYNC_API_KEY=your_api_key npx -y sourcesyncai-mcp\n```\n\n### Installing via Smithery\n\nTo install sourcesyncai-mcp for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@pbteja1998/sourcesyncai-mcp):\n\n```bash\nnpx -y @smithery/cli install @pbteja1998/sourcesyncai-mcp --client claude\n```\n\n### Manual Installation\n\n```bash\n# Clone the repository\ngit clone https://github.com/yourusername/sourcesyncai-mcp.git\ncd sourcesyncai-mcp\n\n# Install dependencies\nnpm install\n\n# Build the project\nnpm run build\n\n# Run the server\nnode dist/index.js\n```\n\n### R",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:42:51.089390"
 }

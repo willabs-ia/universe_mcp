@@ -10,10 +10,22 @@
   },
   "release_date": "Oct 7, 2025",
   "url": "https://www.pulsemcp.com/servers/svelte",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/sveltejs/mcp",
+  "categories": [
+    "documentation",
+    "development",
+    "api",
+    "database",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:24.961493",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 114,
+    "readme_excerpt": "# @sveltejs/mcp\n\nRepo for the official Svelte MCP server.\n\n## Dev setup instructions\n\n```\npnpm i\ncp apps/mcp-remote/.env.example apps/mcp-remote/.env\npnpm dev\n```\n\n1. Set the VOYAGE_API_KEY for embeddings support\n\n> [!NOTE]\n> Currently to prevent having a bunch of Timeout logs on vercel we shut down the SSE channel immediately. This means that we can't use `server.log` and we are not sending `list-changed` notifications. We can use elicitation and sampling since those are sent on the same stream of the POST request\n\n### Local dev tools\n\n#### MCP inspector\n\n```\npnpm run inspect\n```\n\nThen visit http://localhost:6274/\n\n- Transport type: `Streamable HTTP`\n- http://localhost:5173/mcp\n\n#### Database inspector\n\n```\npnpm run db:studio\n```\n\nhttps://local.drizzle.studio/\n",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T18:45:26.194787"
 }

@@ -10,10 +10,22 @@
   },
   "release_date": "Jan 9, 2025",
   "url": "https://www.pulsemcp.com/servers/rive-editor",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/rive-app/rive-docs",
+  "categories": [
+    "documentation",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:59.585030",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 9,
+    "readme_excerpt": "# Rive Docs\n\nWelcome to the official repository for Rive's documentation, available at [https://rive.app/docs](https://rive.app/docs).\n\n## Contributing\n\nWe welcome any and all external contributions. For more information, see [CONTRIBUTING.md](./CONTRIBUTING.md).\n\n## Getting Started\n\n1. Clone the [rive-docs](https://github.com/rive-app/rive-docs) repository.\n2. Set up for local development as described in [Mintlify](#mintlify).\n3. Update the documentation, following the [contribution guide](./CONTRIBUTING.md).\n4. Run `mintlify dev` to preview your changes locally\n5. Create your pull request, following the [contribution guide](./CONTRIBUTING.md#creating-your-pull-request).\n\n## Mintlify\n\nRive uses [Mintlify](https://mintlify.com) for documentation. Follow Mintlify's [Local Development](https://mintlify.com/docs/development) guide to set up your local environment for previewing your changes locally.\n\n### Development\n\nInstall the [Mintlify CLI](https://www.npmjs.com/package/mintlify) to preview the documentation changes locally. To install, use the following command\n\n```\nnpm i -g mintlify\n```\n\nRun the following command at the root of your documentation (where mint.json is)\n\n```\nmintlify dev\n```\n\n#### Troubleshooting\n\n- Mintlify dev isn't running - Run `mintlify install` it'll re-install dependencies.\n- Page loads as a 404 - Make sure you are running in a folder with `mint.json` (i.e from this repository's root directory).",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:42:08.060848"
 }

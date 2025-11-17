@@ -7,10 +7,26 @@
   "weekly_metric": null,
   "release_date": "Apr 21, 2025",
   "url": "https://www.pulsemcp.com/servers/tencent-cloud-object-storage",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/tencent/cos-mcp",
+  "categories": [
+    "documentation",
+    "git",
+    "cloud",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:23.754593",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 16,
+    "runtime": "Node.js",
+    "readme_excerpt": "中文 | [English](README.en.md)\n\n# 腾讯云 COS MCP Server 🚀🚀🚀\n ![](https://badge.mcpx.dev?type=server 'MCP Server') [![npm Version](https://img.shields.io/npm/v/cos-mcp)](https://www.npmjs.com/package/cos-mcp) [![license](http://img.shields.io/badge/license-BSD3-brightgreen.svg?style=flat)](License.txt)\n\n<p align=\"center\">\n  <img alt=\"logo\" src=\"https://raw.githubusercontent.com/Tencent/cos-mcp/master/src/img/logo.png\"/>\n</p>\n\n基于 MCP 协议的腾讯云 COS MCP Server，无需编码即可让大模型快速接入腾讯云存储 (COS) 和数据万象 (CI) 能力。\n\n---\n\n## ✨ 核心功能\n\n### 云端存储能力\n- ⬆️ 文件上传到云端\n- ⬇️ 文件从云端下载\n- 📋 获取云端文件列表\n\n### 云端处理能力\n- 🖼️ 获取图片信息\n- 🔍 图片超分辨率\n- ✂️ 图片裁剪\n- 📲 二维码识别\n- 🏆 图片质量评估\n- 🅰️ 文字水印\n- 🎬 元数据/自然语言检索 (MateInsight)\n- 📄 文档转 PDF\n- 🎥 视频封面\n\n---\n\n## 💡 典型应用场景\n\n- 使用其他 MCP 能力获取的文本/图片/视频/音频等数据，可直接上传到 COS 云端存储。\n- 本地数据快速通过大模型转存到 COS 云端存储/备份。\n- 通过大模型实现自动化：将网页里的视频/图片/音频/文本等数据批量转存到 COS 云端存储。\n- 自动化将视频/图片/音频/文本等数据在云端处理，并转存到 COS 云端存储。\n\n---\n\n## 🌟 功能示例\n\n1. 上传文件到 COS  \n   ![eg1](https://raw.githubusercontent.com/Tencent/cos-mcp/master/src/img/eg1.png)\n2. 图片质量评估  \n   ![eg3](https://raw.githubusercontent.com/Tencent/cos-mcp/master/src/img/eg3.png)\n3. 自然语言检索图片  \n   ![eg2](https://raw.githubusercontent.com/Tencent/cos-mcp/master/src/img/eg2.png)\n4. 视频截帧  \n   ![eg15](https://raw.githubusercontent.com/Tencent/cos-mcp/master/src/img/eg15.png)\n\n---\n\n# 🔧 安装使用\n\n## 参数说明\n\n为了保护您的数据私密性，请准备以下参数：\n\n### 1. **SecretId / SecretKey**\n- **说明**: 腾讯云 COS 的密钥，用于身份认证，请妥善保管，切勿泄露。\n- **获取方式**: \n  1. 访问 [腾讯云密钥管理](https://console.cloud.tencent.com/cam/capi)。\n  2. 新建密钥并复制生成的 **SecretI",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:45:51.894339"
 }

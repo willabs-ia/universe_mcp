@@ -10,10 +10,31 @@
   },
   "release_date": "Aug 26, 2025",
   "url": "https://www.pulsemcp.com/servers/shutter-network-timelock",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/shutter-network/shuttermcp",
+  "categories": [
+    "testing",
+    "security",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:33.555702",
-  "metadata": {}
+  "metadata": {
+    "capabilities": [
+      "Natural Language Time Parsing: Use expressions like \"3 months from now\"",
+      "Claude Web, VS Code MCP Support",
+      "Comprehensive Error Handling: User-friendly error messages and guidance",
+      "Timelock Encryption: Encrypt messages that unlock at future timestamps",
+      "Unix Timestamp Support: Direct timestamp input for precise timing",
+      "Production Ready: Docker support, health checks, and monitoring"
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "# Shutter MCP\n\nA Model Context Protocol (MCP) server that provides timelock encryption capabilities using the Shutter Network. This server allows users to encrypt messages that can only be decrypted after a specified future time, enabling trustless time-delayed communications.\n\n## Features\n\n- Timelock Encryption: Encrypt messages that unlock at future timestamps\n- Natural Language Time Parsing: Use expressions like \"3 months from now\"\n- Unix Timestamp Support: Direct timestamp input for precise timing\n- Claude Web, VS Code MCP Support\n- Comprehensive Error Handling: User-friendly error messages and guidance\n- Production Ready: Docker support, health checks, and monitoring\n\n## Important Notice\n\n**ALPHA SOFTWARE**: This is experimental software using the Shutter Network testnet deployment (Gnosis Chiado). Do not use for production or sensitive data. The encryption implementation is for demonstration purposes only.\n\n**Current Limitations:**\n- Demo encryption algorithm (not production-grade Shutter encryption)\n- Testnet deployment (Chiado testnet only)\n- No data persistence guarantees\n- API may change without notice\n\n## Live Deployment\n\n**Server URL**: https://shutter-mcp-b76e270d48c5.herokuapp.com/\n**Health Check**: https://shutter-mcp-b76e270d48c5.herokuapp.com/health\n**MCP Endpoint**: https://shutter-mcp-b76e270d48c5.herokuapp.com/mcp\n\n## Quick Start\n\n### Claude Web Integration\n\n1. Open Claude Web Settings\n   - Visit [claude.ai/settings](https://claude.ai/settings)\n   - Naviga",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:43:44.197100"
 }

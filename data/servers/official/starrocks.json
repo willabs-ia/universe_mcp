@@ -7,10 +7,33 @@
   "weekly_metric": null,
   "release_date": "Mar 5, 2025",
   "url": "https://www.pulsemcp.com/servers/starrocks",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/starrocks/mcp-server-starrocks",
+  "categories": [
+    "testing",
+    "security",
+    "api",
+    "database",
+    "ai",
+    "monitoring",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:10.889230",
-  "metadata": {}
+  "metadata": {
+    "capabilities": [
+      "**Data Visualization:** Execute a query and generate a Plotly chart directly from the results (`query_and_plotly_chart`).",
+      "**Detailed Overviews:** Get comprehensive summaries of tables (`table_overview`) or entire databases (`db_overview`), including column definitions, row counts, and sample data.",
+      "**Flexible Configuration:** Set connection details and behavior via environment variables.",
+      "**Direct SQL Execution:** Run `SELECT` queries (`read_query`) and DDL/DML commands (`write_query`).",
+      "**Database Exploration:** List databases and tables, retrieve table schemas (`starrocks://` resources).",
+      "**System Information:** Access internal StarRocks metrics and states via the `proc://` resource path.",
+      "**Intelligent Caching:** Table and database overviews are cached in memory to speed up repeated requests. Cache can be bypassed when needed."
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "[![MseeP.ai Security Assessment Badge](https://mseep.net/mseep-audited.png)](https://mseep.ai/app/starrocks-mcp-server-starrocks)\n\n# StarRocks Official MCP Server\n\nThe StarRocks MCP Server acts as a bridge between AI assistants and StarRocks databases. It allows for direct SQL execution, database exploration, data visualization via charts, and retrieving detailed schema/data overviews without requiring complex client-side setup.\n\n<a href=\"https://glama.ai/mcp/servers/@StarRocks/mcp-server-starrocks\">\n  <img width=\"380\" height=\"200\" src=\"https://glama.ai/mcp/servers/@StarRocks/mcp-server-starrocks/badge\" alt=\"StarRocks Server MCP server\" />\n</a>\n\n## Features\n\n- **Direct SQL Execution:** Run `SELECT` queries (`read_query`) and DDL/DML commands (`write_query`).\n- **Database Exploration:** List databases and tables, retrieve table schemas (`starrocks://` resources).\n- **System Information:** Access internal StarRocks metrics and states via the `proc://` resource path.\n- **Detailed Overviews:** Get comprehensive summaries of tables (`table_overview`) or entire databases (`db_overview`), including column definitions, row counts, and sample data.\n- **Data Visualization:** Execute a query and generate a Plotly chart directly from the results (`query_and_plotly_chart`).\n- **Intelligent Caching:** Table and database overviews are cached in memory to speed up repeated requests. Cache can be bypassed when needed.\n- **Flexible Configuration:** Set connection details and behavior via envir",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:44:40.359724"
 }

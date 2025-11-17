@@ -7,10 +7,34 @@
   "weekly_metric": null,
   "release_date": "Aug 7, 2025",
   "url": "https://www.pulsemcp.com/servers/stadiamaps",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/stadiamaps/stadiamaps-mcp-server-ts",
+  "categories": [
+    "documentation",
+    "security",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:09.322448",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 18,
+    "capabilities": [
+      "Isochrones (reachable range; both time and distance contours)",
+      "Geocoding",
+      "Static map image generation (including markers and route overlays)",
+      "Time zone info (ID, UTC offset, and whether a special offset like daylight saving/summer time is in effect)",
+      "Routing & travel time",
+      "Time information anywhere on earth",
+      "Address lookup",
+      "Current time",
+      "Place search (POIs like restaurants, cafes, etc.)"
+    ],
+    "readme_excerpt": "# Stadia Maps MCP Server (TypeScript)\n\nThis is a Model Context Protocol (MCP) server\nthat provides AI assistants with access to Stadia Maps APIs for location services, geocoding, routing, and mapping capabilities.\n\n<a href=\"https://glama.ai/mcp/servers/@stadiamaps/stadiamaps-mcp-server-ts\">\n  <img width=\"380\" height=\"200\" src=\"https://glama.ai/mcp/servers/@stadiamaps/stadiamaps-mcp-server-ts/badge\" alt=\"Stadia Maps Location API Server MCP server\" />\n</a>\n\n## Capabilities\n\n- Time information anywhere on earth\n  - Current time\n  - Time zone info (ID, UTC offset, and whether a special offset like daylight saving/summer time is in effect)\n- Geocoding\n  - Address lookup\n  - Place search (POIs like restaurants, cafes, etc.)\n- Static map image generation (including markers and route overlays)\n- Routing & travel time\n- Isochrones (reachable range; both time and distance contours)\n\n### Use cases\n\nHere are just a few of the ways you can prompt an LLM\nto make use of the tools:\n\n- \"What time is it in Tokyo?\"\n- \"Make me a map showing the walking route from Depoo Turg to the Põhjala Tap Room.\"\n- \"Is the Põhjala Tap Room open right now? Use Stadia Maps to get this information.\"\n- \"Geocode the addresses in the attached spreadsheet.\"\n\n## Quickstart\n\n## Building\n\nWe'll use `bun` for all of our instructions,\nbut you can use `npm` too.\n\n1. Run `bun install` to fetch the dependencies.\n2. Then, execute the build script: `bun run build`.\n\nThe built code should be in the `build` directory now.\n\n### ",
+    "quality_score": 60
+  },
+  "enriched_at": "2025-11-17T18:44:35.632526"
 }

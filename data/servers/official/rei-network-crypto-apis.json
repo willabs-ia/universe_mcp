@@ -7,10 +7,23 @@
   "weekly_metric": null,
   "release_date": "May 6, 2025",
   "url": "https://www.pulsemcp.com/servers/rei-network-crypto-apis",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/0xreisearch/crypto-mcp-beta",
+  "categories": [
+    "git",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:32.198373",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 5,
+    "runtime": "Python",
+    "readme_excerpt": "# REI Crypto MCP Server - Beta\n\nFastMCP implementation of the in-house MCP servers used by Units of the Rei Network.\nYou can use them without providing API keys at app.reisearch.box or you can use them with other MCP clients deploying them yourself.\n\nEverything is to be considered still in beta. Expect things to be added or changed with no warnings.\n\n## Current MCP servers:\n- DefiLlama Pro API\n- CoinGecko Pro API\n- Arkham Intelligence API\n- Elfa AI API\n- Codex API\n\nCodex at the moment is just used for searching a contract address from the name. Deeper implementation will come in the near future.\nCodex uses GraphQL for it's query system. Edit the query to hardcode some parameters in case you need stricter filtering.\n\n## Prerequisites\n\n- Python 3.12\n- `uv` package manager\n- API keys for the services you plan to use\n\n## Installation\n\n1. Clone the repository:\n```bash\ngit clone https://github.com/0xReisearch/crypto-mcp-beta\ncd crypto-mcp-beta\n```\n\n2. Install uv (if not already installed):\n```bash\ncurl -LsSf https://astral.sh/uv/install.sh | sh\n```\n\n3. Create and activate a virtual environment with uv:\n```bash\nuv venv\nsource .venv/bin/activate  # On Unix/macOS\n# or\n.venv\\Scripts\\activate  # On Windows\n```\n\n4. Install dependencies from pyproject.toml:\n```bash\nuv pip install .\n```\n\n5. Set up your environment variables:\n```bash\ncp .env_example .env\n```\n\nEdit `.env` with your API keys:\n```\nARKHAM_API_KEY=<YOUR ARKHAM_API_KEY>\nCG_API_KEY=<YOUR_CG_API_KEY>\nDEFILLAMA_API_KEY=<YOUR_DEFILLA",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:41:56.086558"
 }

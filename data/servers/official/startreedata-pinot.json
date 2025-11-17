@@ -10,10 +10,24 @@
   },
   "release_date": "Jun 4, 2025",
   "url": "https://www.pulsemcp.com/servers/startreedata-pinot",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/startreedata/mcp-pinot",
+  "categories": [
+    "git",
+    "search",
+    "development",
+    "api",
+    "database",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:32.777341",
-  "metadata": {}
+  "metadata": {
+    "runtime": "Node.js",
+    "readme_excerpt": "# Pinot MCP Server\n\n## Table of Contents\n\n- [Overview](#overview)\n- [Features](#features)\n- [Quick Start](#quick-start)\n- [Docker Build](#docker-build)\n- [Claude Desktop Integration](#claude-desktop-integration)\n- [Try a Prompt](#try-a-prompt)\n- [Developer Notes](#developer-notes)\n\n## Overview\n\nThis project is a Python-based [Model Context Protocol (MCP)](https://github.com/anthropic-ai/mcp) server for interacting with Apache Pinot. It is built using the [FastMCP framework](https://github.com/jlowin/fastmcp). It is designed to integrate with Claude Desktop to enable real-time analytics and metadata queries on a Pinot cluster.\n\nIt allows you to\n- List tables, segments, and schema info from Pinot\n- Execute read-only SQL queries\n- View index/column-level metadata\n- Designed to assist business users via Claude integration\n- and much more.\n\n<a href=\"https://glama.ai/mcp/servers/@startreedata/mcp-pinot\">\n  <img width=\"380\" height=\"200\" src=\"https://glama.ai/mcp/servers/@startreedata/mcp-pinot/badge\" alt=\"StarTree Server for Apache Pinot MCP server\" />\n</a>\n\n## Pinot MCP in Action\n\nSee Pinot MCP in action below:\n\n### Fetching Metadata\n![Pinot MCP fetching metadata](assets/pinot-mcp-in-action.png)\n\n### Fetching Data, followed by analysis\n\nPrompt:\nCan you do a histogram plot on the GitHub events against time\n![Pinot MCP fetching data and analyzing table](assets/github-events-analysis.png)\n\n### Sample Prompts\nOnce Claude is running, click the hammer 🛠️ icon and try these prompts:\n\n- Ca",
+    "quality_score": 35
+  },
+  "enriched_at": "2025-11-17T18:44:42.876753"
 }

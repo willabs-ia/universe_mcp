@@ -7,10 +7,25 @@
   "weekly_metric": null,
   "release_date": "Mar 21, 2025",
   "url": "https://www.pulsemcp.com/servers/storacha-storage",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/storacha/mcp-storage-server",
+  "categories": [
+    "workflow",
+    "security",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:10.306772",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 12,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Storacha MCP Storage Server\n\nA Model Context Protocol (MCP) server implementation for Storacha hot storage, allowing AI applications to store and retrieve files through a standardized interface. It enables trustless, decentralized data exchange using IPFS and CIDs, ensuring data sovereignty, verifiability, and seamless integration with agent frameworks & AI systems.\n\n## Free Storage Options to Start 🚀\n\nJump-start your decentralized storage journey today!\n\n- **GitHub Users**: Sign up with your GitHub account and instantly receive **100MB of free storage** — no credit card required!\n- **Email Users**: Register with your email and add a credit card to unlock **5GB of free storage space**.\n\n## Use Cases\n\n- **Document Storage & Analysis**: Securely upload and retrieve Blob documents.\n- **Long-term Structured Data Storage**: Maintain structured data storage optimized for longevity and accessibility.\n- **Data Sharing Between Agents and Systems**: Easily share data across multiple agents and diverse systems using **CIDs (Content Identifiers)**, enabling decentralized, verifiable, and efficient data exchange.\n- **Application Integration**: Seamlessly integrate Storacha storage retrieval into applications via the Model Context Protocol.\n- **AI Model Development**: Support AI models by providing reliable versioning and access to external datasets stored in Storacha.\n- **LLM Integration**: Enhance large language models (LLMs) by connecting directly with Storacha Storage for seamless da",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:44:55.515101"
 }

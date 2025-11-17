@@ -10,10 +10,16 @@
   },
   "release_date": "Apr 29, 2025",
   "url": "https://www.pulsemcp.com/servers/skyworkai-mureka-music-generation",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/SkyworkAI",
+  "categories": [
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:23.562295",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 59,
+    "quality_score": 40
+  },
+  "enriched_at": "2025-11-17T18:44:04.524717"
 }

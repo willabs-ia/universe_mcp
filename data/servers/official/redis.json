@@ -10,10 +10,34 @@
   },
   "release_date": "Mar 29, 2025",
   "url": "https://www.pulsemcp.com/servers/redis",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/redis/mcp-redis",
+  "categories": [
+    "workflow",
+    "git",
+    "search",
+    "development",
+    "api",
+    "database",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:20.297385",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 335,
+    "capabilities": [
+      "**Full Redis Support**: Handles **hashes, lists, sets, sorted sets, streams**, and more.",
+      "**Search & Filtering**: Supports efficient data retrieval and searching in Redis.",
+      "**EntraID Authentication**: Native support for Azure Active Directory authentication with Azure Managed Redis.",
+      "**Seamless MCP Integration**: Works with any **MCP client** for smooth communication.",
+      "**Natural Language Queries**: Enables AI agents to query and update Redis using natural language.",
+      "**Scalable & Lightweight**: Designed for **high-performance** data operations."
+    ],
+    "runtime": "Python",
+    "readme_excerpt": "# Redis MCP Server\n\n<!-- mcp-name: io.github.redis/mcp-redis -->\n\n[![Integration](https://github.com/redis/mcp-redis/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/redis/mcp-redis/actions/workflows/ci.yml)\n[![PyPI - Version](https://img.shields.io/pypi/v/redis-mcp-server)](https://pypi.org/project/redis-mcp-server/)\n[![Python Version](https://img.shields.io/badge/python-3.14%2B-blue&logo=redis)](https://www.python.org/downloads/)\n[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.txt)\n[![Verified on MseeP](https://mseep.ai/badge.svg)](https://mseep.ai/app/70102150-efe0-4705-9f7d-87980109a279)\n[![Docker Image Version](https://img.shields.io/docker/v/mcp/redis?sort=semver&logo=docker&label=Docker)](https://hub.docker.com/r/mcp/redis)\n[![codecov](https://codecov.io/gh/redis/mcp-redis/branch/master/graph/badge.svg?token=yenl5fzxxr)](https://codecov.io/gh/redis/mcp-redis)\n\n\n[![Discord](https://img.shields.io/discord/697882427875393627.svg?style=social&logo=discord)](https://discord.gg/redis)\n[![Twitch](https://img.shields.io/twitch/status/redisinc?style=social)](https://www.twitch.tv/redisinc)\n[![YouTube](https://img.shields.io/youtube/channel/views/UCD78lHSwYqMlyetR0_P4Vig?style=social)](https://www.youtube.com/redisinc)\n[![Twitter](https://img.shields.io/twitter/follow/redisinc?style=social)](https://twitter.com/redisinc)\n[![Stack Exchange questions](https://img.shields.io/stackexchange/stackoverflow/t/mcp-redis?style=social&logo=",
+    "quality_score": 65
+  },
+  "enriched_at": "2025-11-17T18:41:49.239116"
 }

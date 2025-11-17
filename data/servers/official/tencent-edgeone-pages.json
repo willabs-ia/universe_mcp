@@ -7,10 +7,22 @@
   "weekly_metric": null,
   "release_date": "Mar 25, 2025",
   "url": "https://www.pulsemcp.com/servers/tencent-edgeone-pages",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/tencentedgeone/edgeone-pages-mcp",
+  "categories": [
+    "testing",
+    "cloud",
+    "api",
+    "ai",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:52.881276",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 325,
+    "runtime": "Node.js",
+    "readme_excerpt": "# EdgeOne Pages MCP\n\nAn MCP service for deploying HTML content, folders, or full-stack projects to EdgeOne Pages and obtaining publicly accessible URLs.\n\n<a href=\"https://glama.ai/mcp/servers/@TencentEdgeOne/edgeone-pages-mcp\">\n  <img width=\"380\" height=\"200\" src=\"https://glama.ai/mcp/servers/@TencentEdgeOne/edgeone-pages-mcp/badge\" alt=\"EdgeOne Pages MCP server\" />\n</a>\n\n## Demo\n\n### Deploy HTML\n\n![](https://cdnstatic.tencentcs.com/edgeone/pages/assets/U_GpJ-1746519327306.gif)\n\n### Deploy Folder\n\n![](https://cdnstatic.tencentcs.com/edgeone/pages/assets/kR_Kk-1746519251292.gif)\n\n## Requirements\n\n- Node.js 18 or higher\n\n## MCP Configuration\n\n### stdio MCP Server\n\nFull-featured MCP service that supports the `deploy_folder` tool for deploying full-stack projects.\n\n```jsonc\n// Tencent Cloud International (Default)\n{\n  \"mcpServers\": {\n    \"edgeone-pages-mcp-server\": {\n      \"timeout\": 600,\n      \"command\": \"npx\",\n      \"args\": [\"edgeone-pages-mcp-fullstack@latest\"]\n    }\n  }\n}\n\n// Tencent Cloud China\n{\n  \"mcpServers\": {\n    \"edgeone-pages-mcp-server\": {\n      \"timeout\": 600,\n      \"command\": \"npx\",\n      \"args\": [\"edgeone-pages-mcp-fullstack@latest\", \"--region\", \"china\"]\n    }\n  }\n}\n```\n\nThe following MCP Server will be deprecated soon:\n\nSupports both `deploy_html` and `deploy_folder_or_zip` tools.\n\n```jsonc\n{\n  \"mcpServers\": {\n    \"edgeone-pages-mcp-server\": {\n      \"command\": \"npx\",\n      \"args\": [\"edgeone-pages-mcp@latest\"],\n      \"env\": {\n        // Optional. \n        // If yo",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T18:45:58.862947"
 }

@@ -10,10 +10,26 @@
   },
   "release_date": "Aug 13, 2025",
   "url": "https://www.pulsemcp.com/servers/tenzir",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/tenzir/mcp",
+  "categories": [
+    "documentation",
+    "workflow",
+    "testing",
+    "security",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:31.055538",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 7,
+    "readme_excerpt": "# ⚙️ Tenzir MCP Server\n\n[![PyPI](https://img.shields.io/pypi/v/tenzir-mcp.svg)](https://pypi.org/project/tenzir-mcp)\n[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)\n\nA [Model Context Protocol](https://modelcontextprotocol.io) (MCP) server that\nenables AI assistants to interact with [Tenzir](https://tenzir.com)—a data\npipeline engine for security operations.\n\nThis MCP server provides tools for executing pipelines written in the [Tenzir\nQuery Language (TQL))](https://docs.tenzir.com/explanations/language), working\nwith Open Cybersecurity Schema Framework (OCSF), managing packages, generating parsers, and exploring documentation.\n\n## ✨ Features\n\n- **Pipeline Execution**: Run TQL pipelines and tests\n- **Documentation Access**: Search and browse embedded Tenzir documentation with\n  cross-reference support\n- **OCSF Integration**: Query and work with OCSF definitions, event classes,\n  objects, and profiles.\n- **Package Management**: Create and manage Tenzir packages with operators,\n  pipelines, enrichment contexts, and tests\n- **Code Generation**: Auto-generate TQL parsers and OCSF mapping packages\n\n## 📦 Installation\n\nUse Docker as the fastest way to get started:\n\n```bash\ndocker run -i tenzir/mcp\n```\n\nOr use [`uvx`](https://docs.astral.sh/uv/) when you have a local Tenzir\ninstallation:\n\n```bash\nuvx tenzir-mcp\n```\n\n## 📚 Documentation\n\n- [Setup\n  instructions](https://docs.tenzir.com/guides/mcp-usage/install-mcp-server",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:46:01.230903"
 }

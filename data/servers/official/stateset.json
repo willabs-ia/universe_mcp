@@ -7,10 +7,13 @@
   "weekly_metric": null,
   "release_date": "Mar 7, 2025",
   "url": "https://www.pulsemcp.com/servers/stateset",
-  "source_url": null,
+  "source_url": "https://github.com/stateset",
   "categories": [],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:05.795060",
-  "metadata": {}
+  "metadata": {
+    "quality_score": 20
+  },
+  "enriched_at": "2025-11-17T18:44:45.106608"
 }

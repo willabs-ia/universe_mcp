@@ -10,10 +10,21 @@
   },
   "release_date": "Jul 15, 2025",
   "url": "https://www.pulsemcp.com/servers/tatumio-blockchain",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/tatumio/blockchain-mcp",
+  "categories": [
+    "monitoring",
+    "api",
+    "data",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:30.186288",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 12,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Blockchain MCP powered by Tatum\n\n[![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-blue)](https://modelcontextprotocol.io)\n[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)\n[![NPM Version](https://img.shields.io/npm/v/%40tatumio%2Fblockchain-mcp)](https://www.npmjs.com/package/@tatumio/blockchain-mcp)\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\n\nA Model Context Protocol (MCP) server that provides access to the Tatum Blockchain Data API and RPC Gateway, enabling any LLM to read and write blockchain data across **130+ networks**. Visit [official MCP webpage](https://tatum.io/mcp) for more details and to get your Tatum API key. \n\n[![Install MCP Server](https://cursor.com/deeplink/mcp-install-dark.svg)](https://cursor.com/en/install-mcp?name=tatumio&config=eyJjb21tYW5kIjoibnB4IEB0YXR1bWlvL2Jsb2NrY2hhaW4tbWNwIiwiZW52Ijp7IlRBVFVNX0FQSV9LRVkiOiJZT1VSX0FQSV9LRVkifX0%3D)\n\n## 🚀 Features\n\n- **130+ Blockchain Networks**: Bitcoin, Ethereum, Solana, Polygon, Arbitrum, Base, Avalanche, and many more.\n- 🔗 **Blockchain Data API**: Blocks, transactions, balances, network info, and more. \n- 🌐 **RPC Gateway**: Direct access to blockchain RPC endpoints. \n\n## 📦 Installation\n\n### Global Installation (Recommended)\n\n```bash\nnpm install -g @tatumio/blockchain-mcp\n```\n\n### Local Installation\n\n```bash\nnpm install @tatumio/blockchain-mcp\n```\n\n#",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:45:38.804880"
 }

@@ -7,10 +7,18 @@
   "weekly_metric": null,
   "release_date": "Apr 21, 2025",
   "url": "https://www.pulsemcp.com/servers/rebrandly",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/rebrandly/rebrandly-mcp",
+  "categories": [
+    "filesystem",
+    "api",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:22.842818",
-  "metadata": {}
+  "metadata": {
+    "readme_excerpt": "# Rebrandly MCP Tool (Go)\n\nThis project implements a simple MCP server in Go that exposes a single tool (`create_short_link`) to generate short URLs using the Rebrandly API.\n\n## Requirements\n\n- Go 1.20 or higher\n- A [Rebrandly](https://www.rebrandly.com) account and an API Key\n\n## Build Instructions\n\n1. Clone this repository or save the `main.go` file.\n2. Build the binary using:\n\n```bash\ngo build -o rebrandly-tool main.go\n```\n\nThis will generate an executable named `rebrandly-tool`.\n\n## Usage with Claude Desktop\n\nClaude Desktop supports custom MCP servers. To connect this tool:\n\n1. Open your Claude Desktop configuration.\n2. Add the following entry under `mcpServers`:\n\n```json\n{\n  \"mcpServers\": {\n    \"Rebrandly\": {\n      \"command\": \"PATH/TO/rebrandly-tool\",\n      \"args\": [],\n      \"env\": {\n        \"REBRANDLY_API_KEY\": \"YOUR_KEY\"\n      }\n    }\n  }\n}\n```\n\n> 🔧 Replace `PATH/TO/rebrandly-tool` with the actual path to the binary, and `YOUR_KEY` with your Rebrandly API Key.\n\n## Tool Available\n\n### `create_short_link`\n\nThis tool generates a short URL via Rebrandly.\n\n#### Parameters\n\n| Name        | Required | Description                                          |\n| ----------- | -------- | ---------------------------------------------------- |\n| destination | ✅       | The original long URL to shorten                     |\n| workspace   | ❌       | Optional workspace ID (for multi-workspace accounts) |\n| slashtag    | ❌       | Optional custom slug                                 |\n|",
+    "quality_score": 35
+  },
+  "enriched_at": "2025-11-17T18:41:41.303597"
 }

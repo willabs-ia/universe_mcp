@@ -7,10 +7,28 @@
   "weekly_metric": null,
   "release_date": "Jan 8, 2025",
   "url": "https://www.pulsemcp.com/servers/steel-puppeteer",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/steel-dev/steel-mcp-server",
+  "categories": [
+    "workflow",
+    "testing",
+    "cloud",
+    "git",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "browser",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:46.424256",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 43,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Steel MCP Server\n\n[![smithery badge](https://smithery.ai/badge/@steel-dev/steel-mcp-server)](https://smithery.ai/server/@steel-dev/steel-mcp-server)\n\nhttps://github.com/user-attachments/assets/25848033-40ea-4fa4-96f9-83b6153a0212\n\n\nA Model Context Protocol (MCP) server that enables LLMs like Claude to navigate the web through Puppeteer-based tools and Steel. Based on the Web Voyager framework, it provides tools for all the standard web actions click clicking/scrolling/typing/etc and taking screenshots.\n\nAsk Claude to help you with tasks like:\n- \"Search for a recipe and save the ingredients list\"\n- \"Track a package delivery status\"\n- \"Find and compare prices for a specific product\"\n- \"Fill out an online job application\"\n\n<a href=\"https://glama.ai/mcp/servers/tbd32geble\"><img width=\"380\" height=\"200\" src=\"https://glama.ai/mcp/servers/tbd32geble/badge\" alt=\"Steel Server MCP server\" /></a>\n\n## 🚀 Quick Start\n\nBelow is a streamlined guide to run Steel Voyager inside Claude Desktop. You only need to adjust the environment options to switch between Steel Cloud and a local/self-hosted instance.\n\n### Prerequisites\n\n1. Latest versions of Git and Node.js installed\n2. [Claude Desktop](https://claude.ai/download) installed\n3. (Optional) [Steel Docker image](https://github.com/steel-dev/steel-browser) running locally, if you plan to self-host\n4. (Optional) If running Steel Cloud, bring your API key. Get one [here](https://app.steel.dev/settings/api-keys).\n\n---\n\n### A) Quick Start (Steel C",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:44:47.829602"
 }

@@ -10,10 +10,23 @@
   },
   "release_date": "Oct 1, 2025",
   "url": "https://www.pulsemcp.com/servers/scout-apm",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/scoutapp/scout-mcp-local",
+  "categories": [
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:40.234062",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 22,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Scout Monitoring MCP\n\n<a href=\"https://glama.ai/mcp/servers/@scoutapp/scout-mcp-local\">\n  <img width=\"380\" height=\"200\" src=\"https://glama.ai/mcp/servers/@scoutapp/scout-mcp-local/badge\" alt=\"Scout Monitoring MCP server\" />\n</a>\n\n[![MCP Badge](https://lobehub.com/badge/mcp/scoutapp-scout-mcp-local)](https://lobehub.com/mcp/scoutapp-scout-mcp-local)\n\n<hr\n\nThis repository contains code to locally run an MCP server that can access [Scout\nMonitoring](https://www.scoutapm.com) data via Scout's API. We provide a Docker image that can be pulled and run by\nyour AI Assistant to access Scout Monitoring data.\n\n\nThis puts Scout Monitoring's performance and error data directly in the hands of your AI Assistant.\nFor Rails, Django, FastAPI, Laravel and more. Use it to get traces and errors with line-of-code information\nthat the AI can use to target fixes right in your editor and codebase. N+1 queries, slow endpoints,\nslow queries, memory bloat, throughput issues - all your favorite performance problems surfaced\nand explained right where you are working.\n\n**If this makes your life a tiny bit better, why not :star: it?!**\n\n## Setup Wizard\n\nThe simplest way to configure and start using the Scout MCP is with our interactive setup wizard.\nIt handles all the prereqs and installation steps for you.\n\nRun via npx:\n```bash\nnpx @scout_apm/wizard\n```\n\nBuild and run from source:\n```bash\ncd ./wizard\nnpm install\nnpm run build\nnode dist/wizard.js\n```\n\nThe wizard will guide you through:\n- Selecting your A",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:42:53.636529"
 }

@@ -7,10 +7,22 @@
   "weekly_metric": null,
   "release_date": "May 26, 2025",
   "url": "https://www.pulsemcp.com/servers/sage-hq-taskmem",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/sage-hq/agentcortex-mcp",
+  "categories": [
+    "git",
+    "search",
+    "development",
+    "api",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:39.031026",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 4,
+    "runtime": "Node.js",
+    "readme_excerpt": "# AgentCortex MCP Client\n\n[![NPM Version](https://img.shields.io/npm/v/agentcortex)](https://www.npmjs.com/package/agentcortex)\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\n[![GitHub Stars](https://img.shields.io/github/stars/sage-hq/agentcortex)](https://github.com/sage-hq/agentcortex)\n\n> 🎯 **The only AI memory system that solves the context-switching problem**\n> \n> Never lose context when jumping between projects. AgentCortex creates isolated, persistent memory banks for each codebase, so your AI assistant remembers everything—exactly where it belongs.\n\n## 🔥 Why AgentCortex Changes Everything\n\n**The Problem**: AI assistants forget everything between conversations. Worse, when you work on multiple projects, context bleeds between codebases—your React patterns from Project A contaminate your Vue.js work on Project B.\n\n**The Solution**: **Project-isolated persistent memory**. Each project gets its own intelligent memory bank that grows smarter over time, never interfering with your other work.\n\n## ✨ Core Features\n\n### 🎯 **Project Context Separation** *(The Game Changer)*\n- **Isolated memory banks** per project/codebase\n- **Zero context bleeding** between different repos\n- **Automatic project detection** and context switching\n- **Clean slate** for each new project, **full memory** for existing ones\n\n### 🧠 **Persistent Cross-Session Memory**\n- **Never lose context** again across all conversations\n- **Cumulative learn",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:42:33.519658"
 }

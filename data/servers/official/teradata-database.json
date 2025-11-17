@@ -10,10 +10,26 @@
   },
   "release_date": "May 10, 2025",
   "url": "https://www.pulsemcp.com/servers/teradata-database",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/teradata/teradata-mcp-server",
+  "categories": [
+    "documentation",
+    "git",
+    "development",
+    "api",
+    "database",
+    "ai",
+    "monitoring",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:57.412351",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 29,
+    "runtime": "Python",
+    "readme_excerpt": "<p align=\"center\">\n  <!-- Optional: replace with a logo if you have one -->\n  <!-- <img src=\"docs/media/logo.svg\" alt=\"Teradata MCP Server\" width=\"120\"> -->\n  \n</p>\n\n<h1 align=\"center\">Teradata MCP Server</h1>\n\n<p align=\"center\">\n  <a href=\"https://github.com/Teradata/teradata-mcp-server/blob/main/docs/README.md\">\n    <img alt=\"docs\" src=\"https://img.shields.io/badge/docs-readme-555?logo=readthedocs\">\n  </a>\n  <a href=\"https://github.com/Teradata/teradata-mcp-server/releases\">\n    <img alt=\"release\" src=\"https://img.shields.io/github/v/release/Teradata/teradata-mcp-server?display_name=tag&sort=semver\">\n  </a>\n  <a href=\"https://pypi.org/project/teradata-mcp-server/\">\n    <img alt=\"PyPI\" src=\"https://img.shields.io/pypi/v/teradata-mcp-server\">\n  </a>\n  <a href=\"https://pypi.org/project/teradata-mcp-server/\">\n    <img alt=\"downloads\" src=\"https://img.shields.io/pypi/dm/teradata-mcp-server?label=downloads&color=2ea44f\">\n  </a>\n  <a href=\"./examples/app-flowise/flowise_teradata_agents/README.md\">\n    <img alt=\"docs\" src=\"https://img.shields.io/badge/Teradata--Agents-Setup-green\">\n  </a>\n</p>\n\n<p align=\"center\">\n  Model Context Protocol (MCP) server for Teradata\n </p>\n\n<p align=\"center\">\n  ✨ <a href=\"https://github.com/Teradata/teradata-mcp-server?tab=readme-ov-file#quick-start-with-claude-desktop-no-installation\">Quickstart with Claude Desktop </a> or <a href=\"https://github.com/Teradata/teradata-mcp-server/blob/main/docs/README.md#-quick-start\"> your favorite tool</a> in <5 minu",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:46:03.776209"
 }

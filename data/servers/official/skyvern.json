@@ -10,10 +10,18 @@
   },
   "release_date": "Apr 5, 2025",
   "url": "https://www.pulsemcp.com/servers/skyvern",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/Skyvern-AI",
+  "categories": [
+    "workflow",
+    "browser",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:15.921318",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 18200,
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T18:44:02.275574"
 }

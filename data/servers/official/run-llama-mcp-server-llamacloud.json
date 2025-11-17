@@ -10,10 +10,22 @@
   },
   "release_date": "Dec 4, 2024",
   "url": "https://www.pulsemcp.com/servers/run-llama-mcp-server-llamacloud",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/run-llama/mcp-server-llamacloud",
+  "categories": [
+    "cloud",
+    "search",
+    "api",
+    "ai",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:42.311617",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 83,
+    "runtime": "Node.js",
+    "readme_excerpt": "# LlamaCloud MCP Server\n\nA MCP server connecting to multiple managed indexes on [LlamaCloud](https://cloud.llamaindex.ai/)\n\nThis is a TypeScript-based MCP server that creates multiple tools, each connected to a specific managed index on LlamaCloud. Each tool is defined through command-line arguments.\n\n<a href=\"https://glama.ai/mcp/servers/o4fcj7x2cg\"><img width=\"380\" height=\"200\" src=\"https://glama.ai/mcp/servers/o4fcj7x2cg/badge\" alt=\"LlamaCloud Server MCP server\" /></a>\n\n## Features\n\n### Tools\n\n- Creates a separate tool for each index you define\n- Each tool provides a `query` parameter to search its specific index\n- Auto-generates tool names like `get_information_index_name` based on index names\n\n## Installation\n\nTo use with your MCP Client (e.g. Claude Desktop, Windsurf or Cursor), add the following config to your MCP client config:\n\nThe `LLAMA_CLOUD_PROJECT_NAME` environment variable is optional and defaults to `Default` if not set.\n\n```json\n{\n  \"mcpServers\": {\n    \"llamacloud\": {\n      \"command\": \"npx\",\n      \"args\": [\n        \"-y\",\n        \"@llamaindex/mcp-server-llamacloud\",\n        \"--index\",\n        \"10k-SEC-Tesla\",\n        \"--description\",\n        \"10k SEC documents from 2023 for Tesla\",\n        \"--topK\",\n        \"5\",\n        \"--index\",\n        \"10k-SEC-Apple\",\n        \"--description\",\n        \"10k SEC documents from 2023 for Apple\"\n      ],\n      \"env\": {\n        \"LLAMA_CLOUD_API_KEY\": \"<YOUR_API_KEY>\"\n      }\n    }\n  }\n}\n```\n\nFor Claude, the MCP config can be foun",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:42:22.728676"
 }

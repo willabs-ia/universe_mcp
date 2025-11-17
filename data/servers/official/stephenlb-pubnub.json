@@ -7,10 +7,42 @@
   "weekly_metric": null,
   "release_date": "May 9, 2025",
   "url": "https://www.pulsemcp.com/servers/stephenlb-pubnub",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/pubnub/pubnub-mcp-server",
+  "categories": [
+    "documentation",
+    "security",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:32.234686",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 7,
+    "capabilities": [
+      "Chat SDK languages: JavaScript, Kotlin, Swift, Unity, Unreal.",
+      "Languages: JavaScript, Python, Java, Go, Ruby, Swift, Objective-C, C#, PHP, Rust, Unity, Kotlin, Unreal.",
+      "Fetch historical messages from one or more channels with `get_pubnub_messages`, returning message content and metadata in JSON.",
+      "Input validation via Zod schemas for all tool parameters, ensuring robust error handling.",
+      "API reference sections: configuration, publish-and-subscribe, presence, access-manager, channel-groups, storage-and-playback, mobile-push, objects, files, message-actions, misc, functions.",
+      "Generate step-by-step instructions for creating a PubNub application, including code snippets for initializing the PubNub SDK in multiple languages using `write_pubnub_app`.",
+      "Retrieve official PubNub Chat SDK documentation (HTML → Markdown) for:",
+      "Retrieve real-time presence information (occupancy counts, subscriber UUIDs) for channels and channel groups with `get_pubnub_presence`.",
+      "Retrieve official PubNub SDK documentation (HTML → Markdown) for:",
+      "Chat SDK topics: configuration, chat, channel, user, message, membership, thread-channel, thread-message, message-draft, event, access-control, glossary.",
+      "MCP server exposing tools for interacting with PubNub via JSON-RPC over STDIN/STDOUT.",
+      "Publish messages to PubNub channels with `publish_pubnub_message`, returning a timetoken.",
+      "Subscribe to channels and receive real-time messages with `pubnub_subscribe_and_receive_messages`, supporting single or multiple message collection with optional timeout.",
+      "Converts remote HTML articles to Markdown using `jsdom` and `turndown` for consistent documentation formatting.",
+      "Manage PubNub account apps and API keys with `manage_pubnub_account`, supporting create, list, and delete operations for both apps and API keys."
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "![MCP Server Logo](https://github.com/pubnub/pubnub-mcp-server/raw/main/context/pubnub-mcp-server-model-context-protocol.jpg)\n\n[![Verified on MseeP](https://mseep.ai/badge.svg)](https://mseep.ai/app/f3c1be4a-2414-4af8-8e43-baf376df2d0d)\n\n[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/pubnub-pubnub-mcp-server-badge.png)](https://mseep.ai/app/pubnub-pubnub-mcp-server)\n\n\n# PubNub Model Context Protocol (MCP) Server for Cursor IDE\n\nThis repository provides a CLI-based Model Context Protocol (MCP) server that exposes PubNub SDK documentation and PubNub API resources to LLM-powered tools.\nThis improves the LLM AI Agent's ability to understand and interact with PubNub's SDKs and APIs.\n\n![With PubNub MCP vs Without](https://github.com/pubnub/pubnub-mcp-server/raw/main/context/pubnub-mcp-vs-no-mcp.jpg)\n\n## Features\n\n- MCP server exposing tools for interacting with PubNub via JSON-RPC over STDIN/STDOUT.\n- MCP server supports SSE Mode by supplying `HTTP_PORT` environment variable.\n- Retrieve official PubNub SDK documentation (HTML → Markdown) for:\n  - Languages: JavaScript, Python, Java, Go, Ruby, Swift, Objective-C, C#, PHP, Rust, Unity, Kotlin, Unreal.\n  - API reference sections: configuration, publish-and-subscribe, presence, access-manager, channel-groups, storage-and-playback, mobile-push, objects, files, message-actions, misc, functions.\n- Retrieve official PubNub Chat SDK documentation (HTML → Markdown) for:\n  - Chat SDK languages: JavaScript, Kotlin, Swift, Unity, U",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T18:44:50.732499"
 }

@@ -7,10 +7,16 @@
   "weekly_metric": null,
   "release_date": "Mar 15, 2025",
   "url": "https://www.pulsemcp.com/servers/tinyfish-agentql",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/tinyfish-io",
+  "categories": [
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:41.630691",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 120,
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:46:23.486919"
 }

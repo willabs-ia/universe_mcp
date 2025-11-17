@@ -10,10 +10,22 @@
   },
   "release_date": "Aug 20, 2025",
   "url": "https://www.pulsemcp.com/servers/socket-security",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/socketdev/socket-mcp",
+  "categories": [
+    "security",
+    "development",
+    "api",
+    "ai",
+    "monitoring"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:10.514211",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 72,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Socket MCP Server\n\n[![npm version](https://badge.fury.io/js/@socketsecurity%2Fmcp.svg)](https://badge.fury.io/js/@socketsecurity%2Fmcp)\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\n[![Socket Badge](https://socket.dev/api/badge/npm/package/@socketsecurity/mcp)](https://socket.dev/npm/package/@socketsecurity/mcp)\n\nA Model Context Protocol (MCP) server for Socket integration, allowing AI assistants to efficiently check dependency vulnerability scores and security information.\n\n## ✨ Features\n\n- 🔍 **Dependency Security Scanning** - Get comprehensive security scores for npm, PyPI, and other package ecosystems\n- 🌐 **Public Hosted Service** - Use our public server at `https://mcp.socket.dev/` with no setup required\n- 🚀 **Multiple Deployment Options** - Run locally via stdio, HTTP, or use our service\n- 🤖 **AI Assistant Integration** - Works seamlessly with Claude, VS Code Copilot, Cursor, and other MCP clients\n- 📊 **Batch Processing** - Check multiple dependencies in a single request\n- 🔒 **No Authentication Required** - Public server requires no API keys or registration\n\n🛠️ This project is in early development and rapidly evolving.\n\n## 🚀 Quick Start\n\n### Option 1: Use the Public Socket MCP Server (Recommended)\n\nThe easiest way to get started is to use our public Socket MCP server. **No API key or authentication required!** Click a button below to install the public server in your favorite AI assistant.\n\n\n[![Install in VS",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:44:14.758335"
 }

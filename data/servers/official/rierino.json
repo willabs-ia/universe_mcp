@@ -7,10 +7,23 @@
   "weekly_metric": null,
   "release_date": "Apr 16, 2025",
   "url": "https://www.pulsemcp.com/servers/rierino",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/rierino-open/mcp",
+  "categories": [
+    "documentation",
+    "security",
+    "cloud",
+    "development",
+    "api",
+    "database",
+    "ai",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:22.804595",
-  "metadata": {}
+  "metadata": {
+    "readme_excerpt": "# MCP Server & Middleware\n\n![MCP Servr Configuration](https://res.cloudinary.com/rierino/image/upload/v1744738980/web/media/Rierino_MCP_Server.png)\n\nRierino provides ability to service all of its functionality over Model Context Protocol (MCP), with a simple configuration that allows selection of flows to be serviced as tools over MCP, while maintaining already existing security policies and users roles. Any API, event processing or CDC flow can be included as MCP server tools and triggered using any protocol already supported by Rierino (e.g. REST, WebSocket, Event Streaming), going beyond the standard MCP implementations.\n\nMCP servers can be built from scratch, using functionality such as database access, business rule evaluation, ML model prediction, external REST API calls, or could access 3rd party MCP servers acting as a middleware based on request details. \n\nModel context protocol can be enabled on any microservice, allowing distributed execution of MCP requests in a scalable and high availability architecture by creating an [Mcp Server Event Handler](https://docs.rierino.com/devops/microservices/elements/handlers/specialized-handlers/service-mcp-requests).\n\nMCP server definitions allow configuration of services that are available through model context protocol through simple mapping of sagas as tools. \nInitial definition of a server includes:\n* **Name:** A descriptive name\n* **Description:** Detailed description of the server\n* **Tags:** Descriptive tags for the serve",
+    "quality_score": 35
+  },
+  "enriched_at": "2025-11-17T18:42:05.609482"
 }

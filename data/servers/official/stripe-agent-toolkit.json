@@ -10,10 +10,22 @@
   },
   "release_date": "Feb 20, 2025",
   "url": "https://www.pulsemcp.com/servers/stripe-agent-toolkit",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/stripe/ai",
+  "categories": [
+    "documentation",
+    "security",
+    "development",
+    "api",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:15.928180",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 1100,
+    "runtime": "Node.js",
+    "readme_excerpt": "![Hero GIF](https://stripe.dev/images/badges/ai-banner.gif)\n\n# Stripe AI\n\nThis repo is the one-stop shop for building AI-powered products and businesses on top of Stripe. \n\nIt contains a collection of SDKs to help you integrate Stripe with LLMs and agent frameworks, including: \n\n* [`@stripe/agent-toolkit`](/tools/typescript) - for integrating Stripe APIs with popular agent frameworks through function calling—available in [Python](/tools/python) and [TypeScript](/tools/typescript).\n* [`@stripe/ai-sdk`](/llm/ai-sdk) - for integrating Stripe's billing infrastructure with Vercel's [`ai`](https://npm.im/ai) and [`@ai-sdk`](https://ai-sdk.dev/) libraries.\n* [`@stripe/token-meter`](/llm/token-meter) - for integrating Stripe's billing infrastructure with native SDKs from OpenAI, Anthropic, and Google Gemini, without any framework dependencies.\n\n## Model Context Protocol (MCP)\n\nStripe hosts a remote MCP server at `https://mcp.stripe.com`. This allows secure MCP client access via OAuth. View the docs [here](https://docs.stripe.com/mcp#remote).\n\nThe Stripe Agent Toolkit also exposes tools in the [Model Context Protocol (MCP)](https://modelcontextprotocol.com/) format. Or, to run a local Stripe MCP server using npx, use the following command:\n\n```sh\nnpx -y @stripe/mcp --tools=all --api-key=YOUR_STRIPE_SECRET_KEY\n```\n\nSee [MCP](/tools/modelcontextprotocol) for more details.\n\n## Agent toolkit\n\nStripe's Agent Toolkit enables popular agent frameworks including OpenAI's Agent SDK, LangChain, ",
+    "quality_score": 60
+  },
+  "enriched_at": "2025-11-17T18:45:05.632751"
 }

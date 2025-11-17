@@ -10,10 +10,31 @@
   },
   "release_date": "Mar 3, 2025",
   "url": "https://www.pulsemcp.com/servers/scraperis-scraper",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/ai-quill/scraperis-mcp",
+  "categories": [
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:48.020517",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 7,
+    "capabilities": [
+      "📸 **Screenshots**: Capture visual representations of web pages",
+      "🔄 **Progress Updates**: Real-time progress reporting during scraping operations",
+      "🔌 **MCP Integration**: Seamless integration with MCP-compatible AI assistants",
+      "📄 **Multiple Formats**: Get content in markdown, HTML, or JSON",
+      "🌐 **Web Scraping**: Extract content from any website"
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "# Scraper.is MCP\n\n[![npm version](https://img.shields.io/npm/v/scraperis-mcp.svg)](https://www.npmjs.com/package/scraperis-mcp)\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\n\nA [Model Context Protocol (MCP)](https://github.com/model-context-protocol/spec) integration for [Scraper.is](https://scraper.is) - A powerful web scraping tool for AI assistants.\n\nThis package allows AI assistants to scrape web content through the MCP protocol, enabling them to access up-to-date information from the web.\n\n## Features\n\n- 🌐 **Web Scraping**: Extract content from any website\n- 📸 **Screenshots**: Capture visual representations of web pages\n- 📄 **Multiple Formats**: Get content in markdown, HTML, or JSON\n- 🔄 **Progress Updates**: Real-time progress reporting during scraping operations\n- 🔌 **MCP Integration**: Seamless integration with MCP-compatible AI assistants\n\n## Installation\n\n```bash\nnpm install -g scraperis-mcp\n```\n\nOr with yarn:\n\n```bash\nyarn global add scraperis-mcp\n```\n\n## Prerequisites\n\nYou need a Scraper.is API key to use this package. \n\n### Getting Your API Key\n\n1. Sign up or log in at [scraper.is](https://scraper.is)\n2. Navigate to the API Keys section in your dashboard: [https://www.scraper.is/dashboard/apikeys](https://www.scraper.is/dashboard/apikeys)\n3. Create a new API key or copy your existing key\n4. Store this key securely as you'll need it to use this package\n\n## Usage\n\n### Environment Setup\n\nCreate a `.env` f",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T18:42:59.134293"
 }

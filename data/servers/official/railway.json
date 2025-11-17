@@ -7,10 +7,25 @@
   "weekly_metric": null,
   "release_date": "Aug 10, 2025",
   "url": "https://www.pulsemcp.com/servers/railway",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/railwayapp/railway-mcp-server",
+  "categories": [
+    "documentation",
+    "workflow",
+    "development",
+    "api",
+    "database",
+    "ai",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:11.446950",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 83,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Railway MCP Server\n\nA Model Context Protocol (MCP) server for interacting with your Railway account. This is a local MCP server provides a set of opinionated workflows and tools for managing Railway resources.\n\n> [!IMPORTANT]\n> The MCP server doesn't include destructive actions by design, that said, you should still keep an eye on which tools and commands are being executed.\n\n## Prerequisites\n\nThe [Railway CLI](https://docs.railway.com/guides/cli) is required for this server to function.\n\n## Installation\n\n### Cursor\n\nYou can add the Railway MCP Server to Cursor by clicking the button below.\n\n[![Install MCP Server](https://cursor.com/deeplink/mcp-install-dark.svg)](https://cursor.com/en/install-mcp?name=railway-mcp-server&config=eyJjb21tYW5kIjoibnB4IC15IEByYWlsd2F5L21jcC1zZXJ2ZXIifQ%3D%3D)\n\nAlternatively, you can add the following configuration to `.cursor/mcp.json`\n\n```json\n{\n  \"mcpServers\": {\n    \"railway-mcp-server\": {\n      \"command\": \"npx\",\n      \"args\": [\"-y\", \"@railway/mcp-server\"]\n    }\n  }\n}\n```\n\n### VS Code:\n\nAdd the following configuration to `.vscode/mcp.json`\n\n```json\n{\n  \"servers\": {\n    \"railway-mcp-server\": {\n      \"type\": \"stdio\",\n      \"command\": \"npx\",\n      \"args\": [\"-y\", \"@railway/mcp-server\"]\n    }\n  }\n}\n```\n\n### Claude Code:\n\n```shell\nclaude mcp add railway-mcp-server -- npx -y @railway/mcp-server\n```\n\n## Example Usage\n\nCreating a new project, deploying it, and generating a domain\n\n```text\nCreate a Next.js app in this directory and deploy it to Railway",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:41:31.491987"
 }

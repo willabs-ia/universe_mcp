@@ -7,10 +7,20 @@
   "weekly_metric": null,
   "release_date": "Sep 23, 2025",
   "url": "https://www.pulsemcp.com/servers/runwayml-runway-api",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/runwayml/runway-api-mcp-server",
+  "categories": [
+    "api",
+    "development",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:28.891391",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 7,
+    "runtime": "Node.js",
+    "readme_excerpt": "![Demo](demo.gif)\n\n<small>Video sped up for demo purposes</small>\n\n# Runway API MCP Server\n\nThis repository holds the code for a MCP server that calls the Runway API.\n\n## Tools\n\nThe following tools are available in this MCP:\n\n| Tool Name              | Description                                                 | Parameters                                                                                                                                                            |\n| ---------------------- | ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |\n| `runway_generateVideo` | Generates a video from an image and a text prompt           | - promptImage <br/> - promptText (optional) <br/> - ratio <br/> - duration                                                                                            |\n| `runway_generateImage` | Generates an image from a text prompt, and reference images | - promptText <br/> - referenceImages (note that uploaded images won't work as references, only previously generated ones, or URLs to images will work.) <br/> - ratio |\n| `runway_upscaleVideo`  | Upscale a video to a higher resolution                      | - videoUri                                                                                                                                                   ",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:42:30.540398"
 }

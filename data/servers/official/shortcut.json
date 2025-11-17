@@ -10,10 +10,25 @@
   },
   "release_date": "Jun 19, 2025",
   "url": "https://www.pulsemcp.com/servers/shortcut",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/useshortcut/mcp-server-shortcut",
+  "categories": [
+    "documentation",
+    "testing",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:26.712301",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 76,
+    "runtime": "Node.js",
+    "readme_excerpt": "# @shortcut/mcp\n\n<img height=\"125\" src=\"https://github.com/user-attachments/assets/7c3d3b8e-6252-4790-81cd-6640cd46a2d6\" alt=\"Shortcut's logo\" align=\"right\">\n\n[![Version](https://badge.fury.io/js/@shortcut%2Fmcp.svg)](https://badge.fury.io/js/@shortcut%2Fmcp)\n[![Monthly Downloads](https://img.shields.io/npm/dm/@shortcut%2Fmcp)](https://www.npmjs.org/package/@shortcut%2Fmcp)\n[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/useshortcut/mcp-server-shortcut/blob/main/LICENSE)\n[![PRs welcome!](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)]()\n[![X](https://img.shields.io/twitter/follow/shortcut.svg?label=Follow%20@shortcut)](https://twitter.com/intent/follow?screen_name=shortcut)\n\nThe MCP server for [Shortcut](https://shortcut.com).\n\n<br />\n\n## Usage\n\n### Windsurf\n\nSee the [official Windsurf docs](https://docs.windsurf.com/windsurf/cascade/mcp) for more information.\n\n1. Open the `Windsurf MCP Configuration Panel`\n2. Click `Add custom server`.\n3. Add the following details and save the file:\n\n```json\n{\n  \"mcpServers\": {\n    \"shortcut\": {\n      \"command\": \"npx\",\n      \"args\": [\n        \"-y\",\n        \"@shortcut/mcp@latest\"\n      ],\n      \"env\": {\n        \"SHORTCUT_API_TOKEN\": \"<YOUR_SHORTCUT_API_TOKEN>\"\n      }\n    }\n  }\n}\n```\n\n### Cursor\n[![Install MCP Server](https://cursor.com/deeplink/mcp-install-dark.svg)](https://cursor.com/en-US/install-mcp?name=shortcut&config=eyJlbnYiOnsiU0hPUlRDVVRfQVBJX1RPS0VOIjoiWU9VUl9UT0tFTiJ9LCJjb21tYW",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:43:41.783228"
 }

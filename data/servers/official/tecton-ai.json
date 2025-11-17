@@ -7,10 +7,25 @@
   "weekly_metric": null,
   "release_date": "Mar 5, 2025",
   "url": "https://www.pulsemcp.com/servers/tecton-ai",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/tecton-ai/tecton-mcp",
+  "categories": [
+    "documentation",
+    "search",
+    "development",
+    "api",
+    "database",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:12.992498",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 3,
+    "runtime": "Python",
+    "readme_excerpt": "# Tecton MCP Server & Cursor Rules\n\nTecton's Co-Pilot consists of an MCP Server rules for MCP clients such as Cursor and Claude Code.\nRead this [blog](https://medium.com/p/252221865d26) to learn much more.\n\n> ℹ️ **Info**: This guide will walk you through setting up the Tecton MCP server with **this repository** and configuring your **feature repository** to use it while developing features with Tecton.\n\n## Table of Contents\n\n- [Tecton MCP Tools](#tecton-mcp-tools)\n- [Quick Start](#quick-start)\n- [Setup Tecton with Cursor](#setup-tecton-mcp-with-cursor)\n- [Setup Tecton with Claude Code](#setup-tecton-mcp-with-claude-code)\n- [Setup Tecton with Augment](#setup-tecton-mcp-with-augment)\n- [Architecture](#architecture)\n- [How to Update the Tecton MCP Server](#how-to-update-the-tecton-mcp-server)\n- [How to Use Specific Tecton SDK Version](#how-to-use-specific-tecton-sdk-version)\n- [Troubleshooting](#troubleshooting)\n- [Resources](#resources)\n\n## Tecton MCP Tools\n\nThe Tecton MCP server exposes the following tools that can be used by an MCP client such as Cursor or Claude Code:\n\n| Tool Name                               | Description                                                                                                                               |\n| --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |\n| `query_example_code_snippet_index_tool` | F",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:45:44.046831"
 }

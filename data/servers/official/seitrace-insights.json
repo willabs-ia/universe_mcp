@@ -7,10 +7,23 @@
   "weekly_metric": null,
   "release_date": "Aug 13, 2025",
   "url": "https://www.pulsemcp.com/servers/seitrace-insights",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/seitrace/seitrace-mcp",
+  "categories": [
+    "search",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:11.485963",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 9,
+    "runtime": "Node.js",
+    "readme_excerpt": "<img src=\"https://assets.seitrace.com/seitrace-mcp.gif?v=10\" width=\"1280\"></img>\n\n# Seitrace MCP\n\nThe essential MCP (Model Context Protocol) server for the Sei blockchain.\n\n## Available tools 🧰\n\n**Five tools that form the resource-based interface (use in order 1→2→3→4):**\n\n- `list_resources` — list available resources (start here)\n- `list_resource_actions` — list actions for a resource\n- `get_resource_action_schema` — **REQUIRED** get the JSON Schema for an action before invoking\n- `invoke_resource_action` — invoke an action with payload matching the schema\n- `get_resource_action_snippet` — (optional) generate a code snippet to perform a resource action in the specified language\n\n**Supported resources**\n\n**General**\n\n- `general_faucet` - enable requesting faucet for developers\n- `general_rpc_lcd` - enable general rpc/lcd inquiries for the agents, and execute the rpc/lcd requests based on the demands\n- `general_associations` — query hybrid associations (EOA/assets/txs) across EVM and native Sei. Returns simplified pointer/pointee fields when applicable.\n\n**Insights**\n\n- `insights_address` — Query address data: details, transactions, token transfers.\n- `insights_erc20` — Query ERC-20 tokens: info, balances, transfers, holders.\n- `insights_cw20` — Query CW20 tokens: info, balances, transfers, holders.\n- `insights_native` — Query native tokens: info, transfers, balances, holders.\n- `insights_ics20` — Query ICS20 tokens: info, transfers, balances, holders.\n- `insights_erc721` — Qu",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:43:12.550622"
 }

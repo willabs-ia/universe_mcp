@@ -7,10 +7,25 @@
   "weekly_metric": null,
   "release_date": "Aug 6, 2025",
   "url": "https://www.pulsemcp.com/servers/railsware-coupler-io",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/railsware/coupler-io-mcp-server",
+  "categories": [
+    "workflow",
+    "testing",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:09.298079",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 1,
+    "runtime": "Node.js",
+    "readme_excerpt": "[![Lint & Test](https://github.com/railsware/coupler-io-mcp-server/actions/workflows/lint-and-test.yml/badge.svg)](https://github.com/railsware/coupler-io-mcp-server/actions/workflows/lint-and-test.yml)\n\n# Coupler.io official MCP server\nThe Coupler.io MCP Server is a Model Context Protocol (MCP) server that provides seamless integration with Coupler.io APIs.\nWith Coupler.io MCP Server, you can analyze multi-channel marketing, financial, sales, e-commerce, and other business data within Claude by connecting to your Coupler.io data flows — query marketing, sales, and finance metrics from hundreds of sources. Fetch and transform raw data from platforms like Google Ads, Facebook, HubSpot, and Salesforce into actionable intelligence for smarter, faster decision-making with accurate, up-to-date business information.\n\n\n## Use Cases\nGet data from your Coupler.io data flows and ask your AI tool questions about it, like you would ask your fellow data analyst:\n\n### Marketing: \n1. What's our overall customer acquisition cost across all paid channels this quarter compared to last quarter? I need this for the board meeting.\n2. Show me the ROI breakdown by marketing channel for the past 6 months. I need to reallocate our annual budget.\n3. Which campaigns are contributing most to our pipeline revenue? I want to double down on what's working.\n\n### Sales:\n1. Can you pull the sales pipeline report for this month? I need to see how many deals are in each stage and the total value at each stage.\n",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:41:29.075758"
 }

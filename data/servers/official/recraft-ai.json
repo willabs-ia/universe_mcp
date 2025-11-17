@@ -10,10 +10,22 @@
   },
   "release_date": "May 28, 2025",
   "url": "https://www.pulsemcp.com/servers/recraft-ai",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/recraft-ai/mcp-recraft-server",
+  "categories": [
+    "documentation",
+    "development",
+    "api",
+    "ai",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:25.860034",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 42,
+    "runtime": "Node.js",
+    "readme_excerpt": "<div align=\"center\">\n  <h1>\n    <img src=\"images/recraft.svg\" width=\"500px\">\n    <br/>Recraft MCP Server\n  </h1>\n\n  <img src=\"https://badge.mcpx.dev?type=server\" title=\"MCP Server\"/>\n  <img src=\"https://img.shields.io/npm/v/@recraft-ai/mcp-recraft-server\" alt=\"npm version\"/>\n  <img src=\"https://img.shields.io/npm/dw/@recraft-ai/mcp-recraft-server\" alt=\"npm downloads\"/>\n  <a href=\"https://smithery.ai/server/@recraft-ai/mcp-recraft-server\">\n    <img src=\"https://smithery.ai/badge/@recraft-ai/mcp-recraft-server\" alt=\"smithery badge\">\n  </a>\n</div>\n\nThis is an MCP ([Model Context Protocol](https://modelcontextprotocol.io/)) server integrating MCP clients with [Recraft](https://recraft.ai/)'s raster- and vector-image operations:\n\n- raster and vector image generation\n- raster and vector image editing\n- creating custom styles and generating images in them\n- vectorization of raster images\n- background removal and replacement\n- upscaling of raster images\n\nBy connecting this MCP server to your MCP client you will be able to generate high-quality raster and vector images using Recraft, combining different tools.\n\n# Table of Contents\n\n- [Table of Contents](#table-of-contents)\n- [Setup](#setup)\n  - [Prerequisites](#prerequisites)\n  - [Claude Desktop Extensions](#claude-desktop-extensions)\n  - [Smithery](#smithery)\n  - [Manual Setup](#manual-setup)\n    - [From NPM](#from-npm)\n    - [From source](#from-source)\n- [Tools](#tools)\n\n# Setup\n\n## Prerequisites\n\n- First of all, you will need a [Re",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:41:43.988004"
 }

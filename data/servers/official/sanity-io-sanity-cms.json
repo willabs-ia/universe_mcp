@@ -7,10 +7,23 @@
   "weekly_metric": null,
   "release_date": "May 10, 2025",
   "url": "https://www.pulsemcp.com/servers/sanity-io-sanity-cms",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/sanity-io/sanity-mcp-server",
+  "categories": [
+    "security",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:34.354189",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 72,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Sanity MCP Server <!-- omit in toc -->\n\n> [!NOTE]\n> **This repository is archived and no longer actively maintained.**\n> We now recommend using our hosted server at **[mcp.sanity.io](https://mcp.sanity.io)** which offers streamable HTTP transport, OAuth authentication, continually updated tools, and production-ready reliability without any local setup required.\n\n> Transform your content operations with AI-powered tools for Sanity. Create, manage, and explore your content through natural language conversations in your favorite AI-enabled editor.\n\nSanity MCP Server implements the [Model Context Protocol](https://modelcontextprotocol.ai) to connect your Sanity projects with AI tools like Claude, Cursor, and VS Code. It enables AI models to understand your content structure and perform operations through natural language instructions.\n\n## ✨ Key Features <!-- omit in toc -->\n\n- 🤖 **Content Intelligence**: Let AI explore and understand your content library\n- 🔄 **Content Operations**: Automate tasks through natural language instructions\n- 📊 **Schema-Aware**: AI respects your content structure and validation rules\n- 🚀 **Release Management**: Plan and organize content releases effortlessly\n- 🔍 **Semantic Search**: Find content based on meaning, not just keywords\n\n## Table of Contents <!-- omit in toc -->\n\n- [🔌 Quickstart](#-quickstart)\n  - [Remote server (preferred)](#remote-server-preferred)\n  - [Local server prerequisites](#local-server-prerequisites)\n  - [Add configuration for th",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:42:40.906535"
 }

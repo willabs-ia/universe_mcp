@@ -10,10 +10,21 @@
   },
   "release_date": "Nov 27, 2024",
   "url": "https://www.pulsemcp.com/servers/tinybirdco-tinybird",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/tinybirdco/mcp-tinybird",
+  "categories": [
+    "documentation",
+    "api",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:10.555403",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 74,
+    "readme_excerpt": "# 🚨 DEPRECATED\n\n**This repository is deprecated and no longer maintained.**\n\n**New implementation:** [Tinybird MCP Server](https://www.tinybird.co/docs/forward/analytics-agents/mcp)\n\n**Please migrate to the official implementation.**\n",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:46:20.732303"
 }

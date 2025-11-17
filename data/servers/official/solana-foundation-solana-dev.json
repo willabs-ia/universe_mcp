@@ -10,10 +10,25 @@
   },
   "release_date": "Mar 12, 2025",
   "url": "https://www.pulsemcp.com/servers/solana-foundation-solana-dev",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/solana-foundation/solana-dev-mcp",
+  "categories": [
+    "documentation",
+    "git",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:48.793357",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 42,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Solana Model Context Protocol (MCP) Demo\n\nThis repository demonstrates a simple implementation of a Model Context Protocol (MCP) server for Solana development.\n\n## What is MCP?\n\nThe Model Context Protocol (MCP) is a standardized interface for AI models to interact with tools and resources. This demo showcases a simple MCP server implementation that provides:\n\n1. Basic RPC methods for Solana (getBalance, getAccountInfo, getTransaction)\n2. Some helpful prompts for Solana development\n\n## Prerequisites\n\n- Node.js (v16 or higher recommended)\n- pnpm package manager (v9.10.0 or compatible)\n\n## Installation\n\nClone this repository and install dependencies:\n\n```bash\ngit clone https://github.com/solana-foundation/solana-dev-mcp.git\ncd solana-dev-mcp\npnpm install\n```\n\nTo run this server in the MCP inspector, use:\n\n```bash\nnpx @modelcontextprotocol/inspector ts-node index.ts\n```\n\n## Getting Started\n\n1. **Explore the code**: The main implementation is in `index.ts`, which sets up an MCP server with simple fetching tools and some prompts.\n\n2. **Modify the server**: You can extend the server by adding more tools, resources, and prompts.\n\n3. **Get ideas for extensions**: Check out the [Ideas Extending MCP for Solana Development](#ideas-extending-mcp-for-solana-development) section to get inspiration for new tools and resources to add.\n\n## Example Usage\n\nThis section explains how to use the Solana MCP server in [Claude](https://modelcontextprotocol.io/quickstart/user).\nFollow the same steps ",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:44:17.538150"
 }

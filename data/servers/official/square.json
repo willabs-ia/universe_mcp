@@ -10,10 +10,25 @@
   },
   "release_date": "Apr 28, 2025",
   "url": "https://www.pulsemcp.com/servers/square",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/square/square-mcp-server",
+  "categories": [
+    "documentation",
+    "security",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:20.263042",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 88,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Square Model Context Protocol Server (Beta)\n\nThis project follows the [Model Context Protocol](https://modelcontextprotocol.com/) standard, allowing AI assistants to interact with Square's connect API.\n\n<a href=\"https://glama.ai/mcp/servers/@square/square-mcp-server\">\n  <img width=\"380\" height=\"200\" src=\"https://glama.ai/mcp/servers/@square/square-mcp-server/badge\" alt=\"Square Model Context Protocol Server MCP server\" />\n</a>\n\n## Quick Start\n\nGet up and running with the Square MCP server using npx:\n\n```bash\n# Basic startup\nnpx square-mcp-server start\n\n# With environment configuration\nACCESS_TOKEN=YOUR_SQUARE_ACCESS_TOKEN SANDBOX=true npx square-mcp-server start\n\n# local runs\nnpx /path/to/project/square-mcp-server\n```\n\nReplace `YOUR_SQUARE_ACCESS_TOKEN` with your actual Square access token. You can obtain your access token by following the guide at [Square Access Tokens](https://developer.squareup.com/docs/build-basics/access-tokens). You can also set environment variables before running the command.\n\n## Remote MCP Server\n\nSquare now offers a hosted remote MCP server at:\n\n```\nhttps://mcp.squareup.com/sse\n```\n\nThe remote MCP is recommended as it uses OAuth authentication, allowing you to log in with your Square account directly without having to create or manage access tokens manually.\n\n## Configuration Options\n\n| Environment Variable | Purpose | Example |\n|---------------------|---------|---------|\n| `ACCESS_TOKEN` | Your Square API access token | `ACCESS_TOKEN=sq0atp-...` |",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:44:30.710543"
 }

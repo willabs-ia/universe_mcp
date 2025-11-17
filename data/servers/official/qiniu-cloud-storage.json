@@ -10,10 +10,23 @@
   },
   "release_date": "Apr 14, 2025",
   "url": "https://www.pulsemcp.com/servers/qiniu-cloud-storage",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/qiniu/qiniu-mcp-server",
+  "categories": [
+    "documentation",
+    "cloud",
+    "development",
+    "api",
+    "ai",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:55.295497",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 31,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Qiniu MCP Server\n\n## 概述\n\n基于七牛云产品构建的 Model Context Protocol (MCP) Server，支持用户在 AI 大模型客户端的上下文中通过该 MCP\nServer 来访问七牛云存储、智能多媒体服务等。\n\n关于访问七牛云存储详细情况请参考 [基于 MCP 使用大模型访问七牛云存储](https://developer.qiniu.com/kodo/12914/mcp-aimodel-kodo)。\n\n能力集：\n- 存储\n  - 获取 Bucket 列表\n  - 获取 Bucket 中的文件列表\n  - 上传本地文件，以及给出文件内容进行上传\n  - 读取文件内容\n  - 获取文件下载链接\n- 智能多媒体\n  - 图片缩放\n  - 图片切圆角\n- CDN\n  - 根据链接刷新文件\n  - 根据链接预取文件\n- 直播\n    - 创建直播空间bucket和直播流\n    - 绑定推拉流域名,获取推拉流直播地址\n    - 获取直播用量\n\n## 环境要求\n\n- Python 3.12 或更高版本\n- uv 包管理器\n\n如果还没有安装 uv，可以使用以下命令安装：\n```bash\n# Mac，推荐使用 brew 安装\nbrew install uv\n\n\n# Linux & Mac\n# 1. 安装\ncurl -LsSf https://astral.sh/uv/install.sh | sh\n# 2. 安装完成后，请确保将软件包安装路径（包含 uv 和 uvx 可执行文件的目录）添加到系统的 PATH 环境变量中。\n# 假设安装包路径为 /Users/xxx/.local/bin（见安装执行输出）\n### 临时生效（当前会话），在当前终端中执行以下命令：\nexport PATH=\"/Users/xxx/.local/bin:$PATH\"\n### 永久生效（推荐），在当前终端中执行以下命令：\necho 'export PATH=\"/Users/xxx/.local/bin:$PATH\"' >> ~/.bash_profile\nsource ~/.bash_profile\n\n\n# Windows\npowershell -ExecutionPolicy ByPass -c \"irm https://astral.sh/uv/install.ps1 | iex\"\n```\n\n具体安装方式参考 [uv 安装](https://docs.astral.sh/uv/getting-started/installation/#pypi)\n\n## 在 Cline 中使用：\n\n步骤：\n\n1. 在 vscode 下载 Cline 插件（下载后 Cline 插件后在侧边栏会增加 Cline 的图标）\n2. 配置大模型\n3. 配置 qiniu MCP\n    1. 点击 Cline 图标进入 Cline 插件，选择 MCP Server 模块\n    2. 选择 installed，点击 Advanced MCP Settings 配置 MCP Server，参考下面配置信息\n   ```\n   {\n     \"mcpServers\": {\n       \"qiniu\": {\n         \"command\": \"uvx\",\n         \"args\": [\n           \"qiniu-mcp-server\"\n         ],\n         \"env\": {\n           \"QINIU_ACCESS_",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:41:14.032413"
 }

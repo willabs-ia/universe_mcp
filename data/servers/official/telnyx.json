@@ -7,10 +7,21 @@
   "weekly_metric": null,
   "release_date": "Aug 14, 2025",
   "url": "https://www.pulsemcp.com/servers/telnyx",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/team-telnyx/telnyx-mcp-server",
+  "categories": [
+    "api",
+    "git",
+    "development",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:13.574006",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 21,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Telnyx Local Model Context Protocol (MCP) Server\n\n> **⚠️ DEPRECATED**: This Python-based MCP server is deprecated. Please migrate to the official TypeScript version:\n>\n> **New Repository:** https://github.com/team-telnyx/telnyx-node/tree/master/packages/mcp-server\n\n---\n\nOfficial Telnyx Local Model Context Protocol (MCP) Server that enables interaction with powerful telephony, messaging, and AI assistant APIs. This server allows MCP clients like Claude Desktop, Cursor, Windsurf, OpenAI Agents and others to manage phone numbers, send messages, make calls, and create AI assistants.\n\n## Quickstart with Claude Desktop\n\n1. Get your API key from the [Telnyx Portal](https://portal.telnyx.com/#/api-key).\n2. Install `uvx` (Python package manager), install with `curl -LsSf https://astral.sh/uv/install.sh | sh` , `brew install uv` or see the `uv` repo for additional install methods.\n3. Go to Claude > Settings > Developer > Edit Config > claude_desktop_config.json to include the following:\n\n```json\n{\n  \"mcpServers\": {\n    \"Telnyx\": {\n      \"command\": \"uvx\",\n      \"args\": [\"--from\", \"git+https://github.com/team-telnyx/telnyx-mcp-server.git\", \"telnyx-mcp-server\"],\n      \"env\": {\n        \"TELNYX_API_KEY\": \"<insert-your-api-key-here>\"\n      }\n    }\n  }\n}\n```\n\nIf you're using Windows, you will have to enable \"Developer Mode\" in Claude Desktop to use the MCP server. Click \"Help\" in the hamburger menu at the top left and select \"Enable Developer Mode\".\n\n## Running After Download\n\n1. Get your A",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:45:46.387558"
 }

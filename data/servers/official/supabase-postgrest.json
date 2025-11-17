@@ -7,10 +7,25 @@
   "weekly_metric": null,
   "release_date": "Jan 8, 2025",
   "url": "https://www.pulsemcp.com/servers/supabase-postgrest",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/supabase-community/supabase-mcp/tree/HEAD/packages/mcp-server-postgrest",
+  "categories": [
+    "documentation",
+    "security",
+    "git",
+    "development",
+    "api",
+    "database",
+    "ai",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:46.394664",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 2300,
+    "runtime": "Rust",
+    "readme_excerpt": "# Supabase MCP Server\n\n> Connect your Supabase projects to Cursor, Claude, Windsurf, and other AI assistants.\n\n![supabase-mcp-demo](https://github.com/user-attachments/assets/3fce101a-b7d4-482f-9182-0be70ed1ad56)\n\nThe [Model Context Protocol](https://modelcontextprotocol.io/introduction) (MCP) standardizes how Large Language Models (LLMs) talk to external services like Supabase. It connects AI assistants directly with your Supabase project and allows them to perform tasks like managing tables, fetching config, and querying data. See the [full list of tools](#tools).\n\n## Setup\n\n### 1. Follow our security best practices\n\nBefore setting up the MCP server, we recommend you read our [security best practices](#security-risks) to understand the risks of connecting an LLM to your Supabase projects and how to mitigate them.\n\n\n### 2. Configure your MCP client\n\nThe Supabase MCP server is hosted at `https://mcp.supabase.com/mcp` and supports the Streamable HTTP transport with Dynamic Client Registration OAuth 2.1 authentication.\n\nIf you're running Supabase locally with [Supabase CLI](https://supabase.com/docs/guides/local-development/cli/getting-started), you can access the MCP server at `http://localhost:54321/mcp`. For [self-hosted Supabase](https://supabase.com/docs/guides/self-hosting/docker), check the [Enabling MCP server](https://supabase.com/docs/guides/self-hosting/enable-mcp) page. Currently, the MCP Server in CLI and self-hosted environments offer a limited subset of tools and",
+    "quality_score": 60
+  },
+  "enriched_at": "2025-11-17T18:45:12.847188"
 }

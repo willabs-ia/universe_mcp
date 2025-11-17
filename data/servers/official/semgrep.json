@@ -10,10 +10,25 @@
   },
   "release_date": "Feb 2, 2025",
   "url": "https://www.pulsemcp.com/servers/semgrep",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/semgrep/mcp",
+  "categories": [
+    "documentation",
+    "security",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:22.710574",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 612,
+    "runtime": "Python",
+    "readme_excerpt": "## **⚠️ The Semgrep MCP server has been moved from a standalone repo to the [main `semgrep` repository!](https://github.com/semgrep/semgrep/tree/develop/cli/src/semgrep/mcp) ⚠️**\n**This repository has been deprecated, and further updates to the Semgrep MCP server will be made via the official `semgrep` binary.**\n\n<p align=\"center\">\n  <a href=\"https://semgrep.dev\">\n    <picture>\n      <source media=\"(prefers-color-scheme: light)\" srcset=\"images/semgrep-logo-light.svg\">\n      <source media=\"(prefers-color-scheme: dark)\" srcset=\"images/semgrep-logo-dark.svg\">\n      <img src=\"https://raw.githubusercontent.com/semgrep/mcp/main/images/semgrep-logo-light.svg\" height=\"60\" alt=\"Semgrep logo\"/>\n    </picture>\n  </a>\n</p>\n<p align=\"center\">\n  <a href=\"https://semgrep.dev/docs/\">\n      <img src=\"https://img.shields.io/badge/Semgrep-docs-2acfa6?style=flat-square\" alt=\"Documentation\" />\n  </a>\n  <a href=\"https://go.semgrep.dev/slack\">\n    <img src=\"https://img.shields.io/badge/Slack-4.5k%20-4A154B?style=flat-square&logo=slack&logoColor=white\" alt=\"Join Semgrep community Slack\" />\n  </a>\n  <a href=\"https://www.linkedin.com/company/semgrep/\">\n    <img src=\"https://img.shields.io/badge/LinkedIn-follow-0a66c2?style=flat-square\" alt=\"Follow on LinkedIn\" />\n  </a>\n  <a href=\"https://x.com/intent/follow?screen_name=semgrep\">\n    <img src=\"https://img.shields.io/badge/semgrep-000000?style=flat-square&logo=x&logoColor=white?style=flat-square\" alt=\"Follow @semgrep on X\" />\n  </a>\n</p>\n\n# Semgrep MCP",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T18:43:17.449640"
 }

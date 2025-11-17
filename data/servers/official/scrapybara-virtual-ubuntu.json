@@ -7,10 +7,26 @@
   "weekly_metric": null,
   "release_date": "Mar 19, 2025",
   "url": "https://www.pulsemcp.com/servers/scrapybara-virtual-ubuntu",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/scrapybara/scrapybara-mcp",
+  "categories": [
+    "security",
+    "git",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "browser",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:25.757153",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 17,
+    "runtime": "Node.js",
+    "readme_excerpt": "<div id=\"toc\" align=\"center\">\n  <ul style=\"list-style: none\">\n    <summary>\n      <h1><img src=\"images/wow.gif\" alt=\"Scrapybara\" width=\"24\"> Scrapybara MCP <img src=\"images/wow.gif\" alt=\"Scrapybara\" width=\"24\"></h1>\n    </summary>\n  </ul>\n</div>\n\n<p align=\"center\">\n  <a href=\"https://github.com/scrapybara/scrapybara-playground/blob/main/license\"><img alt=\"MIT License\" src=\"https://img.shields.io/badge/license-MIT-blue\" /></a>\n  <a href=\"https://discord.gg/s4bPUVFXqA\"><img alt=\"Discord\" src=\"https://img.shields.io/badge/Discord-Join%20the%20community-6D1CCF.svg?logo=discord\" /></a>\n  <a href=\"https://x.com/scrapybara\"><img alt=\"X\" src=\"https://img.shields.io/badge/Twitter-Follow%20us-6D1CCF.svg?logo=X\" /></a>\n\nA Model Context Protocol server for [Scrapybara](https://scrapybara.com). This server enables MCP clients such as [Claude Desktop](https://claude.ai/download), [Cursor](https://www.cursor.com/), and [Windsurf](https://codeium.com/windsurf) to interact with virtual Ubuntu desktops and take actions such as browsing the web, running code, and more.\n\n## Prerequisites\n\n- Node.js 18+\n- pnpm\n- Scrapybara API key (get one at [scrapybara.com](https://scrapybara.com))\n\n## Installation\n\n1. Clone the repository:\n\n```bash\ngit clone https://github.com/scrapybara/scrapybara-mcp.git\ncd scrapybara-mcp\n```\n\n2. Install dependencies:\n\n```bash\npnpm install\n```\n\n3. Build the project:\n\n```bash\npnpm build\n```\n\n4. Add the following to your MCP client config:\n\n```json\n{\n  \"mcpServers\": {\n    \"scr",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:43:04.870317"
 }

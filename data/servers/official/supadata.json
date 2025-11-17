@@ -10,10 +10,28 @@
   },
   "release_date": "Jul 14, 2025",
   "url": "https://www.pulsemcp.com/servers/supadata",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/supadata-ai/mcp",
+  "categories": [
+    "documentation",
+    "development",
+    "api",
+    "ai",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:59.610606",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 17,
+    "capabilities": [
+      "Automatic retries and rate limiting",
+      "**Video transcript extraction** from YouTube, TikTok, Instagram, Twitter, and file URLs",
+      "Web scraping, crawling, and discovery"
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "# Supadata MCP Server\n\nA Model Context Protocol (MCP) server implementation that integrates with [Supadata](https://supadata.ai) for video & web scraping capabilities.\n\n## Features\n\n- **Video transcript extraction** from YouTube, TikTok, Instagram, Twitter, and file URLs\n- Web scraping, crawling, and discovery\n- Automatic retries and rate limiting\n\n> Play around with our MCP Server on [Smithery](https://smithery.ai/server/@supadata-ai/mcp) or on [MCP.so's playground](https://mcp.so/playground?server_uuid=5aaa7226-5a7b-47a7-993c-7c076e0e5d8c).\n\n## Installation\n\n### Running with npx\n\n```bash\nenv SUPADATA_API_KEY=your-api-key npx -y @supadata/mcp\n```\n\n### Manual Installation\n\n```bash\nnpm install -g @supadata/mcp\n```\n\n### Running on Cursor\n\nConfiguring Cursor 🖥️\nNote: Requires Cursor version 0.45.6+\nFor the most up-to-date configuration instructions, please refer to the official Cursor documentation on configuring MCP servers:\n[Cursor MCP Server Configuration Guide](https://docs.cursor.com/context/model-context-protocol#configuring-mcp-servers)\n\nTo configure Supadata MCP in Cursor **v0.48.6**\n\n1. Open Cursor Settings\n2. Go to Features > MCP Servers\n3. Click \"+ Add new global MCP server\"\n4. Enter the following code:\n   ```json\n   {\n     \"mcpServers\": {\n       \"@supadata/mcp\": {\n         \"command\": \"npx\",\n         \"args\": [\"-y\", \"@supadata/mcp\"],\n         \"env\": {\n           \"SUPADATA_API_KEY\": \"YOUR-API-KEY\"\n         }\n       }\n     }\n   }\n   ```\n\nTo configure Supadata MCP in Curs",
+    "quality_score": 60
+  },
+  "enriched_at": "2025-11-17T18:45:18.270485"
 }

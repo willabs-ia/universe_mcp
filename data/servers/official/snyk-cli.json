@@ -7,10 +7,28 @@
   "weekly_metric": null,
   "release_date": "Aug 15, 2025",
   "url": "https://www.pulsemcp.com/servers/snyk-cli",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/snyk/cli",
+  "categories": [
+    "documentation",
+    "workflow",
+    "testing",
+    "security",
+    "git",
+    "cloud",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:27.127108",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 5300,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Getting started with the Snyk CLI\n\n## Introduction to Snyk and the Snyk CLI\n\n[Snyk](https://snyk.io/) is a developer-first, cloud-native security tool to scan and monitor your software development projects for security vulnerabilities. Snyk scans multiple content types for security issues:\n\n- [Snyk Open Source](https://docs.snyk.io/scan-with-snyk/snyk-open-source): Find and automatically fix open-source vulnerabilities\n- [Snyk Code](https://docs.snyk.io/scan-with-snyk/snyk-code): Find and fix vulnerabilities in your application code in real time\n- [Snyk Container](https://docs.snyk.io/scan-with-snyk/snyk-container): Find and fix vulnerabilities in container images and Kubernetes applications\n- [Snyk IaC](https://docs.snyk.io/scan-with-snyk/snyk-iac): Find and fix insecure configurations in Terraform and Kubernetes code\n\n[Learn more about what Snyk can do and sign up for a free account](https://snyk.io/).\n\nThe Snyk CLI brings the functionality of Snyk into your development workflow. You can run the CLI locally from the command line or in an IDE. You can also run the CLI in your CI/CD pipeline. The following shows an example of Snyk CLI test command output.\n\n<figure><img src=\"../https://github.com/snyk/user-docs/raw/HEAD/docs/.gitbook/assets/snyk-cli-screenshot.png\" alt=\"\"><figcaption><p>Snyk CLI test command output example</p></figcaption></figure>\n\nSnyk CLI scanning supports many languages and tools. For detailed information, see the following:\n\n- [Supported languages, pack",
+    "quality_score": 60
+  },
+  "enriched_at": "2025-11-17T18:44:12.297708"
 }

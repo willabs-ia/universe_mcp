@@ -7,10 +7,24 @@
   "weekly_metric": null,
   "release_date": "Apr 5, 2025",
   "url": "https://www.pulsemcp.com/servers/sumup-agent-toolkit",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/sumup/sumup-agent-toolkit/tree/HEAD/mcp",
+  "categories": [
+    "documentation",
+    "git",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:10.282111",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 9,
+    "readme_excerpt": "<div align=\"center\">\n\n# SumUp Agent Toolkit\n\n[![Documentation][docs-badge]](https://developer.sumup.com)\n[![License](https://img.shields.io/github/license/sumup/sumup-agent-toolkit)](./LICENSE)\n\n</div>\n\nEnable AI Agents to interact with SumUp for smarter payment worfklows.\n\nAgentKit is a toolkit that enhances AI applications like [Claude](https://claude.ai), [Cursor](https://www.cursor.com/) and other agentic AI applications with SumUp capabilities.\n\n## Model Context Protocol\n\nYou can enhance applications that support [Model Context Protocol (MCP)](https://modelcontextprotocol.com/) such as [Claude](https://claude.ai), [Cursor](https://www.cursor.com/) with capabilities to interact with the SumUp API and documentation.\n\nTo run the SumUp MCP server, use:\n\n```sh\nSUMUP_API_KEY=YOUR_SUMUP_API_KEY npx -y @sumup/mcp\n```\n\nFor more information, see [MCP installation instruction](/mcp/README.md#installation).\n\n### Packages\n\n- **[SumUp Agent Toolkit (Typescript)](typescript/README.md):** Typescript agent toolkit.\n- **[SumUp Model Context Protocol (MCP) Server](mcp/README.md):** MCP Server that integrates with AI-powered code editors and apps such as Claude or Cursor.\n\n[docs-badge]: https://img.shields.io/badge/SumUp-documentation-white.svg?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgY29sb3I9IndoaXRlIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogICAgPHBhdGggZD0iTTIyLjI5IDBIMS43Qy43NyAwIDAgLjc3IDAgMS43MVYyMi4zYzAgLjk",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:45:10.352297"
 }

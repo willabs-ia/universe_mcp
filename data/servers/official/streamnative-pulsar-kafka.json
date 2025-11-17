@@ -7,10 +7,39 @@
   "weekly_metric": null,
   "release_date": "May 13, 2025",
   "url": "https://www.pulsemcp.com/servers/streamnative-pulsar-kafka",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/streamnative/streamnative-mcp-server",
+  "categories": [
+    "testing",
+    "security",
+    "cloud",
+    "api",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:34.387628",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 18,
+    "capabilities": [
+      "Kafka Client operations (producers, consumers)",
+      "**StreamNative Cloud Integration**:",
+      "Kafka Connect operations (*)",
+      "Schema Registry operations",
+      "Describe the status of clusters resources",
+      "**Multiple Connection Options**:",
+      "**Apache Pulsar Support**: Interact with Apache Pulsar resources including:",
+      "Connect directly to external Apache Pulsar clusters",
+      "Pulsar Client operations (producers, consumers)",
+      "Connect to StreamNative Cloud resources with authentication",
+      "Pulsar Admin operations (topics, namespaces, tenants, schemas, etc.)",
+      "Connect to StreamNative Cloud with service account authentication",
+      "Kafka Admin operations (topics, partitions, consumer groups)",
+      "Switch to clusters available in your organization",
+      "Functions, Sources, and Sinks management"
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "# StreamNative MCP Server\n\nA Model Context Protocol (MCP) server for integrating AI agents with StreamNative Cloud resources and Apache Kafka/Pulsar messaging systems.\n\n## Overview\n\nStreamNative MCP Server provides a standard interface for LLMs (Large Language Models) and AI agents to interact with StreamNative Cloud services, Apache Kafka, and Apache Pulsar. This implementation follows the [Model Context Protocol](https://modelcontextprotocol.io/introduction) specification, enabling AI applications to access messaging services through a standardized interface.\n\n## Features\n\n- **StreamNative Cloud Integration**: \n  - Connect to StreamNative Cloud resources with authentication\n  - Switch to clusters available in your organization\n  - Describe the status of clusters resources\n- **Apache Kafka Support**: Interact with Apache Kafka resources including:\n  - Kafka Admin operations (topics, partitions, consumer groups)\n  - Schema Registry operations\n  - Kafka Connect operations (*)\n  - Kafka Client operations (producers, consumers)\n- **Apache Pulsar Support**: Interact with Apache Pulsar resources including:\n  - Pulsar Admin operations (topics, namespaces, tenants, schemas, etc.)\n  - Pulsar Client operations (producers, consumers)\n  - Functions, Sources, and Sinks management\n- **Multiple Connection Options**:\n  - Connect to StreamNative Cloud with service account authentication\n  - Connect directly to external Apache Kafka clusters\n  - Connect directly to external Apache Pulsar clus",
+    "quality_score": 60
+  },
+  "enriched_at": "2025-11-17T18:45:02.895813"
 }

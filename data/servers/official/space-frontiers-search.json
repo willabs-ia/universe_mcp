@@ -10,10 +10,24 @@
   },
   "release_date": "Apr 11, 2025",
   "url": "https://www.pulsemcp.com/servers/space-frontiers-search",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/spacefrontiers/mcp",
+  "categories": [
+    "documentation",
+    "workflow",
+    "security",
+    "search",
+    "api",
+    "database",
+    "ai",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:35.882078",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 8,
+    "readme_excerpt": "# Space Frontiers MCP Server\n\n## General Overview\n\nThis project implements a Model Context Protocol (MCP) server that acts as an interface to the Space Frontiers API. It allows language models to interact with Space Frontiers data sources through MCP tools. The server is built using the FastMCP library.\n\n<a href=\"https://glama.ai/mcp/servers/@SpaceFrontiers/mcp\">\n  <img width=\"380\" height=\"200\" src=\"https://glama.ai/mcp/servers/@SpaceFrontiers/mcp/badge\" alt=\"mcp-spacefrontiers MCP server\" />\n</a>\n\nThe server provides 4 core tools for LLM-accessible search and discovery across Space Frontiers sources:\n\n1. **search** - Perform semantic search across multiple sources (scholarly literature, Wikipedia, Telegram, Reddit, YouTube, etc.)\n2. **resolve_id** - Convert document identifiers (DOIs, ISBNs, PubMed IDs, URLs, etc.) into standardized URIs with source information\n3. **get_document** - Retrieve a single document by URI with content filtering via search query (always returns filtered snippets)\n4. **get_document_metadata** - Fast retrieval of document metadata only (title, authors, abstract, references) without content search\n\n## Recommended Usage Pattern\n\nThe typical workflow for using these tools follows this pattern:\n\n1. **search** - Find relevant documents using a search query. This returns document IDs and snippets.\n2. **resolve_id** - If you have a document identifier (DOI, ISBN, URL, etc.), convert it to a URI and source name.\n3. **get_document_metadata** - Quickly get bas",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:44:25.486657"
 }

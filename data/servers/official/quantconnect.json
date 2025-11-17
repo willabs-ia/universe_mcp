@@ -10,10 +10,26 @@
   },
   "release_date": "Aug 27, 2025",
   "url": "https://www.pulsemcp.com/servers/quantconnect",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/quantconnect/mcp-server",
+  "categories": [
+    "documentation",
+    "testing",
+    "security",
+    "git",
+    "cloud",
+    "development",
+    "api",
+    "ai",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:01.879571",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 52,
+    "runtime": "Node.js",
+    "readme_excerpt": "\n<img width=\"1575\" height=\"280\" alt=\"github-header\" src=\"https://github.com/user-attachments/assets/6cec1ef7-0340-416e-ab81-c73fbc8ff847\" />\n\n\n# QuantConnect MCP Server\nThe QuantConnect MCP Server is a bridge for AIs (such as Claude and OpenAI o3 Pro) to interact with our cloud platform. When equipped with our MCP, the AI can perform tasks on your behalf through our API such as updating projects, writing strategies, backtesting, and deploying strategies to production live-trading. \n\nThis is the OFFICIAL implementation of QuantConnect's MCP, maintained by the QuantConnect team. We recommend using the official version to ensure security of your code and API tokens. Our implementation is tested and dockerized for easy cross-platform deployment.\n\n## Getting Started\nTo connect local MCP clients (like Claude Desktop) to the QC MCP Server, follow these steps:\n\n1. Install and open [Docker Desktop](https://docs.docker.com/desktop/).\n2. Install and open [Claude Desktop](https://claude.ai/download).\n3. In Claude Desktop, click **File > Settings > Developer > Edit Config**.\n4. Edit the `claude_desktop_config.json` file to include the following `quantconnect` configuration:\n\n```json\n{\n  \"mcpServers\": {\n    \"quantconnect\": {\n      \"command\": \"docker\",\n      \"args\": [\n        \"run\",\n        \"-i\",\n        \"--rm\",\n        \"-e\", \"QUANTCONNECT_USER_ID\",\n        \"-e\", \"QUANTCONNECT_API_TOKEN\",\n        \"-e\", \"AGENT_NAME\",\n        \"--platform\", \"<your_platform>\",\n        \"quantconnect/mcp-server\"\n",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:41:16.568781"
 }

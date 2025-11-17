@@ -7,10 +7,22 @@
   "weekly_metric": null,
   "release_date": "Apr 8, 2025",
   "url": "https://www.pulsemcp.com/servers/redis-cloud",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/redis/mcp-redis-cloud",
+  "categories": [
+    "cloud",
+    "api",
+    "database",
+    "ai",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:12.718794",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 37,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Redis Cloud API MCP Server\n\nModel Context Protocol (MCP) is a standardized protocol for managing context between large language models (LLMs) and external systems. This repository provides an MCP Server for Redis Cloud's API, allowing you to manage your Redis Cloud resources using natural language.\n\nThis lets you use Claude Desktop, or any MCP Client, to use natural language to accomplish things on your Redis Cloud account, e.g.:\n\n- \"Create a new Redis database in AWS\"\n- \"What are my current subscriptions?\"\n- \"Help me choose the right Redis database for my e-commerce application\"\n\n## Features\n\n### Account Management\n- `get_current_account`: Get details about your current Redis Cloud account\n- `get_current_payment_methods`: List all payment methods configured for your account\n\n### Subscription Management\n\n#### Pro Subscriptions\n- `get_pro_subscriptions`: List all Pro subscriptions in your account\n- `create_pro_subscription`: Create a new Pro subscription with advanced configuration options\n  - Supports multi-cloud deployment\n  - Configure memory, persistence, and modules\n  - Set up Active-Active deployments\n  - Custom networking configuration\n\n#### Essential Subscriptions\n- `get_essential_subscriptions`: List all Essential subscriptions (paginated)\n- `get_essential_subscription_by_id`: Get detailed information about a specific Essential subscription\n- `create_essential_subscription`: Create a new Essential subscription\n- `delete_essential_subscription`: Delete an Essential s",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:41:46.535518"
 }

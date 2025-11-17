@@ -10,10 +10,26 @@
   },
   "release_date": "Mar 19, 2025",
   "url": "https://www.pulsemcp.com/servers/singlestore-labs-singlestore",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/singlestore-labs/mcp-server-singlestore",
+  "categories": [
+    "documentation",
+    "security",
+    "git",
+    "development",
+    "api",
+    "database",
+    "ai",
+    "browser",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:31.048901",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 26,
+    "runtime": "Python",
+    "readme_excerpt": "# SingleStore MCP Server\n\n[![MIT Licence](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/singlestore-labs/mcp-server-singlestore/blob/main/LICENSE) [![PyPI](https://img.shields.io/pypi/v/singlestore-mcp-server)](https://pypi.org/project/singlestore-mcp-server/) [![Downloads](https://static.pepy.tech/badge/singlestore-mcp-server)](https://pepy.tech/project/singlestore-mcp-server)\n\n[Model Context Protocol]((https://modelcontextprotocol.io/introduction)) (MCP) is a standardized protocol designed to manage context between large language models (LLMs) and external systems. This repository provides an installer and an MCP Server for Singlestore, enabling seamless integration.\n\nWith MCP, you can use Claude Desktop, Claude Code, Cursor, or any compatible MCP client to interact with SingleStore using natural language, making it easier to perform complex operations effortlessly.\n\n💡 **Pro Tip**: Not sure what the MCP server can do? Just call the `/help` prompt in your chat!\n\n## Requirements\n\n- Python >= v3.10.0\n- [uvx](https://docs.astral.sh/uv/guides/tools/) installed on your python environment\n- VS Code, Cursor, Windsurf, Claude Desktop, Claude Code, Goose or any other MCP client\n\n## Getting started\n\n## Getting started\n\nFirst, install the SingleStore MCP server with your client.\n\n**Standard config** works in most of the tools:\n\n```json\n{\n  \"mcpServers\": {\n    \"singlestore-mcp-server\": {\n      \"command\": \"uvx\",\n      \"args\": [\n        \"singlestore-mcp-server\",",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:43:54.455562"
 }

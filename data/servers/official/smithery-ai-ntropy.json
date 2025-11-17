@@ -7,10 +7,19 @@
   "weekly_metric": null,
   "release_date": "Feb 25, 2025",
   "url": "https://www.pulsemcp.com/servers/smithery-ai-ntropy",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/smithery-ai/ntropy-mcp",
+  "categories": [
+    "filesystem",
+    "api",
+    "data",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:03.355180",
-  "metadata": {}
+  "metadata": {
+    "readme_excerpt": "# ntropy-mcp MCP server\n\nMCP server for enriching banking data using the Ntropy API\n\n## Components\n\n### Tools\n\nThe server implements two tools:\n- create_account_holder: Create an account holder using the Ntropy API\n  - Takes \"id\", \"type\", \"name\" as required string arguments\n  - Returns the created account holder\n- enrich_transaction: Enrich a transaction using the Ntropy API\n  - Takes \"id\", \"description\", \"date\", \"amount\", \"entry_type\", \"currency\",\n  \"account_holder_id\" as required string arguments, and \"country\" as an optional\n  argument\n  - Returns the enriched transaction\n\n## Quickstart\n\n### Install\n\nFirst, obtain an Ntropy API key by creating an account on ntropy.com.\n\n#### Run the server with uvx\n\n```\nuvx run ntropy-mcp --api-key YOUR_NTROPY_API_KEY\n```\n\n#### Claude Desktop\n\nThe Claude Desktop configuration file is usually located at:\n\nOn MacOS: `~/Library/Application\\ Support/Claude/claude_desktop_config.json`\nOn Windows: `%APPDATA%/Claude/claude_desktop_config.json`\n\nAdd the following to the configuration file:\n\n<details>\n  <summary>Published Servers Configuration</summary>\n  ```\n  \"mcpServers\": {\n    \"ntropy-mcp\": {\n      \"command\": \"uvx\",\n      \"args\": [\n        \"ntropy-mcp\",\n        \"--api-key\",\n        \"YOUR_NTROPY_API_KEY\"\n      ]\n    }\n  }\n  ```\n</details>\n",
+    "quality_score": 35
+  },
+  "enriched_at": "2025-11-17T18:44:09.721850"
 }

@@ -10,10 +10,25 @@
   },
   "release_date": "Jul 7, 2025",
   "url": "https://www.pulsemcp.com/servers/sonarsource-sonarqube",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/sonarsource/sonarqube-mcp-server",
+  "categories": [
+    "workflow",
+    "security",
+    "git",
+    "cloud",
+    "development",
+    "api",
+    "ai",
+    "monitoring"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:27.063551",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 172,
+    "runtime": "Rust",
+    "readme_excerpt": "# SonarQube MCP Server\n\n[![Build](https://github.com/SonarSource/sonarqube-mcp-server/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/SonarSource/sonarqube-mcp-server/actions/workflows/build.yml)\n[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=SonarSource_sonarqube-mcp-server&metric=alert_status&token=364a508a1e77096460f8571d8e66b41c99c95bea)](https://sonarcloud.io/summary/new_code?id=SonarSource_sonarqube-mcp-server)\n\nThe SonarQube MCP Server is a Model Context Protocol (MCP) server that enables seamless integration with SonarQube Server or Cloud for code quality and security.\nIt also supports the analysis of code snippet directly within the agent context.\n\n## Quick setup\n\nThe simplest method is to rely on our Docker image hosted at [mcp/sonarqube](https://hub.docker.com/r/mcp/sonarqube). Read below if you want to build it locally.\n\n<details>\n\n**<summary>Claude Code</summary>**\n\n* To connect with SonarQube Cloud:\n\n`claude mcp add sonarqube --env SONARQUBE_TOKEN=<token> --env SONARQUBE_ORG=<org> -- docker run -i --name sonarqube-mcp-server --rm -e SONARQUBE_TOKEN -e SONARQUBE_ORG mcp/sonarqube`\n\n* To connect with SonarQube Server:\n\n`claude mcp add sonarqube --env SONARQUBE_TOKEN=<token> --env SONARQUBE_URL=<url> -- docker run -i --name sonarqube-mcp-server --rm -e SONARQUBE_TOKEN -e SONARQUBE_URL mcp/sonarqube`\n\n</details>\n\n<details>\n\n**<summary>Codex CLI</summary>**\n\nIn `~/.codex/config.toml`, add the following config",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T18:44:20.100427"
 }

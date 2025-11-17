@@ -10,10 +10,26 @@
   },
   "release_date": "Aug 6, 2025",
   "url": "https://www.pulsemcp.com/servers/saucelabs-sauce-api",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/saucelabs/sauce-api-mcp",
+  "categories": [
+    "testing",
+    "git",
+    "cloud",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:12.809547",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 8,
+    "runtime": "Python",
+    "readme_excerpt": "# Sauce Labs MCP Server\n\n[//]: # (mcp-name: io.github.saucelabs-sample-test-frameworks/sauce-api-mcp)\n\nA Model Context Protocol (MCP) server that provides comprehensive integration with Sauce Labs testing platform. This \nserver enables AI assistants (LLM clients) to interact with Sauce Labs' device cloud, manage test jobs, analyze builds, \nand monitor testing infrastructure directly through natural language conversations.\n\n## Features\n\n### 🚀 **Core Capabilities**\n- **Account Management**: View account details, team information, and user permissions\n- **Device Cloud Access**: Browse 300+ real devices (iOS, Android) and virtual machines\n- **Test Job Management**: Retrieve recent jobs, analyze test results, and debug failures\n- **Build Monitoring**: Track build status, view job collections, and analyze test suites\n- **Storage Management**: Manage uploaded apps and test artifacts\n- **Tunnel Monitoring**: Check Sauce Connect tunnel status and configuration\n\n### 🔧 **Advanced Features**\n- **Real-time Device Status**: Monitor device availability and usage across data centers\n- **Cross-platform Testing**: Support for both Virtual Device Cloud (VDC) and Real Device Cloud (RDC)\n- **Test Analytics**: Detailed job information including logs, videos, and performance metrics\n- **Team Collaboration**: Multi-team support with proper access controls\n\n### Prerequisites\n- Python 3.9+\n- `pip`\n- Sauce Labs account with API access\n- Gemini CLI, Claude Desktop, Goose, or other LLM Client\n\n### For Cl",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:42:43.290369"
 }

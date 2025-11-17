@@ -7,10 +7,22 @@
   "weekly_metric": null,
   "release_date": "Jan 28, 2025",
   "url": "https://www.pulsemcp.com/servers/skrapeai-skrape",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/skrapeai/skrape-mcp",
+  "categories": [
+    "search",
+    "api",
+    "ai",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:52.958091",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 11,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Skrape MCP Server\n\n[![smithery badge](https://smithery.ai/badge/@skrapeai/skrape-mcp)](https://smithery.ai/server/@skrapeai/skrape-mcp)\n\nConvert webpages into clean, LLM-ready Markdown using [skrape.ai](https://skrape.ai). An MCP server that seamlessly integrates web scraping with Claude Desktop and other MCP-compatible applications.\n\n## Key Features\n\n- **Clean Output**: Removes ads, navigation, and irrelevant content\n- **JavaScript Support**: Handles dynamic content rendering\n- **LLM-Optimized**: Structured Markdown perfect for AI consumption\n- **Consistent Format**: Uniform structure regardless of source\n\n## Features\n\n### Tools\n\n- `get_markdown` - Convert any webpage to LLM-ready Markdown\n  - Takes any input URL and optional parameters\n  - Returns clean, structured Markdown optimized for LLM consumption\n  - Supports JavaScript rendering for dynamic content\n  - Optional JSON response format for advanced integrations\n\n## Installation\n\n### Installing via Smithery\n\nTo install Skrape MCP Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@skrapeai/skrape-mcp):\n\n```bash\nnpx -y @smithery/cli install @skrapeai/skrape-mcp --client claude\n```\n\n### Manual Installation\n\n1. Get your API key from [skrape.ai](https://skrape.ai)\n\n1. Install dependencies:\n\n```bash\nnpm install\n```\n\n1. Build the server:\n\n```bash\nnpm run build\n```\n\n1. Add the server config to Claude Desktop:\n\nOn MacOS:\n\n```bash\nnano ~/Library/Application\\ Support/Claude/claude_desktop_config.js",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:43:59.784125"
 }

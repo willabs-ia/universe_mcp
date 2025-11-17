@@ -10,10 +10,25 @@
   },
   "release_date": "May 24, 2025",
   "url": "https://www.pulsemcp.com/servers/tencent-cloudbase",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/tencentcloudbase/cloudbase-ai-toolkit",
+  "categories": [
+    "documentation",
+    "testing",
+    "git",
+    "cloud",
+    "development",
+    "api",
+    "ai",
+    "monitoring"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:27.149508",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 864,
+    "runtime": "Node.js",
+    "readme_excerpt": "<div align=\"center\"><a name=\"readme-top\"></a>\n\n![](scripts/assets/toolkit-better.gif)\n\n<h1>CloudBase AI ToolKit</h1>\n\n**🪐 AI 编程，一键上线**<br/>\n连接 AI IDE 与腾讯云 CloudBase 的部署桥梁，让你的 AI 应用即刻上线\n\n[English](./README-EN.md) · **简体中文** · [文档][docs] · [更新日志][changelog] · [反馈问题][github-issues-link]\n\n<!-- SHIELD GROUP -->\n\n[![][npm-version-shield]][npm-link]\n[![][npm-downloads-shield]][npm-link]\n[![][github-stars-shield]][github-stars-link]\n[![][github-forks-shield]][github-forks-link]\n[![][github-issues-shield]][github-issues-link]\n![][github-license-shield]\n![][github-contributors-shield]\n[![][cnb-shield]][cnb-link]\n[![][deepwiki-shield]][deepwiki-link]\n\n**发现了一个让 AI 编程一键上线的神器，推荐给正在用 AI 编程的朋友**\n\n[![][share-x-shield]][share-x-link]\n[![][share-telegram-shield]][share-telegram-link]\n[![][share-weibo-shield]][share-weibo-link]\n\n<sup>从 AI 提示词到应用上线的最短路径</sup>\n\n[![][github-trending-shield]][github-trending-url]\n\n![][image-overview]\n\n</div>\n\n## 为什么你需要 CloudBase AI ToolKit？\n\nAI 编程工具（如 Cursor、Copilot）解决了**代码生成**的难题。\n\n但是，从\"生成代码\"到\"应用上线\"（部署、配置数据库、CDN、域名），依然存在一条鸿沟。\n\n**CloudBase AI ToolKit 填补了这条鸿沟。**\n\n你不再需要：\n- ❌ 繁琐的 DevOps 配置和 YAML 文件\n- ❌ 手动设置云函数和数据库\n- ❌ 在 IDE 和云控制台之间反复横跳\n\n你只需要在 AI IDE 中，用自然语言完成从\"想法\"到\"上线\"的全过程。\n\n<details>\n<summary><kbd>目录</kbd></summary>\n\n- [🚀 快速开始](#-快速开始)\n- [✨ 核心特性](#-核心特性)\n- [📦 安装配置](#-安装配置)\n- [🎯 使用案例](#-使用案例)\n- [🧩 MCP 工具](#-mcp-工具)\n- [📚 更多资源](#-更多资源)\n\n</details>\n\n## 🚀 快速开始\n\n### 一行配置，立即使用\n\n在支持 MCP 的 AI IDE 中（Cursor、WindSurf、CodeBuddy 等），只需添加一行配置：\n\n```json\n{\n  \"mcpServers\": {\n    \"cloudb",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T18:45:56.480858"
 }

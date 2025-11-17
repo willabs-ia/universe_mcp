@@ -7,10 +7,14 @@
   "weekly_metric": null,
   "release_date": "Feb 28, 2025",
   "url": "https://www.pulsemcp.com/servers/ragieai-ragie",
-  "source_url": null,
+  "source_url": "https://github.com/ragieai",
   "categories": [],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:06.427787",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 81,
+    "quality_score": 35
+  },
+  "enriched_at": "2025-11-17T18:41:26.707015"
 }

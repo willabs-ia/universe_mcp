@@ -7,10 +7,26 @@
   "weekly_metric": null,
   "release_date": "Mar 13, 2025",
   "url": "https://www.pulsemcp.com/servers/raccoonai-lam",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/raccoonaihq/raccoonai-mcp-server",
+  "categories": [
+    "documentation",
+    "workflow",
+    "testing",
+    "git",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:07.883668",
-  "metadata": {}
+  "metadata": {
+    "runtime": "Python",
+    "readme_excerpt": "# Raccoon AI MCP Server\n\n[![smithery badge](https://smithery.ai/badge/@raccoonaihq/raccoonai-mcp-server)](https://smithery.ai/server/@raccoonaihq/raccoonai-mcp-server)\n[![MCP Spec](https://img.shields.io/badge/mcp-compatible-green)](https://modelcontextprotocol.io)\n\nRaccoon AI's Model Context Protocol (MCP) server that enables leveraging the LAM API for web browsing, data extraction, and complex web tasks automation.\n\n## What can you do with this?\n\n- Search and browse websites\n- Fill out forms and navigate UI elements\n- Extract structured data based on defined schemas\n- Handle multistep processes across websites\n\n## Prerequisites\n\nBefore using the Raccoon LAM MCP server, you'll need:\n\n- Python 3.8 or higher\n- [Claude Desktop](https://claude.ai/download) or another MCP-compatible client\n- Raccoon AI Secret Key and your Raccoon Passcode\n\n## Installation\n\n### Using Smithery\n\n```bash\nnpx -y @smithery/cli@latest install @raccoonaihq/raccoonai-mcp-server --client claude\n```\n\n\n### From source\n\n```bash\ngit clone https://github.com/raccoonaihq/raccoonai-mcp-server.git\n```\n```bash\ncd raccoonai-mcp-server\n```\n```bash\nuv pip install -e .\n```\n\n#### To configure in Claude Desktop\n\n```bash\nmcp install src/raccoonai_mcp_server/server.py -v RACCOON_SECRET_KEY=<RACCOON_SECRET_KEY> -v RACCOON_PASSCODE=<RACCOON_PASSCODE>\n```\n\nReplace `<RACCOON_SECRET_KEY>` and `<RACCOON_PASSCODE>` with your actual creds. You can find them [here](https://platform.flyingraccoon.tech).\n\n## Examples\n\nHere are some e",
+    "quality_score": 35
+  },
+  "enriched_at": "2025-11-17T18:41:24.211961"
 }

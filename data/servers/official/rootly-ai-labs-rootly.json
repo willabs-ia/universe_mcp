@@ -10,10 +10,33 @@
   },
   "release_date": "Mar 20, 2025",
   "url": "https://www.pulsemcp.com/servers/rootly-ai-labs-rootly",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/rootly-ai-labs/rootly-mcp-server",
+  "categories": [
+    "documentation",
+    "workflow",
+    "git",
+    "development",
+    "api",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:38.055664",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 36,
+    "capabilities": [
+      "**`find_related_incidents`**: Uses TF-IDF similarity analysis to find historically similar incidents",
+      "**Smart Pagination**: Defaults to 10 items per request for incident endpoints to prevent context window overflow",
+      "**API Filtering**: Limits exposed API endpoints for security and performance",
+      "**MCP Resources**: Exposes incident and team data as structured resources for easy AI reference",
+      "**Intelligent Pattern Recognition**: Automatically identifies services, error types, and resolution patterns",
+      "**Dynamic Tool Generation**: Automatically creates MCP resources from Rootly's OpenAPI (Swagger) specification",
+      "**Intelligent Incident Analysis**: Smart tools that analyze historical incident data",
+      "**`suggest_solutions`**: Mines past incident resolutions to recommend actionable solutions"
+    ],
+    "runtime": "Python",
+    "readme_excerpt": "# Rootly MCP Server\n\n[![PyPI version](https://badge.fury.io/py/rootly-mcp-server.svg)](https://pypi.org/project/rootly-mcp-server/)\n[![PyPI - Downloads](https://img.shields.io/pypi/dm/rootly-mcp-server)](https://pypi.org/project/rootly-mcp-server/)\n[![Python Version](https://img.shields.io/pypi/pyversions/rootly-mcp-server.svg)](https://pypi.org/project/rootly-mcp-server/)\n[![Install MCP Server](https://cursor.com/deeplink/mcp-install-dark.svg)](https://cursor.com/install-mcp?name=rootly&config=eyJjb21tYW5kIjoibnB4IC15IG1jcC1yZW1vdGUgaHR0cHM6Ly9tY3Aucm9vdGx5LmNvbS9zc2UgLS1oZWFkZXIgQXV0aG9yaXphdGlvbjoke1JPT1RMWV9BVVRIX0hFQURFUn0iLCJlbnYiOnsiUk9PVExZX0FVVEhfSEVBREVSIjoiQmVhcmVyIDxZT1VSX1JPT1RMWV9BUElfVE9LRU4%2BIn19)\n\nAn MCP server for the [Rootly API](https://docs.rootly.com/api-reference/overview) that integrates seamlessly with MCP-compatible editors like Cursor, Windsurf, and Claude. Resolve production incidents in under a minute without leaving your IDE.\n\n![Demo GIF](https://raw.githubusercontent.com/Rootly-AI-Labs/Rootly-MCP-server/refs/heads/main/rootly-mcp-server-demo.gif)\n\n## Prerequisites\n\n- Python 3.12 or higher\n- `uv` package manager\n  ```bash\n  curl -LsSf https://astral.sh/uv/install.sh | sh\n  ```\n- [Rootly API token](https://docs.rootly.com/api-reference/overview#how-to-generate-an-api-key%3F) with appropriate permissions (see below)\n\n### API Token Permissions\n\nThe MCP server requires a Rootly API token. Choose the appropriate token type based on your needs:\n\n- **G",
+    "quality_score": 60
+  },
+  "enriched_at": "2025-11-17T18:42:17.908616"
 }

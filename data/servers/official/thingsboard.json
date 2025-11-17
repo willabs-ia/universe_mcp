@@ -7,10 +7,24 @@
   "weekly_metric": null,
   "release_date": "Jan 15, 2025",
   "url": "https://www.pulsemcp.com/servers/thingsboard",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/thingsboard/thingsboard-mcp",
+  "categories": [
+    "documentation",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:13.541149",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 78,
+    "runtime": "Rust",
+    "readme_excerpt": "# ThingsBoard MCP Server\n\n[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/thingsboard/mcp-server/blob/master/README.md) [![Trust Score](https://archestra.ai/mcp-catalog/api/badge/quality/thingsboard/thingsboard-mcp)](https://archestra.ai/mcp-catalog/thingsboard__thingsboard-mcp)\n\n## Table of Contents\n\n- [Overview](#overview)\n- [Requirements](#requirements)\n- [Features](#features)\n    - [Entity Operations](#entity-operations)\n    - [Telemetry Management](#telemetry-management)\n    - [Relations](#relations)\n    - [Alarms](#alarms)\n    - [Entity Data Query](#entity-data-query)\n- [Quick Start Guide](#quick-start-guide)\n- [Installation](#installation)\n    - [Docker Image](#docker-image)\n    - [Build from Sources](#build-from-sources)\n- [Client Configuration](#client-configuration)\n    - [Binary Configuration](#binary-configuration)\n    - [Docker Configuration](#docker-configuration)\n- [Environment Variables](#environment-variables)\n- [Available Tools](#available-tools)\n    - [Device Tools](#device-tools)\n    - [Asset Tools](#asset-tools)\n    - [Customer Tools](#customer-tools)\n    - [User Tools](#user-tools)\n    - [Alarm Tools](#alarm-tools)\n    - [Entity Group Tools](#entity-group-tools-pe)\n    - [Relation Tools](#relation-tools)\n    - [Telemetry Tools](#telemetry-tools)\n\n## Overview\n\nThe ThingsBoard MCP Server provides a **natural language interface** for LLMs and AI agents to interact with your ThingsBoard IoT platform.\n\nYou can ask que",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:46:08.530287"
 }

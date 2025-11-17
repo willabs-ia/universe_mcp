@@ -10,10 +10,24 @@
   },
   "release_date": "Aug 22, 2025",
   "url": "https://www.pulsemcp.com/servers/storybook-addon-mcp",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/storybookjs/mcp",
+  "categories": [
+    "documentation",
+    "workflow",
+    "testing",
+    "git",
+    "development",
+    "api",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:13.803769",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 116,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Storybook MCP - Contributor Guide\n\nWelcome to the Storybook MCP Addon monorepo! This project enables AI agents to work more efficiently with Storybook by providing an MCP (Model Context Protocol) server that exposes UI component information and development workflows.\n\n## 📦 Packages\n\nThis monorepo contains two main packages:\n\n- **[@storybook/mcp](./packages/mcp)** - Standalone MCP library for serving Storybook component knowledge (can be used independently)\n- **[@storybook/addon-mcp](./packages/addon-mcp)** - Storybook addon that runs an MCP server within your Storybook dev server, and includes the functionality of **[@storybook/mcp](./packages/mcp)** from your local Storybook\n\nEach package has its own README with user-facing documentation. This document is for **contributors** looking to develop, test, or contribute to these packages.\n\n## 🚀 Quick Start\n\n### Prerequisites\n\n- **Node.js 24+** - The project requires Node.js 24 or higher (see `.nvmrc`)\n- **pnpm 10.19.0+** - Strict package manager requirement (enforced in `package.json`)\n\n```bash\n# Use the correct Node version\nnvm use\n\n# Install pnpm if you don't have it\nnpm install -g pnpm@10.19.0\n```\n\n### Installation\n\n```bash\n# Clone the repository\ngit clone https://github.com/storybookjs/mcp.git\ncd addon-mcp\n\n# Install all dependencies (for all packages in the monorepo)\npnpm install\n```\n\n### Development Workflow\n\n```bash\n# Build all packages\npnpm build\n\n# Start development mode (watches for changes in all packages)\npnpm dev\n\n",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T18:45:00.315367"
 }

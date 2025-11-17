@@ -10,10 +10,29 @@
   },
   "release_date": "May 21, 2025",
   "url": "https://www.pulsemcp.com/servers/tigrisdata-tigris-storage",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/tigrisdata/tigris-mcp-server",
+  "categories": [
+    "documentation",
+    "workflow",
+    "testing",
+    "security",
+    "cloud",
+    "development",
+    "api",
+    "database",
+    "ai",
+    "monitoring",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:43.633749",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 3,
+    "runtime": "Node.js",
+    "readme_excerpt": "# 🦁 Tigris MCP Server\n\n> [!IMPORTANT]\n> Tigris has a hosted MCP server with OAuth support. Read more about it on [mcp.storage.dev](https://mcp.storage.dev).\n\nTigris is a high-performance, S3-compatible object storage system designed for multi-cloud and AI workloads. We move your data all around the world based on where it's needed so that downloads are fast and the data is close to your users. You can store anything you want on Tigris (AI models, training data, database backups, request logs, social media uploads, or anything else) with no egress fees.\n\nThe **Tigris MCP Server** implements the [MCP specification](https://modelcontextprotocol.io/) to create a seamless connection between AI agents and Tigris key features like bucket and object management.\n\n## 🎯 Features\n\nThe Tigris MCP server provides your agents context to your Tigris buckets and objects. That allows you to use Tigris in your AI editor workflows.\n\nHere are some example prompts you can try:\n\n#### 📦 Buckets\n\n- List my tigris buckets\n- Create a new tigris bucket and call it `my-bucket`\n- Delete my tigris bucket called `my-bucket`\n\n#### 🔗 Objects\n\n- List my objects in bucket `my-bucket`\n- Upload `/Users/ME/tigris-mcp-server/myfile.txt` to `my-bucket`\n- Create a folder named `test` in `my-bucket`\n- Create a file `test.txt` with content `Hello World` in `my-bucket`\n- Give me a link to share for `test.txt`\n- Delete `myfile.txt` from `my-bucket`\n\nCheckout our blog post about [Vibe coding](https://www.tigrisdata.com/bl",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:46:15.716286"
 }

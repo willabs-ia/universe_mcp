@@ -10,10 +10,33 @@
   },
   "release_date": "Aug 29, 2025",
   "url": "https://www.pulsemcp.com/servers/scalekit",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/scalekit-inc/scalekit-mcp-server",
+  "categories": [
+    "documentation",
+    "security",
+    "git",
+    "cloud",
+    "development",
+    "api",
+    "ai",
+    "monitoring"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:33.560223",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 2,
+    "capabilities": [
+      "Organization and user management",
+      "MCP server registration and configuration",
+      "Role and scope management",
+      "Environment management and configuration",
+      "Workspace member administration",
+      "OIDC connection setup and management",
+      "Admin portal link generation"
+    ],
+    "readme_excerpt": "<p align=\"center\">\n  <a href=\"https://scalekit.com\" target=\"_blank\" rel=\"noopener noreferrer\">\n    <picture>\n      <img src=\"https://cdn.scalekit.cloud/v1/scalekit-logo-dark.svg\" height=\"64\">\n    </picture>\n  </a>\n</p>\n\n<h1 align=\"center\">\n  Scalekit MCP Server\n</h1>\n\n<p align=\"center\">\n  <strong>Auth stack for AI apps ⚡ Official Scalekit MCP Server</strong>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/scalekit-inc/scalekit-mcp-server/blob/main/LICENSE\"><img src=\"https://img.shields.io/badge/License-MIT-yellow.svg\" alt=\"License: MIT\"></a>\n  <a href=\"https://docs.scalekit.com/guides/mcp/overview\"><img src=\"https://img.shields.io/badge/docs-MCP%20Guide-blue\" alt=\"MCP Documentation\"></a>\n  <a href=\"https://mcp.scalekit.com\"><img src=\"https://img.shields.io/badge/hosted-mcp.scalekit.com-green\" alt=\"Hosted MCP Server\"></a>\n</p>\n\n<p align=\"center\">\n  Official Model Context Protocol server for AI agents to interact with Scalekit's identity platform through natural language\n</p>\n\n## 🚀 What This MCP Server Enables\n\n- **Natural Language Identity Management**: Manage users, organizations, and connections through AI conversations\n- **OAuth-Protected Access**: Secure AI agent interactions with enterprise authentication\n- **Comprehensive API Coverage**: Full access to Scalekit's identity and access management capabilities\n- **Multi-Client Support**: Works with Claude Desktop, VS Code, Cursor, Windsurf, and other MCP clients\n\n## Overview\n\nThis MCP server enables AI assistants to i",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T18:42:45.703323"
 }
