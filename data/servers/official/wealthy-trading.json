@@ -7,10 +7,23 @@
   "weekly_metric": null,
   "release_date": "Apr 28, 2025",
   "url": "https://www.pulsemcp.com/servers/wealthy-trading",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/wealthy/wealthy-mcp",
+  "categories": [
+    "testing",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:30.127050",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 26,
+    "readme_excerpt": "# Wealthy MCP(Model Context Protocol) Server\n\nThis repository contains official Wealthy mcp server to help users with trading platform features\n\n## Prerequisites\n\n- Wealthy trading account - https://www.wealthy.in/broking\n- MCP clients - Claude or Cursor\n\n## Getting Started\n\nYou can either install from source or download pre-built artifacts:\n\n### Option 1: Install from Source\n- Install using golang(go 1.23 or later):\n   ```bash\n   go install github.com/wealthy/wealthy-mcp/cmd/wealthy-mcp@latest\n   ```\n\n### Option 2: Download Pre-built Artifacts\n- Visit our [releases page](https://github.com/wealthy/wealthy-mcp/releases) to download the latest pre-built binary for your platform\n- Extract the downloaded archive and place the executable in a directory that's in your system PATH\n- Run below commands to give permissions on mac:\n```bash\nchmod +x wealthy-mcp-macos-arm64-<version>\nxattr -d com.apple.quarantine wealthy-mcp-macos-arm64-<version>\n```\n\n## MCP Configuration\n\nTo configure MCP (Multi-Cursor Protocol) servers, create/update the appropriate configuration file based on your client:\n\n### For Cursor\nCreate/update `.cursor/mcp.json` in your home directory:\n```json\n{\n    \"mcpServers\": {\n      \"wealthy-mcp\": {\n        \"command\": \"<path to downloaded/installed binary>\"\n      }\n    }\n}\n```\n\n### For Claude\nCreate/update `claude_desktop_config.json`:\n```json\n{\n    \"mcpServers\": {\n      \"wealthy-mcp\": {\n        \"command\": \"<path to downloaded/installed binary>\"\n      }\n    }\n}\n```\n\nTo u",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:48:08.754615"
 }

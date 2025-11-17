@@ -10,10 +10,21 @@
   },
   "release_date": "Mar 21, 2025",
   "url": "https://www.pulsemcp.com/servers/vast-ai-tripo-3d",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/vast-ai-research/tripo-mcp",
+  "categories": [
+    "api",
+    "git",
+    "development",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:12.763422",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 174,
+    "runtime": "Python",
+    "readme_excerpt": "# Tripo MCP Server\n\nTripo MCP provides an interface between AI assistants and [Tripo AI](https://www.tripo3d.ai) via [Model Context Protocol (MCP)](https://github.com/anthropics/anthropic-cookbook/tree/main/mcp). \n\n> **Note:** This project is in alpha. Currently, it supports Tripo Blender Addon integration.\n\n## Current Features\n\n- Generate 3D asset from natural language using Tripo's API and import to Blender\n- Compatible with Claude and other MCP-enabled AI assistants\n\n## Quick Start\n\n### Prerequisites\n- Python 3.10+\n- [Blender](https://www.blender.org/download/)\n- [Tripo AI Blender Addon](https://www.tripo3d.ai/app/home)\n- Claude for Desktop or Cursor IDE\n\n### Installation\n\n1. Install Tripo AI Blender Addon from [Tripo AI's website](https://www.tripo3d.ai/app/home)\n\n2. Configure the MCP server in Claude Desktop or Cursor.\n\n    * `pip install uv`\n    * set mcp in cursor\n    ```json\n    {\n      \"mcpServers\": {\n        \"tripo-mcp\": {\n          \"command\": \"uvx\",\n          \"args\": [\n            \"tripo-mcp\"\n          ]\n        }\n      }\n    }\n    ```\n\n    * Then you will get a green dot like this:\n      ![img](succeed.jpg)\n\n### Usage\n\n1. Enable Tripo AI Blender Addon and start blender mcp server.\n\n2. Chat using cursor or claude. E.g., \"Generate a 3D model of a futuristic chair\".\n\n## Acknowledgements\n\n- **[Tripo AI](https://www.tripo3d.ai)**\n- **[blender-mcp](https://github.com/ahujasid/blender-mcp)** by [Siddharth Ahuja](https://github.com/ahujasid)\n\n**Special Thanks**  \nSpecial ",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T18:47:32.726596"
 }

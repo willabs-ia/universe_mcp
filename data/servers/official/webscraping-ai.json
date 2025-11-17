@@ -10,10 +10,38 @@
   },
   "release_date": "Apr 15, 2025",
   "url": "https://www.pulsemcp.com/servers/webscraping-ai",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/webscraping-ai/webscraping-ai-mcp-server",
+  "categories": [
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "browser",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:52.293749",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 34,
+    "capabilities": [
+      "Question answering about web page content",
+      "Account usage monitoring",
+      "HTML content retrieval with JavaScript rendering",
+      "Concurrent request management with rate limiting",
+      "Custom JavaScript execution on target pages",
+      "CSS selector-based content extraction",
+      "Device emulation (desktop, mobile, tablet)",
+      "Multiple proxy types (datacenter, residential) with country selection",
+      "JavaScript rendering using headless Chrome/Chromium",
+      "Structured data extraction from web pages",
+      "Plain text extraction from web pages"
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "# WebScraping.AI MCP Server\n\nA Model Context Protocol (MCP) server implementation that integrates with [WebScraping.AI](https://webscraping.ai) for web data extraction capabilities.\n\n## Features\n\n- Question answering about web page content\n- Structured data extraction from web pages\n- HTML content retrieval with JavaScript rendering\n- Plain text extraction from web pages\n- CSS selector-based content extraction\n- Multiple proxy types (datacenter, residential) with country selection\n- JavaScript rendering using headless Chrome/Chromium\n- Concurrent request management with rate limiting\n- Custom JavaScript execution on target pages\n- Device emulation (desktop, mobile, tablet)\n- Account usage monitoring\n\n## Installation\n\n### Running with npx\n\n```bash\nenv WEBSCRAPING_AI_API_KEY=your_api_key npx -y webscraping-ai-mcp\n```\n\n### Manual Installation\n\n```bash\n# Clone the repository\ngit clone https://github.com/webscraping-ai/webscraping-ai-mcp-server.git\ncd webscraping-ai-mcp-server\n\n# Install dependencies\nnpm install\n\n# Run\nnpm start\n```\n\n### Configuring in Cursor\nNote: Requires Cursor version 0.45.6+\n\nThe WebScraping.AI MCP server can be configured in two ways in Cursor:\n\n1. **Project-specific Configuration** (recommended for team projects):\n   Create a `.cursor/mcp.json` file in your project directory:\n   ```json\n   {\n     \"servers\": {\n       \"webscraping-ai\": {\n         \"type\": \"command\",\n         \"command\": \"npx -y webscraping-ai-mcp\",\n         \"env\": {\n           \"WEBSCRAPING_AI_A",
+    "quality_score": 60
+  },
+  "enriched_at": "2025-11-17T18:48:22.014848"
 }

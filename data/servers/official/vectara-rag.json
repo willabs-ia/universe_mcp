@@ -10,10 +10,25 @@
   },
   "release_date": "Apr 29, 2025",
   "url": "https://www.pulsemcp.com/servers/vectara-rag",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/vectara/vectara-mcp",
+  "categories": [
+    "security",
+    "git",
+    "cloud",
+    "development",
+    "api",
+    "ai",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:17.097266",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 25,
+    "runtime": "Python",
+    "readme_excerpt": "# Vectara MCP Server\n\n![GitHub Repo stars](https://img.shields.io/github/stars/Vectara/Vectara-mcp?style=social)\n![PyPI version](https://img.shields.io/pypi/v/vectara-mcp.svg)\n![License](https://img.shields.io/pypi/l/vectara-mcp.svg)\n![Security](https://img.shields.io/badge/security-first-brightgreen)\n\n> 🔌 **Compatible with [Claude Desktop](https://claude.ai/desktop), and any other MCP Client!**\n>\n> Vectara MCP is also compatible with any MCP client\n>\n\nThe Model Context Protocol (MCP) is an open standard that enables AI systems to interact seamlessly with various data sources and tools, facilitating secure, two-way connections.\n\nVectara-MCP provides any agentic application with access to fast, reliable RAG with reduced hallucination, powered by Vectara's Trusted RAG platform, through the MCP protocol.\n\n## Installation\n\nYou can install the package directly from PyPI:\n\n```bash\npip install vectara-mcp\n```\n\n## Quick Start\n\n### Secure by Default (HTTP/SSE with Authentication)\n\n```bash\n# Start server with secure HTTP transport (DEFAULT)\npython -m vectara_mcp\n# Server running at http://127.0.0.1:8000 with authentication enabled\n```\n\n### Local Development Mode (STDIO)\n\n```bash\n# For Claude Desktop or local development (less secure)\npython -m vectara_mcp --stdio\n# ⚠️ Warning: STDIO transport is less secure. Use only for local development.\n```\n\n### Configuration Options\n\n```bash\n# Custom host and port\npython -m vectara_mcp --host 0.0.0.0 --port 8080\n\n# SSE transport mode\npython -m vect",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:47:35.259093"
 }

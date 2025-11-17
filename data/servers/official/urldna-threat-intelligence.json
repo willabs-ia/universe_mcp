@@ -7,10 +7,25 @@
   "weekly_metric": null,
   "release_date": "Jun 24, 2025",
   "url": "https://www.pulsemcp.com/servers/urldna-threat-intelligence",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/urldna/mcp",
+  "categories": [
+    "documentation",
+    "testing",
+    "security",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:49.881709",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 3,
+    "runtime": "Python",
+    "readme_excerpt": "# urlDNA MCP Server\r\n[Blog](https://medium.com/@urldna/introducing-the-urldna-mcp-server-native-threat-intelligence-for-llm-agents-6330a35dcf05)\r\n\r\n![Claude Prompt](https://github.com/urldna/mcp/blob/main/claude_prompt.png?raw=true)\r\n\r\nThe `urlDNA MCP Server` enables native tool use for security-focused LLM agents like OpenAI GPT-4.1 and Claude 3 Desktop, providing a direct interface to interact with the [urlDNA](https://urldna.io) threat intelligence platform via API.\r\n\r\n---\r\n\r\n## Installation & Setup\r\n\r\nThis project uses [uv](https://docs.astral.sh/uv/) for fast Python package management.\r\n\r\n### Prerequisites\r\n\r\nInstall uv if you haven't already:\r\n```bash\r\n# On macOS and Linux\r\ncurl -LsSf https://astral.sh/uv/install.sh | sh\r\n\r\n# On Windows\r\npowershell -c \"irm https://astral.sh/uv/install.ps1 | iex\"\r\n\r\n# Or with pip\r\npip install uv\r\n```\r\n\r\n### Quick Start\r\n\r\n1. **Clone and setup the project:**\r\n```bash\r\ngit clone <repository-url>\r\ncd urlDNA-mcp-server\r\nuv sync\r\n```\r\n\r\n2. **Run the MCP server locally (stdio mode):**\r\n```bash\r\nuv run python urldna_mcp/run.py\r\n```\r\n\r\n3. **Run the MCP server in SSE mode:**\r\n```bash\r\nuv run python urldna_mcp/server.py\r\n```\r\n\r\n### Development\r\n\r\nTo work on the project:\r\n\r\n```bash\r\n# Install development dependencies\r\nuv sync --dev\r\n\r\n# Run tests (when available)\r\nuv run pytest\r\n\r\n# Format code\r\nuv run black .\r\n\r\n# Type checking\r\nuv run mypy .\r\n\r\n# Lint code\r\nuv run flake8 .\r\n```\r\n\r\n---\r\n\r\n## Hosted MCP Server\r\n\r\nThe `urlDNA MCP` server is already ",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:47:19.192291"
 }

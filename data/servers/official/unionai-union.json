@@ -7,10 +7,18 @@
   "weekly_metric": null,
   "release_date": "Apr 10, 2025",
   "url": "https://www.pulsemcp.com/servers/unionai-union",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/unionai-oss/union-mcp",
+  "categories": [
+    "workflow",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:14.976337",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 5,
+    "readme_excerpt": "# Union MCP\n\nAn MCP server to use Union tasks, workflows, and apps as tools.\n\n## Deployment Guides\n\nUnion MCP supports both Union v1 and v2. The following guides provide instructions\nfor deploying the MCP server for each version:\n\n- [Union v1 MCP deployment](./runbooks/DEPLOYMENT_GUIDE_V1.md)\n- [Union v2 MCP deployment](./runbooks/DEPLOYMENT_GUIDE_V2.md)\n",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:47:11.910288"
 }

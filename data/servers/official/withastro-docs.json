@@ -10,10 +10,25 @@
   },
   "release_date": "Jul 12, 2025",
   "url": "https://www.pulsemcp.com/servers/withastro-docs",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/withastro/docs-mcp",
+  "categories": [
+    "documentation",
+    "testing",
+    "git",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "browser",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:29.273111",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 23,
+    "readme_excerpt": "# Astro Docs MCP Server\n\nThis is the Model Context Protocol (MCP) server for the Astro documentation, allowing AI tools such as Cursor, VS Code, Claude, ChatGPT, and Windsurf to access the latest Astro docs.\n\nMCP is a standardized way to connect language models to external tools, data, and APIs. This server allows LLMs to access the Astro documentation in a structured way, enabling them to answer questions about Astro's features, APIs, and best practices. This allows tools to use up-to-date and accurate documentation when generating code, answering questions, or providing assistance.\n\n## Usage\n\nThe Astro Docs MCP server is a remote server that doesn't require anything to be installed locally. You need to add the following settings to your MCP-compatible tool:\n\n- Name: `Astro Docs`\n- URL: `https://mcp.docs.astro.build/mcp`\n- Transport: `http`\n\n> [!NOTE]\n> This server uses the new _streamable HTTP_ transport. Some tools only support _SSE_ transport for remote servers, which is not compatible with this server. If your tool does not support streamable HTTP, you will need to use a local proxy. See the Windsurf section below for details.\n\nEach tool has its own way of adding MCP servers, so here are instructions for some popular tools:\n\n### Cursor\n\nGitHub doesn't support Cursor deep links, so open the link below in your browser to install the MCP server in Cursor:\n\n```\ncursor://anysphere.cursor-deeplink/mcp/install?name=Astro%20docs&config=eyJ1cmwiOiJodHRwczovL21jcC5kb2NzLmFzdHJvLmJ",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:48:41.684589"
 }

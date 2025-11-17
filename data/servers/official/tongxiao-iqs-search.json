@@ -7,10 +7,22 @@
   "weekly_metric": null,
   "release_date": "May 29, 2025",
   "url": "https://www.pulsemcp.com/servers/tongxiao-iqs-search",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/aliyun/alibabacloud-iqs-tongxiao-mcp-server",
+  "categories": [
+    "cloud",
+    "search",
+    "api",
+    "ai",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:41.179553",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 5,
+    "runtime": "Node.js",
+    "readme_excerpt": "# TongXiao Common Search MCP Server\n\nA Model Context Protocol (MCP) server implementation that integrates with IQS APIs, which delivers clean, accurate, diverse, and high-quality results through multiple data sources.\nFor more Information about TongXiao, please visit our [documents](https://help.aliyun.com/product/2837261.html?spm=5176.29875775.0.0.15362064NYv3s0).\n\n## Installation\n\n### NPM Installation\n```bash\nnpm install -g @tongxiao/common-search-mcp-server\n```\n\n### Running with npx\n```bash\n# run stdio server\nenv TONGXIAO_API_KEY=your-api-key npx -y @tongxiao/common-search-mcp-server\n```\n```bash\n# run sse server\nenv TONGXIAO_API_KEY=your-api-key SERVER=sse npx -y @tongxiao/common-search-mcp-server\n```\n\n\nYou can find your apikey from [ipaas.console.aliyun.com/api-key](https://ipaas.console.aliyun.com/api-key)\n\n### Running on client\nConfigure Tongxiao MCP Server directly on mainstream MCP Client.\n\n```json\n{\n    \"mcpServers\": {\n        \"tongxiao-common-search\": {\n            \"command\": \"npx\",\n            \"args\": [\n                \"-y\",\n                \"@tongxiao/common-search-mcp-server\"\n            ],\n            \"env\": {\n                \"TONGXIAO_API_KEY\": \"\"\n            }\n        }\n    }\n}\n```\n\n## Available Tools\n1. common_search\nThis tool offers enhanced real-time search capabilities for open domain networks. By utilizing optimization with large models and integrating multiple data sources, it delivers clean, accurate, diverse, and high-quality results.\n\n**Best for:**\nWhe",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:46:36.799276"
 }

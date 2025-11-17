@@ -10,10 +10,35 @@
   },
   "release_date": "May 12, 2025",
   "url": "https://www.pulsemcp.com/servers/victoriametrics-community-victoriametrics",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/victoriametrics-community/mcp-victoriametrics",
+  "categories": [
+    "documentation",
+    "testing",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:24.638955",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 88,
+    "capabilities": [
+      "Debugging your relabeling rules, downsampling and retention policy configurations",
+      "Exploring cardinality of your data and metrics usage statistics",
+      "Analyzing, tracing, prettifying and explaining your queries",
+      "Analyzing and testing your alerting and recording rules and alerts",
+      "Querying metrics and exploring data (even drawing graphs if your client supports it)",
+      "Showing parameters of your VictoriaMetrics instance",
+      "Integration with VictoriaMetrics Cloud",
+      "Listing and exporting available metrics, labels, labels values and entire series"
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "# <img width=\"25\" height=\"25\" alt=\"vm-community-icon\" src=\"https://github.com/user-attachments/assets/1c060750-370a-4440-b619-78b78c7abd7a\" /> VictoriaMetrics MCP Server\n\n[![Latest Release](https://img.shields.io/github/v/release/VictoriaMetrics-Community/mcp-victoriametrics?sort=semver&label=&filter=!*-victorialogs&logo=github&labelColor=gray&color=gray&link=https%3A%2F%2Fgithub.com%2FVictoriaMetrics-Community%2Fmcp-victoriametrics%2Freleases%2Flatest)](https://github.com/VictoriaMetrics-Community/mcp-victoriametrics/releases)\n[![Trust Score](https://archestra.ai/mcp-catalog/api/badge/quality/VictoriaMetrics-Community/mcp-victoriametrics)](https://archestra.ai/mcp-catalog/victoriametrics-community__mcp-victoriametrics)\n[![smithery badge](https://smithery.ai/badge/@VictoriaMetrics-Community/mcp-victoriametrics)](https://smithery.ai/server/@VictoriaMetrics-Community/mcp-victoriametrics)\n![License](https://img.shields.io/github/license/VictoriaMetrics-Community/mcp-victoriametrics?labelColor=green&label=&link=https%3A%2F%2Fgithub.com%2FVictoriaMetrics-Community%2Fmcp-victoriametrics%2Fblob%2Fmain%2FLICENSE)\n![Slack](https://img.shields.io/badge/Join-4A154B?logo=slack&link=https%3A%2F%2Fslack.victoriametrics.com)\n![X](https://img.shields.io/twitter/follow/VictoriaMetrics?style=flat&label=Follow&color=black&logo=x&labelColor=black&link=https%3A%2F%2Fx.com%2FVictoriaMetrics)\n![Reddit](https://img.shields.io/reddit/subreddit-subscribers/VictoriaMetrics?style=flat&label=Join&labelCo",
+    "quality_score": 60
+  },
+  "enriched_at": "2025-11-17T18:47:49.432199"
 }

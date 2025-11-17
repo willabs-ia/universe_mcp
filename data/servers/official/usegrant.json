@@ -10,10 +10,22 @@
   },
   "release_date": "Mar 8, 2025",
   "url": "https://www.pulsemcp.com/servers/usegrant",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/usegranthq/mcp-server",
+  "categories": [
+    "documentation",
+    "security",
+    "development",
+    "api",
+    "ai",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:37.097779",
-  "metadata": {}
+  "metadata": {
+    "runtime": "Node.js",
+    "readme_excerpt": "# UseGrant MCP Server\n\nThis is a [Model Context Protocol (MCP)](https://modelcontextprotocol.io/introduction) server for interacting with the UseGrant API. It provides a set of tools for managing providers, clients, tenants, and access tokens through the UseGrant platform.\n\n## Tools\n\n- **list_providers**: List all providers\n- **create_provider**: Create a new provider\n- **get_provider**: Get a provider by ID\n- **delete_provider**: Delete a provider\n- **list_clients**: List all clients for a provider\n- **create_client**: Create a new client for a provider\n- **get_client**: Get client details by provider and client ID\n- **delete_client**: Delete a client from a provider\n- **list_domains**: List all domains for a provider\n- **add_domain**: Add a domain to a provider\n- **get_domain**: Get a domain by provider and domain ID\n- **delete_domain**: Delete a domain from a provider\n- **verify_domain**: Verify a domain for a provider\n- **create_access_token**: Create a new access token for a client\n- **list_tenants**: List all tenants\n- **create_tenant**: Create a new tenant\n- **get_tenant**: Get a tenant by ID\n- **delete_tenant**: Delete a tenant\n- **list_tenant_providers**: List all providers for a tenant\n- **create_tenant_provider**: Create a new provider for a tenant\n- **get_tenant_provider**: Get a provider for a tenant\n- **delete_tenant_provider**: Delete a provider for a tenant\n- **list_tenant_provider_policies**: List all policies for a tenant provider\n- **create_tenant_provider_",
+    "quality_score": 35
+  },
+  "enriched_at": "2025-11-17T18:47:21.824818"
 }

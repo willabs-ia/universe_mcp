@@ -10,10 +10,22 @@
   },
   "release_date": "Apr 9, 2025",
   "url": "https://www.pulsemcp.com/servers/vapi",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/vapiai/mcp-server",
+  "categories": [
+    "security",
+    "development",
+    "api",
+    "ai",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:31.417374",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 28,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Vapi MCP Server\n\n[![smithery badge](https://smithery.ai/badge/@VapiAI/vapi-mcp-server)](https://smithery.ai/server/@VapiAI/vapi-mcp-server)\n\nThe Vapi [Model Context Protocol](https://modelcontextprotocol.com/) server allows you to integrate with Vapi APIs through function calling.\n\n<a href=\"https://glama.ai/mcp/servers/@VapiAI/mcp-server\">\n  <img width=\"380\" height=\"200\" src=\"https://glama.ai/mcp/servers/@VapiAI/mcp-server/badge\" alt=\"Vapi Server MCP server\" />\n</a>\n\n## Claude Desktop Setup\n\n1. Open `Claude Desktop` and press `CMD + ,` to go to `Settings`.\n2. Click on the `Developer` tab.\n3. Click on the `Edit Config` button.\n4. This will open the `claude_desktop_config.json` file in your file explorer.\n5. Get your Vapi API key from the Vapi dashboard (<https://dashboard.vapi.ai/org/api-keys>).\n6. Add the following to your `claude_desktop_config.json` file. See [here](https://modelcontextprotocol.io/quickstart/user) for more details.\n7. Restart the Claude Desktop after editing the config file.\n\n### Local Configuration\n\n```json\n{\n  \"mcpServers\": {\n    \"vapi-mcp-server\": {\n      \"command\": \"npx\",\n      \"args\": [\n          \"-y\",\n          \"@vapi-ai/mcp-server\"\n      ],\n      \"env\": {\n        \"VAPI_TOKEN\": \"<your_vapi_token>\"\n      }\n    }\n  }\n}\n```\n\n### Remote Configuration\n\n```json\n{\n  \"mcpServers\": {\n    \"vapi-mcp\": {\n      \"command\": \"npx\",\n      \"args\": [\n        \"mcp-remote\",\n        \"https://mcp.vapi.ai/mcp\",\n        \"--header\",\n        \"Authorization: Bearer ${VAPI_TOKE",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:47:27.842438"
 }

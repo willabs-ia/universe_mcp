@@ -10,10 +10,25 @@
   },
   "release_date": "May 3, 2025",
   "url": "https://www.pulsemcp.com/servers/yelp",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/yelp/yelp-mcp",
+  "categories": [
+    "documentation",
+    "testing",
+    "git",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:59.607048",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 23,
+    "runtime": "Python",
+    "readme_excerpt": "# **MCP Server for Yelp Fusion AI**\n\n[Yelp Fusion AI](https://business.yelp.com/data/products/fusion-ai/) brings conversational intelligence to your applications, enabling users to ask natural language questions and receive real-time, contextually relevant answers powered by Yelp’s latest business data and reviews.\n\n### Fusion AI Capabilities\n\n* **Next generation search & discovery** – Search with natural language, discover, and connect with contextually relevant businesses. *(\"Find the best tacos in the Bay Area\")*\n* **Multi-turn conversations** – Support back-and-forth interactions and refine queries with follow-up questions. *(\"Which of the options have open air seating?\")*\n* **Direct business queries** – Ask targeted questions about businesses without needing to perform a prior search. *(\"Does Ricky’s Taco allow pets?\")*\n* **Conversational restaurant reservations** – Explore availability and book a table at restaurants through natural language interactions. (Please note that this is available on **request only**. To enable reservations, please [contact us](https://business.yelp.com/data/products/fusion-ai/?utm_source=GitHub&utm_medium=Readme#form).) *(\"Reserve a table for 4 tomorrow at 8PM at Ricky’s\")*\n\n### Tools:\n\nThis server exposes one primary tool:\n\n* **yelp_agent**: Designed for agent-to-agent communication. This tool handles natural language requests about local businesses, providing both natural language responses and structured business data. It supports follow-u",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:48:51.879381"
 }

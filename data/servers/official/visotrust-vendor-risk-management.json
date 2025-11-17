@@ -7,10 +7,23 @@
   "weekly_metric": null,
   "release_date": "May 16, 2025",
   "url": "https://www.pulsemcp.com/servers/visotrust-vendor-risk-management",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/visotrust/viso-mcp-server",
+  "categories": [
+    "documentation",
+    "testing",
+    "api",
+    "ai",
+    "monitoring",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:34.402851",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 6,
+    "runtime": "Rust",
+    "readme_excerpt": "# VISO TRUST MCP Server\n\nA Model Context Protocol (MCP) server for integrating VISO TRUST API capabilities with AI assistants.\n\n## Requirements\n\n- Java 21+\n- Gradle\n- Docker (optional for containerized deployment)\n- MCP Inspector (optional for testing)\n\n## Configuration\n\n### VISO TRUST API Configuration\n\nThe following properties can be configured for the VISO TRUST API:\n\n- `visotrust.api.base-url`: The base URL for the VISO TRUST API (default: http://localhost:8080)\n- `visotrust.api.token`: Your API token from the VISO TRUST platform (required)\n- `visotrust.api.timeout`: API request timeout in milliseconds (default: 30000)\n- `visotrust.api.connect-timeout`: API connection timeout in milliseconds (default: 5000)\n\nFor information on how to generate an API token for the `visotrust.api.token` environment variable, see the [VISO TRUST support documentation](https://support.visotrust.com/article/olo26aapun-generateaccesstoken).\n\n### Application Profiles\n\nThis application supports Spring Boot profiles to enable different configurations for different deployment scenarios.\n\n#### Remote Profile\n\nThe `remote` profile is specifically designed for **remote MCP support using Server-Sent Events (SSE)**. This profile configures the application to work optimally in distributed environments where the MCP server needs to communicate with remote clients over HTTP/SSE connections.\n\n**Key differences in the remote profile:**\n- Configured for SSE-based communication instead of standard I/O\n- Optimi",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:48:01.072360"
 }

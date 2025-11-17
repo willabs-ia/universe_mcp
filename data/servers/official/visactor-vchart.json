@@ -7,10 +7,24 @@
   "weekly_metric": null,
   "release_date": "Aug 20, 2025",
   "url": "https://www.pulsemcp.com/servers/visactor-vchart",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/visactor/vchart-mcp-server",
+  "categories": [
+    "documentation",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:19.930989",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 43,
+    "runtime": "Node.js",
+    "readme_excerpt": "<div align=\"center\">\n  <a href=\"https://github.com/VisActor#gh-light-mode-only\" target=\"_blank\">\n    <img alt=\"VisActor Logo\" width=\"200\" src=\"https://github.com/VisActor/.github/blob/main/profile/logo_500_200_light.svg\"/>\n  </a>\n  <a href=\"https://github.com/VisActor#gh-dark-mode-only\" target=\"_blank\">\n    <img alt=\"VisActor Logo\" width=\"200\" src=\"https://github.com/VisActor/.github/blob/main/profile/logo_500_200_dark.svg\"/>\n  </a>\n</div>\n\n<div align=\"center\">\n  <h1>vchart-mcp-server</h1>\n</div>\n\n<div align=\"center\">\n\nA Model Context Protocol (MCP) server for the [@visactor/vchart](https://github.com/VisActor/VChart) that enables AI assistants to generate interactive charts and visualizations.\n\n[![MCP Server](https://badge.mcpx.dev?type=server 'MCP Server')](https://modelcontextprotocol.io/)\n[![npm Version](https://img.shields.io/npm/v/@visactor/vchart-mcp-server.svg)](https://www.npmjs.com/package/@visactor/vchart-mcp-server)\n[![npm License](https://img.shields.io/npm/l/@visactor/vchart-mcp-server.svg)](https://www.npmjs.com/package/@visactor/vchart-mcp-server)\n[![smithery badge](https://smithery.ai/badge/@visactor/vchart-mcp-server)](https://smithery.ai/server/@visactor/vchart-mcp-server)\n\n</div>\n\n<div align=\"center\">\n\nEnglish | [简体中文](./README.zh-CN.md)\n\n</div>\n\n## Table of Contents\n\n- [Features](#features)\n  - [Chart Output Formats](#chart-output-formats)\n  - [Common Parameters Supported by All Charts](#common-parameters-supported-by-all-charts)\n  - [Supported Chart Type",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:47:56.589428"
 }

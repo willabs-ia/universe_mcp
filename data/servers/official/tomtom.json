@@ -10,10 +10,25 @@
   },
   "release_date": "Jul 7, 2025",
   "url": "https://www.pulsemcp.com/servers/tomtom",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/tomtom-international/tomtom-mcp",
+  "categories": [
+    "workflow",
+    "testing",
+    "security",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:42:38.063253",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 34,
+    "runtime": "Node.js",
+    "readme_excerpt": "# TomTom MCP Server\n\n[![NPM Version](https://img.shields.io/npm/v/@tomtom-org/tomtom-mcp.svg)](https://www.npmjs.com/package/@tomtom-org/tomtom-mcp)\n[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)\n\nThe **TomTom MCP Server** simplifies geospatial development by providing seamless access to TomTom’s location services, including search, routing, traffic and static maps data. It enables easy integration of precise and accurate geolocation data into AI workflows and development environments.\n\n## Demo\n\n![TomTom MCP Demo](./images/claude_demo.gif)\n\n## Table of Contents\n\n- [Demo](#demo)\n- [Security Notice](#security-notice)\n- [Quick Start](#quick-start)\n  - [Prerequisites](#prerequisites)\n  - [Installation](#installation)\n  - [Configuration](#configuration)\n  - [Usage](#usage)\n- [Integration Guides](#integration-guides)\n- [Available Tools](#available-tools)\n  - [Orbis equivalents (optional backend)](#orbis-equivalents-optional-backend)\n  - [How dynamic map tool works](#how-dynamic-map-tool-works)\n- [Contributing \\& Local Development](#contributing--local-development)\n  - [Setup](#setup)\n  - [Testing](#testing)\n  - [Testing Requirements](#testing-requirements)\n  - [Project Structure](#project-structure)\n- [Troubleshooting](#troubleshooting)\n  - [Native Dependency Issues](#native-dependency-issues)\n  - [Dynamic Map Tool Issues](#dynamic-map-tool-issues)\n  - [API Key Issues](#api-key-issues)\n  - [Test Failures](#test-f",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:46:31.907772"
 }

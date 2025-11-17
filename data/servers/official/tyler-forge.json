@@ -7,10 +7,24 @@
   "weekly_metric": null,
   "release_date": "Oct 3, 2025",
   "url": "https://www.pulsemcp.com/servers/tyler-forge",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/tyler-technologies-oss/forge-mcp",
+  "categories": [
+    "documentation",
+    "testing",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:47:31.127237",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 3,
+    "runtime": "Rust",
+    "readme_excerpt": "# Tyler Forge™ MCP Server\n\nGet instant access to Tyler Forge™ web component documentation directly in AI clients. Ask questions, generate code examples, and explore design system details.\n\n## What You Get\n\n**Tyler Forge™** is Tyler Technologies' comprehensive web component library and design system. This tool brings that documentation into your AI tools so you can:\n\n- **Discover components** - Find the right component for your needs\n- **Generate code** - Get framework-specific examples (Angular, React, Vue, Svelte)\n- **Validate APIs** - Verify that component properties, attributes, events, and other APIs are correctly used\n- **Access design tokens** - Use colors, spacing, typography consistently\n- **Learn best practices** - Get implementation guidance and accessibility tips\n\n## How does it work?\n\nThis MCP server provides a set of declarative resources and tools for accessing Tyler Forge documentation. It uses a progressive disclosure model to\nminimize complexity while maximizing accuracy.\n\n### Context-Aware\n\nWhen you start the MCP server in your AI client, it automatically detects the currently installed version of Tyler Forge (if any) in your project. This\nallows it to provide version-specific documentation. If no version is detected, it defaults to the latest stable release that is\nbundled within this MCP server.\n\n### Progressive Disclosure\n\nThe MCP server is designed to minimize cognitive load by exposing only the most essential resources and tools upfront. More detailed i",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:47:02.232477"
 }

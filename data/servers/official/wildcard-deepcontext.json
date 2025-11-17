@@ -10,10 +10,25 @@
   },
   "release_date": "Sep 19, 2025",
   "url": "https://www.pulsemcp.com/servers/wildcard-deepcontext",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/wildcard-official/deepcontext-mcp",
+  "categories": [
+    "testing",
+    "git",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:19.248325",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 241,
+    "runtime": "Node.js",
+    "readme_excerpt": "<p align=\"center\">\n  <img alt=\"DeepContext Logo\" src=\"https://github.com/user-attachments/assets/6dd1b4a4-5ce3-41cb-acc0-b3eed32d5f8e\" width=\"500\" height=\"296\">\n</p>\n\n<h1 align=\"center\">Smarter Context for Large Codebases</h1>\n\n<p align=\"center\">\n  <a href=\"https://github.com/Wildcard-Official/deepcontext-mcp/stargazers\">\n    <img src=\"https://img.shields.io/github/stars/Wildcard-Official/deepcontext-mcp?style=social\" alt=\"GitHub stars\">\n  </a>\n  <a href=\"https://www.npmjs.com/package/@wildcard-ai/deepcontext\">\n    <img src=\"https://img.shields.io/npm/v/@wildcard-ai/deepcontext\" alt=\"NPM Version\">\n  </a>\n  <a href=\"https://join.slack.com/t/wildcard-community/shared_invite/zt-3dslre0yd-H8M_Ftsf8AJoB6nP~wVIpg\">\n    <img src=\"https://img.shields.io/badge/Slack-join-blueviolet?logo=slack\" alt=\"Slack Community\">\n  </a>\n  <a href=\"https://x.com/wildcard_ai\">\n    <img src=\"https://img.shields.io/twitter/follow/wildcard_ai?style=social\" alt=\"Twitter Follow\">\n  </a>\n</p>\n\nDeepContext is an MCP server that adds symbol-aware semantic search to Codex CLI, Claude Code, and other agents, giving them more precise context of even the largest codebases. Currently supports Typescript and Python.\n\n## Quickstart\n\n1. Visit the Wildcard [DeepContext](https://wild-card.ai/deepcontext) page\n2. Click \"Generate API Key\"\n3. Copy your API key\n4. Paste installation command for your MCP client\n5. Type `index this codebase` to index the current directory\n\n**Claude Code:**\n```bash\nclaude mcp add deepcontext",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T18:48:34.030238"
 }

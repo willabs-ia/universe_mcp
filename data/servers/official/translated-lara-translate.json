@@ -10,10 +10,22 @@
   },
   "release_date": "Apr 1, 2025",
   "url": "https://www.pulsemcp.com/servers/translated-lara-translate",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/translated/lara-mcp",
+  "categories": [
+    "git",
+    "development",
+    "api",
+    "ai",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:30.152522",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 76,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Lara Translate MCP Server\n\nA Model Context Protocol (MCP) Server for [Lara Translate](https://laratranslate.com/translate) API, enabling powerful translation capabilities with support for language detection, context-aware translations and translation memories.\n\n[![License](https://img.shields.io/github/license/translated/lara-mcp.svg)](https://github.com/translated/lara-mcp/blob/main/LICENSE)\n[![Docker Pulls](https://img.shields.io/docker/pulls/translatednet/lara-mcp.svg)](https://hub.docker.com/r/translatednet/lara-mcp)\n[![npm downloads](https://img.shields.io/npm/dm/@translated/lara-mcp.svg)](https://www.npmjs.com/package/@translated/lara-mcp)\n\n## 📚 Table of Contents\n- 📖 [Introduction](#-introduction)\n- 🛠 [Available Tools](#-available-tools)\n- 🚀 [Getting Started](#-getting-started)\n  - 📋 [HTTP Server](#http-server-)\n  - 🔌 [STDIO Server](#stdio-server-%EF%B8%8F)\n- 🧪 [Verify Installation](#-verify-installation)\n- 💻 [Popular Clients that supports MCPs](#-popular-clients-that-supports-mcps)\n- 🆘 [Support](#-support)\n\n## 📖 Introduction\n\n<details>\n<summary><strong>What is MCP?</strong></summary>\n\nModel Context Protocol (MCP) is an open standardized communication protocol that enables AI applications to connect with external tools, data sources, and services. Think of MCP like a USB-C port for AI applications - just as USB-C provides a standardized way to connect devices to various peripherals, MCP provides a standardized way to connect AI models to different data sources and too",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:46:44.247095"
 }

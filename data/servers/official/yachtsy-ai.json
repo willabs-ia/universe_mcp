@@ -7,10 +7,35 @@
   "weekly_metric": null,
   "release_date": "Oct 19, 2025",
   "url": "https://www.pulsemcp.com/servers/yachtsy-ai",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/yachtsyai/yachtsy-mcp-server",
+  "categories": [
+    "git",
+    "search",
+    "development",
+    "api",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:31.471477",
-  "metadata": {}
+  "metadata": {
+    "capabilities": [
+      "Make, model, and class",
+      "Boat selection and recommendations",
+      "**General Boat Expert (Small Talk Agent)** - General sailing and boating questions",
+      "Yacht maintenance and systems",
+      "**Deep Research Agent** - Comprehensive yacht market analysis",
+      "**Listings Agent** - Search 25,000+ boat listings with advanced filtering",
+      "Year, length, and specifications",
+      "Bluewater cruising preparation",
+      "Price range and currency",
+      "Sailing techniques and best practices",
+      "Location (city, country, region)",
+      "Broker and dealer information"
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "# Yachtsy: MCP for Yacht Marketplace Intelligence\n\n[![smithery badge](https://smithery.ai/badge/@YachtsyAI/yachtsy-mcp-server)](https://smithery.ai/server/@YachtsyAI/yachtsy-mcp-server)\n\nYachtsy AI\n\nThe Yachtsy MCP server provides AI-powered yacht and boat marketplace intelligence by integrating with the Yachtsy Agent API. Access 25,000+ boat listings, get expert sailing advice, and find your perfect vessel within Claude Desktop, Cursor, and other popular MCP clients.\n\n## Features\n\n✅ **Intelligent Agent Routing** - Automatically routes your queries to the best specialized agent:\n   - **Listings Agent** - Search 25,000+ boat listings with advanced filtering\n   - **General Boat Expert (Small Talk Agent)** - General sailing and boating questions\n   - **Deep Research Agent** - Comprehensive yacht market analysis\n\n✅ **Comprehensive Boat Listings** - Search and filter by:\n   - Make, model, and class\n   - Price range and currency\n   - Location (city, country, region)\n   - Year, length, and specifications\n   - Broker and dealer information\n\n✅ **Expert Sailing Knowledge** - Get advice on:\n   - Boat selection and recommendations\n   - Bluewater cruising preparation\n   - Sailing techniques and best practices\n   - Yacht maintenance and systems\n\n## Get Your Yachtsy API Key\n\nTo use Yachtsy MCP, you need to:\n\n1. Sign up for a free account at [Yachtsy.ai](https://www.yachtsy.ai/signup)\n2. Navigate to **API Keys** in your dashboard\n3. Generate a new API key\n4. Use this API key in your configur",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:48:46.581410"
 }

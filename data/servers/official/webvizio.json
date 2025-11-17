@@ -10,10 +10,23 @@
   },
   "release_date": "Sep 17, 2025",
   "url": "https://www.pulsemcp.com/servers/webvizio",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/webvizio/mcp",
+  "categories": [
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "browser",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:59.088609",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 4,
+    "runtime": "Node.js",
+    "readme_excerpt": "# About Webvizio\n[Webvizio](https://webvizio.com/developers/) streamlines communication between end-users, non-technical teams, and developers. \n\nOur easy-to-use [browser extension](https://chromewebstore.google.com/detail/webvizio-website-feedback/dpgepcgkiaafcpjnficbigmdmeabhndk) lets you capture visual feedback and bug reports directly on a web page. It then automatically gathers all relevant data and converts it into actionable, context-enriched development tasks for your AI coding agents. \n\nFrom non-technical product feedback to bug-free code in seconds, not days. Learn more about Webvizio for developers [here](https://webvizio.com/developers/). \n\n## Webvizio MCP Server\n\nA TypeScript-based Model Context Protocol (MCP) server that provides secure and structured access to the Webvizio API. This server enables MCP clients to seamlessly interact with Webvizio projects and development tasks through a standardized interface.\n\nWebvizio MCP Server - Automatically converts feedback and bug reports from websites and web apps into actionable, context-enriched developer tasks. Delivered straight to your AI coding tools, the Webvizio MCP Server ensures your AI agent has all the data it needs to solve tasks with speed and accuracy.\n\n## 📋 Available Tools\n\n| Tool | Method | Description |\n|------|--------|-------------|\n| `get_projects` | GET | Fetch all available Webvizio projects |\n| `get_current_project` | GET | Get details of the currently selected project |\n| `set_project` | POST | ",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:48:24.866407"
 }

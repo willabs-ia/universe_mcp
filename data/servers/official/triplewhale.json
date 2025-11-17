@@ -10,10 +10,20 @@
   },
   "release_date": "Feb 27, 2025",
   "url": "https://www.pulsemcp.com/servers/triplewhale",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/triple-whale/mcp-server-triplewhale",
+  "categories": [
+    "monitoring",
+    "api",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:45.779399",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 3,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Triplewhale MCP Server\n\n[![npm version](https://img.shields.io/npm/v/@triplewhale/mcp-server-triplewhale)](https://www.npmjs.com/package/@triplewhale/mcp-server-triplewhale)\n[![npm downloads](https://img.shields.io/npm/dt/@triplewhale/mcp-server-triplewhale)](https://www.npmjs.com/package/@triplewhale/mcp-server-triplewhale)\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\n[![smithery badge](https://smithery.ai/badge/triplewhale)](https://smithery.ai/server/triplewhale)\n\nModel Context Protocol (MCP) is a [new, standardized protocol](https://modelcontextprotocol.io/introduction) for managing context between large language models (LLMs) and external systems. In this repository, we provide an installer as well as an MCP Server for [Triplewhale](https://triplewhale.com).\n\nThis lets you use Claude Desktop, or any MCP Client, to use natural language to accomplish things with Triplewhale, e.g.:\n\n- `Was my net profit positive last month?.`\n- `Rank countries by order revenue and new users for the last quarter..`\n- `Give me ads ROAS over the last 7 days and break it out by attribution model?`\n\n# Claude Setup\n\n### Installing via Smithery\n\nTo install Triplewhale MCP Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/triplewhale):\n\n```bash\nnpx -y @smithery/cli install triplewhale --client claude\n```\n\n## Requirements\n\n- Node.js >= v18.0.0\n- Claude Desktop\n- Triplewhale API key - you can generate one",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:46:46.847668"
 }

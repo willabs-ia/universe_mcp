@@ -10,10 +10,22 @@
   },
   "release_date": "May 22, 2025",
   "url": "https://www.pulsemcp.com/servers/waystation-ai",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/waystation-ai/mcp",
+  "categories": [
+    "documentation",
+    "security",
+    "development",
+    "api",
+    "ai",
+    "monitoring"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:43:45.818836",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 35,
+    "readme_excerpt": "# What is WayStation\n<img src=\"https://waystation.ai/images/logo.svg\" width=\"50\" align=\"left\"/> [WayStation](https://waystation.ai) connects Claude Desktop, ChatGPT and any MCP host with the productivity tools you use daily such as Notion, Monday, Airtable, Jira etc. through a no-code, secure integration hub. \n\n***The original local WayStation MCP server has been deprecated in favor of the new remote MCP server hosted at https://waystation.ai/mcp. Please refer to the new WayStation MCP server documentation here***\n\n## Overview\nWayStation MCP server is a universal remote MCP server that seamlessly connects Claude (and other clients) to a broad range of productivity tools, including Notion, Monday, AirTable, etc.\n\n- WayStation MCP supports both Streamable HTTPS and SSE transports\n- The default endpoint is https://waystation.ai/mcp. It does transport negotiation and authorization if necessary\n- WayStation also provides preauthenticated individual endpoints like https://waystation.ai/mcp/Iddq66dIdkfARDNb3K. Any registered user can get one in their dashboard at https://waystation.ai/dashboard\n\n## Supported providers\n- WayStation supports the following productivity apps: [Notion](https://waystation.ai/connect/notion), [Monday](https://waystation.ai/connect/monday), [Asana](https://waystation.ai/connect/asana), [Linear](https://waystation.ai/connect/linear), [Atlassian JIRA/Confluence](https://waystation.ai/connect/atlassian), [Slack](https://waystation.ai/connect/slack), [Teams](ht",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:48:06.170681"
 }

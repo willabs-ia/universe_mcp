@@ -7,10 +7,23 @@
   "weekly_metric": null,
   "release_date": "Jan 23, 2025",
   "url": "https://www.pulsemcp.com/servers/verodat",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/verodat/verodat-mcp-server",
+  "categories": [
+    "security",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "data"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:44:55.070082",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 3,
+    "runtime": "Node.js",
+    "readme_excerpt": "[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/verodat-verodat-mcp-server-badge.png)](https://mseep.ai/app/verodat-verodat-mcp-server)\n\n# Verodat MCP Server \n[![MCP](https://img.shields.io/badge/MCP-Server-blue.svg)](https://github.com/modelcontextprotocol)\n[![smithery badge](https://smithery.ai/badge/@Verodat/verodat-mcp-server)](https://smithery.ai/server/@Verodat/verodat-mcp-server)\n\n## Overview\nA Model Context Protocol (MCP) server implementation for [Verodat](https://verodat.io), enabling seamless integration of Verodat's data management capabilities with AI systems like Claude Desktop.\n\n![image](https://github.com/user-attachments/assets/ec26c3e1-077f-46bb-915d-690cfde0833e)\n\n# Verodat MCP Server\n\nThis repository contains a Model Context Protocol (MCP) server implementation for Verodat, allowing AI models to interact with Verodat's data management capabilities through well-defined tools.\n\n## Overview\n\nThe Verodat MCP Server provides a standardized way for AI models to access and manipulate data in Verodat. It implements the Model Context Protocol specification, providing tools for data consumption, design, and management.\n\n## Tool Categories\n\nThe server is organized into three main tool categories, each offering a progressive set of capabilities:\n\n### 1. Consume (8 tools)\n\nThe base category focused on data retrieval operations:\n\n* `get-accounts`: Retrieve available accounts\n* `get-workspaces`: List workspaces within an account\n* `get-datasets`: List dataset",
+    "quality_score": 45
+  },
+  "enriched_at": "2025-11-17T18:47:44.674349"
 }

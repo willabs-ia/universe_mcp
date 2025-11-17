@@ -7,10 +7,38 @@
   "weekly_metric": null,
   "release_date": "May 2, 2025",
   "url": "https://www.pulsemcp.com/servers/weatherxm-pro",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/weatherxm/weatherxm-pro-mcp",
+  "categories": [
+    "testing",
+    "git",
+    "search",
+    "development",
+    "api",
+    "ai",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:30.087031",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 7,
+    "capabilities": [
+      "Get forecast performance (FACT) for a station and variable",
+      "Get hyperlocal forecast for a station and variable",
+      "Get forecast ranking (FACT) for a station",
+      "Get stations near a location (latitude, longitude, radius)",
+      "Get the latest observation for a specific station",
+      "Get all available stations",
+      "Get historical observations for a station on a specific date",
+      "Get stations in a specific H3 cell",
+      "Get stations within a bounding box (min/max latitude and longitude)",
+      "Search for H3 cells by region name",
+      "Get weather forecast (daily or hourly) for a specific H3 cell"
+    ],
+    "runtime": "Node.js",
+    "readme_excerpt": "# WeatherXM PRO MCP Server\n\nAn MCP server implementation exposing the WeatherXM PRO APIs as MCP tools, allowing clients to access weather station data, observations, and forecasts through the MCP protocol.\n\n## Features\n\n- Get stations near a location (latitude, longitude, radius)\n- Get stations within a bounding box (min/max latitude and longitude)\n- Get all available stations\n- Get the latest observation for a specific station\n- Get historical observations for a station on a specific date\n- Search for H3 cells by region name\n- Get stations in a specific H3 cell\n- Get weather forecast (daily or hourly) for a specific H3 cell\n- Get hyperlocal forecast for a station and variable\n- Get forecast performance (FACT) for a station and variable\n- Get forecast ranking (FACT) for a station\n\n## Prerequisites\n\n- Node.js and npm installed\n- A valid WeatherXM PRO API key\n\n## Configuration\n\nClone the repository to your local machine.\n\n```bash\ngit clone https://github.com/WeatherXM/weatherxm-pro-mcp.git\n```\n\n## Installation\n\nAfter cloning the repository, you need to install the dependencies and build the project before running the MCP server.\n\n```bash\nnpm install\nnpm run build\n```\n\n## Server Configuration for MCP Clients\n\nThis is the common configuration for MCP clients such as Claude Desktop, Cursor, Windsurf Editor, VSCode and plugins such as RooCode and Cline.\n\n```json\n{\n  \"mcpServers\": {\n    \"weatherxm-pro\": {\n      \"command\": \"npx\",\n      \"args\": [\n        \"-y\",\n        \"path to mcp\"\n  ",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T18:48:11.238378"
 }

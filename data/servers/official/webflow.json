@@ -10,10 +10,26 @@
   },
   "release_date": "Feb 19, 2025",
   "url": "https://www.pulsemcp.com/servers/webflow",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/webflow/mcp-server",
+  "categories": [
+    "documentation",
+    "security",
+    "git",
+    "development",
+    "api",
+    "ai",
+    "monitoring",
+    "data",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:25:31.387978",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 86,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Webflow's MCP server\n\nA Node.js server implementing Model Context Protocol (MCP) for Webflow using the [Webflow JavaScript SDK](https://github.com/webflow/js-webflow-api). Enable AI agents to interact with Webflow APIs. Learn more about Webflow's Data API in the [developer documentation](https://developers.webflow.com/data/reference).\n\n[![npm shield](https://img.shields.io/npm/v/webflow-mcp-server)](https://www.npmjs.com/package/webflow-mcp-server)\n![Webflow](https://img.shields.io/badge/webflow-%23146EF5.svg?style=for-the-badge&logo=webflow&logoColor=white)\n\n## Prerequisites\n\n- [Node.js](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)\n- [NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)\n- [A Webflow Account](https://webflow.com/signup)\n\n## 🚀 Remote installation\n\nGet started by installing Webflow's remote MCP server. The remote server uses OAuth to authenticate with your Webflow sites, and a companion app that syncs your live canvas with your AI agent.\n\n### Requirements\n\n- Node.js 22.3.0 or higher\n\n> Note: The MCP server currently supports Node.js 22.3.0 or higher. If you run into version issues, see the [Node.js compatibility guidance.](https://developers.webflow.com/data/v2.0.0/docs/ai-tools#nodejs-compatibility)\n\n### Cursor\n\n#### Add MCP server to Cursor\n\n1. Go to `Settings → Cursor Settings → MCP & Integrations`.\n2. Under MCP Tools, click `+ New MCP Server`.\n3. Paste the following configuration into `.cursor/mcp.json` (or add the",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:48:18.685130"
 }

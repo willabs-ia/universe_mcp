@@ -7,10 +7,27 @@
   "weekly_metric": null,
   "release_date": "Apr 15, 2025",
   "url": "https://www.pulsemcp.com/servers/trustasia-myssl",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/trustasia-com/myssl-mcp-server-go",
+  "categories": [
+    "testing",
+    "security",
+    "development",
+    "api",
+    "ai",
+    "filesystem"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:46:19.262129",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 2,
+    "capabilities": [
+      "**Domain Check Tool**: Query information about domains to ensure secure HTTPS deployments",
+      "**Health Check Tool**: Verify the MySSL service is operational",
+      "**AI Client Integration**: Seamlessly integrates with compatible AI clients via the MCP protocol"
+    ],
+    "readme_excerpt": "\n# myssl-mcp-server\n\nAn MCP server implementation that provides domain and IP security checking capabilities through the MySSL API.\n\n## Features\n\n- **Domain Check Tool**: Query information about domains to ensure secure HTTPS deployments\n- **Health Check Tool**: Verify the MySSL service is operational\n- **AI Client Integration**: Seamlessly integrates with compatible AI clients via the MCP protocol\n\n## Requirements\n\n- MySSL API credentials (AccessKey and SecretKey)\n- Compatible AI client that supports MCP servers\n\n## Installation\n\n1. Download the appropriate release for your platform from the [Releases page](../../releases)\n2. Extract the package\n3. Set your MySSL API credentials as environment variables: \n```json\n{\n  \"AccessKey\": \"ak_name\",\n  \"SecretKey\": \"sk_value\"\n}\n```\n4. The following authorizations are available and are valid for 1 month:  \n`msp-test-pub-2,6e01b7c975b23f87b6b71a7822fa330250997cc2e1b69f3db4638e2a57a0b0a7`\n## Registering with AI Client\n\nTo use this MCP server, you need to register it with your AI client:\n\n1. Open your AI client's plugin/extension management interface\n2. Add a new MCP server with:\n- Name: `myssl-mcp-server`\n- Version: `1.0.0`\n- Command: Path to the executable\n- Working Directory: Where you extracted the files\n\n## Usage\n\nOnce registered with your AI client, you can use the following tools:\n\n### domain_check\nCheck information about a domain or IP.\n\nExample prompt in your AI client: \n<p align='center'>\n  <img src='./resource/example1.png' wid",
+    "quality_score": 55
+  },
+  "enriched_at": "2025-11-17T18:46:49.480166"
 }

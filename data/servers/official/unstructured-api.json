@@ -7,10 +7,20 @@
   "weekly_metric": null,
   "release_date": "Mar 15, 2025",
   "url": "https://www.pulsemcp.com/servers/unstructured-api",
-  "source_url": null,
-  "categories": [],
+  "source_url": "https://github.com/unstructured-io/uns-mcp",
+  "categories": [
+    "workflow",
+    "api",
+    "ai"
+  ],
   "tags": [],
   "last_updated": null,
   "scraped_at": "2025-11-17T03:45:19.332065",
-  "metadata": {}
+  "metadata": {
+    "github_stars": 37,
+    "runtime": "Node.js",
+    "readme_excerpt": "# Unstructured API MCP Server\n\nAn MCP server implementation for interacting with the Unstructured API. This server provides tools to list sources and workflows.\n\n## Available Tools\n\n| Tool                                | Description                                                                                                      |\n|-------------------------------------|------------------------------------------------------------------------------------------------------------------|\n| `list_sources`                      | Lists available sources from the Unstructured API.                                                               |\n| `get_source_info`                   | Get detailed information about a specific source connector.                                                      |\n| `create_source_connector`           | Create a source connector.)                                                                                      |\n| `update_source_connector`           | Update an existing source connector by params.                                                                   |\n| `delete_source_connector`           | Delete a source connector by source id.                                                                          |\n| `list_destinations`                 | Lists available destinations from the Unstructured API.                                                          |\n| `get_destination_info`              | Get detailed info about a specific des",
+    "quality_score": 50
+  },
+  "enriched_at": "2025-11-17T18:47:14.317464"
 }
