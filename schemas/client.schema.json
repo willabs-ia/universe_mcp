@@ -1,0 +1,55 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "MCP Client",
+  "description": "Schema for MCP Client data from PulseMCP",
+  "type": "object",
+  "required": ["id", "name", "url", "scraped_at"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique identifier (slug from URL)"
+    },
+    "name": {
+      "type": "string",
+      "description": "Client name"
+    },
+    "provider": {
+      "type": "string",
+      "description": "Developer or organization name"
+    },
+    "description": {
+      "type": "string",
+      "description": "Brief description of the client"
+    },
+    "url": {
+      "type": "string",
+      "format": "uri",
+      "description": "PulseMCP client page URL"
+    },
+    "source_url": {
+      "type": "string",
+      "format": "uri",
+      "description": "Source repository or download URL"
+    },
+    "platforms": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": ["web", "desktop", "mobile", "cli", "other"]
+      },
+      "description": "Supported platforms"
+    },
+    "categories": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Client categories"
+    },
+    "scraped_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Timestamp when data was scraped"
+    }
+  }
+}

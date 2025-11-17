@@ -1,0 +1,52 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "MCP Use Case",
+  "description": "Schema for MCP Use Case data from PulseMCP",
+  "type": "object",
+  "required": ["id", "title", "url", "scraped_at"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique identifier (slug from URL)"
+    },
+    "title": {
+      "type": "string",
+      "description": "Use case title"
+    },
+    "description": {
+      "type": "string",
+      "description": "Detailed description of the use case"
+    },
+    "url": {
+      "type": "string",
+      "format": "uri",
+      "description": "PulseMCP use case page URL"
+    },
+    "servers_used": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "MCP servers mentioned in this use case"
+    },
+    "clients_used": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "MCP clients mentioned in this use case"
+    },
+    "categories": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Use case categories"
+    },
+    "scraped_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Timestamp when data was scraped"
+    }
+  }
+}
