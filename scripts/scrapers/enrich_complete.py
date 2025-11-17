@@ -114,12 +114,15 @@ class CompleteEnricher:
         if star_elem:
             star_text = star_elem.get_text() if hasattr(star_elem, 'get_text') else str(star_elem)
             # Extract number (e.g., "72.7k" -> 72700)
-            match = re.search(r'([\d.]+)\s*([kK])?', star_text)
+            match = re.search(r'(\d+\.?\d*)\s*([kK])?', star_text)
             if match:
-                num = float(match.group(1))
-                if match.group(2):  # 'k' or 'K'
-                    num *= 1000
-                return int(num)
+                try:
+                    num = float(match.group(1))
+                    if match.group(2):  # 'k' or 'K'
+                        num *= 1000
+                    return int(num)
+                except (ValueError, AttributeError):
+                    pass
         return None
 
     def extract_github_owner_repo(self, url: str) -> Optional[tuple]:
